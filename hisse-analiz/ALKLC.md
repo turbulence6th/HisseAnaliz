@@ -8,9 +8,14 @@ Bu not, Altınkılıç Gıda'nın (ALKLC) faaliyet raporundan çıkan büyüme p
 - **Gizli Değer (Gayrimenkul):** Atıl duruma geçen eski fabrika arsaları üzerine, şirkete ek finansman yükü getirmeyecek kat karşılığı/hasılat paylaşımı modelleriyle konut projeleri geliştirme planı, bilançoda görünmeyen bir değer potansiyeli barındırıyor.
 
 ## Riskler / Negatifler
-- **Aşırı Yüksek Değerleme:** Hisse, 587 F/K ve 4.08 PD/DD gibi çarpanlarla işlem görmektedir. Bu oranlar, şirketin mevcut finansallarına göre aşırı pahalı olduğunu ve büyüme beklentilerinin fazlasıyla fiyatlandığını göstermektedir.
+- **Aşırı Yüksek Değerleme:** Hisse, mevcut 668 F/K ve 4.0'ün üzerindeki PD/DD oranıyla, büyüme potansiyelinin çok ötesinde bir fiyatlamaya sahip. Piyasa beklentisi aşırı yüksek.
 - **Artan Borçluluk:** Yeni fabrika yatırımının finansmanı nedeniyle şirketin net finansal borcu artmıştır. Bu durum, finansman giderleri yoluyla net kâr üzerinde baskı oluşturmaktadır.
 - **Entegrasyon ve Kârlılık Riski:** Yeni kapasitenin ne kadar verimli kullanılacağı ve ihracat anlaşmalarının bilançoya ne kadar hızlı ve kârlı bir şekilde yansıyacağı belirsizdir.
+
+## Strateji: Sabırla İzle ve Fırsat Bekle
+- **TETİKLEYİCİ:** PD/DD (Piyasa Değeri / Defter Değeri) oranının **2.0x seviyesine** düşmesi.
+- **HEDEF FİYAT ARALIĞI:** Bu orana ulaşmak için hisse fiyatının yaklaşık **33.00 - 35.00 TL** bandına gerilemesi beklenmelidir.
+- **AKSİYON:** Fiyat bu hedefe ulaşana kadar herhangi bir alım yapmaktan kaçınılacak. Hisse, bu şartla "Uydu / Spekülatif Büyüme" [[memory:6128741]] portföyü için potansiyel bir aday olarak izleme listesinde kalacaktır.
 
 ## İzleme ve Alım Şartı
 - **Hüküm:** **İZLE**

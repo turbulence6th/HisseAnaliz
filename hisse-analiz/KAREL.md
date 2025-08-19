@@ -33,3 +33,8 @@ Karel, klasik bir temel analiz hissesi değil, bir **"özel durum" (special situ
 *   **Yeni Yatırımcı İçin Strateji:** `SPEKÜLATİF ALIM` veya `BEKLE ve GÖR`.
     *   **Risk seven yatırımcı:** Portföyün küçük bir kısmıyla, bu dönüşüm hikayesine ortak olmak için `SPEKÜLATİF ALIM` yapabilir.
     *   **Garanti arayan yatırımcı:** Şirketin somut sonuçlar üretmesini (örneğin FAVÖK'ün pozitife dönmesi) beklemeli ve `BEKLE ve GÖR` stratejisi izlemelidir. Bu durumda potansiyel kazancın bir kısmı kaçırılabilir ama risk önemli ölçüde azaltılmış olur.
+
+### Teknik Alım Planı (Fırsat Bekleme)
+- **TETİKLEYİCİ:** PD/DD (Piyasa Değeri / Defter Değeri) oranının **2.0x seviyesine** düşmesi.
+- **HEDEF FİYAT ARALIĞI:** Bu orana ulaşmak için hisse fiyatının yaklaşık **4.00 - 4.10 TL** bandına gerilemesi beklenmelidir.
+- **AKSİYON:** Fiyat bu hedefe ulaşana kadar herhangi bir alım yapmaktan kaçınılacak. Hisse, bu şartla "Dönüşüm Hikayesi" potansiyeli taşıyan bir aday olarak izleme listesinde kalacaktır.

@@ -47,3 +47,17 @@ Faiz indirimi teorik olarak finansman maliyetlerini düşürüp yurt içi talebi
 Mevcut rapor, Ereğli için beklemenin verimli olmayabileceğini göstermektedir. Şirket operasyonel olarak kan kaybediyor ve sektörün genel yavaşlamasından sert bir şekilde etkileniyor.
 
 [[memory:6128755]] numaralı rotasyon prensibi gereği, en mantıklı strateji, Ereğli pozisyonunu **kademeli olarak azaltmayı veya tamamen kapatarak** buradan elde edilecek fonu, tezleri daha güçlü ve mevcut konjonktüre daha uygun varlıklara (örneğin ECILC, VAKKO potansiyeli vb.) aktarmayı düşünmektir.
+
+### Teknik Satış Planı (Kademeli)
+
+Hissenin temel verilerle desteklenmeyen son rallisi, "SAT" stratejisini uygulamak için teknik bir fırsat sunmaktadır. Amaç, zirveyi tahmin etmek değil, temel olarak zayıf bulunan bir pozisyondan stratejik olarak avantajlı fiyatlarla disiplinli bir şekilde çıkmaktır.
+
+*   **1. Kademe: Ana Satış (29.00 – 30.00 TL)**
+    *   **Gerekçe:** Fiyatın 52 haftalık zirvesinde olması ve 30 TL'nin önemli bir psikolojik direnç olması, pozisyonun ana kısmını satmak ve kârı realize etmek için ideal bir bölgedir.
+*   **2. Kademe: Momentum Satışı (31.50 – 32.50 TL)**
+    *   **Gerekçe:** Teknik momentumun devam etmesi halinde, bu "aşırı alım" bölgesi, kalan pozisyonun bir kısmını daha satarak ralliden maksimum faydayı sağlamak için kullanılabilir.
+*   **3. Kademe: Zirve Satışı (34.00 TL ve Üzeri)**
+    *   **Gerekçe:** Bu seviyeler, mevcut temel verilerle desteklenmesi zor, spekülatif bir yükselişi temsil eder. Fiyatın bu bölgeye ulaşması, pozisyonu tamamen kapatmak için bir fırsattır.
+
+#### Risk Yönetimi (Fırsatın Kaçmaması İçin)
+*   **Geri Çekilme Eşiği:** Fiyatın **27.50 TL altına** gerilemesi, bu rallinin gücünü kaybettiğine dair bir sinyal olabilir. Bu durumda, elde kalan pozisyonun tamamını daha fazla düşüş beklemeden satmak düşünülebilir.

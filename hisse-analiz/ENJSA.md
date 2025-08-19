@@ -28,3 +28,15 @@ Bu bölüm, hissenin neden "izleme listesinde" kalması gerektiğini açıklar.
 ## Risk Yönetimi
 - Mevcut strateji, bu hissede tutulan pozisyonu, TCELL ve ECILC gibi daha yüksek potansiyele sahip hisselere kaydırmaktır.
 - Eğer hisse tutulmaya devam edilecekse, bunun portföyün "defansif" bir parçası olduğu ve yüksek bir getiri beklenmemesi gerektiği kabul edilmelidir.
+
+### Teknik Satış Planı (Kademeli)
+
+Hissenin temel olarak "iyi ama heyecan verici olmayan" yapısına karşın, son dönemde gösterdiği güçlü teknik momentum, "Rotasyon" stratejisini uygulamak için mükemmel bir fırsat sunmaktadır. Amaç, zirveyi tahmin etmek değil, teknik olarak güçlü bir noktada pozisyonu disiplinli bir şekilde kapatarak sermayeyi daha yüksek potansiyelli adaylara yönlendirmektir.
+
+*   **1. Kademe: Ana Satış (70.00 – 72.00 TL)**
+    *   **Gerekçe:** Fiyat şu anda 52 haftalık zirvesindedir. Bu bölge, pozisyonun ana kısmını (%70-80) kapatmak için teknik olarak ideal bir seviyedir. Stratejinin ana hedefi olan sermayeyi serbest bırakma amacı, bu kademede gerçekleştirilmelidir.
+*   **2. Kademe: Potansiyel Uzama Satışı (78.00 – 80.00 TL)**
+    *   **Gerekçe:** Bu seviye, mevcut zirvenin yaklaşık %10-15 üzerinde, momentumun devam etmesi durumunda ulaşılabilecek potansiyel bir hedeftir. Kalan küçük pozisyon (%20-30 gibi) bu "bonus" seviye için tutulabilir.
+
+#### Risk Yönetimi: Geri Çekilme Eşiği (65.00 TL)
+Eğer hisse 1. kademe satış yapıldıktan sonra 2. kademeye gidemez ve geri çekilmeye başlarsa, **65.00 TL** seviyesi kritik bir eşik olarak belirlenmelidir. Fiyat bu seviyenin altına inerse, rallinin momentumunu kaybettiği anlaşılır ve kalan pozisyon daha fazla kâr kaybı yaşanmadan kapatılmalıdır.

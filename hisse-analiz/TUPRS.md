@@ -32,3 +32,17 @@ Bu plan, hissenin son dönemdeki zirve seviyelerinden yaşayacağı olası geri 
     *   **1. Kademe (Giriş):** Son zirveden **~%15-20** geri çekilme yaşandığında.
     *   **2. Kademe (Destek Alımı):** Son zirveden **~%25-30** geri çekilme yaşandığında.
     *   **3. Kademe (Ana Alım):** Son zirveden **~%35-40** veya daha fazla bir geri çekilme yaşandığında (Bu seviyeler temettü verimini de oldukça cazip hale getirir).
+
+### Teknik Alım Planı (Kademeli)
+
+Mevcut strateji, hissede yeni alım yapmak için aceleci davranmak yerine, geniş bant içindeki olası geri çekilmeleri bir fırsat olarak beklemektir. Hazırlanan plan, alım gücünü kademelere bölerek, disiplinli bir şekilde ortalama maliyet avantajı sağlamayı hedefler.
+
+*   **1. Kademe: İlk Pozisyon (138.00 – 142.00 TL)**
+    *   **Gerekçe:** Yatay bandın orta noktası ve daha önceki birçok tepki alımının geldiği bir pivot bölgedir. İlk kademe alım için makul bir başlangıç seviyesi sunar.
+*   **2. Kademe: Ana Pozisyon (125.00 – 130.00 TL)**
+    *   **Gerekçe:** Grafikteki ana destek hatlarından biridir. Fiyatın bu seviyelere gerilemesi, pozisyonu güçlendirmek için önemli bir fırsat sunar.
+*   **3. Kademe: Son ve Güçlü Alım (117.00 – 121.00 TL)**
+    *   **Gerekçe:** Son bir yılın en düşük seviyelerinin bulunduğu (52 haftalık dip: 117,30 TL) ana destek hattıdır. Bu bölge, uzun vadeli yatırımcı için en avantajlı maliyetle pozisyonu tamamlama potansiyeli taşır.
+
+#### Risk Yönetimi
+*   **Bekleme Eşiği:** Fiyatın **115.00 TL altında** haftalık kapanış yapması, uzun süreli yatay bandın aşağı kırıldığına işaret edebilir. Bu senaryoda yeni alımlar durdurulmalı ve strateji yeniden değerlendirilmelidir.

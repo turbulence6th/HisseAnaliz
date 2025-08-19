@@ -18,8 +18,9 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **GEREKÇE:** Faaliyet raporuyla teyit edildiği üzere, portföydeki **en güçlü ve en net temel hikayeye** sahip varlıktır. Rekor abone kazanımı, enflasyon üzeri fiyatlama gücü ve yönetilebilir bilançosuyla öne çıkmaktadır. Portföyden çıkarılacak zayıf varlıklardan (EREGL) gelecek sermaye için bir numaralı hedeftir. Fiyat, önceden belirlenmiş alım bölgesine çok yakındır.
 
 #### ECILC (Eczacıbaşı İlaç)
-*   **HÜKÜM:** TUT ve KÜÇÜK EKLE
-*   **GEREKÇE:** Faaliyet raporuyla ana katalizör (diyabet alanına giriş) beklentisi güçlenmiştir. Teknik olarak, 52 TL üzerindeki kapanışla kendi planımızdaki **momentum alım sinyalini** üretmiştir. Mevcut pozisyon korunmalı ve bu sinyale istinaden küçük bir ekleme düşünülebilir.
+*   **HÜKÜM:** TUT VE KÜÇÜK EKLE (Geri Çekilmede)
+*   **GEREKÇE:** Faaliyet raporuyla ana katalizör (diyabet alanına giriş) beklentisi güçlenmiştir. Teknik olarak, 52 TL üzerindeki kapanışla güçlü bir **momentum alım sinyali** üretmiştir. Ancak fiyat kısa sürede aşırı yükseldiği için anlık zirveden alım yapılmayacaktır.
+*   **AKSİYON PLANI (Plan A):** Mevcut pozisyon korunacak. Yeni "küçük ekleme" için, fiyatın daha önce kırdığı ve artık desteğe dönüşmesi beklenen **52.00 - 54.00 TL bandına** doğru yapacağı olası bir geri çekilme beklenecektir. Alım bu destek bölgesinde planlanmaktadır.
 
 #### SISE (Şişecam)
 *   **HÜKÜM:** KADEMELİ AL
@@ -29,9 +30,13 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** TUT (EKLEME İÇİN FIRSAT BEKLE)
 *   **GEREKÇE:** Faaliyet raporuyla teyit edilen operasyonel güç, reel büyüme kapasitesi ve sağlam bilanço, ASELSAN'ı net bir **Çekirdek Varlık** [[memory:5993342]] olarak konumlandırmaktadır. Ancak, hissenin son dönemde kaydettiği güçlü prim göz önüne alındığında, mevcut strateji yeni alım yapmak yerine pozisyonu korumak (TUT) ve olası geri çekilmeleri bir ekleme fırsatı olarak beklemektir. Bu, maliyet düşürmek için doğru zamanlamayı kollama disiplinini içerir.
 
-#### THYAO, TUPRS, YKBNK
+#### THYAO (Türk Hava Yolları)
+*   **HÜKÜM:** POZİSYONU KORU (ALIM YOK)
+*   **GEREKÇE:** Teknik olarak son bir yıllık yatay bandı yukarı yönlü kırması ve 3.95 F/K ile temel olarak ucuz olması pozitif. Ancak, hissenin portföydeki mevcut ağırlığının **zaten yüksek olması** nedeniyle, risk yönetimi prensipleri gereği yeni alım yapılması planlanmamaktadır. Strateji, mevcut pozisyonla yükseliş trendini takip etmek ve yeni alım için bir 'düşüş fırsatı' **beklememektir**.
+
+#### TUPRS, YKBNK
 *   **HÜKÜM:** MEVCUT POZİSYONU KORU & FIRSAT BEKLE
-*   **GEREKÇE:** Temelleri sağlam kabul edilen bu üç BIST ağır topu, çekirdek portföyün ana direkleridir. Mevcut pozisyonlar tatmin edici olduğu için aceleci bir alım gerektirmezler. Strateji, bu hisselerde yaşanacak piyasa düşüşlerini, önceden hazırlanan planlara göre maliyet düşürmek ve pozisyonu güçlendirmek için bir **fırsat olarak kullanmak** üzerine kuruludur.
+*   **GEREKÇE:** Temelleri sağlam kabul edilen bu iki BIST ağır topu, çekirdek portföyün ana direkleridir. Mevcut pozisyonlar tatmin edici olduğu için aceleci bir alım gerektirmezler. Strateji, bu hisselerde yaşanacak piyasa düşüşlerini, önceden hazırlanan planlara göre maliyet düşürmek ve pozisyonu güçlendirmek için bir **fırsat olarak kullanmak** üzerine kuruludur.
 
 ### B) Uydu / İzleme Listesi Varlıkları
 

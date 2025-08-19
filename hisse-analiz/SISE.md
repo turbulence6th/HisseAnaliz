@@ -35,6 +35,20 @@ Raporun ana hikayesi, küresel ve yurt içi sanayi sektöründeki yavaşlamaya p
 *   **Karar:** Faaliyet raporu, marjların korunup korunamadığına dair endişeleri ortadan kaldırmıştır. Şirketin zorlu koşullardaki operasyonel başarısı, onu portföy için cazip bir aday haline getirmiştir. Yeni strateji, piyasada yaşanacak düşüşleri **kademeli alım fırsatı** olarak değerlendirmektir.
 *   **Gerekçe:** Ereğli örneğinin aksine, Şişecam'ın döngüsel yavaşlamayı kârlılığını artırarak yönetebilmesi, şirketin defansif ve operasyonel gücünü göstermektedir. Bu, "BEKLE VE GÖR" stratejisinin başarıyla tamamlandığı ve bir sonraki aşamaya geçilebileceği anlamına gelir.
 
+### Teknik Alım Planı (Kademeli)
+
+Hazırlanan plan, alım gücünü üç parçaya bölerek, önceden belirlenmiş destek seviyelerinden kademeli alım yapmayı hedefler. Amaç, en dibi bulmak değil, disiplinli bir şekilde ortalama maliyeti düşürerek pozisyon oluşturmaktır.
+
+*   **1. Kademe: İlk Pozisyon (38.50 – 40.00 TL)**
+    *   **Gerekçe:** Son yükselişin başlangıç noktası ve önceki küçük zirvelerin geçtiği bir pivot alandır. İlk kademe alım için makul bir risk/getiri oranı sunar.
+*   **2. Kademe: Ana Pozisyon (35.00 – 36.50 TL)**
+    *   **Gerekçe:** 2025 yılı içinde fiyatın defalarca destek bulduğu, en belirgin ve test edilmiş destek hatlarından biridir. Ana pozisyon artırımı için ideal bir bölgedir.
+*   **3. Kademe: Son ve Güçlü Alım (32.00 – 33.50 TL)**
+    *   **Gerekçe:** Son bir yılın en düşük seviyelerinin bulunduğu ana destek hattıdır. Uzun vadeli yatırımcı için en avantajlı maliyetle pozisyonu tamamlama fırsatı sunar.
+
+#### Risk Yönetimi
+*   **Bekleme Eşiği:** Fiyatın **31.50 TL altında** günlük kapanış yapması durumunda, uzun vadeli yatay kanal aşağı kırılmış sayılır. Bu senaryoda yeni alım yapılmaz ve strateji yeniden gözden geçirilir.
+
 ### Raporda Neye Bakılacak?
 
 1.  **Marjların Durumu:** Özellikle FAVÖK ve Brüt Kâr marjları, geçen senenin aynı dönemiyle ve bir önceki çeyrekle karşılaştırılacak. Enerji maliyetlerini fiyatlara yansıtıp yansıtamadığına bakılacak.

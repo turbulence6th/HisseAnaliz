@@ -43,3 +43,17 @@ ASELSAN, operasyonel gücü, stratejik konumu ve sağlam finansallarıyla portf�
 **HÜKÜM: TUT VE FIRSATLARDA EKLE**
 
 Strateji, mevcut pozisyonu korumak ve piyasa düşüşlerini, bu kaliteli varlıktaki payı artırmak için bir alım fırsatı olarak değerlendirmek üzerine kuruludur.
+
+### Teknik Alım Planı (Kademeli)
+
+Hissenin son bir yılda gösterdiği güçlü prim ve yüksek F/K oranı göz önüne alındığında, yeni alımlar için aceleci davranılmamalıdır. Hazırlanan plan, hissede yaşanabilecek sağlıklı düzeltmeleri veya piyasa genelindeki düşüşleri bir alım fırsatı olarak kullanmayı hedefler.
+
+*   **1. Kademe: Düzeltme Alımı (150.00 – 155.00 TL)**
+    *   **Gerekçe:** Bu bölge, son büyük yükseliş dalgasının başladığı ve daha önceki zirvenin bulunduğu önemli bir teknik destek seviyesidir. Zirveden yaklaşık %20'lik bir geri çekilmeye denk gelir ve ilk kademe ekleme için makul bir seviyedir.
+*   **2. Kademe: Ana Destek Alımı (130.00 – 135.00 TL)**
+    *   **Gerekçe:** Grafikteki ana yükseliş trendinin geçtiği ve 2025 başındaki önemli bir konsolidasyon bölgesidir. Pozisyonu güçlendirmek için ideal bir fırsat sunar.
+*   **3. Kademe: Güçlü Değer Alımı (110.00 – 115.00 TL)**
+    *   **Gerekçe:** Bu bölge, zirveden yaklaşık %40'lık bir düşüşe işaret eder ve F/K gibi değerleme çarpanlarını çok daha cazip seviyelere indirir. Piyasa genelinde sert bir satış dalgası olması durumunda uzun vadeli yatırımcı için önemli bir alım fırsatı oluşturur.
+
+#### Risk Yönetimi
+*   **Bekleme Eşiği:** Fiyatın **105.00 TL altında** haftalık kapanış yapması, ana yükseliş trendinin kırıldığına dair önemli bir sinyal olabilir. Bu senaryoda yeni alımlar durdurulmalı ve strateji yeniden değerlendirilmelidir.

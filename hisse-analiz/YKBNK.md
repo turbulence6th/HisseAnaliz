@@ -28,4 +28,18 @@ Rapor, bankanın hem krediler hem de mevduat tarafında piyasanın üzerinde bir
 
 Bu sonuçlar, YKBNK'nın portföydeki "Çekirdek Varlık" tanımını sonuna kadar hak ettiğini gösteriyor. Bilanço o kadar güçlü ki, mevcut **"Düşüşleri Alım Fırsatı Olarak Değerlendir"** stratejisinin devam etmesi en doğru yaklaşım olacaktır. Banka, büyümesini kârlılık ve sağlam aktif kalitesiyle desteklemeye devam ediyor.
 
+### Teknik Alım Planı (Kademeli)
+
+Mevcut strateji, hissede yeni alım yapmak için aceleci davranmak yerine, geniş bant içindeki olası geri çekilmeleri bir fırsat olarak beklemektir. Hazırlanan plan, alım gücünü kademelere bölerek, disiplinli bir şekilde ortalama maliyet avantajı sağlamayı hedefler.
+
+*   **1. Kademe: İlk Pozisyon (28.00 – 29.50 TL)**
+    *   **Gerekçe:** Son yükselişin ivme kazandığı ve daha önceki zirvelerin geçtiği bir pivot bölgedir. İlk kademe alım için makul bir başlangıç seviyesi sunar.
+*   **2. Kademe: Ana Pozisyon (25.50 – 26.50 TL)**
+    *   **Gerekçe:** Grafikteki ana destek hatlarından biridir ve 2025 yılındaki birçok dip seviyesini barındırır. Pozisyonu güçlendirmek için önemli bir fırsat sunar.
+*   **3. Kademe: Son ve Güçlü Alım (22.00 – 23.50 TL)**
+    *   **Gerekçe:** Son bir yılın en düşük seviyelerinin bulunduğu (52 haftalık dip: 21,92 TL) ana destek hattıdır. Bu bölge, uzun vadeli yatırımcı için en avantajlı maliyetle pozisyonu tamamlama potansiyeli taşır.
+
+#### Risk Yönetimi
+*   **Bekleme Eşiği:** Fiyatın **21.50 TL altında** haftalık kapanış yapması, uzun süreli yatay bandın aşağı kırıldığına işaret edebilir. Bu senaryoda yeni alımlar durdurulmalı ve strateji yeniden değerlendirilmelidir.
+
 

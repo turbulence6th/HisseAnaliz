@@ -23,12 +23,12 @@ Faaliyet raporu, THY'nin güçlü operasyonel yapısını ve stratejisini teyit 
 
 *   **Ukrayna Savaşının Sona Ermesi:** Jeopolitik gerilimin azalması, petrol fiyatları üzerinde aşağı yönlü bir baskı oluşturarak şirketin en büyük maliyet kalemi olan yakıt giderlerini düşürebilir. Bu durum, kâr marjlarında doğrudan ve hızlı bir iyileşme potansiyeli taşır. Ayrıca, küresel risk iştahının artması ve seyahat talebinin canlanması da pozitif etki yaratacaktır.
 
-## Teknik – Düşüş Alım Planı
+### Stratejik Karar ve Teknik Plan (Trend Takip)
 
-Bu plan, hissenin son dönemdeki zirve seviyelerinden yaşayacağı olası geri çekilmeleri kademeli bir alım fırsatına dönüştürmeyi hedefler. Seviyeler, teknik analizden ziyade stratejik bir yaklaşımla belirlenmiştir.
+**Karar:** **POZİSYONU KORU (ALIM YOK)**
 
-*   **Hüküm:** AL (Kademeli Düşüşlerde)
-*   **Strateji:** Düşüşleri Alım Fırsatı Olarak Değerlendir (Buy the Dip).
-    *   **1. Kademe (Giriş):** Son zirveden **~%15-20** geri çekilme yaşandığında.
-    *   **2. Kademe (Destek Alımı):** Son zirveden **~%25-30** geri çekilme yaşandığında.
-    *   **3. Kademe (Ana Alım):** Son zirveden **~%35-40** veya daha fazla bir geri çekilme yaşandığında.
+**Gerekçe:** Faaliyet raporundaki kârlılık baskısı ve hissenin portföydeki mevcut yüksek ağırlığı göz önüne alındığında, yeni bir alım yapmak yerine mevcut pozisyonla trendi takip etmek en doğru stratejidir. Strateji, kârı realize etme baskısından kurtulmayı ve gereksiz risk alımının önüne geçmeyi hedefler.
+
+**Teknik Plan:**
+*   **Ana Destek (Takip Seviyesi):** **325.00 - 330.00 TL** bandı, son bir yıllık yatay bandın kırıldığı kritik bölgedir. Fiyatın bu seviyenin üzerinde kalması, yukarı yönlü trendin devamı için önemlidir. Bu bölge, mevcut pozisyon için bir "takip eden zarar durdurma (trailing stop)" seviyesi olarak kullanılabilir.
+*   **Potansiyel Hedefler:** Kırılım sonrası teknik hedefler, genellikle kanal genişliği kadar bir yükselişi işaret eder. Bu da orta vadede **380.00 - 400.00 TL** bandını potansiyel bir hedef bölgesi haline getirmektedir. Bu seviyeler, kâr realizasyonu için değerlendirilebilecek bölgelerdir.

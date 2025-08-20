@@ -1,4 +1,18 @@
-# OBAMS – Krizden Çıkış (Turnaround) Hikayesi İzleme Notu
+# OBAMS – İPTAL EDİLEN TEZ: Sistematik Riskler Nedeniyle Uzak Dur
+
+**ÖNEMLİ GÜNCELLEME:** Bu not, başlangıçta "tek seferlik" bir kriz varsayımıyla oluşturulmuş, ancak şirketin geçmişinde de tekrarlayan yangınlar olduğu bilgisinin ortaya çıkmasıyla **tamamen geçersiz hale gelmiştir.**
+
+Yeni bilgiler, yangının tek seferlik bir felaket değil, potansiyel bir **sistematik operasyonel risk yönetimi zafiyeti** olduğunu göstermektedir. Bu durum, yatırım tezinin temelini oluşturan güven unsurunu ortadan kaldırmaktadır.
+
+## Yeni Strateji: RADARDAN ÇIKAR / UZAK DUR
+
+- **Gerekçe:** Tekrarlayan ve farklı lokasyonlarda meydana gelen yangınlar, olayı "kaza" kategorisinden çıkarıp "sistematik sorun" kategorisine taşır. Bu, öngörülemez ve kabul edilemez bir risktir. Şirketin bilançosu ne kadar güçlü olursa olsun, sürekli kendini sabote etme potansiyeli olan bir operasyonel yapıya yatırım yapılamaz.
+- **Sonuç:** Oba Makarna, bu temel risk aydınlatılana veya bu konuda şirketten çok tatmin edici bir açıklama ve eylem planı gelene kadar yatırım yapılabilir şirketler listesinden ve izleme radarından çıkarılmıştır.
+
+---
+**(Aşağıdaki eski analiz, sadece tarihsel bir kayıt olarak tutulmaktadır ve artık geçerli değildir.)**
+
+## ESKİ TEZ (GEÇERSİZ) - Krizden Çıkış (Turnaround) Hikayesi İzleme Notu
 
 Bu not, Oba Makarnacılık'ın (OBAMS) Hendek fabrikasında yaşanan yangın krizi sonrası oluşan yatırım potansiyelini ve risklerini analiz etmek amacıyla oluşturulmuştur.
 

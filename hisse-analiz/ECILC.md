@@ -39,39 +39,43 @@ Bu not sade, uygulanabilir bir “topla ve tut + teknik seviyede ekleme” plan�
 - Her kademe portföyün yaklaşık %1–2’si; pozisyon tavanı örneği: %10–12.
 - Negatif regülasyon veya zayıf sonuç gelirse: satış yoksa bile yalnızca aylık rutin alım; ekstra kademe verme.
 
-## Teknik – 6 aylık grafiğe göre alım planı
-- Hüküm: AL (kademeli)
-- Gerekçe (kısa): Son haftalarda yükselen dip–tepe yapısı; fiyat üst banda yakın (≈51 TL) ve trend yukarı.
-- Seviyeler:
-  - Küçük al: 50.5–51.0
-  - Ek kademe: 49.0–49.5
-  - Son kademe: 47.5 civarı
-  - Bekle (alımı durdur): Günlük kapanış 47.5 altı
-  - Güçlü senaryo: 52 üzeri hacimli kapanış → küçük ek daha
+## Strateji Değerlendirmesi (26 Ağustos 2025)
+12 Ağustos'ta gelen faaliyet raporu ve diyabet alanına girileceği haberinin ardından hisse, belirlenen alım aralığını (47.5-51.0 TL) ve güçlü senaryo eşiğini (52 TL) hacimli bir şekilde kırarak gün içinde 70.00 TL'ye kadar yükselmiştir. Mevcut fiyat olan **63,20 TL**, birikim stratejisinin başarıyla tamamlandığını ve artık "trendi yönetme" aşamasına geçildiğini göstermektedir.
 
-## 50.000 TL Bütçe ile Örnek Alım Planı
-Bu plan, 50.000 TL'lik bir portföy için riski yayarak 1 aylık süreçte kademeli alım yapmayı hedefler.
+Bu dikey yükseliş sonrası mevcut seviyelerden alım yapmak risklidir. Yeni plan, olası geri çekilmeleri alım fırsatı olarak kullanarak pozisyonu kontrollü bir şekilde büyütmeyi hedefler. Eski direnç seviyeleri artık yeni desteklerdir.
+
+## Teknik – 6 aylık grafiğe göre alım planı (Revize Edilmiş)
+- Hüküm: BEKLE VE GÖR / KADEMELİ AL (Geri Çekilmelerde)
+- Gerekçe (kısa): Güçlü bir haber akışıyla yaşanan dikey kırılım sonrası fiyatın dengelenmesi ve yeni destek seviyeleri oluşturması beklenmelidir.
+- Seviyeler:
+  - Küçük al: 58.0 – 60.0 TL
+  - Ek kademe: 51.0 – 53.0 TL (Ana Kırılım Bölgesi)
+  - Son kademe: 49.0 – 50.0 TL
+  - Bekle (alımı durdur): Günlük kapanış 48.5 altı
+  - Güçlü senaryo: 70.0 TL üzeri hacimli kapanış → Yeni zirve teyidi.
+
+## 50.000 TL Bütçe ile Örnek Alım Planı (Revize Edilmiş)
+Bu plan, mevcut pozisyona ek olarak, olası geri çekilmelerde riski yayarak alım yapmayı hedefler.
 
 - **1. Kademe (15.000 TL):**
-  - **Seviye:** 50.5–51.0 TL arası
-  - **Mantık:** Mevcut güçlü trende katılım ve olası yükselişi kaçırmamak.
+  - **Seviye:** 58.0 – 60.0 TL arası
+  - **Mantık:** İlk anlamlı düzeltmede pozisyona temkinli bir ekleme yapmak.
 
-- **2. Kademe (15.000 TL):**
-  - **Seviye:** 49.0–49.5 TL arası
-  - **Mantık:** Olası bir düzeltmede maliyeti düşürmek için ekleme.
+- **2. Kademe (20.000 TL):**
+  - **Seviye:** 51.0 – 53.0 TL arası
+  - **Mantık:** Ana kırılım bölgesinin (eski direnç, yeni destek) test edilmesi durumunda ana pozisyon artışını gerçekleştirmek.
 
-- **3. Kademe (20.000 TL):**
-  - **Seviye:** 47.5 TL civarı
-  - **Mantık:** Ana destek seviyesinden en büyük alımı yaparak ortalama maliyeti optimize etmek.
+- **3. Kademe (15.000 TL):**
+  - **Seviye:** 49.0 – 50.0 TL civarı
+  - **Mantık:** Derin bir düzeltmede, en güçlü desteklerden birinden maliyeti optimize etmek.
 
 - **Risk Yönetimi:**
-  - **Alımı Durdurma:** 47.5 TL altında günlük kapanış olursa kalan bütçe ile yeni alım yapılmaz.
-  - **Momentum:** 52 TL üzeri hacimli kapanışta, trend teyidi olarak kalan bütçeden küçük bir ekleme (örneğin 5.000 TL) düşünülebilir.
+  - **Alımı Durdurma:** 48.5 TL altında günlük kapanış olursa kalan bütçe ile yeni alım yapılmaz ve strateji yeniden değerlendirilir.
 
 ## İşlem Kayıt Defteri
 - **12 Ağustos 2025 (Salı):** 49,72 TL fiyattan 7.500 TL'lik alım yapıldı. (Planın 1. kademesinin ilk yarısı tamamlandı.)
 - **13 Ağustos 2025 (Çarşamba):** 49,60 TL fiyattan 7.500 TL'lik alım yapıldı. (Planın 1. kademesi tamamlandı.)
-- **GÜNCEL FİYAT (14.08.2024):** 53.65 TL
+- **GÜNCEL FİYAT (26.08.2025):** 63,20 TL
 
 ## Vade
 - Orta–uzun vade (3–5+ yıl); haber akışı ve seviyelere göre alım temposu ayarlanır.

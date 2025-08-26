@@ -62,20 +62,28 @@ Bu ihale, belirsizliğin ortadan kalkması ve Turkcell'in önümüzdeki 5-10 yı
 - **Regülasyon/spektrum haber akışı**
 - **Borçluluk Seviyesinin Takibi:** Büyüme yatırımları için alınan borcun, kârlılığa planlandığı gibi yansıyıp yansımadığı takip edilmelidir.
 
-## Teknik – 6 aylık grafiğe göre alım planı (13 Ağustos 2025 itibarıyla güncel)
-- **Hüküm:** AL (Kademeli veya Kırılım ile)
-- **Gerekçe (kısa):** Güçlü gelen bilanço ve pozitif teknik görünüm, alım için uygun bir zemin hazırlıyor. Mevcut fiyat (≈97.75 TL) destek ve direnç arasında olduğu için aceleci davranmadan, belirlenen iki plandan birine göre hareket etmek daha mantıklıdır.
+## Strateji Değerlendirmesi (26 Ağustos 2025)
+13 Ağustos'ta belirlenen iki senaryodan **"Plan B: Momentum (Kırılım) Alımı"** gerçekleşmiştir. Fiyat, kritik direnç olan **99.20 TL** seviyesini hacimli bir şekilde aşarak **99,80 TL**'den kapanış yapmıştır. Bu durum, bekleme aşamasının sona erdiğini ve stratejinin artık "kırılımı yönetme ve pozisyona giriş" olarak güncellenmesi gerektiğini göstermektedir.
 
-- **Plan A: Geri Çekilme (Dip) Alımı:**
-  - **1. Kademe:** 96.80 – 95.50 TL (Kırılan direncin desteğe dönüştüğü bölge)
-  - **2. Kademe:** 94.00 – 93.00 TL (İkincil destek ve konsolidasyon alanı)
-  - **3. Kademe:** 91.00 – 90.00 TL (Ana destek bölgesi)
-  - **Bekleme Eşiği:** 89.50 TL altında günlük kapanış olursa yeni alım yapılmaz, strateji gözden geçirilir.
+Eski direnç olan 99.20 TL seviyesi artık en önemli yakın destek (pivot) noktasıdır. Yeni plan, bu seviyeye olası bir geri çekilmeyi (retest) ana alım fırsatı olarak değerlendirmeyi ve daha derin düşüşlere karşı kademeleri korumayı hedefler.
 
-- **Plan B: Momentum (Kırılım) Alımı:**
-  - **Giriş Sinyali:** 99.20 TL üzerinde hacimli günlük kapanış.
-  - **Onay Alımı (Retest):** Kırılım sonrası 99.00 – 98.80 TL bandına geri çekilme de bir fırsattır.
+## Teknik – 6 aylık grafiğe göre alım planı (Revize Edilmiş - 26 Ağustos 2025)
+- **Hüküm:** AL (Kademeli - Kırılım Onayı ile)
+- **Gerekçe (kısa):** Kritik 99.20 TL direncinin kırılmasıyla pozitif momentum teyit edilmiştir. Strateji, kırılım sonrası geri çekilmeleri alım fırsatı olarak kullanmaktır.
+
+- **Alım Planı:**
+  - **1. Kademe (Ana Alım):** 99.20 – 98.00 TL (Kırılan direncin desteğe dönüştüğü ana bölge)
+  - **2. Kademe:** 96.80 – 95.50 TL (İkincil destek ve konsolidasyon alanı)
+  - **3. Kademe:** 94.00 – 93.00 TL (Daha derin düzeltme için güçlü destek)
+  - **Bekleme Eşiği:** 92.50 TL altında günlük kapanış olursa yeni alım yapılmaz, strateji gözden geçirilir.
   - **Hedef:** Kırılım sonrası ilk hedef 101.50 TL, ana hedef ise 110.00 – 111.40 TL zirve bölgesidir.
+
+### Nakit Yönetimi Planı (100.000 TL - Revize Edilmiş)
+
+- **Genel Strateji:** Kırılımın teyit edilmesiyle birlikte, portföydeki TCELL ağırlığını artırma hedefiyle, 100.000 TL'lik nakit yeni destek seviyelerinde alım için kullanılacaktır.
+- **1. Alım (50.000 TL):** Fiyatın **99.20 TL – 98.00 TL** aralığına (kırılımın onay bölgesi) geri çekilmesi durumunda.
+- **2. Alım (30.000 TL):** Fiyatın **96.80 TL – 95.50 TL** aralığına gerilemesi durumunda.
+- **3. Alım (20.000 TL):** Fiyatın **94.00 TL – 93.00 TL** aralığına gelmesi durumunda.
 
 ## Kademe ve risk yönetimi
 - Her kademe portföyün yaklaşık %1–2’si; pozisyon tavanını aşmayın.
@@ -85,7 +93,7 @@ Bu ihale, belirsizliğin ortadan kalkması ve Turkcell'in önümüzdeki 5-10 yı
 - Orta–uzun vade (2–5+ yıl); temel hikâye ve düzenli nakit akışı odaklı.
 
 ## Gönderi
-TCELL’in rekor abone kazanımı ve enflasyon üzeri ARPU artışıyla gelen güçlü bilançosu, yatırım tezimizi parlak bir şekilde doğruladı. Teknik olarak da görünüm pozitif. Stratejim: Fiyatın 96.80-95.50 bandına geri çekilmesini bekleyerek kademeli alım yapmak veya 99.20 TL'yi hacimli bir şekilde kırmasını bekleyip momentumla pozisyona girmek. Her iki senaryoda da hedef, orta vadede zirve seviyeleri.
+TCELL’in rekor abone kazanımı ve enflasyon üzeri ARPU artışıyla gelen güçlü bilançosu, yatırım tezimizi parlak bir şekilde doğruladı. Teknik olarak da 99.20 TL direncinin kırılmasıyla momentum teyit edildi. Yeni stratejim: Fiyatın kırılan dirence (99.20-98.00 bandı) geri çekilmesini ana alım fırsatı olarak görmek ve daha alt desteklerde kademeli olarak pozisyonu güçlendirmek. Hedef, orta vadede zirve seviyeleri.
 
 ## İşlem Kayıt Defteri
-- **GÜNCEL FİYAT (14.08.2024):** 94.60 TL
+- **GÜNCEL FİYAT (26.08.2025):** 99,80 TL

@@ -52,9 +52,9 @@ Hazırlanan plan, alım gücünü üç parçaya bölerek, önceden belirlenmiş 
 ### Nakit Yönetimi Planı (50.000 TL - Revize Edilmiş)
 
 - **Genel Strateji:** Portföydeki mevcut SISE ağırlığı göz önünde bulundurularak, 50.000 TL'lik ek nakit üç kademeye bölünerek maliyet düşürme odaklı bir alım stratejisi izlenecektir.
-- **1. Kademe Alım (15.000 TL):** Fiyat **40.00 TL – 41.50 TL** aralığına geldiğinde.
-- **2. Kademe Alım (15.000 TL):** Fiyat ana destek olan **38.50 TL – 40.00 TL** aralığına gerilerse.
-- **3. Kademe Alım (20.000 TL):** Fiyat en güçlü alım bölgesi olarak belirlenen **35.00 TL – 36.50 TL** aralığına gelirse.
+- **[x] 1. Kademe Alım (15.000 TL):** Fiyat **40.00 TL – 41.50 TL** aralığına geldiğinde. **(Gerçekleşti)**
+- **[ ] 2. Kademe Alım (15.000 TL):** Fiyat ana destek olan **38.50 TL – 40.00 TL** aralığına gerilerse.
+- **[ ] 3. Kademe Alım (20.000 TL):** Fiyat en güçlü alım bölgesi olarak belirlenen **35.00 TL – 36.50 TL** aralığına gelirse.
 
 #### Risk Yönetimi
 *   **Bekleme Eşiği:** Fiyatın **34.50 TL altında** günlük kapanış yapması durumunda, uzun vadeli yatay kanal aşağı kırılmış sayılır. Bu senaryoda yeni alım yapılmaz ve strateji yeniden gözden geçirilir.

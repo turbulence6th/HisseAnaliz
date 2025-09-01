@@ -78,12 +78,12 @@ Eski direnç olan 99.20 TL seviyesi artık en önemli yakın destek (pivot) nokt
   - **Bekleme Eşiği:** 92.50 TL altında günlük kapanış olursa yeni alım yapılmaz, strateji gözden geçirilir.
   - **Hedef:** Kırılım sonrası ilk hedef 101.50 TL, ana hedef ise 110.00 – 111.40 TL zirve bölgesidir.
 
-### Nakit Yönetimi Planı (100.000 TL - Revize Edilmiş)
+### Nakit Yönetimi Planı (100.000 TL - Tamamlandı)
 
-- **Genel Strateji:** Kırılımın teyit edilmesiyle birlikte, portföydeki TCELL ağırlığını artırma hedefiyle, 100.000 TL'lik nakit yeni destek seviyelerinde alım için kullanılacaktır.
-- **1. Alım (50.000 TL):** Fiyatın **99.20 TL – 98.00 TL** aralığına (kırılımın onay bölgesi) geri çekilmesi durumunda.
-- **2. Alım (30.000 TL):** Fiyatın **96.80 TL – 95.50 TL** aralığına gerilemesi durumunda.
-- **3. Alım (20.000 TL):** Fiyatın **94.00 TL – 93.00 TL** aralığına gelmesi durumunda.
+- **Genel Strateji:** Kırılımın teyit edilmesiyle birlikte, portföydeki TCELL ağırlığını artırma hedefiyle planlanan 100.000 TL'lik nakit alım planı tamamlanmıştır.
+- **[x] 1. Alım (50.000 TL):** Fiyatın **99.20 TL – 98.00 TL** aralığına (kırılımın onay bölgesi) geri çekilmesi durumunda. **(Gerçekleşti)**
+- **[x] 2. Alım (30.000 TL):** Fiyatın **96.80 TL – 95.50 TL** aralığına gerilemesi durumunda. **(Gerçekleşti)**
+- **[x] 3. Alım (20.000 TL):** Fiyatın **94.00 TL – 93.00 TL** aralığına gelmesi durumunda. **(Gerçekleşti)**
 
 ## Kademe ve risk yönetimi
 - Her kademe portföyün yaklaşık %1–2’si; pozisyon tavanını aşmayın.
@@ -94,6 +94,3 @@ Eski direnç olan 99.20 TL seviyesi artık en önemli yakın destek (pivot) nokt
 
 ## Gönderi
 TCELL’in rekor abone kazanımı ve enflasyon üzeri ARPU artışıyla gelen güçlü bilançosu, yatırım tezimizi parlak bir şekilde doğruladı. Teknik olarak da 99.20 TL direncinin kırılmasıyla momentum teyit edildi. Yeni stratejim: Fiyatın kırılan dirence (99.20-98.00 bandı) geri çekilmesini ana alım fırsatı olarak görmek ve daha alt desteklerde kademeli olarak pozisyonu güçlendirmek. Hedef, orta vadede zirve seviyeleri.
-
-## İşlem Kayıt Defteri
-- **GÜNCEL FİYAT (26.08.2025):** 99,80 TL

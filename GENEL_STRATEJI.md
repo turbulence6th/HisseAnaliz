@@ -74,3 +74,19 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
     *   **AGHOL:** Migros'un güçlü performansına rağmen, holdingin diğer segmentlerindeki (Bira, Meşrubat, Otomotiv) ciddi kârlılık düşüşleri ve artan borçluluk, pozisyonun kapatılmasına neden olmuştur. "Net büyüme hikayesi" sunamamaktadır.
     *   **AEFES:** Yurt içi pazardaki yoğun rekabet kaynaklı marj baskısı ve Rusya pazarındaki belirsizlikler, risk/getiri profilini bozmuştur. Strateji, bu hissede pozisyon tutmamaktır.
 *   **SONUÇ:** Bu varlıklardan çıkan sermaye, Çekirdek Portföy'deki daha güçlü adaylara (özellikle TCELL) yönlendirilmek üzere serbest bırakılmıştır.
+
+## 3. Araçlar ve Yardımcı Notlar
+
+### Anlık Hisse Verisi Çekme
+
+Proje ana dizininde bulunan `hisse_proxy.py` scripti, bir hissenin son 1 yıllık fiyat verilerini komut satırından hızlıca çekmek için kullanılır.
+
+*   **Kullanım:**
+    ```bash
+    python hisse_proxy.py <HISSE_KODU>
+    ```
+*   **Örnek:**
+    ```bash
+    python hisse_proxy.py SISE
+    ```
+*   **Çıktı:** Bu komut, hissenin fiyat ve hacim bilgilerini içeren bir JSON verisi döndürür. Bu veri, anlık teknik analiz ve strateji kontrolü için kullanılabilir.

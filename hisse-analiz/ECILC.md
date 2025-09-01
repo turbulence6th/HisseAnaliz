@@ -44,38 +44,35 @@ Bu not sade, uygulanabilir bir “topla ve tut + teknik seviyede ekleme” plan�
 
 Bu dikey yükseliş sonrası mevcut seviyelerden alım yapmak risklidir. Yeni plan, olası geri çekilmeleri alım fırsatı olarak kullanarak pozisyonu kontrollü bir şekilde büyütmeyi hedefler. Eski direnç seviyeleri artık yeni desteklerdir.
 
-## Teknik – 6 aylık grafiğe göre alım planı (Revize Edilmiş)
+## Teknik – 6 aylık grafiğe göre alım planı (Revize Edilmiş - 1 Eylül 2025)
 - Hüküm: BEKLE VE GÖR / KADEMELİ AL (Geri Çekilmelerde)
-- Gerekçe (kısa): Güçlü bir haber akışıyla yaşanan dikey kırılım sonrası fiyatın dengelenmesi ve yeni destek seviyeleri oluşturması beklenmelidir.
+- Gerekçe (kısa): Güçlü yükseliş sonrası fiyatın dengelenmesi ve potansiyel destek bölgelerinden kademeli ekleme yapılması hedeflenmektedir.
 - Seviyeler:
-  - Küçük al: 58.0 – 60.0 TL
-  - Ek kademe: 51.0 – 53.0 TL (Ana Kırılım Bölgesi)
-  - Son kademe: 49.0 – 50.0 TL
-  - Bekle (alımı durdur): Günlük kapanış 48.5 altı
-  - Güçlü senaryo: 70.0 TL üzeri hacimli kapanış → Yeni zirve teyidi.
+  - 1. Kademe (İlk Alım): 64.50 – 62.00 TL (Fibonacci 0.382 - 0.50 geri çekilme bölgesi)
+  - 2. Kademe (Ek Alım): 59.50 TL civarı (Fibonacci 0.618 ve önceki konsolidasyon bölgesi)
+  - 3. Kademe (Güçlü Alım): 54.00 – 52.00 TL (Ana Kırılım Bölgesi)
+  - Bekle (alımı durdur): Günlük kapanış 51.50 altı
+  - Güçlü senaryo: 72.0 TL üzeri hacimli kapanış → Yeni zirve teyidi.
 
-## 50.000 TL Bütçe ile Örnek Alım Planı (Revize Edilmiş)
+## 50.000 TL Bütçe ile Örnek Alım Planı (Revize Edilmiş - 1 Eylül 2025)
 Bu plan, mevcut pozisyona ek olarak, olası geri çekilmelerde riski yayarak alım yapmayı hedefler.
 
 - **1. Kademe (15.000 TL):**
-  - **Seviye:** 58.0 – 60.0 TL arası
-  - **Mantık:** İlk anlamlı düzeltmede pozisyona temkinli bir ekleme yapmak.
+  - **Seviye:** 64.50 – 62.00 TL arası
+  - **Mantık:** Yükseliş sonrası ilk anlamlı düzeltme ve Fibonacci destek bölgesinde pozisyona temkinli bir ekleme yapmak.
 
 - **2. Kademe (20.000 TL):**
-  - **Seviye:** 51.0 – 53.0 TL arası
-  - **Mantık:** Ana kırılım bölgesinin (eski direnç, yeni destek) test edilmesi durumunda ana pozisyon artışını gerçekleştirmek.
+  - **Seviye:** 59.50 TL civarı
+  - **Mantık:** Güçlü Fibonacci desteğinde pozisyonu artırmak.
 
 - **3. Kademe (15.000 TL):**
-  - **Seviye:** 49.0 – 50.0 TL civarı
-  - **Mantık:** Derin bir düzeltmede, en güçlü desteklerden birinden maliyeti optimize etmek.
+  - **Seviye:** 54.00 – 52.00 TL arası
+  - **Mantık:** Ana kırılım bölgesinin (eski direnç, yeni destek) test edilmesi durumunda maliyeti optimize etmek için son eklemeyi yapmak.
 
 - **Risk Yönetimi:**
-  - **Alımı Durdurma:** 48.5 TL altında günlük kapanış olursa kalan bütçe ile yeni alım yapılmaz ve strateji yeniden değerlendirilir.
+  - **Alımı Durdurma:** 51.50 TL altında günlük kapanış olursa kalan bütçe ile yeni alım yapılmaz ve strateji yeniden değerlendirilir.
 
-## İşlem Kayıt Defteri
-- **12 Ağustos 2025 (Salı):** 49,72 TL fiyattan 7.500 TL'lik alım yapıldı. (Planın 1. kademesinin ilk yarısı tamamlandı.)
-- **13 Ağustos 2025 (Çarşamba):** 49,60 TL fiyattan 7.500 TL'lik alım yapıldı. (Planın 1. kademesi tamamlandı.)
-- **GÜNCEL FİYAT (26.08.2025):** 63,20 TL
+
 
 ## Vade
 - Orta–uzun vade (3–5+ yıl); haber akışı ve seviyelere göre alım temposu ayarlanır.

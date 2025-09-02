@@ -23,26 +23,27 @@ Faaliyet raporu, şirketin uzun vadeli stratejik dönüşümünü kararlılıkla
 
 *   **Ukrayna Savaşının Sona Ermesi:** Savaşın sona ermesi, küresel petrol piyasalarındaki risk primini ve anormallikleri azaltabilir. Bu durum, ham petrol tedarikini ve rafineri marjlarını daha öngörülebilir ve istikrarlı bir zemine oturtabilir. Belirsizliğin azalması, şirketin operasyonel planlaması için pozitif bir gelişmedir.
 
-## Teknik – Düşüş Alım Planı
+## Strateji Değerlendirmesi ve Yeni Alım Planı (2 Eylül 2025)
 
-Bu plan, hissenin son dönemdeki zirve seviyelerinden yaşayacağı olası geri çekilmeleri kademeli bir alım fırsatına dönüştürmeyi hedefler. Temettü hissesi olması, düşüşlerde daha cazip hale gelmesini sağlar.
+Piyasadaki genel düşüş ve `GENEL_STRATEJI.md`'de belirlenen proaktif "AL" kararı doğrultusunda, TUPRS için belirlenmiş olan derin düzeltme bekleme stratejisi güncellenmiştir. Önceki plan, mevcut fiyatlara göre çok muhafazakar kalmıştır.
 
-*   **Hüküm:** AL (Kademeli Düşüşlerde)
-*   **Strateji:** Düşüşleri Alım Fırsatı Olarak Değerlendir (Buy the Dip).
-    *   **1. Kademe (Giriş):** Son zirveden **~%15-20** geri çekilme yaşandığında.
-    *   **2. Kademe (Destek Alımı):** Son zirveden **~%25-30** geri çekilme yaşandığında.
-    *   **3. Kademe (Ana Alım):** Son zirveden **~%35-40** veya daha fazla bir geri çekilme yaşandığında (Bu seviyeler temettü verimini de oldukça cazip hale getirir).
+Yeni strateji, hissenin zirveye yakın seyrindeki geri çekilmeleri bir alım fırsatı olarak değerlendirmeyi hedefler. Bu, şirketin ikinci yarı beklentilerinin güçlü olması ve temettü verimi potansiyeli ile desteklenmektedir.
 
-### Teknik Alım Planı (Kademeli)
+### Teknik Alım Planı (Revize Edilmiş - Zirveye Yakın Toplama)
 
-Mevcut strateji, hissede yeni alım yapmak için aceleci davranmak yerine, geniş bant içindeki olası geri çekilmeleri bir fırsat olarak beklemektir. Hazırlanan plan, alım gücünü kademelere bölerek, disiplinli bir şekilde ortalama maliyet avantajı sağlamayı hedefler.
+*   **Hüküm:** AL (Kademeli)
+*   **Strateji:** Zirveye yakın geri çekilmeleri Alım Fırsatı Olarak Değerlendir.
+*   **DURUM: AKTİF. Fiyat 1. kademe alım bölgesine temas etmiştir.**
 
-*   **1. Kademe: İlk Pozisyon (138.00 – 142.00 TL)**
-    *   **Gerekçe:** Yatay bandın orta noktası ve daha önceki birçok tepki alımının geldiği bir pivot bölgedir. İlk kademe alım için makul bir başlangıç seviyesi sunar.
-*   **2. Kademe: Ana Pozisyon (125.00 – 130.00 TL)**
-    *   **Gerekçe:** Grafikteki ana destek hatlarından biridir. Fiyatın bu seviyelere gerilemesi, pozisyonu güçlendirmek için önemli bir fırsat sunar.
-*   **3. Kademe: Son ve Güçlü Alım (117.00 – 121.00 TL)**
-    *   **Gerekçe:** Son bir yılın en düşük seviyelerinin bulunduğu (52 haftalık dip: 117,30 TL) ana destek hattıdır. Bu bölge, uzun vadeli yatırımcı için en avantajlı maliyetle pozisyonu tamamlama potansiyeli taşır.
+*   **1. Kademe: İlk Pozisyon (168.00 – 165.00 TL)**
+    *   **Durum: AKTİF. Fiyat gün içi bu bölgeyi test etti. Alım için uygun.**
+    *   **Gerekçe:** Son zirve sonrası ilk anlamlı geri çekilme ve destek arayışı bölgesidir.
+*   **2. Kademe: Ana Pozisyon (160.00 – 157.00 TL)**
+    *   **Durum: BEKLEMEDE.**
+    *   **Gerekçe:** Psikolojik destek ve daha önceki küçük boşluğun (gap) bulunduğu bölgedir.
+*   **3. Kademe: Güçlü Alım (152.00 – 148.00 TL)**
+    *   **Durum: BEKLEMEDE.**
+    *   **Gerekçe:** Ana yükseliş trendinin daha güçlü bir destek hattıdır.
 
 #### Risk Yönetimi
-*   **Bekleme Eşiği:** Fiyatın **115.00 TL altında** haftalık kapanış yapması, uzun süreli yatay bandın aşağı kırıldığına işaret edebilir. Bu senaryoda yeni alımlar durdurulmalı ve strateji yeniden değerlendirilmelidir.
+*   **Bekleme Eşiği:** Fiyatın **145.00 TL altında** haftalık kapanış yapması durumunda, kısa vadeli yükseliş trendi bozulmuş sayılır ve yeni alımlar durdurulur.

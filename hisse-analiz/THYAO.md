@@ -23,12 +23,30 @@ Faaliyet raporu, THY'nin güçlü operasyonel yapısını ve stratejisini teyit 
 
 *   **Ukrayna Savaşının Sona Ermesi:** Jeopolitik gerilimin azalması, petrol fiyatları üzerinde aşağı yönlü bir baskı oluşturarak şirketin en büyük maliyet kalemi olan yakıt giderlerini düşürebilir. Bu durum, kâr marjlarında doğrudan ve hızlı bir iyileşme potansiyeli taşır. Ayrıca, küresel risk iştahının artması ve seyahat talebinin canlanması da pozitif etki yaratacaktır.
 
-### Stratejik Karar ve Teknik Plan (Trend Takip)
+## Strateji Değerlendirmesi ve Yeni Alım Planı (2 Eylül 2025)
 
-**Karar:** **POZİSYONU KORU (ALIM YOK)**
+Kullanıcı kararı ve piyasadaki genel "düşüşü alım fırsatı olarak görme" stratejisi doğrultusunda, THY için belirlenen "Alım Yok" kararı güncellenmiştir. Fiyatın, son bir yıllık yükselişin ana destek bölgesi olan **325.00-330.00 TL** bandına gerilemesi, portföydeki ağırlığı yüksek olsa dahi, maliyet düşürmek ve pozisyonu güçlendirmek için bir fırsat olarak değerlendirilmektedir.
 
-**Gerekçe:** Faaliyet raporundaki kârlılık baskısı ve hissenin portföydeki mevcut yüksek ağırlığı göz önüne alındığında, yeni bir alım yapmak yerine mevcut pozisyonla trendi takip etmek en doğru stratejidir. Strateji, kârı realize etme baskısından kurtulmayı ve gereksiz risk alımının önüne geçmeyi hedefler.
+### Teknik Alım Planı (Kademeli)
 
-**Teknik Plan:**
-*   **Ana Destek (Takip Seviyesi):** **325.00 - 330.00 TL** bandı, son bir yıllık yatay bandın kırıldığı kritik bölgedir. Fiyatın bu seviyenin üzerinde kalması, yukarı yönlü trendin devamı için önemlidir. Bu bölge, mevcut pozisyon için bir "takip eden zarar durdurma (trailing stop)" seviyesi olarak kullanılabilir.
-*   **Potansiyel Hedefler:** Kırılım sonrası teknik hedefler, genellikle kanal genişliği kadar bir yükselişi işaret eder. Bu da orta vadede **380.00 - 400.00 TL** bandını potansiyel bir hedef bölgesi haline getirmektedir. Bu seviyeler, kâr realizasyonu için değerlendirilebilecek bölgelerdir.
+*   **Karar:** **AL (Kademeli)**
+*   **Gerekçe:** Fiyatın ana trend desteğine gerilemesi, alım için teknik olarak uygun bir zemin oluşturmaktadır. Kârlılıktaki kısa vadeli baskıya rağmen, operasyonel güç ve uzun vadeli potansiyel, bu seviyelerden alımı mantıklı kılmaktadır.
+*   **DURUM: AKTİF. Fiyat 1. kademe alım bölgesindedir.**
+
+*   **1. Kademe (Ana Destek Alımı): 330.00 – 325.00 TL**
+    *   **Durum: AKTİF. Fiyat bu bölgede. Alım için uygun.**
+    *   **Gerekçe:** Son bir yıllık yatay bandın kırıldığı ve ana trendin başladığı kritik destek bölgesi.
+*   **2. Kademe (İkincil Destek): 318.00 – 315.00 TL**
+    *   **Durum: BEKLEMEDE.**
+    *   **Gerekçe:** Gün içi görülen en düşük seviyeler ve bir önceki küçük düzeltmenin destek bulduğu alan.
+*   **3. Kademe (Güçlü Alım): 305.00 – 300.00 TL**
+    *   **Durum: BEKLEMEDE.**
+    *   **Gerekçe:** Güçlü psikolojik ve teknik destek seviyesi.
+
+### Nakit Yönetimi Planı (50.000 TL)
+- **1. Kademe Alım (20.000 TL):** Fiyat **330.00 – 325.00 TL** aralığına geldiğinde. **(Durum: Aktif, alım yapılabilir)**
+- **2. Kademe Alım (15.000 TL):** Fiyat **318.00 – 315.00 TL** aralığına gerilerse.
+- **3. Kademe Alım (15.000 TL):** Fiyat **305.00 – 300.00 TL** aralığına gelirse.
+
+#### Risk Yönetimi
+*   **Bekleme Eşiği:** Fiyatın **295.00 TL altında** haftalık kapanış yapması, ana yükseliş trendinin kırıldığına işaret eder. Bu senaryoda yeni alımlar durdurulur.

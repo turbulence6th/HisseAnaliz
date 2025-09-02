@@ -62,28 +62,29 @@ Bu ihale, belirsizliğin ortadan kalkması ve Turkcell'in önümüzdeki 5-10 yı
 - **Regülasyon/spektrum haber akışı**
 - **Borçluluk Seviyesinin Takibi:** Büyüme yatırımları için alınan borcun, kârlılığa planlandığı gibi yansıyıp yansımadığı takip edilmelidir.
 
-## Strateji Değerlendirmesi (26 Ağustos 2025)
-13 Ağustos'ta belirlenen iki senaryodan **"Plan B: Momentum (Kırılım) Alımı"** gerçekleşmiştir. Fiyat, kritik direnç olan **99.20 TL** seviyesini hacimli bir şekilde aşarak **99,80 TL**'den kapanış yapmıştır. Bu durum, bekleme aşamasının sona erdiğini ve stratejinin artık "kırılımı yönetme ve pozisyona giriş" olarak güncellenmesi gerektiğini göstermektedir.
+## Strateji Değerlendirmesi (2 Eylül 2025)
+Piyasada yaşanan genel düşüş, TCELL fiyatını 26 Ağustos'ta belirlenen tüm alım kademelerinin ve 92.50 TL'lik bekleme eşiğinin altına çekmiştir. Bu durum, "kırılım sonrası geri çekilme" stratejisini geçersiz kılmıştır.
 
-Eski direnç olan 99.20 TL seviyesi artık en önemli yakın destek (pivot) noktasıdır. Yeni plan, bu seviyeye olası bir geri çekilmeyi (retest) ana alım fırsatı olarak değerlendirmeyi ve daha derin düşüşlere karşı kademeleri korumayı hedefler.
+Mevcut durum, `GENEL_STRATEJI.md`'de belirtildiği gibi, portföyün en güçlü temel hikayesine sahip olan bu hissede, düşüşü bir **alım fırsatı** olarak değerlendirme stratejisine geçilmesini gerektirir. Yeni plan, panik satışlarından faydalanarak daha derin destek seviyelerinden kademeli olarak pozisyon artırmak üzerine kuruludur.
 
-## Teknik – 6 aylık grafiğe göre alım planı (Revize Edilmiş - 26 Ağustos 2025)
-- **Hüküm:** AL (Kademeli - Kırılım Onayı ile)
-- **Gerekçe (kısa):** Kritik 99.20 TL direncinin kırılmasıyla pozitif momentum teyit edilmiştir. Strateji, kırılım sonrası geri çekilmeleri alım fırsatı olarak kullanmaktır.
+## Teknik – 6 aylık grafiğe göre alım planı (Revize Edilmiş - 2 Eylül 2025)
+- **Hüküm:** AL (Kademeli - Düşüşte Toplama)
+- **Gerekçe (kısa):** Temel hikayesi çok güçlü olan hissede, piyasa geneliyle yaşanan düşüş, maliyet düşürmek ve pozisyonu güçlendirmek için bir fırsattır.
+- **DURUM: AKTİF. Fiyat 1. ve 2. kademe alım bölgelerine temas etmiştir.**
 
-- **Alım Planı:**
-  - **1. Kademe (Ana Alım):** 99.20 – 98.00 TL (Kırılan direncin desteğe dönüştüğü ana bölge)
-  - **2. Kademe:** 96.80 – 95.50 TL (İkincil destek ve konsolidasyon alanı)
-  - **3. Kademe:** 94.00 – 93.00 TL (Daha derin düzeltme için güçlü destek)
-  - **Bekleme Eşiği:** 92.50 TL altında günlük kapanış olursa yeni alım yapılmaz, strateji gözden geçirilir.
-  - **Hedef:** Kırılım sonrası ilk hedef 101.50 TL, ana hedef ise 110.00 – 111.40 TL zirve bölgesidir.
+- **Yeni Alım Planı:**
+  - **1. Kademe (Pozisyon Artırma):** 91.50 – 90.00 TL (Mevcut fiyatların bulunduğu ilk toplama bölgesi)
+  - **2. Kademe (Ana Alım):** 88.50 – 87.50 TL (Gün içi görülen dip seviyeler ve önemli destek bölgesi)
+  - **3. Kademe (Güçlü Alım):** 85.50 – 84.50 TL (Daha derin bir düzeltmede devreye girecek ana destek)
+  - **Bekleme Eşiği:** 82.00 TL altında günlük kapanış olursa yeni alım yapılmaz, strateji yeniden değerlendirilir.
+  - **Hedef:** Orta vadede ilk hedef 99.00-100.00 TL psikolojik ve teknik direncidir. Ana hedef 110.00 – 111.40 TL zirve bölgesidir.
 
-### Nakit Yönetimi Planı (100.000 TL - Tamamlandı)
+### Yeni Nakit Yönetimi Planı (50.000 TL)
 
-- **Genel Strateji:** Kırılımın teyit edilmesiyle birlikte, portföydeki TCELL ağırlığını artırma hedefiyle planlanan 100.000 TL'lik nakit alım planı tamamlanmıştır.
-- **[x] 1. Alım (50.000 TL):** Fiyatın **99.20 TL – 98.00 TL** aralığına (kırılımın onay bölgesi) geri çekilmesi durumunda. **(Gerçekleşti)**
-- **[x] 2. Alım (30.000 TL):** Fiyatın **96.80 TL – 95.50 TL** aralığına gerilemesi durumunda. **(Gerçekleşti)**
-- **[x] 3. Alım (20.000 TL):** Fiyatın **94.00 TL – 93.00 TL** aralığına gelmesi durumunda. **(Gerçekleşti)**
+- **Genel Strateji:** Önceki alım planı tamamlandıktan sonra, bu yeni düşüşü fırsat bilerek pozisyonu daha da güçlendirmek amacıyla yeni bir bütçe ayrılmıştır.
+- **1. Alım (15.000 TL):** Fiyatın **91.50 TL – 90.00 TL** aralığına gerilemesi durumunda. **(Durum: AKTİF)**
+- **2. Alım (20.000 TL):** Fiyatın **88.50 TL – 87.50 TL** aralığına gerilemesi durumunda. **(Durum: BEKLEMEDE)**
+- **3. Alım (15.000 TL):** Fiyatın **85.50 TL – 84.50 TL** aralığına gelmesi durumunda. **(Durum: BEKLEMEDE)**
 
 ## Kademe ve risk yönetimi
 - Her kademe portföyün yaklaşık %1–2’si; pozisyon tavanını aşmayın.

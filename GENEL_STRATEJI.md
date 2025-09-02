@@ -1,4 +1,4 @@
-# Portföy Genel Strateji Belgesi (15 Ağustos 2025 İtibarıyla)
+# Portföy Genel Strateji Belgesi (2 Eylül 2025 İtibarıyla)
 
 Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığında, portföydeki her bir varlık için belirlenen ana stratejiyi ve yatırım felsefesini özetlemektedir.
 
@@ -9,34 +9,39 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **Veriye Dayalı Kararlar:** Yatırım kararları, şirketlerin faaliyet raporlarına dayalı derin temel analize ve önceden belirlenmiş teknik seviyelere göre verilir [[memory:5993346]].
 *   **Kayıt Disiplini:** Her hisse için yatırım tezini, riskleri ve stratejiyi içeren ayrı `.md` dosyaları tutulur [[memory:5993348]].
 
-## 2. Hisse Bazlı Stratejiler
+## 2. Mevcut Piyasa Durumu ve Acil Eylem Planı (2 Eylül 2025)
+
+*   **DURUM:** Yurt içi siyasi gerilim kaynaklı piyasa düşüşü, bir riskten ziyade, güçlü temellere sahip çekirdek varlıklarda **alım fırsatı** olarak değerlendirilmektedir.
+*   **GENEL STRATEJİ:** Zayıf halkalardaki (EREGL, ENJSA) satış pozisyonları korunarak buradan elde edilecek nakit, piyasa düşüşüyle iskontolu hale gelen **Çekirdek Varlıklar'daki** pozisyonları güçlendirmek için kullanılacaktır. Strateji, proaktif bir şekilde **alım yönlüdür**.
+
+## 3. Hisse Bazlı Stratejiler
 
 ### A) Çekirdek Portföy Varlıkları
 
 #### TCELL (Turkcell)
 *   **HÜKÜM:** AL
-*   **GEREKÇE:** Faaliyet raporuyla teyit edildiği üzere, portföydeki **en güçlü ve en net temel hikayeye** sahip varlıktır. Rekor abone kazanımı, enflasyon üzeri fiyatlama gücü ve yönetilebilir bilançosuyla öne çıkmaktadır. Portföyden çıkarılacak zayıf varlıklardan (EREGL) gelecek sermaye için bir numaralı hedeftir. Fiyat, önceden belirlenmiş alım bölgesine çok yakındır.
+*   **GEREKÇE:** Portföydeki en güçlü temel hikaye olmaya devam etmektedir. Mevcut piyasa düşüşü, bu hissede pozisyon artırmak için **cazip bir giriş fırsatı** sunmaktadır. Zayıf varlıklardan (EREGL) gelecek sermaye için bir numaralı hedeftir.
 
 #### ECILC (Eczacıbaşı İlaç)
-*   **HÜKÜM:** TUT VE KÜÇÜK EKLE (Geri Çekilmede)
-*   **GEREKÇE:** Faaliyet raporuyla ana katalizör (diyabet alanına giriş) beklentisi güçlenmiştir. Teknik olarak, 52 TL üzerindeki kapanışla güçlü bir **momentum alım sinyali** üretmiştir. Ancak fiyat kısa sürede aşırı yükseldiği için anlık zirveden alım yapılmayacaktır.
-*   **AKSİYON PLANI (Plan A):** Mevcut pozisyon korunacak. Yeni "küçük ekleme" için, fiyatın daha önce kırdığı ve artık desteğe dönüşmesi beklenen **52.00 - 54.00 TL bandına** doğru yapacağı olası bir geri çekilme beklenecektir. Alım bu destek bölgesinde planlanmaktadır.
+*   **HÜKÜM:** AL
+*   **GEREKÇE:** Faaliyet raporuyla ana katalizör (diyabet alanına giriş) beklentisi güçlenmiştir. Piyasa düşüşü, daha önce beklenen geri çekilmeyi gerçekleştirmiş ve hisseyi alım bölgesine getirmiştir.
+*   **AKSİYON PLANI (Plan A):** Fiyatın destek olarak çalışması beklenen **52.00 - 54.00 TL bandına** gerilemesiyle birlikte pozisyon artırımı için **alım yapılır**.
 
 #### SISE (Şişecam)
 *   **HÜKÜM:** KADEMELİ AL
-*   **GEREKÇE:** Faaliyet raporuyla teyit edilen operasyonel verimlilik ve zorlu piyasa koşullarında dahi artan marjlar, hisseyi **Çekirdek Portföy'e yükseltmek için yeterli gücü** göstermektedir. Şirketin küresel ve yurt içi talep daralmasına rağmen brüt kar (%23'ten %27'ye) ve EBITDA (%9'dan %13'e) marjlarını belirgin şekilde artırması, güçlü maliyet kontrolü anlamına gelmektedir. Yurt içi inşaat sektöründeki canlılık ve devam eden yüksek yatırımlar, hisseyi portföy için cazip kılmaktadır. Strateji, piyasa düşüşlerinde kademeli olarak pozisyon oluşturmak üzerine kuruludur.
+*   **GEREKÇE:** Operasyonel verimlilik ve güçlü maliyet kontrolü, hisseyi Çekirdek Portföy için cazip kılmaktadır. Mevcut piyasa düşüşü, tam olarak "piyasa düşüşlerinde kademeli olarak pozisyon oluşturma" stratejisi için tasarlanmış bir **fırsattır**. Alımlara başlanması için uygun bir zemin oluşmuştur.
 
 #### ASELS (Aselsan)
-*   **HÜKÜM:** TUT (EKLEME İÇİN FIRSAT BEKLE)
-*   **GEREKÇE:** Faaliyet raporuyla teyit edilen operasyonel güç, reel büyüme kapasitesi ve sağlam bilanço, ASELSAN'ı net bir **Çekirdek Varlık** [[memory:5993342]] olarak konumlandırmaktadır. Ancak, hissenin son dönemde kaydettiği güçlü prim göz önüne alındığında, mevcut strateji yeni alım yapmak yerine pozisyonu korumak (TUT) ve olası geri çekilmeleri bir ekleme fırsatı olarak beklemektir. Bu, maliyet düşürmek için doğru zamanlamayı kollama disiplinini içerir.
+*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
+*   **GEREKÇE:** Operasyonel güç ve reel büyüme kapasitesiyle net bir Çekirdek Varlıktır. Son dönemdeki prim sonrası beklenen geri çekilme fırsatı, mevcut piyasa düşüşüyle gelmiştir. Strateji, bu düşüşü maliyet düşürmek ve pozisyonu güçlendirmek için bir **alım fırsatı** olarak kullanmaktır.
 
 #### THYAO (Türk Hava Yolları)
-*   **HÜKÜM:** POZİSYONU KORU (ALIM YOK)
-*   **GEREKÇE:** Teknik olarak son bir yıllık yatay bandı yukarı yönlü kırması ve 3.95 F/K ile temel olarak ucuz olması pozitif. Ancak, hissenin portföydeki mevcut ağırlığının **zaten yüksek olması** nedeniyle, risk yönetimi prensipleri gereği yeni alım yapılması planlanmamaktadır. Strateji, mevcut pozisyonla yükseliş trendini takip etmek ve yeni alım için bir 'düşüş fırsatı' **beklememektir**.
+*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL (Kademeli)
+*   **GEREKÇE:** Piyasadaki düşüş, fiyatı ana trend desteği olan 325-330 TL bandına getirmiştir. Bu durum, portföydeki ağırlığı yüksek olsa da, maliyet düşürmek ve pozisyonu güçlendirmek için teknik bir alım fırsatı sunmaktadır. Strateji, bu kritik destekten kademeli alım yapmak üzerine güncellenmiştir.
 
 #### TUPRS, YKBNK
-*   **HÜKÜM:** MEVCUT POZİSYONU KORU & FIRSAT BEKLE
-*   **GEREKÇE:** Temelleri sağlam kabul edilen bu iki BIST ağır topu, çekirdek portföyün ana direkleridir. Mevcut pozisyonlar tatmin edici olduğu için aceleci bir alım gerektirmezler. Strateji, bu hisselerde yaşanacak piyasa düşüşlerini, önceden hazırlanan planlara göre maliyet düşürmek ve pozisyonu güçlendirmek için bir **fırsat olarak kullanmak** üzerine kuruludur.
+*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
+*   **GEREKÇE:** Temelleri sağlam BIST ağır toplarıdır. Beklenen alım fırsatı, mevcut piyasa düşüşüyle ortaya çıkmıştır. Strateji, bu düşüşleri maliyet düşürmek ve pozisyonu güçlendirmek için bir **fırsat olarak kullanmak** üzerine kuruludur.
 
 ### B) Uydu / İzleme Listesi Varlıkları
 
@@ -75,7 +80,7 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
     *   **AEFES:** Yurt içi pazardaki yoğun rekabet kaynaklı marj baskısı ve Rusya pazarındaki belirsizlikler, risk/getiri profilini bozmuştur. Strateji, bu hissede pozisyon tutmamaktır.
 *   **SONUÇ:** Bu varlıklardan çıkan sermaye, Çekirdek Portföy'deki daha güçlü adaylara (özellikle TCELL) yönlendirilmek üzere serbest bırakılmıştır.
 
-## 3. Araçlar ve Yardımcı Notlar
+## 4. Araçlar ve Yardımcı Notlar
 
 ### Anlık Hisse Verisi Çekme
 

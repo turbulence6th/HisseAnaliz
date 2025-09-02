@@ -28,27 +28,30 @@ Rapor, bankanın hem krediler hem de mevduat tarafında piyasanın üzerinde bir
 
 Bu sonuçlar, YKBNK'nın portföydeki "Çekirdek Varlık" tanımını sonuna kadar hak ettiğini gösteriyor. Bilanço o kadar güçlü ki, mevcut **"Düşüşleri Alım Fırsatı Olarak Değerlendir"** stratejisinin devam etmesi en doğru yaklaşım olacaktır. Banka, büyümesini kârlılık ve sağlam aktif kalitesiyle desteklemeye devam ediyor.
 
-## Strateji Değerlendirmesi ve Revize Edilmiş Alım Planı (27 Ağustos 2025)
+## Strateji Değerlendirmesi ve Alım Planının Aktivasyonu (2 Eylül 2025)
 
-Mevcut **33,78 TL**'lik fiyat, daha önce belirlenen tüm alım kademelerinin oldukça üzerine çıkmış ve 52 haftalık zirveye yaklaşmıştır. Bu durum, "düşüşleri bekleme" stratejisinin tamamlandığını ve hissenin güçlü bir yükseliş trendine girdiğini teyit etmektedir.
+Piyasada yaşanan genel düşüş, YKBNK fiyatını tam da beklediğimiz alım kademelerine getirmiştir. Fiyat, gün içinde **30.28 TL**'ye kadar gerileyerek hem **1. Kademe (31.50 – 32.50 TL)** hem de **2. Kademe (29.50 – 30.50 TL)** alım bölgelerini test etmiştir.
 
-Yeni strateji, bu güçlü trend içindeki geri çekilmeleri (düzeltmeleri) yeni alım fırsatları olarak değerlendirmektir. Zirveye yakınlık nedeniyle mevcut seviyelerden alım yapmak yerine, fiyatın aşağıda belirlenen yeni destek bölgelerine gelmesi beklenecektir.
+Bu durum, "Düşüşleri Alım Fırsatı Olarak Değerlendir" stratejisinin ne kadar isabetli olduğunu teyit etmiş ve alım planını **aktif hale getirmiştir**. Strateji, plana sadık kalarak bu kademelerden alım yapmak üzerine devam etmelidir.
 
-### Teknik Alım Planı (Revize Edilmiş - Kademeli)
+### Teknik Alım Planı (Durum: AKTİF)
 
 *   **1. Kademe: İlk Pozisyon (31.50 – 32.50 TL)**
+    *   **Durum: TAMAMLANDI / AKTİF. Fiyat bu bölgeye geldi ve alım fırsatı verdi.**
     *   **Gerekçe:** Zirveye ulaşmadan önceki son konsolidasyon (dinlenme) bölgesidir. Hafif bir geri çekilmede pozisyona ilk giriş için uygun bir seviyedir.
 *   **2. Kademe: Ana Pozisyon (29.50 – 30.50 TL)**
-    *   **Gerekçe:** Önceki alım planının en üst kademesi olan bu bölge, artık önemli bir psikolojik ve teknik destek (eski direnç, yeni destek) görevi görecektir.
+    *   **Durum: AKTİF. Fiyat gün içi bu bölgeyi test etti. Alım için uygun.**
+    *   **Gerekçe:** Önemli bir psikolojik ve teknik destek (eski direnç, yeni destek) görevi görecektir.
 *   **3. Kademe: Son ve Güçlü Alım (27.50 – 28.50 TL)**
+    *   **Durum: BEKLEMEDE.**
     *   **Gerekçe:** Yükseliş trendinin orta noktasında yer alan güçlü bir destek hattıdır. Daha derin bir düzeltme yaşanması durumunda maliyeti optimize etmek için idealdir.
 
-### Nakit Yönetimi Planı (50.000 TL)
-- **1. Kademe Alım (15.000 TL):** Fiyat **31.50 – 32.50 TL** aralığına geldiğinde.
-- **2. Kademe Alım (15.000 TL):** Fiyat ana destek olan **29.50 – 30.50 TL** aralığına gerilerse.
-- **3. Kademe Alım (20.000 TL):** Fiyat en güçlü alım bölgesi olarak belirlenen **27.50 – 28.50 TL** aralığına gelirse.
+### Nakit Yönetimi Planı (50.000 TL - Durum: İŞLİYOR)
+- **1. Kademe Alım (15.000 TL):** Fiyat **31.50 – 32.50 TL** aralığına geldiğinde. **(Durum: Gerçekleşti)**
+- **2. Kademe Alım (15.000 TL):** Fiyat ana destek olan **29.50 – 30.50 TL** aralığına gerilerse. **(Durum: Aktif, alım yapılabilir)**
+- **3. Kademe Alım (20.000 TL):** Fiyat en güçlü alım bölgesi olarak belirlenen **27.50 – 28.50 TL** aralığına gelirse. **(Durum: Beklemede)**
 
-#### Risk Yönetimi (Revize Edilmiş)
+#### Risk Yönetimi
 *   **Bekleme Eşiği:** Fiyatın **27.00 TL altında** günlük kapanış yapması, yükseliş trendinin zayıfladığına işaret edebilir. Bu senaryoda yeni alımlar durdurulmalı ve strateji yeniden değerlendirilmelidir.
 
 

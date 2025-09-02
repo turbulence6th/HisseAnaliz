@@ -35,26 +35,29 @@ Raporun ana hikayesi, küresel ve yurt içi sanayi sektöründeki yavaşlamaya p
 *   **Karar:** Faaliyet raporu, marjların korunup korunamadığına dair endişeleri ortadan kaldırmıştır. Şirketin zorlu koşullardaki operasyonel başarısı, onu portföy için cazip bir aday haline getirmiştir. Yeni strateji, piyasada yaşanacak düşüşleri **kademeli alım fırsatı** olarak değerlendirmektir.
 *   **Gerekçe:** Ereğli örneğinin aksine, Şişecam'ın döngüsel yavaşlamayı kârlılığını artırarak yönetebilmesi, şirketin defansif ve operasyonel gücünü göstermektedir. Bu, "BEKLE VE GÖR" stratejisinin başarıyla tamamlandığı ve bir sonraki aşamaya geçilebileceği anlamına gelir.
 
-### Strateji Değerlendirmesi (26 Ağustos 2025)
-Mevcut **42,06 TL**'lik fiyat ve grafikteki son yükseliş momentumu göz önüne alındığında, alım stratejisini revize etmek mantıklıdır. Fiyatın 40 TL üzerinde yeni bir destek bölgesi oluşturma potansiyeli bulunmaktadır. Bu nedenle, ilk alım kademesi, olası bir trendi kaçırmamak adına mevcut seviyelere daha yakın bir noktaya çekilmiştir. Diğer kademeler ise daha derin düzeltmelere karşı pozisyonu korumak amacıyla sabit bırakılmıştır.
+### Strateji Değerlendirmesi (2 Eylül 2025)
+Piyasada yaşanan genel düşüş, SISE fiyatını tam olarak plan dahilindeki **2. Kademe (38.50 – 40.00 TL)** alım aralığına getirmiştir. Gün içinde 37.62 TL seviyesinin test edilmesiyle bu kademe aktif hale gelmiştir. "Kademeli Alım" stratejisi disiplinli bir şekilde devam ettirilmelidir.
 
-### Teknik Alım Planı (Revize Edilmiş)
+### Teknik Alım Planı (Durum: AKTİF)
 
 Hazırlanan plan, alım gücünü üç parçaya bölerek, önceden belirlenmiş destek seviyelerinden kademeli alım yapmayı hedefler. Amaç, en dibi bulmak değil, disiplinli bir şekilde ortalama maliyeti düşürerek pozisyon oluşturmaktır.
 
 *   **1. Kademe: İlk Pozisyon (40.00 – 41.50 TL)**
-    *   **Gerekçe:** Son yükselişin ardından oluşan yeni destek bölgesi ve psikolojik sınırdır. Mevcut momentuma daha yakın bir maliyetle pozisyona giriş yapmak için uygundur.
+    *   **Durum: TAMAMLANDI.**
+    *   **Gerekçe:** Son yükselişin ardından oluşan yeni destek bölgesi ve psikolojik sınırdır.
 *   **2. Kademe: Ana Pozisyon (38.50 – 40.00 TL)**
-    *   **Gerekçe:** Son yükselişin başlangıç noktası ve önceki küçük zirvelerin geçtiği bir pivot alandır. Daha temkinli bir alım için ideal bir bölgedir.
+    *   **Durum: AKTİF. Fiyat bu bölgede. Alım yapıldı/yapılıyor.**
+    *   **Gerekçe:** Son yükselişin başlangıç noktası ve önceki küçük zirvelerin geçtiği bir pivot alandır.
 *   **3. Kademe: Son ve Güçlü Alım (35.00 – 36.50 TL)**
-    *   **Gerekçe:** 2025 yılı içinde fiyatın defalarca destek bulduğu, en belirgin ve test edilmiş destek hatlarından biridir. Uzun vadeli yatırımcı için en avantajlı maliyetle pozisyonu tamamlama fırsatı sunar.
+    *   **Durum: BEKLEMEDE.**
+    *   **Gerekçe:** 2025 yılı içinde fiyatın defalarca destek bulduğu, en belirgin ve test edilmiş destek hatlarından biridir.
 
-### Nakit Yönetimi Planı (50.000 TL - Revize Edilmiş)
+### Nakit Yönetimi Planı (50.000 TL - Durum: İŞLİYOR)
 
 - **Genel Strateji:** Portföydeki mevcut SISE ağırlığı göz önünde bulundurularak, 50.000 TL'lik ek nakit üç kademeye bölünerek maliyet düşürme odaklı bir alım stratejisi izlenecektir.
-- **[x] 1. Kademe Alım (15.000 TL):** Fiyat **40.00 TL – 41.50 TL** aralığına geldiğinde. **(Gerçekleşti)**
-- **[ ] 2. Kademe Alım (15.000 TL):** Fiyat ana destek olan **38.50 TL – 40.00 TL** aralığına gerilerse.
-- **[ ] 3. Kademe Alım (20.000 TL):** Fiyat en güçlü alım bölgesi olarak belirlenen **35.00 TL – 36.50 TL** aralığına gelirse.
+- **1. Kademe Alım (15.000 TL):** Fiyat **40.00 TL – 41.50 TL** aralığına geldiğinde. **(Durum: Gerçekleşti)**
+- **2. Kademe Alım (15.000 TL):** Fiyat ana destek olan **38.50 TL – 40.00 TL** aralığına gerilerse. **(Durum: Aktif, alım yapılabilir)**
+- **3. Kademe Alım (20.000 TL):** Fiyat en güçlü alım bölgesi olarak belirlenen **35.00 TL – 36.50 TL** aralığına gelirse. **(Durum: Beklemede)**
 
 #### Risk Yönetimi
 *   **Bekleme Eşiği:** Fiyatın **34.50 TL altında** günlük kapanış yapması durumunda, uzun vadeli yatay kanal aşağı kırılmış sayılır. Bu senaryoda yeni alım yapılmaz ve strateji yeniden gözden geçirilir.

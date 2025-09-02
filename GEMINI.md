@@ -27,7 +27,7 @@ Temel felsefe, sermayeyi düşük performans gösteren varlıklardan daha güçl
 2.  **Belgeleme:** Her hisse senedi için yapılan analiz, `hisse-analiz/` dizinindeki kendi özel dosyasına belgelenir.
 3.  **Strateji Güncellemesi:** Analize dayanarak, ana `GENEL_STRATEJI.md` dosyası yeni karar (AL, SAT, TUT) ve gerekçesi ile güncellenir.
 4.  **Uygulama:** İşlemler, güncellenmiş stratejiye göre yapılır. İşlem daha sonra ilgili hissenin `.md` dosyasına kaydedilir.
-5.  **Veri Alma:** Hızlı fiyat ve hacim kontrolleri için `hisse_proxy.py` betiği kullanılır.
+5.  **Veri Alma:** Hızlı fiyat ve hacim kontrolleri için `hisse_proxy.py` betiği kullanılır. Bu betikten gelen anlık veriler, `hisse-analiz/` klasöründeki ilgili hissenin `.md` dosyasında belirtilen kademeli alım/satım seviyelerinin yeniden değerlendirilmesi ve güncellenmesi için temel oluşturur.
 
 ### `hisse_proxy.py` Nasıl Kullanılır:
 

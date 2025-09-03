@@ -1,4 +1,4 @@
-# Portföy Genel Strateji Belgesi (2 Eylül 2025 İtibarıyla)
+# Portföy Genel Strateji Belgesi (3 Eylül 2025 İtibarıyla)
 
 Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığında, portföydeki her bir varlık için belirlenen ana stratejiyi ve yatırım felsefesini özetlemektedir.
 
@@ -9,10 +9,10 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **Veriye Dayalı Kararlar:** Yatırım kararları, şirketlerin faaliyet raporlarına dayalı derin temel analize ve önceden belirlenmiş teknik seviyelere göre verilir [[memory:5993346]].
 *   **Kayıt Disiplini:** Her hisse için yatırım tezini, riskleri ve stratejiyi içeren ayrı `.md` dosyaları tutulur [[memory:5993348]].
 
-## 2. Mevcut Piyasa Durumu ve Acil Eylem Planı (2 Eylül 2025)
+## 2. Mevcut Piyasa Durumu ve Acil Eylem Planı (3 Eylül 2025)
 
-*   **DURUM:** Yurt içi siyasi gerilim kaynaklı piyasa düşüşü, bir riskten ziyade, güçlü temellere sahip çekirdek varlıklarda **alım fırsatı** olarak değerlendirilmektedir.
-*   **GENEL STRATEJİ:** Zayıf halkalardaki (EREGL, ENJSA) satış pozisyonları korunarak buradan elde edilecek nakit, piyasa düşüşüyle iskontolu hale gelen **Çekirdek Varlıklar'daki** pozisyonları güçlendirmek için kullanılacaktır. Strateji, proaktif bir şekilde **alım yönlüdür**.
+*   **DURUM:** Banka ve holding hisselerinde gözlenen genel satış dalgası, bu sektörlerdeki güçlü temellere sahip şirketlerde **alım fırsatı** olarak değerlendirilmektedir.
+*   **GENEL STRATEJİ:** Zayıf halkalar olan EREGL ve ENJSA'dan çıkan nakit, piyasa düşüşüyle iskontolu hale gelen **YKBNK ve SAHOL** gibi Çekirdek Varlıklardaki pozisyonları güçlendirmek için kullanılmıştır. Strateji, proaktif bir şekilde **alım yönlüdür**.
 
 ## 3. Hisse Bazlı Stratejiler
 
@@ -39,9 +39,17 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL (Kademeli)
 *   **GEREKÇE:** Piyasadaki düşüş, fiyatı ana trend desteği olan 325-330 TL bandına getirmiştir. Bu durum, portföydeki ağırlığı yüksek olsa da, maliyet düşürmek ve pozisyonu güçlendirmek için teknik bir alım fırsatı sunmaktadır. Strateji, bu kritik destekten kademeli alım yapmak üzerine güncellenmiştir.
 
-#### TUPRS, YKBNK
+#### YKBNK (Yapı Kredi Bankası)
+*   **HÜKÜM:** POZİSYON ARTIRILDI / AL
+*   **GEREKÇE:** Bankacılık sektörüne gelen genel satışlar, temelleri sağlam olan YKBNK'da bir alım fırsatı yaratmıştır. EREGL ve ENJSA satışından elde edilen nakit, mevcut pozisyonu güçlendirmek ve maliyeti düşürmek amacıyla kullanılmıştır.
+
+#### SAHOL (Sabancı Holding)
+*   **HÜKÜM:** AL
+*   **GEREKÇE:** Holdinglere yönelik genel satış dalgası, şirketin spekülatif "yeniden yapılanma" potansiyeli tezini [[memory:6128757]] iskontolu bir fiyattan değerlendirme fırsatı sunmuştur. Hisse, bu alımla birlikte "İzleme Listesi"nden "Çekirdek Portföy"e yükseltilmiştir. Strateji, EREGL ve ENJSA'dan çıkan fonların bir kısmını bu potansiyele yatırmaktır.
+
+#### TUPRS
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
-*   **GEREKÇE:** Temelleri sağlam BIST ağır toplarıdır. Beklenen alım fırsatı, mevcut piyasa düşüşüyle ortaya çıkmıştır. Strateji, bu düşüşleri maliyet düşürmek ve pozisyonu güçlendirmek için bir **fırsat olarak kullanmak** üzerine kuruludur.
+*   **GEREKÇE:** Temelleri sağlam BIST ağır toplarındandır. Beklenen alım fırsatı, mevcut piyasa düşüşüyle ortaya çıkmıştır. Strateji, bu düşüşleri maliyet düşürmek ve pozisyonu güçlendirmek için bir **fırsat olarak kullanmak** üzerine kuruludur.
 
 ### B) Uydu / İzleme Listesi Varlıkları
 
@@ -55,23 +63,20 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 
 #### BRISA
 *   **HÜKÜM:** TUT VE İZLE
-*   **GEREKÇE:** Otomotiv sektöründeki döngüsel yavaşlama ve hammadde maliyetlerindeki baskı nedeniyle hisse belirsizliğini korumaktadır. Bu nedenle "Uydu / İzleme Listesi" kategorisinde yer almaktadır [[memory:5993342]]. Mevcut pozisyon, sektördeki olası bir toparlanmayı takip etmek amacıyla korunmaktadır. Ancak, marjlarda ve talepte sürdürülebilir bir iyileşme görülmeden yeni alım yapılması düşünülmemektedir.
-
-#### SAHOL
-*   **HÜKÜM:** TUT VE İZLE
-*   **GEREKÇE:** Hisse, portföyde spekülatif bir "yeniden yapılanma" potansiyeli beklentisiyle tutulmaktadır [[memory:6128757]]. Bu tezin gerçekleşip gerçekleşmeyeceğini görmek amacıyla mevcut pozisyon korunmaktadır. Ancak bu beklenti henüz somut verilerle desteklenmediği için hisse "Uydu / İzleme Listesi" kategorisindedir. Yeniden yapılanmaya dair somut adımlar (varlık satışı, yeni strateji ilanı vb.) görülmeden yeni alım yapılması düşünülmemektedir.
+*   **GEREKÇE:** Otomotiv sektöründeki döngüsel yavaşlama ve hammadde maliyetlerindeki baskı nedeniyle hisse belirsizliğini korumaktadır. Bu nedenle "Uydu / İzleme Listesi" kategorisinde yer almaktadır [[memory:5993342]]. Mevcut pozisyon, sektördeki olası bir toparlanmayı takip etmek amacıyla korunmaktadır. Ancak, marjlarda ve talepte sürdürülelebilir bir iyileşme görülmeden yeni alım yapılması düşünülmemektedir.
 
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
-#### EREGL (Ereğli Demir Çelik)
-*   **HÜKÜM:** SAT
-*   **GEREKÇE:** Faaliyet raporu, kârlılıkta, üretimde ve marjlarda çok sert bir çöküşü teyit etmiştir. Sektörel döngünün en zayıf noktasındadır. Portföyde "fırsat maliyeti" [[memory:6128755]] en yüksek olan, en zayıf halkadır. Buradan çıkacak sermaye, TCELL gibi Çekirdek Varlıklara yönlendirilmelidir.
-
-#### ENJSA (Enerjisa)
-*   **HÜKÜM:** KADEMELİ SAT
-*   **GEREKÇE:** İstikrarlı ve defansif bir varlık olmasına rağmen, enerji sektörünün regüle edilmiş yapısı ve öngörülebilir ancak sınırlı büyüme potansiyeli, şirketin "fırsat maliyetini" [[memory:6128755]] artırmaktadır. Strateji, pozisyonu acele etmeden, teknik olarak uygun görülen seviyelerden kademeli olarak azaltmak ve buradan serbest kalacak sermayeyi, büyüme hikayesi daha güçlü olan Çekirdek Varlıklara aktarmaktır.
+*Bu bölümde güncel bir hisse bulunmamaktadır.*
 
 ### D) Portföyden Çıkarılan Varlıklar
+
+#### EREGL (Ereğli Demir Çelik) & ENJSA (Enerjisa)
+*   **HÜKÜM:** POZİSYONLAR KAPATILDI
+*   **GEREKÇE:** Her iki hisse de, kendi `.md` dosyalarında detaylandırılan ve aşağıda özetlenen temel gerekçelerle portföyden çıkarılmıştır. Strateji, bu zayıf halkalardan çıkan sermayeyi, Çekirdek Portföy'deki (özellikle TCELL ve ECILC) daha güçlü ve net büyüme hikayelerine sahip varlıklara yönlendirmektir.
+    *   **EREGL:** Faaliyet raporuyla teyit edilen kârlılık, üretim ve marjlardaki sert çöküş, hisseyi portföydeki en yüksek "fırsat maliyetine" sahip varlık haline getirmiştir.
+    *   **ENJSA:** İstikrarlı yapısına rağmen, sınırlı büyüme potansiyeli ve "oyun değiştirici" bir katalizörden yoksun olması, daha dinamik büyüme hikayelerine sahip hisselere (Çekirdek Varlıklar) rotasyon yapılmasını stratejik olarak daha mantıklı kılmıştır.
+*   **SONUÇ:** Bu varlıklardan çıkan sermaye, Çekirdek Portföy'deki daha güçlü adaylara yönlendirilmek üzere serbest bırakılmıştır.
 
 #### AGHOL (Anadolu Grubu Holding) & AEFES (Anadolu Efes)
 *   **HÜKÜM:** POZİSYONLAR KAPATILDI

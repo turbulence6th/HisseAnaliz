@@ -27,26 +27,17 @@ Faaliyet raporu, THY'nin güçlü operasyonel yapısını ve stratejisini teyit 
 
 Kullanıcı kararı ve piyasadaki genel "düşüşü alım fırsatı olarak görme" stratejisi doğrultusunda, THY için belirlenen "Alım Yok" kararı güncellenmiştir. Fiyatın, son bir yıllık yükselişin ana destek bölgesi olan **325.00-330.00 TL** bandına gerilemesi, portföydeki ağırlığı yüksek olsa dahi, maliyet düşürmek ve pozisyonu güçlendirmek için bir fırsat olarak değerlendirilmektedir.
 
-### Teknik Alım Planı (Kademeli)
+### Kademeli Alım Planı (Revize: 9 Eylül 2025)
+- **Hüküm:** KADEMELİ AL
+- **Gerekçe (kısa):** Hisse uzun vadeli yükseliş trendi içinde düzeltme yapıyor. Belirlenen seviyeler önemli teknik destek bölgeleridir. Mevcut fiyat 315.25 TL'dir.
+- **DURUM: BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.**
+- **Seviyeler:**
+  - **1. Kademe (İlk Alım): 305.00 – 300.00 TL** (Psikolojik ve teknik destek bölgesi)
+  - **2. Kademe (Ana Alım): 290.00 – 285.00 TL** (Önceki güçlü destek/direnç bölgesi)
+  - **3. Kademe (Güçlü Alım): 275.00 – 270.00 TL** (Ana trendin daha güçlü bir destek hattı)
+  - **Risk Yönetimi (Alımı Durdur):** 265.00 TL altında günlük kapanış.
 
-*   **Karar:** **AL (Kademeli)**
-*   **Gerekçe:** Fiyatın ana trend desteğine gerilemesi, alım için teknik olarak uygun bir zemin oluşturmaktadır. Kârlılıktaki kısa vadeli baskıya rağmen, operasyonel güç ve uzun vadeli potansiyel, bu seviyelerden alımı mantıklı kılmaktadır.
-*   **DURUM: AKTİF. Fiyat 1. kademe alım bölgesindedir.**
-
-*   **1. Kademe (Ana Destek Alımı): 330.00 – 325.00 TL**
-    *   **Durum: AKTİF. Fiyat bu bölgede. Alım için uygun.**
-    *   **Gerekçe:** Son bir yıllık yatay bandın kırıldığı ve ana trendin başladığı kritik destek bölgesi.
-*   **2. Kademe (İkincil Destek): 318.00 – 315.00 TL**
-    *   **Durum: BEKLEMEDE.**
-    *   **Gerekçe:** Gün içi görülen en düşük seviyeler ve bir önceki küçük düzeltmenin destek bulduğu alan.
-*   **3. Kademe (Güçlü Alım): 305.00 – 300.00 TL**
-    *   **Durum: BEKLEMEDE.**
-    *   **Gerekçe:** Güçlü psikolojik ve teknik destek seviyesi.
-
-### Nakit Yönetimi Planı (50.000 TL)
-- **1. Kademe Alım (20.000 TL):** Fiyat **330.00 – 325.00 TL** aralığına geldiğinde. **(Durum: Aktif, alım yapılabilir)**
-- **2. Kademe Alım (15.000 TL):** Fiyat **318.00 – 315.00 TL** aralığına gerilerse.
-- **3. Kademe Alım (15.000 TL):** Fiyat **305.00 – 300.00 TL** aralığına gelirse.
-
-#### Risk Yönetimi
-*   **Bekleme Eşiği:** Fiyatın **295.00 TL altında** haftalık kapanış yapması, ana yükseliş trendinin kırıldığına işaret eder. Bu senaryoda yeni alımlar durdurulur.
+### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
+- **1. Kademe (3.833 TL):** 305.00 – 300.00 TL aralığından alım.
+- **2. Kademe (4.000 TL):** 290.00 – 285.00 TL aralığına gerilerse ek alım.
+- **3. Kademe (3.000 TL):** 275.00 – 270.00 TL aralığına gerilerse son alım.

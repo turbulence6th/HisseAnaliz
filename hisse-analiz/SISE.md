@@ -38,29 +38,20 @@ Raporun ana hikayesi, küresel ve yurt içi sanayi sektöründeki yavaşlamaya p
 ### Strateji Değerlendirmesi (2 Eylül 2025)
 Piyasada yaşanan genel düşüş, SISE fiyatını tam olarak plan dahilindeki **2. Kademe (38.50 – 40.00 TL)** alım aralığına getirmiştir. Gün içinde 37.62 TL seviyesinin test edilmesiyle bu kademe aktif hale gelmiştir. "Kademeli Alım" stratejisi disiplinli bir şekilde devam ettirilmelidir.
 
-### Teknik Alım Planı (Durum: AKTİF)
+### Kademeli Alım Planı (Revize: 9 Eylül 2025)
+- **Hüküm:** KADEMELİ AL
+- **Gerekçe (kısa):** Hisse düşüş trendinde. Alım seviyeleri önemli teknik destek bölgelerine göre belirlenmiştir. Mevcut fiyat 37.04 TL'dir.
+- **DURUM: BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.**
+- **Seviyeler:**
+  - **1. Kademe (İlk Alım): 36.50 – 35.50 TL** (Son düşüşteki dip ve destek bölgesi)
+  - **2. Kademe (Ana Alım): 34.00 – 33.00 TL** (2025 başındaki güçlü destek bölgesi)
+  - **3. Kademe (Güçlü Alım): 32.00 – 31.00 TL** (52 haftanın en düşüğü ve ana destek hattı)
+  - **Risk Yönetimi (Alımı Durdur):** 30.50 TL altında günlük kapanış.
 
-Hazırlanan plan, alım gücünü üç parçaya bölerek, önceden belirlenmiş destek seviyelerinden kademeli alım yapmayı hedefler. Amaç, en dibi bulmak değil, disiplinli bir şekilde ortalama maliyeti düşürerek pozisyon oluşturmaktır.
-
-*   **1. Kademe: İlk Pozisyon (40.00 – 41.50 TL)**
-    *   **Durum: TAMAMLANDI.**
-    *   **Gerekçe:** Son yükselişin ardından oluşan yeni destek bölgesi ve psikolojik sınırdır.
-*   **2. Kademe: Ana Pozisyon (38.50 – 40.00 TL)**
-    *   **Durum: AKTİF. Fiyat bu bölgede. Alım yapıldı/yapılıyor.**
-    *   **Gerekçe:** Son yükselişin başlangıç noktası ve önceki küçük zirvelerin geçtiği bir pivot alandır.
-*   **3. Kademe: Son ve Güçlü Alım (35.00 – 36.50 TL)**
-    *   **Durum: BEKLEMEDE.**
-    *   **Gerekçe:** 2025 yılı içinde fiyatın defalarca destek bulduğu, en belirgin ve test edilmiş destek hatlarından biridir.
-
-### Nakit Yönetimi Planı (50.000 TL - Durum: İŞLİYOR)
-
-- **Genel Strateji:** Portföydeki mevcut SISE ağırlığı göz önünde bulundurularak, 50.000 TL'lik ek nakit üç kademeye bölünerek maliyet düşürme odaklı bir alım stratejisi izlenecektir.
-- **1. Kademe Alım (15.000 TL):** Fiyat **40.00 TL – 41.50 TL** aralığına geldiğinde. **(Durum: Gerçekleşti)**
-- **2. Kademe Alım (15.000 TL):** Fiyat ana destek olan **38.50 TL – 40.00 TL** aralığına gerilerse. **(Durum: Aktif, alım yapılabilir)**
-- **3. Kademe Alım (20.000 TL):** Fiyat en güçlü alım bölgesi olarak belirlenen **35.00 TL – 36.50 TL** aralığına gelirse. **(Durum: Beklemede)**
-
-#### Risk Yönetimi
-*   **Bekleme Eşiği:** Fiyatın **34.50 TL altında** günlük kapanış yapması durumunda, uzun vadeli yatay kanal aşağı kırılmış sayılır. Bu senaryoda yeni alım yapılmaz ve strateji yeniden gözden geçirilir.
+### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
+- **1. Kademe (3.833 TL):** 36.50 – 35.50 TL aralığından alım.
+- **2. Kademe (4.000 TL):** 34.00 – 33.00 TL aralığına gerilerse ek alım.
+- **3. Kademe (3.000 TL):** 32.00 – 31.00 TL aralığına gerilerse son alım.
 
 ### Raporda Neye Bakılacak?
 

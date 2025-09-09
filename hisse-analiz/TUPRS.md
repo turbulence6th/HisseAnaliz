@@ -29,21 +29,17 @@ Piyasadaki genel düşüş ve `GENEL_STRATEJI.md`'de belirlenen proaktif "AL" ka
 
 Yeni strateji, hissenin zirveye yakın seyrindeki geri çekilmeleri bir alım fırsatı olarak değerlendirmeyi hedefler. Bu, şirketin ikinci yarı beklentilerinin güçlü olması ve temettü verimi potansiyeli ile desteklenmektedir.
 
-### Teknik Alım Planı (Revize Edilmiş - Zirveye Yakın Toplama)
+### Kademeli Alım Planı (Revize: 9 Eylül 2025)
+- **Hüküm:** KADEMELİ AL
+- **Gerekçe (kısa):** Hisse güçlü yükseliş trendinde ve zirveye yakın. Geri çekilmeler alım fırsatı olarak değerlendirilebilir. Mevcut fiyat 168.10 TL'dir.
+- **DURUM: BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.**
+- **Seviyeler:**
+  - **1. Kademe (İlk Alım): 165.00 – 162.00 TL** (Son küçük düzeltmenin destek bölgesi)
+  - **2. Kademe (Ana Alım): 158.00 – 155.00 TL** (Önceki direnç, yeni destek bölgesi)
+  - **3. Kademe (Güçlü Alım): 150.00 – 147.00 TL** (Ana trendin daha güçlü bir destek hattı)
+  - **Risk Yönetimi (Alımı Durdur):** 145.00 TL altında günlük kapanış.
 
-*   **Hüküm:** AL (Kademeli)
-*   **Strateji:** Zirveye yakın geri çekilmeleri Alım Fırsatı Olarak Değerlendir.
-*   **DURUM: AKTİF. Fiyat 1. kademe alım bölgesine temas etmiştir.**
-
-*   **1. Kademe: İlk Pozisyon (168.00 – 165.00 TL)**
-    *   **Durum: AKTİF. Fiyat gün içi bu bölgeyi test etti. Alım için uygun.**
-    *   **Gerekçe:** Son zirve sonrası ilk anlamlı geri çekilme ve destek arayışı bölgesidir.
-*   **2. Kademe: Ana Pozisyon (160.00 – 157.00 TL)**
-    *   **Durum: BEKLEMEDE.**
-    *   **Gerekçe:** Psikolojik destek ve daha önceki küçük boşluğun (gap) bulunduğu bölgedir.
-*   **3. Kademe: Güçlü Alım (152.00 – 148.00 TL)**
-    *   **Durum: BEKLEMEDE.**
-    *   **Gerekçe:** Ana yükseliş trendinin daha güçlü bir destek hattıdır.
-
-#### Risk Yönetimi
-*   **Bekleme Eşiği:** Fiyatın **145.00 TL altında** haftalık kapanış yapması durumunda, kısa vadeli yükseliş trendi bozulmuş sayılır ve yeni alımlar durdurulur.
+### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
+- **1. Kademe (3.833 TL):** 165.00 – 162.00 TL aralığından alım.
+- **2. Kademe (4.000 TL):** 158.00 – 155.00 TL aralığına gerilerse ek alım.
+- **3. Kademe (3.000 TL):** 150.00 – 147.00 TL aralığına gerilerse son alım.

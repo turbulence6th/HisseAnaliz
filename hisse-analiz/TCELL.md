@@ -67,24 +67,20 @@ Piyasada yaşanan genel düşüş, TCELL fiyatını 26 Ağustos'ta belirlenen t�
 
 Mevcut durum, `GENEL_STRATEJI.md`'de belirtildiği gibi, portföyün en güçlü temel hikayesine sahip olan bu hissede, düşüşü bir **alım fırsatı** olarak değerlendirme stratejisine geçilmesini gerektirir. Yeni plan, panik satışlarından faydalanarak daha derin destek seviyelerinden kademeli olarak pozisyon artırmak üzerine kuruludur.
 
-## Teknik – 6 aylık grafiğe göre alım planı (Revize Edilmiş - 2 Eylül 2025)
-- **Hüküm:** AL (Kademeli - Düşüşte Toplama)
-- **Gerekçe (kısa):** Temel hikayesi çok güçlü olan hissede, piyasa geneliyle yaşanan düşüş, maliyet düşürmek ve pozisyonu güçlendirmek için bir fırsattır.
-- **DURUM: AKTİF. Fiyat 1. ve 2. kademe alım bölgelerine temas etmiştir.**
+## Kademeli Alım Planı (Revize: 9 Eylül 2025)
+- **Hüküm:** KADEMELİ AL
+- **Gerekçe (kısa):** Temel hikayesi güçlü olan hisse, zirve sonrası düzeltme sürecinde. Belirlenen seviyeler önemli destek bölgeleridir. Mevcut fiyat 88.50 TL'dir.
+- **DURUM: AKTİF. Fiyat 1. kademe alım bölgesine yakın.**
+- **Seviyeler:**
+  - **1. Kademe (İlk Alım): 87.00 – 86.00 TL** (Son düşüşteki destek bölgesi)
+  - **2. Kademe (Ana Alım): 84.00 – 82.50 TL** (Ana destek ve 52 haftalık en düşüğe yakın bölge)
+  - **3. Kademe (Güçlü Alım): 81.00 – 79.00 TL** (Majör destek hattı)
+  - **Risk Yönetimi (Alımı Durdur):** 78.50 TL altında günlük kapanış.
 
-- **Yeni Alım Planı:**
-  - **1. Kademe (Pozisyon Artırma):** 91.50 – 90.00 TL (Mevcut fiyatların bulunduğu ilk toplama bölgesi)
-  - **2. Kademe (Ana Alım):** 88.50 – 87.50 TL (Gün içi görülen dip seviyeler ve önemli destek bölgesi)
-  - **3. Kademe (Güçlü Alım):** 85.50 – 84.50 TL (Daha derin bir düzeltmede devreye girecek ana destek)
-  - **Bekleme Eşiği:** 82.00 TL altında günlük kapanış olursa yeni alım yapılmaz, strateji yeniden değerlendirilir.
-  - **Hedef:** Orta vadede ilk hedef 99.00-100.00 TL psikolojik ve teknik direncidir. Ana hedef 110.00 – 111.40 TL zirve bölgesidir.
-
-### Yeni Nakit Yönetimi Planı (50.000 TL)
-
-- **Genel Strateji:** Önceki alım planı tamamlandıktan sonra, bu yeni düşüşü fırsat bilerek pozisyonu daha da güçlendirmek amacıyla yeni bir bütçe ayrılmıştır.
-- **1. Alım (15.000 TL):** Fiyatın **91.50 TL – 90.00 TL** aralığına gerilemesi durumunda. **(Durum: AKTİF)**
-- **2. Alım (20.000 TL):** Fiyatın **88.50 TL – 87.50 TL** aralığına gerilemesi durumunda. **(Durum: BEKLEMEDE)**
-- **3. Alım (15.000 TL):** Fiyatın **85.50 TL – 84.50 TL** aralığına gelmesi durumunda. **(Durum: BEKLEMEDE)**
+### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
+- **1. Kademe (3.833 TL):** 87.00 – 86.00 TL aralığından alım.
+- **2. Kademe (4.000 TL):** 84.00 – 82.50 TL aralığına gerilerse ek alım.
+- **3. Kademe (3.000 TL):** 81.00 – 79.00 TL aralığına gerilerse son alım.**
 
 ## Kademe ve risk yönetimi
 - Her kademe portföyün yaklaşık %1–2’si; pozisyon tavanını aşmayın.

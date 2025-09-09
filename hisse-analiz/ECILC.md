@@ -47,37 +47,20 @@ Bu dikey yükseliş sonrası mevcut seviyelerden alım yapmak risklidir. Yeni pl
 ## Strateji Değerlendirmesi (2 Eylül 2025)
 Piyasada yaşanan siyasi gerilim kaynaklı düşüş, ECILC fiyatını daha önce belirlenen **1. Kademe (64.50 – 62.00 TL)** alım aralığına getirmiştir. Gün içinde 60.00 TL görülerek 2. kademeye de yaklaşılmıştır. Bu durum, geri çekilmede kademeli alım stratejisinin **aktif hale geldiğini** teyit etmektedir. Plan, disiplinli bir şekilde uygulanmalıdır.
 
-## Teknik – 6 aylık grafiğe göre alım planı (Revize Edilmiş - 2 Eylül 2025)
-- Hüküm: KADEMELİ AL
-- Gerekçe (kısa): Güçlü yükseliş sonrası yaşanan geri çekilme, belirlenen destek bölgelerinden kademeli ekleme yapmak için bir fırsat sunmaktadır.
-- **DURUM: AKTİF. Fiyat 1. kademe alım bölgesindedir.**
-- Seviyeler:
-  - **1. Kademe (İLK ALIM): 64.50 – 62.00 TL (Durum: Fiyat bu bölgede. Alım yapıldı/yapılıyor.)**
-  - 2. Kademe (Ek Alım): 59.50 TL civarı (Fibonacci 0.618 ve önceki konsolidasyon bölgesi)
-  - 3. Kademe (Güçlü Alım): 54.00 – 52.00 TL (Ana Kırılım Bölgesi)
-  - Bekle (alımı durdur): Günlük kapanış 51.50 altı
-  - Güçlü senaryo: 72.0 TL üzeri hacimli kapanış → Yeni zirve teyidi.
+## Kademeli Alım Planı (Revize: 9 Eylül 2025)
+- **Hüküm:** KADEMELİ AL
+- **Gerekçe (kısa):** Güçlü yükseliş sonrası yaşanan geri çekilme, belirlenen destek bölgelerinden kademeli ekleme yapmak için bir fırsat sunmaktadır. Mevcut fiyat 57.75 TL'dir.
+- **DURUM: BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.**
+- **Seviyeler:**
+  - **1. Kademe (İlk Alım): 55.50 – 54.00 TL** (Son düzeltmenin destek bulduğu bölge)
+  - **2. Kademe (Ek Alım): 51.00 – 49.50 TL** (Önceki konsolidasyon ve yatay destek bölgesi)
+  - **3. Kademe (Güçlü Alım): 46.00 – 44.00 TL** (Ana trendin daha güçlü bir destek hattı)
+  - **Risk Yönetimi (Alımı Durdur):** 43.50 TL altında günlük kapanış.
 
-## 50.000 TL Bütçe ile Örnek Alım Planı (Revize Edilmiş - 2 Eylül 2025)
-Bu plan, mevcut pozisyona ek olarak, olası geri çekilmelerde riski yayarak alım yapmayı hedefler.
-
-- **1. Kademe (15.000 TL):**
-  - **Seviye:** 64.50 – 62.00 TL arası
-  - **Durum: AKTİF. Bu aralıktan alım yapılır.**
-  - **Mantık:** Yükseliş sonrası ilk anlamlı düzeltme ve Fibonacci destek bölgesinde pozisyona temkinli bir ekleme yapmak.
-
-- **2. Kademe (20.000 TL):**
-  - **Seviye:** 59.50 TL civarı
-  - **Durum: BEKLEMEDE. Fiyatın bu seviyeye gerilemesi beklenir.**
-  - **Mantık:** Güçlü Fibonacci desteğinde pozisyonu artırmak.
-
-- **3. Kademe (15.000 TL):**
-  - **Seviye:** 54.00 – 52.00 TL arası
-  - **Durum: BEKLEMEDE. Fiyatın bu seviyeye gerilemesi beklenir.**
-  - **Mantık:** Ana kırılım bölgesinin (eski direnç, yeni destek) test edilmesi durumunda maliyeti optimize etmek için son eklemeyi yapmak.
-
-- **Risk Yönetimi:**
-  - **Alımı Durdurma:** 51.50 TL altında günlük kapanış olursa kalan bütçe ile yeni alım yapılmaz ve strateji yeniden değerlendirilir.
+### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
+- **1. Kademe (3.833 TL):** 55.50 – 54.00 TL aralığından alım.
+- **2. Kademe (4.000 TL):** 51.00 – 49.50 TL aralığına gerilerse ek alım.
+- **3. Kademe (3.000 TL):** 46.00 – 44.00 TL aralığına gerilerse son alım.
 
 
 

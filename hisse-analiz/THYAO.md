@@ -46,7 +46,7 @@ Kullanıcı kararı ve piyasadaki genel "düşüşü alım fırsatı olarak gör
 ### Kademeli Alım Planı (Revize: 10 Eylül 2025)
 - **Hüküm:** KADEMELİ AL
 - **Gerekçe (kısa):** Kullanıcının, hissenin mevcut 315 TL seviyesinden beklenen düzeltmeyi yapmayabileceği yönündeki beklentisi üzerine alım kademeleri yukarı çekilmiştir.
-- **DURUM: BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.**
+- **DURUM: 1. KADEME ALINDI (12 Eylül 2025). Fiyatın 2. kademe alım bölgesine gerilemesi beklenmektedir.**
 - **Seviyeler:**
   - **1. Kademe (İlk Alım): 312.00 – 310.00 TL** (Mevcut fiyata en yakın ilk destek bölgesi)
   - **2. Kademe (Ana Alım): 306.00 – 302.00 TL** (Psikolojik ve teknik destek bölgesi)
@@ -57,3 +57,4 @@ Kullanıcı kararı ve piyasadaki genel "düşüşü alım fırsatı olarak gör
 - **1. Kademe (3.833 TL):** 312.00 – 310.00 TL aralığından alım.
 - **2. Kademe (4.000 TL):** 306.00 – 302.00 TL aralığına gerilerse ek alım.
 - **3. Kademe (3.000 TL):** 295.00 – 290.00 TL aralığına gerilerse son alım.
+L):** 295.00 – 290.00 TL aralığına gerilerse son alım.

@@ -1,4 +1,4 @@
-# Portföy Genel Strateji Belgesi (3 Eylül 2025 İtibarıyla)
+# Portföy Genel Strateji Belgesi (12 Eylül 2025 İtibarıyla)
 
 Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığında, portföydeki her bir varlık için belirlenen ana stratejiyi ve yatırım felsefesini özetlemektedir.
 
@@ -14,7 +14,16 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **DURUM:** Banka ve holding hisselerinde gözlenen genel satış dalgası, bu sektörlerdeki güçlü temellere sahip şirketlerde **alım fırsatı** olarak değerlendirilmektedir.
 *   **GENEL STRATEJİ:** Zayıf halkalar olan EREGL ve ENJSA'dan çıkan nakit, piyasa düşüşüyle iskontolu hale gelen **YKBNK ve SAHOL** gibi Çekirdek Varlıklardaki pozisyonları güçlendirmek için kullanılmıştır. Strateji, proaktif bir şekilde **alım yönlüdür**.
 
-## 3. Hisse Bazlı Stratejiler
+## 3. Siyasi Konjonktür Değerlendirmesi (12 Eylül 2025)
+
+*   **DURUM:** Son siyasi gelişmeler, Eylül başındaki iyimserliğe kıyasla piyasaya yeni risk katmanları eklemiştir. Bu durum, daha temkinli bir duruşu gerektirmektedir.
+*   **ANA RİSKLER:**
+    *   **Artan Siyasi Risk ve Şirket Yönetişimi:** "Can Holding" gibi büyük bir gruba yönelik "kara para aklama" operasyonu, piyasada siyasi riski ve yönetişim kaygılarını artırmaktadır. Bu durum, özellikle holdingler (`SAHOL`) ve karmaşık yapıları olan şirketlere yönelik tezleri daha riskli hale getirebilir.
+    *   **Jeopolitik Gerilim:** Dış politikadaki sert söylemler, yabancı yatırımcı algısını olumsuz etkileyebilir ve jeopolitik risk primini artırabilir.
+    *   **Makroekonomik Zorlukların Teyidi:** İktidara yakın kaynakların ekonomik hedeflerdeki sapmaları teyit etmesi, piyasadaki toparlanmanın beklenenden uzun sürebileceğine işaret etmektedir.
+*   **STRATEJİK SONUÇ:** Bu gelişmeler ışığında, "proaktif alım" stratejisi **"temkinli ve seçici alım"** olarak güncellenmiştir. Genel bir alım iştahı yerine, siyasi ve jeopolitik risklerden daha az etkilenmesi beklenen, temel hikayesi çok güçlü ve iskontosu belirgin şirketlere odaklanılacaktır. Holding pozisyonları (`SAHOL`) artan yönetişim riski nedeniyle daha yakından izlenmelidir.
+
+## 4. Hisse Bazlı Stratejiler
 
 ### A) Çekirdek Portföy Varlıkları
 
@@ -23,9 +32,9 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **GEREKÇE:** Portföydeki en güçlü temel hikaye olmaya devam etmektedir. Mevcut piyasa düşüşü, bu hissede pozisyon artırmak için **cazip bir giriş fırsatı** sunmaktadır. Zayıf varlıklardan (EREGL) gelecek sermaye için bir numaralı hedeftir.
 
 #### ECILC (Eczacıbaşı İlaç)
-*   **HÜKÜM:** AL
+*   **HÜKÜM:** KADEMELİ AL
 *   **GEREKÇE:** Faaliyet raporuyla ana katalizör (diyabet alanına giriş) beklentisi güçlenmiştir. Piyasa düşüşü, daha önce beklenen geri çekilmeyi gerçekleştirmiş ve hisseyi alım bölgesine getirmiştir.
-*   **AKSİYON PLANI (Plan A):** Fiyatın destek olarak çalışması beklenen **52.00 - 54.00 TL bandına** gerilemesiyle birlikte pozisyon artırımı için **alım yapılır**.
+*   **AKSİYON PLANI (Revize):** **1. KADEME ALINDI (55.50 – 54.00 TL).** Strateji, fiyatın 2. kademe olan **51.00 – 49.50 TL bandına** gerilemesi durumunda yeni bir alım yapmayı hedeflemektedir.
 
 #### SISE (Şişecam)
 *   **HÜKÜM:** KADEMELİ AL
@@ -85,7 +94,7 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
     *   **AEFES:** Yurt içi pazardaki yoğun rekabet kaynaklı marj baskısı ve Rusya pazarındaki belirsizlikler, risk/getiri profilini bozmuştur. Strateji, bu hissede pozisyon tutmamaktır.
 *   **SONUÇ:** Bu varlıklardan çıkan sermaye, Çekirdek Portföy'deki daha güçlü adaylara (özellikle TCELL) yönlendirilmek üzere serbest bırakılmıştır.
 
-## 4. Araçlar ve Yardımcı Notlar
+## 5. Araçlar ve Yardımcı Notlar
 
 ### Anlık Hisse Verisi Çekme
 

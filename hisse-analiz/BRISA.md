@@ -37,16 +37,16 @@ Faaliyet raporu, şirketin içinde bulunduğu zorlu durumu ve çıkış strateji
   - **Elektrikli Araç (EV) Lastiklerinde Somut Adımlar:** Şirket, ödüllü "Lassa Revola" ve Karsan'ın elektrikli minibüsü "e-JEST" ile olan anlaşması sayesinde EV pazarında somut bir oyuncu olduğunu kanıtladı. Bu, en önemli uzun vadeli katalistlerden biridir.
   - **Teknoloji ve Hizmet Gelirleri:** Arvento'nun büyümesi ve Çiftay gibi büyük filo anlaşmaları, şirketin sadece lastik üreticisinden bir mobilite çözüm ortağına dönüştüğünü gösteriyor.
 
-## Teknik – İzleme ve Destek Seviyeleri
-- Hüküm: **İZLE (Spekülatif Toparlanma Beklentisi)**
-- Gerekçe (kısa): Şirket finansalları hala zayıf olsa da, ana ortak Sabancı Holding'e atanan yeni CEO'nun (Kıvanç Zaimler), şirketin kârlılığını artırmaya yönelik potansiyel bir yeniden yapılandırma planı uygulaması beklenmektedir. Bu nedenle hisse, "düşen bıçağı tutmak" için değil, **"yeniden yapılanma" tezinin ilk olumlu sinyallerini görmek için** yakından izlenmektedir.
-- İzlenecek Destek Seviyeleri (Alım için değil, takip için):
-  - 1. Destek: **76.5 – 77.5**
-  - 2. Destek: **71.0 – 72.0**
-  - 3. Destek: **67.0 – 68.0**
-  - Kritik Eşik: **66.0** (52 haftalık dip). Bu seviyenin altında satış baskısı hızlanabilir.
-- Trend Dönüş Sinyali:
-  - Düşüş trendinin kırıldığını teyit etmek için **90.0** üzerinde haftalık kapanışlar görmek gerekir. Bu gerçekleşmeden yapılacak alımlar "düşen bıçağı tutmak" olabilir.
+## Teknik – Kademeli Alım Planı (Revize: 12 Eylül 2025)
+- Hüküm: **KADEMELİ AL**
+- Gerekçe (kısa): Fiyatın, belirlenen ikinci destek bölgesine (71.0-72.0 TL) gerilemesi ve 52 haftalık en düşük seviyesine yaklaşması, temel riskler devam etse de kademeli bir alım stratejisi için risk/getiri oranını daha makul hale getirmiştir. Strateji, "düşen bıçağı tutmak" riskini kademelere bölerek yönetmeyi amaçlar.
+- Kademeli Alım Seviyeleri:
+  - 1. Kademe: **71.0 – 72.0 TL** (Mevcut Fiyat Bölgesi)
+  - 2. Kademe: **67.0 – 68.0 TL**
+  - 3. Kademe (Dip Avı): **66.0 – 66.5 TL** (52 Haftalık Dip Bölgesi)
+- Strateji Yönetimi:
+  - **Bekleme Eşiği:** Fiyatın **66.0 TL** altında haftalık kapanış yapması durumunda yeni alımlar durdurulur ve strateji yeniden değerlendirilir.
+  - **Trend Dönüş Teyidi:** Pozisyon büyüklüğünü artırmak için, düşüş trendinin kırıldığını teyit eden **90.0 TL** üzeri haftalık kapanışlar beklenmelidir.
 
 ## Risk Yönetimi
 - Mevcut düşüş trendi nedeniyle yeni pozisyon açmak için acele edilmemelidir.

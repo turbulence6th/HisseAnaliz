@@ -41,7 +41,7 @@ Piyasada yaşanan genel düşüş, SISE fiyatını tam olarak plan dahilindeki *
 ### Kademeli Alım Planı (Revize: 9 Eylül 2025)
 - **Hüküm:** KADEMELİ AL
 - **Gerekçe (kısa):** Hisse düşüş trendinde. Alım seviyeleri önemli teknik destek bölgelerine göre belirlenmiştir. Mevcut fiyat 37.04 TL'dir.
-- **DURUM: BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.**
+- **DURUM: 1. KADEME ALINDI (12 Eylül 2025). Fiyatın 2. kademe alım bölgesine gerilemesi beklenmektedir.**
 - **Seviyeler:**
   - **1. Kademe (İlk Alım): 36.50 – 35.50 TL** (Son düşüşteki dip ve destek bölgesi)
   - **2. Kademe (Ana Alım): 34.00 – 33.00 TL** (2025 başındaki güçlü destek bölgesi)

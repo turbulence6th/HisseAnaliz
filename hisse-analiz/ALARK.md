@@ -36,6 +36,13 @@ Alarko, klasik ve kârlı iş kollarından (Sanayi-Ticaret) elde ettiği kaynakl
 2.  **Varlık Satışı ve Nakit İhtiyacı:** Kârlı iştiraklerden Alarko Carrier'daki hisselerin borsada satışı için SPK'ya başvurulması, agresif yatırım takvimini finanse etmek için bir nakit ihtiyacı olduğuna işaret etmektedir.
 3.  **Zayıf Likidite:** Cari oranın 0,95 olması, şirketin kısa vadeli yükümlülüklerini karşılama kapasitesinin sınırlı olduğunu göstermektedir.
 
+## Güncel Gelişmeler (Haber Akışı)
+
+*   **12 Eylül 2025: Konya Ereğli'de Yeni Gıda İşleme Fabrikası Açıldı**
+    *   **Haber:** Alarko Tarım, Konya Ereğli Organize Sanayi Bölgesi'nde 5.100 ton ham madde işleme kapasitesine sahip yeni bir meyve-sebze kurutma fabrikası açtı.
+    *   **Teknoloji:** Fabrikada, besin değerini koruyan düşük sıcaklıkta kurutma teknolojisi (REV) kullanılmaktadır.
+    *   **Stratejik Önem:** Bu yatırım, şirketin tarım alanındaki "değer zincirinin tamamına yatırım yapma" stratejisinin (tohum, gübre, **gıda işleme**) somut bir adımıdır. Bu gelişme, şirketin tarım grubundan gelecekte ciro ve kârlılık bekleme tezini güçlendiren önemli bir katalizör adayıdır.
+
 ## Strateji ve Sonuç
 
 Alarko, yüksek risk ve yüksek getiri potansiyeli barındıran net bir "dönüşüm" hikayesidir. Kısa vadedeki finansal baskılar ve belirsizlikler nedeniyle "Çekirdek Portföy" [[memory:5993342]] için uygun değildir.

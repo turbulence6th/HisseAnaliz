@@ -49,8 +49,8 @@ Piyasada yaşanan siyasi gerilim kaynaklı düşüş, ECILC fiyatını daha önc
 
 ## Kademeli Alım Planı (Revize: 9 Eylül 2025)
 - **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Güçlü yükseliş sonrası yaşanan geri çekilme, belirlenen destek bölgelerinden kademeli ekleme yapmak için bir fırsat sunmaktadır. Mevcut fiyat 57.75 TL'dir.
-- **DURUM: BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.**
+- **Gerekçe (kısa):** Güçlü yükseliş sonrası yaşanan geri çekilme, belirlenen destek bölgelerinden kademeli ekleme yapmak için bir fırsat sunmaktadır.
+- **DURUM: 1. KADEME ALINDI. Fiyatın 2. kademe alım bölgesine gerilemesi beklenmektedir.**
 - **Seviyeler:**
   - **1. Kademe (İlk Alım): 55.50 – 54.00 TL** (Son düzeltmenin destek bulduğu bölge)
   - **2. Kademe (Ek Alım): 51.00 – 49.50 TL** (Önceki konsolidasyon ve yatay destek bölgesi)

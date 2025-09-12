@@ -44,27 +44,30 @@ ASELSAN, operasyonel gücü, stratejik konumu ve sağlam finansallarıyla portf�
 
 Strateji, mevcut pozisyonu korumak ve piyasa düşüşlerini, bu kaliteli varlıktaki payı artırmak için bir alım fırsatı olarak değerlendirmek üzerine kuruludur.
 
-## Strateji Değerlendirmesi ve Yeni Alım Planı (2 Eylül 2025)
+## Strateji Değerlendirmesi ve Yeni Alım Planı (10 Eylül 2025)
 
-`GENEL_STRATEJI.md`'de belirlenen proaktif "POZİSYON GÜÇLENDİR / AL" kararı ve piyasadaki geri çekilme doğrultusunda, ASELSAN için belirlenmiş olan derin düzeltme bekleme stratejisi güncellenmiştir. Önceki plan, mevcut fiyatlara ve "düşüşü fırsat bil" yaklaşımına göre fazla muhafazakar kalmıştır.
+Hissenin 175.00-170.00 TL destek bandını başarılı bir şekilde test etmesi ve bu seviyelerden güç toplayarak tekrar yukarı yönelmesi üzerine alım planı güncellenmiştir. Yeni strateji, bu başarılı destek testini teyit ederek, mevcut momentumun devam edeceği beklentisiyle daha dar ve proaktif alım kademeleri belirlemeyi amaçlar.
 
-Yeni strateji, hissenin zirveye yakın seyrindeki geri çekilmeleri bir alım fırsatı olarak değerlendirmeyi hedefler.
-
-### Teknik Alım Planı (Revize Edilmiş - Zirveye Yakın Toplama)
+### Teknik Alım Planı (Revize Edilmiş - Destek Testi Sonrası)
 
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL (Kademeli)
-*   **Strateji:** Zirveye yakın geri çekilmeleri Alım Fırsatı Olarak Değerlendir.
-*   **DURUM: AKTİF. Fiyat 1. ve 2. kademe alım bölgelerine temas etmiştir.**
+*   **Strateji:** Başarılı destek testi sonrası küçük geri çekilmeleri Alım Fırsatı Olarak Değerlendir.
+*   **DURUM: AKTİF. Fiyat 1. kademe alım bölgesindedir.**
 
-*   **1. Kademe (İlk Alım): 175.00 – 170.00 TL**
+*   **1. Kademe (Pozisyon Koruma): 175.00 – 172.00 TL**
     *   **Durum: AKTİF. Fiyat bu bölgede. Alım için uygun.**
-    *   **Gerekçe:** Son zirve sonrası ilk anlamlı geri çekilme bölgesi.
-*   **2. Kademe (Ana Alım): 168.00 – 165.00 TL**
-    *   **Durum: AKTİF. Fiyat gün içi bu bölgeyi test etti. Alım için uygun.**
-    *   **Gerekçe:** Gün içi görülen dip seviyeler ve bir önceki küçük zirvenin destek olarak çalışması beklenen alan.
-*   **3. Kademe (Güçlü Alım): 160.00 – 155.00 TL**
+    *   **Gerekçe:** Mevcut ana destek bölgesi, küçük geri çekilmeler için.
+*   **2. Kademe (Ana Alım): 169.00 – 166.00 TL**
     *   **Durum: BEKLEMEDE.**
-    *   **Gerekçe:** Ana yükseliş trendinin daha güçlü bir destek hattı ve eski alım planının ilk kademesi.
+    *   **Gerekçe:** Daha belirgin bir düzeltme için bir önceki destek bölgesi.
+*   **3. Kademe (Güçlü Alım): 162.00 – 158.00 TL**
+    *   **Durum: BEKLEMEDE.**
+    *   **Gerekçe:** Ana yükseliş trendinin daha güçlü bir destek hattı.
+
+#### Bütçe Yönetimi (Yüzdesel)
+- **1. Kademe:** Toplam ayrılan bütçenin **%30**'u.
+- **2. Kademe:** Toplam ayrılan bütçenin **%40**'ı.
+- **3. Kademe:** Toplam ayrılan bütçenin **%30**'u.
 
 #### Risk Yönetimi
-*   **Bekleme Eşiği:** Fiyatın **150.00 TL altında** haftalık kapanış yapması durumunda, kısa vadeli yükseliş trendi bozulmuş sayılır ve yeni alımlar durdurulur.
+*   **Bekleme Eşiği:** Fiyatın **155.00 TL altında** haftalık kapanış yapması durumunda, kısa vadeli yükseliş trendi bozulmuş sayılır ve yeni alımlar durdurulur.

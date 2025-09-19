@@ -67,20 +67,20 @@ Piyasada yaşanan genel düşüş, TCELL fiyatını 26 Ağustos'ta belirlenen t�
 
 Mevcut durum, `GENEL_STRATEJI.md`'de belirtildiği gibi, portföyün en güçlü temel hikayesine sahip olan bu hissede, düşüşü bir **alım fırsatı** olarak değerlendirme stratejisine geçilmesini gerektirir. Yeni plan, panik satışlarından faydalanarak daha derin destek seviyelerinden kademeli olarak pozisyon artırmak üzerine kuruludur.
 
-## Kademeli Alım Planı (Revize: 9 Eylül 2025)
+## Kademeli Alım Planı (Revize: 19 Eylül 2025)
 - **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Temel hikayesi güçlü olan hisse, zirve sonrası düzeltme sürecinde. Belirlenen seviyeler önemli destek bölgeleridir. Mevcut fiyat 88.50 TL'dir.
-- **DURUM: AKTİF. Fiyat 1. kademe alım bölgesine yakın.**
+- **Gerekçe (kısa):** Fiyatın eski alım planı seviyelerinin çok üzerine çıkmasıyla, mevcut trend içinde yeni giriş noktaları belirlemek amacıyla plan yukarı yönlü revize edilmiştir.
+- **DURUM:** BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.
 - **Seviyeler:**
-  - **1. Kademe (İlk Alım): 87.00 – 86.00 TL** (Son düşüşteki destek bölgesi)
-  - **2. Kademe (Ana Alım): 84.00 – 82.50 TL** (Ana destek ve 52 haftalık en düşüğe yakın bölge)
-  - **3. Kademe (Güçlü Alım): 81.00 – 79.00 TL** (Majör destek hattı)
-  - **Risk Yönetimi (Alımı Durdur):** 78.50 TL altında günlük kapanış.
+  - **1. Kademe (İlk Alım): 94.00 – 92.50 TL** (Mevcut fiyata yakın ara destek)
+  - **2. Kademe (Ana Alım): 90.00 – 88.00 TL** (Daha güçlü destek bölgesi)
+  - **3. Kademe (Güçlü Alım): 85.00 – 83.00 TL** (Ana trend desteği)
+  - **Risk Yönetimi (Alımı Durdur):** 80.00 TL altında günlük kapanış.
 
 ### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
-- **1. Kademe (3.833 TL):** 87.00 – 86.00 TL aralığından alım.
-- **2. Kademe (4.000 TL):** 84.00 – 82.50 TL aralığına gerilerse ek alım.
-- **3. Kademe (3.000 TL):** 81.00 – 79.00 TL aralığına gerilerse son alım.**
+- **1. Kademe (3.833 TL):** 94.00 – 92.50 TL aralığından alım.
+- **2. Kademe (4.000 TL):** 90.00 – 88.00 TL aralığına gerilerse ek alım.
+- **3. Kademe (3.000 TL):** 85.00 – 83.00 TL aralığına gerilerse son alım.
 
 ## Kademe ve risk yönetimi
 - Her kademe portföyün yaklaşık %1–2’si; pozisyon tavanını aşmayın.

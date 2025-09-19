@@ -29,17 +29,17 @@ Piyasadaki genel düşüş ve `GENEL_STRATEJI.md`'de belirlenen proaktif "AL" ka
 
 Yeni strateji, hissenin zirveye yakın seyrindeki geri çekilmeleri bir alım fırsatı olarak değerlendirmeyi hedefler. Bu, şirketin ikinci yarı beklentilerinin güçlü olması ve temettü verimi potansiyeli ile desteklenmektedir.
 
-### Kademeli Alım Planı (Revize: 9 Eylül 2025)
+### Kademeli Alım Planı (Revize: 19 Eylül 2025)
 - **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Hisse güçlü yükseliş trendinde ve zirveye yakın. Geri çekilmeler alım fırsatı olarak değerlendirilebilir. Mevcut fiyat 168.10 TL'dir.
-- **DURUM: BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.**
+- **Gerekçe (kısa):** Fiyatın eski alım planı seviyelerinin çok üzerine çıkmasıyla, mevcut güçlü trend içinde yeni giriş noktaları belirlemek amacıyla plan yukarı yönlü revize edilmiştir.
+- **DURUM:** BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.
 - **Seviyeler:**
-  - **1. Kademe (İlk Alım): 165.00 – 162.00 TL** (Son küçük düzeltmenin destek bölgesi)
-  - **2. Kademe (Ana Alım): 158.00 – 155.00 TL** (Önceki direnç, yeni destek bölgesi)
-  - **3. Kademe (Güçlü Alım): 150.00 – 147.00 TL** (Ana trendin daha güçlü bir destek hattı)
-  - **Risk Yönetimi (Alımı Durdur):** 145.00 TL altında günlük kapanış.
+  - **1. Kademe (İlk Alım): 188.00 – 185.00 TL** (Mevcut fiyata yakın ara destek)
+  - **2. Kademe (Ana Alım): 180.00 – 177.00 TL** (Daha güçlü destek bölgesi)
+  - **3. Kademe (Güçlü Alım): 172.00 – 168.00 TL** (Ana trend desteği)
+  - **Risk Yönetimi (Alımı Durdur):** 165.00 TL altında günlük kapanış.
 
 ### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
-- **1. Kademe (3.833 TL):** 165.00 – 162.00 TL aralığından alım.
-- **2. Kademe (4.000 TL):** 158.00 – 155.00 TL aralığına gerilerse ek alım.
-- **3. Kademe (3.000 TL):** 150.00 – 147.00 TL aralığına gerilerse son alım.
+- **1. Kademe (3.833 TL):** 188.00 – 185.00 TL aralığından alım.
+- **2. Kademe (4.000 TL):** 180.00 – 177.00 TL aralığına gerilerse ek alım.
+- **3. Kademe (3.000 TL):** 172.00 – 168.00 TL aralığına gerilerse son alım.

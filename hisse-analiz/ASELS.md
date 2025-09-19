@@ -44,30 +44,16 @@ ASELSAN, operasyonel gücü, stratejik konumu ve sağlam finansallarıyla portf�
 
 Strateji, mevcut pozisyonu korumak ve piyasa düşüşlerini, bu kaliteli varlıktaki payı artırmak için bir alım fırsatı olarak değerlendirmek üzerine kuruludur.
 
-## Strateji Değerlendirmesi ve Yeni Alım Planı (10 Eylül 2025)
+## Strateji Değerlendirmesi ve Yeni Alım Planı (19 Eylül 2025)
 
-Hissenin 175.00-170.00 TL destek bandını başarılı bir şekilde test etmesi ve bu seviyelerden güç toplayarak tekrar yukarı yönelmesi üzerine alım planı güncellenmiştir. Yeni strateji, bu başarılı destek testini teyit ederek, mevcut momentumun devam edeceği beklentisiyle daha dar ve proaktif alım kademeleri belirlemeyi amaçlar.
+Hissenin son alım planından bu yana önemli ölçüde ralli yapması ve 196.6 TL seviyesine ulaşmasıyla eski plan geçerliliğini yitirmiştir. Yeni strateji, mevcut güçlü yukarı yönlü trenddeki küçük geri çekilmeleri yeni alım fırsatları olarak değerlendirmeyi amaçlar.
 
-### Teknik Alım Planı (Revize Edilmiş - Destek Testi Sonrası)
-
-*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL (Kademeli)
-*   **Strateji:** Başarılı destek testi sonrası küçük geri çekilmeleri Alım Fırsatı Olarak Değerlendir.
-*   **DURUM: AKTİF. Fiyat 1. kademe alım bölgesindedir.**
-
-*   **1. Kademe (Pozisyon Koruma): 175.00 – 172.00 TL**
-    *   **Durum: AKTİF. Fiyat bu bölgede. Alım için uygun.**
-    *   **Gerekçe:** Mevcut ana destek bölgesi, küçük geri çekilmeler için.
-*   **2. Kademe (Ana Alım): 169.00 – 166.00 TL**
-    *   **Durum: BEKLEMEDE.**
-    *   **Gerekçe:** Daha belirgin bir düzeltme için bir önceki destek bölgesi.
-*   **3. Kademe (Güçlü Alım): 162.00 – 158.00 TL**
-    *   **Durum: BEKLEMEDE.**
-    *   **Gerekçe:** Ana yükseliş trendinin daha güçlü bir destek hattı.
-
-#### Bütçe Yönetimi (Yüzdesel)
-- **1. Kademe:** Toplam ayrılan bütçenin **%30**'u.
-- **2. Kademe:** Toplam ayrılan bütçenin **%40**'ı.
-- **3. Kademe:** Toplam ayrılan bütçenin **%30**'u.
-
-#### Risk Yönetimi
-*   **Bekleme Eşiği:** Fiyatın **155.00 TL altında** haftalık kapanış yapması durumunda, kısa vadeli yükseliş trendi bozulmuş sayılır ve yeni alımlar durdurulur.
+### Teknik Alım Planı (Revize: 19 Eylül 2025)
+- **HÜKÜM:** POZİSYON GÜÇLENDİR / AL (Kademeli)
+- **Gerekçe (kısa):** Fiyatın eski alım planı seviyelerinin çok üzerine çıkmasıyla, mevcut güçlü trend içinde yeni giriş noktaları belirlemek amacıyla plan yukarı yönlü revize edilmiştir.
+- **DURUM:** Önceki alım planındaki 1. kademenin (175-172 TL) kullanıldığı varsayılarak yeni kademeler beklenmektedir.
+- **Seviyeler:**
+  - **Yeni 1. Kademe (Ara Alım): 192.00 – 189.00 TL** (Mevcut fiyata yakın ara destek)
+  - **Yeni 2. Kademe (Ana Alım): 185.00 – 182.00 TL** (Daha güçlü destek bölgesi)
+- **Bütçe Yönetimi (Yüzdesel):** Yeni alımlar için ayrılan bütçenin sırasıyla **%50** ve **%50**'si bu kademelerde kullanılır.
+- **Risk Yönetimi (Alımı Durdur):** 175.00 TL altında haftalık kapanış.

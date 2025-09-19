@@ -47,20 +47,19 @@ Bu dikey yükseliş sonrası mevcut seviyelerden alım yapmak risklidir. Yeni pl
 ## Strateji Değerlendirmesi (2 Eylül 2025)
 Piyasada yaşanan siyasi gerilim kaynaklı düşüş, ECILC fiyatını daha önce belirlenen **1. Kademe (64.50 – 62.00 TL)** alım aralığına getirmiştir. Gün içinde 60.00 TL görülerek 2. kademeye de yaklaşılmıştır. Bu durum, geri çekilmede kademeli alım stratejisinin **aktif hale geldiğini** teyit etmektedir. Plan, disiplinli bir şekilde uygulanmalıdır.
 
-## Kademeli Alım Planı (Revize: 9 Eylül 2025)
+## Kademeli Alım Planı (Revize: 19 Eylül 2025)
 - **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Güçlü yükseliş sonrası yaşanan geri çekilme, belirlenen destek bölgelerinden kademeli ekleme yapmak için bir fırsat sunmaktadır.
-- **DURUM: 1. KADEME ALINDI. Fiyatın 2. kademe alım bölgesine gerilemesi beklenmektedir.**
+- **Gerekçe (kısa):** Fiyatın eski alım kademelerinin çok üzerine çıkmasıyla, mevcut trend içinde yeni giriş noktaları belirlemek amacıyla plan yukarı yönlü revize edilmiştir.
+- **DURUM:** Önceki kademe (55.50-54.00 TL) alındı. Şimdi yeni kademelerin test edilmesi beklenmektedir.
 - **Seviyeler:**
-  - **1. Kademe (İlk Alım): 55.50 – 54.00 TL** (Son düzeltmenin destek bulduğu bölge)
-  - **2. Kademe (Ek Alım): 51.00 – 49.50 TL** (Önceki konsolidasyon ve yatay destek bölgesi)
-  - **3. Kademe (Güçlü Alım): 46.00 – 44.00 TL** (Ana trendin daha güçlü bir destek hattı)
-  - **Risk Yönetimi (Alımı Durdur):** 43.50 TL altında günlük kapanış.
+  - **Yeni 1. Kademe (Ara Alım): 67.00 – 66.00 TL** (Mevcut fiyata yakın destek bölgesi)
+  - **Yeni 2. Kademe (Ana Alım): 63.00 – 61.50 TL** (Daha güçlü destek bölgesi)
+  - **Risk Yönetimi (Alımı Durdur):** 58.00 TL altında günlük kapanış.
 
 ### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
-- **1. Kademe (3.833 TL):** 55.50 – 54.00 TL aralığından alım.
-- **2. Kademe (4.000 TL):** 51.00 – 49.50 TL aralığına gerilerse ek alım.
-- **3. Kademe (3.000 TL):** 46.00 – 44.00 TL aralığına gerilerse son alım.
+- **Önceki Alım (3.833 TL):** 55.50 – 54.00 TL aralığından ALINDI.
+- **Yeni 1. Kademe (4.000 TL):** 67.00 – 66.00 TL aralığına gerilerse ek alım.
+- **Yeni 2. Kademe (3.000 TL):** 63.00 – 61.50 TL aralığına gerilerse son alım.
 
 
 

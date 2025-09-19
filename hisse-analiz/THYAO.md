@@ -43,18 +43,16 @@ Doha saldırısının yarattığı kısa vadeli negatif hava, piyasalarda risk i
 
 Kullanıcı kararı ve piyasadaki genel "düşüşü alım fırsatı olarak görme" stratejisi doğrultusunda, THY için belirlenen "Alım Yok" kararı güncellenmiştir. Fiyatın, son bir yıllık yükselişin ana destek bölgesi olan **325.00-330.00 TL** bandına gerilemesi, portföydeki ağırlığı yüksek olsa dahi, maliyet düşürmek ve pozisyonu güçlendirmek için bir fırsat olarak değerlendirilmektedir.
 
-### Kademeli Alım Planı (Revize: 10 Eylül 2025)
+### Kademeli Alım Planı (Revize: 19 Eylül 2025)
 - **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Kullanıcının, hissenin mevcut 315 TL seviyesinden beklenen düzeltmeyi yapmayabileceği yönündeki beklentisi üzerine alım kademeleri yukarı çekilmiştir.
+- **Gerekçe (kısa):** Güncel fiyatın (317.0 TL) önceki alım kademelerinin üzerinde kalması ve küçük geri çekilmeleri değerlendirme isteği üzerine kademeler yukarı yönlü revize edilmiştir.
 - **DURUM: 1. KADEME ALINDI (12 Eylül 2025). Fiyatın 2. kademe alım bölgesine gerilemesi beklenmektedir.**
 - **Seviyeler:**
-  - **1. Kademe (İlk Alım): 312.00 – 310.00 TL** (Mevcut fiyata en yakın ilk destek bölgesi)
-  - **2. Kademe (Ana Alım): 306.00 – 302.00 TL** (Psikolojik ve teknik destek bölgesi)
-  - **3. Kademe (Güçlü Alım): 295.00 – 290.00 TL** (Önceki güçlü destek/direnç bölgesi)
-  - **Risk Yönetimi (Alımı Durdur):** 280.00 TL altında günlük kapanış.
+  - **2. Kademe (Ara Alım): 315.00 – 312.00 TL** (Mevcut fiyata yakın ara destek bölgesi)
+  - **3. Kademe (Ana Alım): 308.00 – 305.00 TL** (Psikolojik ve teknik destek bölgesi)
+  - **Risk Yönetimi (Alımı Durdur):** 295.00 TL altında günlük kapanış.
 
 ### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
-- **1. Kademe (3.833 TL):** 312.00 – 310.00 TL aralığından alım.
-- **2. Kademe (4.000 TL):** 306.00 – 302.00 TL aralığına gerilerse ek alım.
-- **3. Kademe (3.000 TL):** 295.00 – 290.00 TL aralığına gerilerse son alım.
-L):** 295.00 – 290.00 TL aralığına gerilerse son alım.
+- **1. Kademe (3.833 TL):** ALINDI (12 Eylül 2025)
+- **2. Kademe (4.000 TL):** 315.00 – 312.00 TL aralığına gerilerse ek alım.
+- **3. Kademe (3.000 TL):** 308.00 – 305.00 TL aralığına gerilerse son alım.

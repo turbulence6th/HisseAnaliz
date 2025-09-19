@@ -34,19 +34,16 @@ Piyasada yaşanan genel düşüş, YKBNK fiyatını tam da beklediğimiz alım k
 
 Bu durum, "Düşüşleri Alım Fırsatı Olarak Değerlendir" stratejisinin ne kadar isabetli olduğunu teyit etmiş ve alım planını **aktif hale getirmiştir**. Strateji, plana sadık kalarak bu kademelerden alım yapmak üzerine devam etmelidir.
 
-### Kademeli Alım Planı (Revize: 9 Eylül 2025)
+### Kademeli Alım Planı (Revize: 19 Eylül 2025)
 - **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Temel olarak güçlü olan hisse, zirve sonrası düzeltme sürecinde. Belirlenen seviyeler önemli teknik destek bölgeleridir. Mevcut fiyat 30.00 TL'dir.
-- **DURUM: BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.**
+- **Gerekçe (kısa):** Fiyatın eski alım planı seviyelerinin çok üzerine çıkması ve ana strateji dosyasındaki 'Al' kararı doğrultusunda, mevcut trend içinde yeni giriş noktaları belirlemek amacıyla plan yukarı yönlü revize edilmiştir.
+- **DURUM:** Mevcut pozisyon üzerine ekleme yapmak için yeni kademeler beklenmektedir.
 - **Seviyeler:**
-  - **1. Kademe (İlk Alım): 29.00 – 28.00 TL** (Son düşüşteki destek bölgesi)
-  - **2. Kademe (Ana Alım): 27.00 – 26.00 TL** (Önceki güçlü destek/direnç bölgesi)
-  - **3. Kademe (Güçlü Alım): 24.50 – 23.50 TL** (Ana trendin daha güçlü bir destek hattı)
-  - **Risk Yönetimi (Alımı Durdur):** 23.00 TL altında günlük kapanış.
+  - **1. Kademe (Ara Alım): 33.50 – 32.50 TL** (Mevcut fiyata yakın ara destek)
+  - **2. Kademe (Ana Alım): 31.50 – 30.50 TL** (Daha güçlü destek bölgesi)
+  - **Risk Yönetimi (Alımı Durdur):** 29.00 TL altında günlük kapanış.
 
 ### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
-- **1. Kademe (3.833 TL):** 29.00 – 28.00 TL aralığından alım.
-- **2. Kademe (4.000 TL):** 27.00 – 26.00 TL aralığına gerilerse ek alım.
-- **3. Kademe (3.000 TL):** 24.50 – 23.50 TL aralığına gerilerse son alım.
-
-
+- **1. Kademe (3.833 TL):** 33.50 – 32.50 TL aralığından alım.
+- **2. Kademe (4.000 TL):** 31.50 – 30.50 TL aralığına gerilerse ek alım.
+- **Not:** Kalan 3.000 TL'lik bütçe, daha derin bir düzeltme olması durumunda değerlendirilmek üzere saklanmaktadır.

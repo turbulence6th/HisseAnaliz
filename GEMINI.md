@@ -65,3 +65,35 @@ python tweet_cekme.py samiltayyar27 elonmusk
 ```
 
 Betik, tweet'leri standart çıktıya yazdıracaktır. Bu çıktının analiz edilerek ilgili `siyasi-analiz/{AKTÖR_ADI}.md` dosyasına işlenmesi beklenir.
+
+### `efektif_faiz_hesapla.py` Nasıl Kullanılır:
+
+Bir kredi veya taksitli alım için efektif aylık faiz oranını hesaplamak amacıyla kullanılır. Gerekli parametreler komut satırı argümanları olarak sağlanmalıdır.
+
+```bash
+python efektif_faiz_hesapla.py --ana-para <TUTAR> --taksit-sayisi <AY> --aylik-odeme <TUTAR>
+```
+
+**Örnek:**
+
+```bash
+python efektif_faiz_hesapla.py --ana-para 100000 --taksit-sayisi 12 --aylik-odeme 9500.50
+```
+
+Betik, hesaplanan efektif aylık ve yıllık faiz oranlarını standart çıktıya yazdıracaktır.
+
+### `taksit_bugunku_deger_hesapla.py` Nasıl Kullanılır:
+
+Taksitli bir alışverişin bugünkü peşin değerini, yani bugünkü nakit fiyatının ne olması gerektiğini hesaplamak için kullanılır. Aylık faiz oranı olarak, paranın alternatif yatırım (örneğin mevduat faizi) getirisini veya aylık enflasyon oranını girebilirsiniz.
+
+```bash
+python taksit_bugunku_deger_hesapla.py --toplam-odeme <TUTAR> --taksit-sayisi <AY> --aylik-faiz <YÜZDE>
+```
+
+**Örnek:**
+
+```bash
+python taksit_bugunku_deger_hesapla.py --toplam-odeme 15000 --taksit-sayisi 6 --aylik-faiz 2.5
+```
+
+Betik, alışverişin bugünkü peşin değerini standart çıktıya yazdıracaktır.

@@ -1,3 +1,29 @@
+## Şamil Tayyar Siyasi Analiz Özeti (21 Eylül 2025)
+
+Bu analiz, Şamil Tayyar'ın 13-19 Eylül 2025 tarihleri arasındaki Twitter paylaşımlarından derlenmiştir ve önceki analizleri tamamlayıcı niteliktedir.
+
+### Analiz ve Yorum
+
+Şamil Tayyar'ın son paylaşımları, önceki haftanın ana temalarını sürdürmekle birlikte yeni odak noktaları da ortaya koymaktadır:
+
+1.  **Yolsuzlukla Mücadele Takibi (Can Holding):**
+    *   "Can Holding" operasyonunu yakından izlemeye devam etmektedir. Soruşturmadaki "tuhaflıklara" dikkat çekmekle birlikte, dosyanın yetkisizlik kararıyla İstanbul'daki Örgütlü Suçlar Bürosu'na devredilmesini "olumlu bir gelişme" olarak görmüştür. Bu, konuya olan ilgisinin devam ettiğini ve sistemsel bir "arınma" beklentisini koruduğunu göstermektedir.
+
+2.  **Parti İçi Değişim ve Teşkilat Operasyonları:**
+    *   AK Parti'de istifa eden il başkanları sayısındaki artışı, seçime doğru bir "çekidüzen verme" ve "neşter vurma" olarak yorumlamıştır. Bu süreci desteklemesi, parti içinde bir yenilenme ve disiplin sağlanması gerektiğine inandığını ortaya koymaktadır. Bu, iç siyasete yönelik yeni bir yorum alanıdır.
+
+3.  **Bürokrasideki Atamalara Net Tavır (Diyanet):**
+    *   Cumhurbaşkanı Erdoğan'ın Diyanet İşleri Başkanı Ali Erbaş'ın görev süresini uzatmamasını "İyi yaptı, imzasına sağlık" diyerek net bir şekilde desteklemiştir. Diyanet'in Erbaş döneminde çok yıprandığını belirterek, bürokrasideki atamalar ve görevden almalar konusunda eleştirel ve sonuç odaklı bir tavır sergileyebildiğini bir kez daha göstermiştir.
+
+4.  **Keskin Dış Politika Duruşunun Sürmesi (Anti-İsrail):**
+    *   İsrail'e yönelik sert tutumunu sürdürmektedir. İslam İşbirliği Teşkilatı'nın kınamalarının İsrail üzerinde bir etkisi olmadığını ve İsrail'in Gazze'ye kara harekatı başlatarak karşılık verdiğini vurgulamıştır. Dışişleri Bakanı Hakan Fidan'ın "İsrail yayılmacılığı" söylemine atıfta bulunarak, konuyu sadece bir Filistin meselesi olarak değil, Türkiye'yi de hedef alabilecek bölgesel bir tehdit olarak çerçevelemektedir.
+
+### Genel Değerlendirme
+
+Son paylaşımlar, Şamil Tayyar'ın önceki haftalarda çizdiği profili pekiştirmektedir. Hükümetin ve Cumhurbaşkanı'nın stratejik kararlarını (parti içi operasyonlar, bürokratik atamalar) güçlü bir şekilde desteklerken, yolsuzluk gibi konularda sürecin takipçisi olmaya devam etmektedir. Dış politikadaki keskin ve tavizsiz duruşu değişmemiştir. Eleştirel pozisyonunu, doğrudan hükümetin ana politikalarına değil, daha çok uygulamadaki aksaklıklara veya liyakatsiz olarak gördüğü bürokratik kadrolara yöneltmektedir.
+
+---
+
 # Şamil Tayyar Siyasi Analiz Özeti (12 Eylül 2025)
 
 Bu analiz, Şamil Tayyar'ın son Twitter paylaşımlarından derlenmiştir ve ham tweet verileri yerine yorumlanmış bir özet sunmaktadır.

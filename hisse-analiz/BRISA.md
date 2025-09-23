@@ -8,6 +8,7 @@ Bu not, Brisa'nın son finansal sonuçları sonrası yaşadığı düşüşü bi
 - Döviz kurundaki artış, ihracat gelirlerini olumlu etkileme potansiyeline sahip.
 
 ## Katalistler
+- **ISO 42001 Belgesi:** Türkiye’de ISO 42001 Yapay Zeka Yönetim Standardı belgesini alan ilk sanayi şirketi olması, şirketin dijital dönüşüm ve teknolojiye olan bağlılığını teyit eden önemli bir gelişmedir. Bu, yapay zekayı etik ve şeffaf bir şekilde kullanma taahhüdünü gösterir.
 - Otomotiv ve lastik talebinde toparlanma.
 - Ham madde fiyatlarında istikrar veya düşüş.
 - Başarılı bilanço yönetimi ve kârlılıkta yeniden artış sinyalleri.

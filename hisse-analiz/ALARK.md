@@ -11,6 +11,7 @@ Alarko, klasik ve kârlı iş kollarından (Sanayi-Ticaret) elde ettiği kaynakl
 ## Katalistler
 
 *   Tarım yatırımlarının (özellikle Alsera) ciro ve kârlılığa beklenenden hızlı ve güçlü katkı sağlamaya başlaması.
+*   Enerji üretim segmentinde, ABD ile yapılan LNG anlaşması sonrası doğalgaz maliyetlerindeki düşüşle birlikte kârlılığın artması.
 *   Alarko Capital portföyündeki bir teknoloji şirketinden başarılı bir halka arz veya yüksek değerlemeli satış (exit) haberi.
 *   Enerji depolama alanında somut bir projenin başlaması veya büyük bir ihalenin kazanılması.
 *   Şirketin konsolide bazda tekrar sürdürülebilir kârlılığa geçmesi.
@@ -37,6 +38,10 @@ Alarko, klasik ve kârlı iş kollarından (Sanayi-Ticaret) elde ettiği kaynakl
 3.  **Zayıf Likidite:** Cari oranın 0,95 olması, şirketin kısa vadeli yükümlülüklerini karşılama kapasitesinin sınırlı olduğunu göstermektedir.
 
 ## Güncel Gelişmeler (Haber Akışı)
+
+*   **26 Eylül 2025: ABD-Türkiye Enerji Anlaşması**
+    *   **Haber:** Türkiye'nin, enerji arz güvenliğini artırmak ve kaynak çeşitliliği sağlamak amacıyla ABD'den LNG (Sıvılaştırılmış Doğal Gaz) tedarik etmesini öngören bir enerji anlaşması imzalandı.
+    *   **Stratejik Önem:** Alarko Holding'in iştirakleri arasında doğalgaz çevrim santralleri bulunmaktadır. Bu santrallerde elektrik üretim maliyetinin ana kalemini doğalgaz oluşturur. ABD'den potansiyel olarak daha rekabetçi ve öngörülebilir fiyatlarla gaz tedarik edilmesi, holdingin **enerji üretim segmentindeki kârlılığını doğrudan ve pozitif etkileme** potansiyeli taşır. Bu durum, şirketin yeni yatırım alanları olan tarım ve teknolojiye kaynak aktarma kapasitesini güçlendiren önemli bir gelişmedir.
 
 *   **12 Eylül 2025: Konya Ereğli'de Yeni Gıda İşleme Fabrikası Açıldı**
     *   **Haber:** Alarko Tarım, Konya Ereğli Organize Sanayi Bölgesi'nde 5.100 ton ham madde işleme kapasitesine sahip yeni bir meyve-sebze kurutma fabrikası açtı.

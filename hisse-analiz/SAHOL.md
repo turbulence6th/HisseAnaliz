@@ -12,10 +12,15 @@ Bu pozisyon, savunma amaçlı değil, tamamen **spekülatif bir "yeniden yapıla
 
 ## Katalistler (Takip Edilecek Olası Pozitifler)
 - **Başarılı Yeniden Yapılanma:** Malzeme Teknolojileri grubunun (Brisa, Kordsa, Çimsa) kârlılığa geçmesi. Bu, holdingin en büyük sorununu çözecektir (Ana Tez).
+- **Enerji Grubu'nda Marj Artışı:** ABD ile yapılan LNG anlaşması sonrası, enerji segmentinin kârlılığının daha da güçlenmesi.
 - **Yeni CEO Stratejisi:** Yeni CEO Kıvanç Zaimler'in, kârlılığı artırmaya yönelik başarılı bir strateji uygulaması.
 - **Enerji ve Bankacılığın Devam Eden Gücü:** Bu iki ana motorun, diğer segmentler toparlanana kadar holdingi taşımaya devam etmesi.
 
 ## Güncel Gelişmeler
+
+*   **26 Eylül 2025: ABD-Türkiye Enerji Anlaşması**
+    *   **Haber:** Türkiye'nin, enerji arzını çeşitlendirmek ve arz güvenliğini sağlamak amacıyla ABD'den LNG (Sıvılaştırılmış Doğal Gaz) tedarik etmesine yönelik bir anlaşma imzalandı.
+    *   **Stratejik Önem:** Bu gelişme, Sabancı Holding'in en güçlü ve kârlı segmentlerinden biri olan **Enerji Grubu** için doğrudan pozitif bir katalizördür. Grubun portföyündeki doğalgaz çevrim santrallerinin yakıt maliyetlerinin düşmesi veya daha öngörülebilir hale gelmesi, segmentin kârlılığını daha da artırma potansiyeli taşır. Bu durum, zayıf olan Malzeme Teknolojileri segmentinin yeniden yapılandırılması sürecinde holdinge **ek bir finansal tampon ve güç** sağlamaktadır. Dolayısıyla, spekülatif yeniden yapılanma tezinin riskini azaltan bir gelişmedir.
 
 *   **ABD'de Yeni Güneş Enerjisi Yatırımı (15 Ağustos 2025):** Sabancı Holding, ABD'nin Teksas eyaletinde 130 MW kapasiteli "Lucky 7 Solar Farm" geliştirme hakkına sahip şirketi satın aldı. 2027'nin üçüncü çeyreğinde devreye girmesi planlanan bu yatırımla birlikte, şirketin ABD'deki toplam yenilenebilir enerji portföyünün 790 MW'a ulaşması hedefleniyor. Bu gelişme, Enerji Grubu'nun güçlü büyüme görünümünü teyit eden ve tezin bu bacağını destekleyen somut bir adımdır.
 

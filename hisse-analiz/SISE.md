@@ -18,22 +18,33 @@ Raporun ana hikayesi, küresel ve yurt içi sanayi sektöründeki yavaşlamaya p
 
 ## Potansiyel Katalistler
 
-*   **Ukrayna Savaşının Sona Ermesi:** Savaşın sona ermesi, özellikle Avrupa'da doğalgaz fiyatları üzerinde bir normalleşme ve düşüş baskısı yaratabilir. Şişecam'ın üretim sürecindeki yoğun enerji kullanımı göz önüne alındığında, düşen enerji maliyetleri doğrudan kâr marjlarına pozitif yansıyacaktır.
+*   **ABD ile Yapılan Enerji Anlaşmasının Etkileri:** Türkiye'nin ABD'den LNG tedarik etmesini sağlayacak anlaşmanın, şirketin doğalgaz maliyetlerini düşürerek marjları iyileştirmesi (Gerçekleşmekte olan ana katalizör).
+*   Ukrayna Savaşının Sona Ermesi: Savaşın sona ermesi, özellikle Avrupa'da doğalgaz fiyatları üzerinde ek bir düşüş baskısı yaratabilir.
 *   Global ekonomik aktivitede toparlanma.
-*   Enerji (doğalgaz) maliyetlerinde düşüş.
 *   Otomotiv ve inşaat gibi ana müşteri sektörlerinde talep artışı.
 *   Stratejik yatırımların (örneğin ABD yatırımı) devreye girmesi ve kârlılığa katkı sağlaması.
 
 ## Riskler
 
-*   **Global Resesyon:** En büyük risktir. Ekonomik yavaşlama, tüm ana segmentlerde talebi aynı anda düşürebilir.
-*   **Enerji Maliyetleri:** Üretimde yoğun enerji kullandığı için, doğalgaz fiyatlarındaki artışlar kâr marjlarını doğrudan baskılar.
-*   **Arz/Talep Dengesizlikleri:** Global pazardaki kapasite fazlası, ürün fiyatları üzerinde baskı yaratabilir.
+*   Global Resesyon: En büyük risktir. Ekonomik yavaşlama, tüm ana segmentlerde talebi aynı anda düşürebilir.
+*   Enerji Maliyetleri: ABD ile yapılan LNG anlaşması arz güvenliği ve fiyatlama konusunda riski azaltmış olsa da, küresel doğalgaz fiyatlarındaki beklenmedik artışlar kâr marjlarını hala baskılayabilir. Risk, "fiyat şokları"ndan "küresel fiyat seviyesine" evrilmiştir.
+*   Arz/Talep Dengesizlikleri: Global pazardaki kapasite fazlası, ürün fiyatları üzerinde baskı yaratabilir.
 
 ## Hüküm ve Strateji (KADEMELİ AL)
 
 *   **Karar:** Faaliyet raporu, marjların korunup korunamadığına dair endişeleri ortadan kaldırmıştır. Şirketin zorlu koşullardaki operasyonel başarısı, onu portföy için cazip bir aday haline getirmiştir. Yeni strateji, piyasada yaşanacak düşüşleri **kademeli alım fırsatı** olarak değerlendirmektir.
 *   **Gerekçe:** Ereğli örneğinin aksine, Şişecam'ın döngüsel yavaşlamayı kârlılığını artırarak yönetebilmesi, şirketin defansif ve operasyonel gücünü göstermektedir. Bu, "BEKLE VE GÖR" stratejisinin başarıyla tamamlandığı ve bir sonraki aşamaya geçilebileceği anlamına gelir.
+
+## Stratejik Değerlendirme (26 Eylül 2025)
+
+**Katalizör Gerçekleşiyor: ABD ile Enerji Anlaşması**
+
+26 Eylül 2025 tarihinde duyurulan ABD-Türkiye enerji anlaşması, SISE'nin yatırım tezi için kritik bir öneme sahiptir. Bu anlaşma çerçevesinde Türkiye'nin ABD'den doğalgaz (LNG) tedarik edecek olması, daha önce "potansiyel katalist" olarak listelenen **enerji maliyetlerinde düşüş** beklentisini somut bir adıma dönüştürmüştür.
+
+*   **Doğrudan Etki:** Şişecam, üretim süreçlerinde yoğun doğalgaz tüketen bir şirkettir. Rusya ve İran gibi geleneksel tedarikçilere olan bağımlılığı azaltacak ve potansiyel olarak daha öngörülebilir/rekabetçi fiyatlarla gaz tedarikini sağlayacak bu anlaşma, şirketin en büyük maliyet kalemlerinden birini doğrudan etkileyerek kâr marjlarını orta ve uzun vadede **önemli ölçüde iyileştirme potansiyeli** taşımaktadır.
+*   **Risk Azalımı:** Bu gelişme, "Enerji Maliyetleri" başlığında belirtilen riski (özellikle arz güvenliği ve fiyat şokları riskini) ciddi şekilde azaltmaktadır.
+
+Bu haber, şirketin operasyonel gücüne ek olarak, maliyet yapısında da yapısal bir iyileşme potansiyeli yarattığı için "KADEMELİ AL" stratejisini güçlendiren en önemli güncel gelişmedir.
 
 ### Strateji Değerlendirmesi (2 Eylül 2025)
 Piyasada yaşanan genel düşüş, SISE fiyatını tam olarak plan dahilindeki **2. Kademe (38.50 – 40.00 TL)** alım aralığına getirmiştir. Gün içinde 37.62 TL seviyesinin test edilmesiyle bu kademe aktif hale gelmiştir. "Kademeli Alım" stratejisi disiplinli bir şekilde devam ettirilmelidir.

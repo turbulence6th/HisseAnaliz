@@ -1,0 +1,247 @@
+// Quark
+// ---------------------------------------------------------------------------
+
+function quarkPlugin(options) {
+  "use strict";
+
+  var self = this;
+
+  function rfc2Uid() {
+    var uid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+      var r = Math.random() * 16 | 0,
+        v = c == 'x' ? r : (r & 0x3 | 0x8);
+      return v.toString(16);
+    });
+    return uid;
+  }
+
+  console.log('QUARK STATS', options.stats.quark, ((options.vendor)?' '+options.vendor:''));
+
+  // Vars
+  // -----------------------------------------------------------------------
+  var HEARTBEAT_INTERVAL = options.stats.quark.interval;
+  var heartbeatInterval;
+  var playTimeInterval;
+  var playTime = 0;
+  var currentAudioTrack;
+  var currentTextTrack;
+  var playSessionId = rfc2Uid();
+  var playLogFlags = {
+    "0": false,
+    "103": false,
+    "25": false,
+    "50": false,
+    "75": false,
+    "100": false
+  };
+
+  // TODO: Check scope for multiple players
+
+  var detectMobile = function() {
+    if (window.outerWidth < 768) {
+      return true;
+    } else {
+      return false;
+    }
+  };
+
+
+  var getData = function() {
+    var _currentBitrate = null;
+    try {
+      _currentBitrate = self.getCurrentBitrate();
+      _currentBitrate = _currentBitrate.bitrate;
+    } catch (e) {
+      _currentBitrate = null;
+    }
+    var isLive = self.duration() === Infinity;
+
+    var data = {
+      records: [],
+      mediaPath: self.currentSrc(),
+      totalTime: parseInt(self.duration()),
+      currentTime: parseInt(self.currentTime()),
+      playPct: 0,
+      mediacontroller: 'videojs',
+      playTime: Math.round(playTime),
+      currentBitrate: _currentBitrate,
+      application: options.stats.quark.application,
+      userName: options.stats.quark.username,
+      itemId: options.materialId,
+      playSessionId: playSessionId,
+      heartbeatInterval: HEARTBEAT_INTERVAL,
+      isLive: isLive,
+      appVer: self.version
+    };
+    return data;
+  }
+
+  var get = function(url, id) {
+    var id = id ? id + '_impression_image' : 'quark_impression_image';
+    if (document.getElementById(id)) {
+      var oImg = document.getElementById(id);
+    } else {
+      var oImg = document.createElement("img");
+      oImg.setAttribute('id', id);
+      oImg.setAttribute('alt', '');
+      oImg.setAttribute('height', '1px');
+      oImg.setAttribute('width', '1px');
+      oImg.style.display = 'none';
+      document.body.appendChild(oImg);
+    }
+    oImg.setAttribute('src', url);
+  }
+
+  var sendPlayLog = function(playPct) {
+    if (playLogFlags[playPct]) return;
+
+    playLogFlags[playPct] = true;
+
+    var data = getData();
+    data.playPct = parseInt(playPct);
+
+    if (_qs && data) _qs('send', 'playLog', data);
+  }
+
+  var sendHeartbeat = function() {
+    var data = getData();
+    var percent = (playTime / self.duration() * 100).toFixed(2);
+    data.playPct = parseFloat(percent);
+
+    if (_qs && data) _qs('send', 'heartBeat', data);
+  }
+
+  // Events
+  // -----------------------------------------------------------------------
+
+  self.on('loadedmetadata', function(e) {
+
+  });
+
+  self.on('adstart', function() {
+
+  });
+
+  self.on('play', function(e) {
+    sendPlayLog("0");
+    sendHeartbeat();
+    if (!heartbeatInterval) {
+      heartbeatInterval = setInterval(function() {
+        sendHeartbeat();
+      }, HEARTBEAT_INTERVAL * 1000);
+    }
+    if (!playTimeInterval) {
+      playTimeInterval = setInterval(function() {
+        playTime++;
+        //console.log('PLAY TIME', playTime, 'CURRENT TIME', self.currentTime());
+        // Percent
+        var pct = (playTime / self.duration() * 100).toFixed(0);
+        for (var i in playLogFlags) {
+          if (pct != Infinity && pct >= parseInt(i) && !playLogFlags[i]) {
+            sendPlayLog(i);
+          }
+        }
+        // 3 Minutes
+        if (playTime >= 3 * 60 && !playLogFlags["103"]) {
+          sendPlayLog("103");
+        }
+
+        // Send audio and subtitle event
+        var audioTracks = self.audioTracks().tracks_;
+        var _currentAudioTrack = null;
+        for (var i = 0; i < audioTracks.length; i++) {
+          var audioTrack = audioTracks[i];
+          if (audioTrack.enabled) {
+            _currentAudioTrack = audioTrack;
+          }
+        }
+
+        var textTracks = self.textTracks().tracks_;
+        var _currentTextTrack = null;
+        for (var i = 0; i < textTracks.length; i++) {
+          var textTrack = textTracks[i];
+          if (textTrack.mode === "showing") {
+            _currentTextTrack = textTrack;
+          }
+        }
+        if (currentTextTrack !== _currentTextTrack ||  currentAudioTrack !== _currentAudioTrack) {
+          currentTextTrack = _currentTextTrack;
+          currentAudioTrack = _currentAudioTrack;
+          if (console) {
+            console.log("Quark Plugin", "Current Text Track", currentTextTrack, ((options.vendor)?' '+options.vendor:''));
+          }
+          if (console) {
+            console.log("Quark Plugin", "Current Audio Track", currentAudioTrack, ((options.vendor)?' '+options.vendor:''));
+          }
+          //Send Log
+          if (_qs) {
+            _qs('send', 'event', 'dub_sub', {
+              sub: (currentTextTrack ? currentTextTrack.label : null),
+              dub: (currentAudioTrack ? currentAudioTrack.label : null)
+            }, {
+              itemId: options.materialId,
+              userName: options.stats.quark.username
+            });
+          }
+        }
+      }, 1000);
+    }
+  });
+
+  self.on('pause', function(e) {
+    if (heartbeatInterval) {
+      clearInterval(heartbeatInterval);
+      heartbeatInterval = null;
+    }
+    if (playTimeInterval) {
+      clearInterval(playTimeInterval);
+      playTimeInterval = null;
+    }
+  });
+
+  self.on('allended', function(e) {
+    sendPlayLog("100");
+    if (heartbeatInterval) {
+
+      clearInterval(heartbeatInterval);
+      heartbeatInterval = null;
+    }
+    if (playTimeInterval) {
+      clearInterval(playTimeInterval);
+      playTimeInterval = null;
+    }
+  });
+
+  var waitingStarted = false;
+  var waitingStartedTime = null;
+  self.on('waiting', function() {
+    waitingStartedTime = new Date();
+    if (console) {
+      console.log("Quark Plugin", "Waiting Started at: " + waitingStartedTime, ((options.vendor)?' '+options.vendor:''));
+    }
+    waitingStarted = true;
+  });
+
+  self.on('playing', function() {
+    if (waitingStarted) {
+      var t2 = new Date();
+      var diff = t2.getTime() - waitingStartedTime.getTime();
+      var s = diff / 1000;
+
+      if (console) {
+        console.log("Quark Plugin", "Waiting Ended (" + s + " second(s))", ((options.vendor)?' '+options.vendor:''));
+      }
+
+      // Send log
+      if (_qs) {
+        _qs('send', 'event', 'buffer_wait_time', s, {
+          itemId: options.materialId,
+          userName: options.stats.quark.username
+        });
+      }
+      waitingStarted = false;
+    }
+  });
+
+
+}

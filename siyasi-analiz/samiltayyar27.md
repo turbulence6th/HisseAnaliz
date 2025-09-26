@@ -1,3 +1,30 @@
+## Şamil Tayyar Siyasi Analiz Özeti (26 Eylül 2025)
+
+Bu analiz, Şamil Tayyar'ın 21-25 Eylül 2025 tarihleri arasındaki Twitter paylaşımlarından derlenmiştir.
+
+### Analiz ve Yorum
+
+Şamil Tayyar'ın son paylaşımları, önceki analizlerdeki ana temaları korurken, bazı konulardaki vurgusunu ve eleştirel dozunu artırdığını göstermektedir.
+
+1.  **Parti İçi Değişim Talebinin Genişlemesi:**
+    *   AK Parti'de 8 il başkanının istifasını yorumlarken, bu durumu sadece bir "teşkilat operasyonu" olarak görmenin ötesine geçmiştir. Bu istifaların kamuoyunda yarattığı heyecanın, sadece teşkilatlarla sınırlı kalmaması gereken, **kabine, külliye ve bakanlık bürokrasisini de kapsayacak geniş kapsamlı bir değişim özleminden** kaynaklandığını belirtmiştir. Bu, parti ve devlet yapısındaki yenilenme talebini daha açık ve geniş bir çerçevede dile getirdiğini gösteren, bugüne kadarki en net iç eleştiri çıkışıdır.
+
+2.  **Dış Politika: ABD ile Yakınlaşmayı İsrail'e Mesaj Olarak Yorumlama:**
+    *   Cumhurbaşkanı Erdoğan ve ABD Başkanı Trump arasındaki uzun zirveyi, sadece bir görüşme olarak değil, **İsrail ve Batı dünyasına yönelik önemli bir mesaj** olarak yorumlamıştır. İsrail'in bu samimi görüşmeden "çok rahatsız olduğunu" vurgulayarak, Türkiye'nin ABD ile kurduğu güçlü ilişkinin, İsrail'e karşı bir denge ve stratejik üstünlük aracı olabileceğini ima etmektedir. Bu, onun klasik Anti-İsrail duruşuna yeni bir jeopolitik boyut eklediğini göstermektedir.
+    *   Gazze'ye giden yardım filosu ve Erdoğan'ın BM'deki konuşmasına verdiği destekle Filistin konusundaki hassasiyetini sürdürmektedir.
+
+3.  **İç Politika: Muhalefet ve Yargı Krizi:**
+    *   CHP'nin kurultay sürecinde YSK ile mahkeme arasında yaşanan ihtilafı, basit bir parti içi sorun olarak değil, "iktisadi ve siyasi sonuçları olan bir yargı krizi" olarak tanımlamıştır. Bu yorum, muhalefetin kendi iç sorunlarının ülke geneli için bir istikrarsızlık riski yarattığına dair eleştirisini sürdürdüğünü göstermektedir.
+
+4.  **Ulusal Başarıların Vurgulanması:**
+    *   TEKNOFEST'e dair yaptığı övgü dolu paylaşım, iktidarın teknoloji ve savunma sanayii alanındaki başarılarını sahiplenme ve kamuoyuyla paylaşma rolünü devam ettirdiğini teyit etmektedir.
+
+### Genel Değerlendirme
+
+Şamil Tayyar, temel siyasi pozisyonunu (Erdoğan liderliğine tam destek, keskin İsrail karşıtlığı) korumaktadır. Ancak son paylaşımları, AK Parti ve devlet bürokrasisi içinde görmek istediği "arınma" ve "değişim" talebinin kapsamını belirgin bir şekilde genişlettiğini ve söylemini sertleştirdiğini ortaya koymaktadır. Artık sadece teşkilatları değil, daha üst kademeleri de hedef alan bir yenilenme beklentisi içindedir. Dış politikada ise ABD ile ilişkileri, İsrail'i dengeleme ekseninde okuması, analizlerine yeni bir katman eklemiştir.
+
+---
+
 ## Şamil Tayyar Siyasi Analiz Özeti (21 Eylül 2025)
 
 Bu analiz, Şamil Tayyar'ın 13-19 Eylül 2025 tarihleri arasındaki Twitter paylaşımlarından derlenmiştir ve önceki analizleri tamamlayıcı niteliktedir.

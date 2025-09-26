@@ -49,19 +49,19 @@ Bu haber, şirketin operasyonel gücüne ek olarak, maliyet yapısında da yapı
 ### Strateji Değerlendirmesi (2 Eylül 2025)
 Piyasada yaşanan genel düşüş, SISE fiyatını tam olarak plan dahilindeki **2. Kademe (38.50 – 40.00 TL)** alım aralığına getirmiştir. Gün içinde 37.62 TL seviyesinin test edilmesiyle bu kademe aktif hale gelmiştir. "Kademeli Alım" stratejisi disiplinli bir şekilde devam ettirilmelidir.
 
-### Kademeli Alım Planı (Revize: 19 Eylül 2025)
+### Kademeli Alım Planı (Revize: 26 Eylül 2025)
 - **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Fiyatın son alım sonrası yukarı hareket etmesiyle, mevcut trend içinde yeni giriş noktaları belirlemek amacıyla plan yukarı yönlü revize edilmiştir.
-- **DURUM:** 1. KADEME ALINDI (36.50 – 35.50 TL). Yeni kademeler bekleniyor.
+- **Gerekçe (kısa):** ABD enerji anlaşması haberinin yarattığı pozitif momentum ve güncel fiyat seviyesi (39.96 TL) dikkate alınarak, geri çekilmeleri yakalamak amacıyla kademeler yukarı yönlü revize edilmiştir.
+- **DURUM:** 1. KADEME ALINDI (36.50 – 35.50 TL). Yeni 2. kademe bekleniyor.
 - **Seviyeler:**
-  - **Yeni 2. Kademe (Ara Alım): 38.00 – 37.50 TL** (Mevcut fiyata yakın ara destek)
-  - **Yeni 3. Kademe (Ana Alım): 36.50 – 35.50 TL** (Önceki alım seviyesi, şimdi güçlü destek)
-  - **Risk Yönetimi (Alımı Durdur):** 34.00 TL altında günlük kapanış.
+  - **Yeni 2. Kademe (Ara Alım): 39.50 – 39.00 TL** (Kısa vadeli geri çekilme bölgesi)
+  - **Yeni 3. Kademe (Ana Alım): 38.00 – 37.50 TL** (Önceki ara alım seviyesi, şimdi ana destek)
+  - **Risk Yönetimi (Alımı Durdur):** 36.00 TL altında günlük kapanış.
 
 ### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
 - **1. Kademe (3.833 TL):** 36.50 – 35.50 TL aralığından ALINDI.
-- **Yeni 2. Kademe (4.000 TL):** 38.00 – 37.50 TL aralığına gerilerse ek alım.
-- **Yeni 3. Kademe (3.000 TL):** 36.50 – 35.50 TL aralığına gerilerse son alım.
+- **Yeni 2. Kademe (4.000 TL):** 39.50 – 39.00 TL aralığına gerilerse ek alım.
+- **Yeni 3. Kademe (3.000 TL):** 38.00 – 37.50 TL aralığına gerilerse son alım.
 
 ### Raporda Neye Bakılacak?
 

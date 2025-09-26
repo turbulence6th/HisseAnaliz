@@ -62,6 +62,10 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 
 ### B) Uydu / İzleme Listesi Varlıkları
 
+#### DARDL (Dardanel)
+*   **HÜKÜM:** İZLE
+*   **GEREKÇE:** Şirket, 2025/06 raporunda teyit edildiği üzere net zarar, yüksek borçluluk ve kısa vadeli yükümlülüklerin dönen varlıkları aşması (likidite riski) gibi ciddi finansal zorluklarla karşı karşıyadır. Ancak yönetimin, Temmuz 2025'te tamamlanan büyük bir sermaye artırımı ve borç yapılandırması gibi radikal adımlarla bu durumu düzeltme çabası bulunmaktadır. Ayrıca, sandviç gibi yeni ürünlerle portföyünü çeşitlendirmesi potansiyel bir büyüme hikayesi sunmaktadır. Yüksek risk profili ve devam eden yeniden yapılandırma süreci nedeniyle hisse "Uydu / İzleme Listesi"ne eklenmiştir. Yeni pozisyon almadan önce, atılan adımların finansal tablolara (kârlılık ve likidite) olumlu yansıdığının görülmesi beklenecektir.
+
 #### VAKKO
 *   **HÜKÜM:** TUT VE İZLE
 *   **GEREKÇE:** Kullanıcının kararı doğrultusunda strateji güncellenmiştir. Portföydeki VAKKO pozisyonunun küçük olması nedeniyle, operasyonel zayıflığın getirdiği fırsat maliyetine [[memory:6128755]] katlanılarak rotasyon yapılmamasına karar verilmiştir. 2025/06 Faaliyet Raporu'nun teyit ettiği zorlu operasyonel tablo (ciro düşüşü, marj erimesi, net zarar) nedeniyle hisse yüksek riskli kalmaya devam etmektedir. Strateji, yeni alım yapmadan, mevcut küçük pozisyonla şirketin makroekonomik koşullara ve kendi iç dinamiklerine bağlı toparlanmasını beklemeyi içerir. Hisse, "Uydu / İzleme Listesi" kategorisindeki yerini korumaktadır.

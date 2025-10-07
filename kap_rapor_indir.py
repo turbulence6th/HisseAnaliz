@@ -1,12 +1,139 @@
 import requests
 import os
 import sys
+import io
 from datetime import datetime
+import argparse
+from bs4 import BeautifulSoup
+from enum import Enum
+
+# On Windows, printing to the console can fail if the output contains special characters.
+# To prevent a 'charmap' codec can't encode character' error, we force stdout to use UTF-8.
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
+
+class FundAssetGroup(Enum):
+    EUROBOND = "Eurobond"
+    HISSE_SENEDI = "Hisse Senedi"
+    ALTIN = "Altın"
+    BORCLANMA_ARACLARI = "Borçlanma Araçları"
+    PARA_PIYASASI = "Para Piyasası"
+
+    def __str__(self):
+        return self.value
+
 
 # HTTP istekleri için başlık bilgisi (Header)
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
+
+def get_fund_management_fee(fund_code):
+    """
+    Verilen fon koduna göre KAP'tan fon yönetim ücretini çeker.
+    """
+    fund_code = fund_code.upper()
+    print(f"\n'{fund_code}' için fon yönetim ücreti bilgisi alınıyor... 펀")
+
+    # --- Adım 1: Fon Kodu ile memberOrFundOid'yi al ---
+    search_url = "https://www.kap.org.tr/tr/api/search/combined"
+    search_payload = {
+        "keyword": fund_code,
+        "discClass": "ALL",
+        "lang": "tr",
+        "channel": "WEB"
+    }
+    try:
+        response = requests.post(search_url, json=search_payload, headers=HEADERS)
+        response.raise_for_status()
+        search_data = response.json()
+        fund_info = next((item for item in search_data if item['category'] == 'companyOrFunds'), None)
+        if not fund_info or not fund_info['results']:
+            print(f"HATA: '{fund_code}' kodu ile eşleşen bir fon bulunamadı. ❌")
+            return
+        
+        result = fund_info['results'][0]
+        if result.get('searchType') != 'F':
+            print(f"HATA: '{fund_code}' bir fon kodu değil, şirket kodu olabilir. ❌")
+            return
+            
+        member_oid = result['memberOrFundOid']
+        print(f"Fon OID'si bulundu: {member_oid}")
+
+    except requests.exceptions.RequestException as e:
+        print(f"HATA: Fon aranırken bir ağ hatası oluştu: {e} ❌")
+        return
+
+    # --- Adım 2: Fonun genel bilgi sayfasını al ---
+    fund_page_url = f"https://www.kap.org.tr/tr/fon-bilgileri/genel/{member_oid}"
+    try:
+        response = requests.get(fund_page_url, headers=HEADERS)
+        response.raise_for_status()
+        html_content = response.text
+        print("Fonun genel bilgi sayfası başarıyla alındı.")
+    except requests.exceptions.RequestException as e:
+        print(f"HATA: Fon sayfası alınırken bir ağ hatası oluştu: {e} ❌")
+        return
+
+    # --- Adım 3: HTML'i ayrıştır ve yönetim ücretini bul ---
+    try:
+        soup = BeautifulSoup(html_content, 'html.parser')
+
+        # "KOMİSYON VE GİDER BİLGİLERİ" başlığını içeren bölümü bul
+        commission_title = soup.find('span', class_='company__sgbf-accordion-title',
+                                     string=lambda t: t and 'KOMİSYON VE GİDER BİLGİLERİ' in t)
+
+        if not commission_title:
+            print("HATA: HTML içinde 'KOMİSYON VE GİDER BİLGİLERİ' bölümü bulunamadı. ❌")
+            return
+
+        # İlgili accordion'un içeriğini bul
+        accordion_content = commission_title.find_parent('button').find_next_sibling('div')
+
+        if not accordion_content:
+            print("HATA: Komisyon bölümünün içeriği bulunamadı. ❌")
+            return
+
+        # "Yönetim Ücreti Oranı (Yıllık) (%)" başlığını tam eşleşme ile ara
+        fee_header_text = 'Yönetim Ücreti Oranı (Yıllık) (%)'
+        
+        all_headers = accordion_content.find_all('th')
+        target_header = None
+        for header in all_headers:
+            if header.get_text(strip=True) == fee_header_text:
+                target_header = header
+                break
+        
+        if not target_header:
+            print(f"HATA: '{fee_header_text}' başlığı komisyon tablosunda bulunamadı. ❌")
+            return
+
+        # Başlığın sütun indeksini al
+        headers_in_row = target_header.find_parent('tr').find_all('th')
+        fee_index = headers_in_row.index(target_header)
+        
+        # Tablo gövdesinde aynı indeksteki değeri bul
+        table_body = target_header.find_parent('table').find('tbody')
+        first_row_cells = table_body.find('tr').find_all('td')
+
+        if len(first_row_cells) <= fee_index:
+            print("HATA: Yönetim ücreti değeri sütunu bulunamadı. ❌")
+            return
+
+        fee_value = first_row_cells[fee_index].get_text(strip=True)
+        
+        if not fee_value:
+            print(f"HATA: '{fund_code}' için yönetim ücreti değeri boş. ❌")
+            return
+
+        print("\n--- Bilgiler ---")
+        print(f"Fon Kodu: {fund_code}")
+        print(f"Fon Yönetim Ücreti Oranı (Yıllık) (%): {fee_value}")
+        print("----------------\n")
+
+    except Exception as e:
+        print(f"HATA: HTML ayrıştırılırken bir hata oluştu: {e} ❌")
+
 
 def get_latest_financial_report(ticker_symbol):
     """
@@ -15,7 +142,7 @@ def get_latest_financial_report(ticker_symbol):
     Klasör adı genel olduğu için değiştirilmedi, istenirse değiştirilebilir.
     """
     ticker_symbol = ticker_symbol.upper()
-    print(f"'{ticker_symbol}' için işlem başlatıldı... 📈")
+    print(f"\n'{ticker_symbol}' için işlem başlatıldı... 📈")
 
     # --- Adım 1: Şirket Kodu ile memberOrFundOid'yi al ---
     search_url = "https://www.kap.org.tr/tr/api/search/combined"
@@ -46,11 +173,9 @@ def get_latest_financial_report(ticker_symbol):
         response.raise_for_status()
         disclosures_data = response.json()
         
-        # --- DEĞİŞİKLİK BURADA ---
         financial_reports = []
         for report in disclosures_data:
             title = report.get('disclosureBasic', {}).get('title', '').lower()
-            # Artık "finansal rapor" arıyoruz
             if 'finansal rapor' in title and report.get('disclosureBasic', {}).get('donem'):
                 financial_reports.append(report)
         
@@ -84,12 +209,8 @@ def get_latest_financial_report(ticker_symbol):
         response.raise_for_status()
         attachment_data = response.json()
         pdf_attachment = None
-        # Finansal Rapor ekleri genellikle doğrudan raporun kendisidir ve birden fazla olabilir.
-        # Genellikle ilk PDF ana rapordur.
         for attachment in attachment_data[0]['attachments']:
              if attachment['fileExtension'].lower() == 'pdf':
-                # Türkçe olup olmadığını anlamak zor olabilir, genellikle ilk PDF'i seçmek işe yarar.
-                # Eğer belirli bir isimlendirme kuralı varsa (örn: ...TR.pdf), o da eklenebilir.
                 pdf_attachment = attachment
                 break
         if not pdf_attachment:
@@ -109,7 +230,7 @@ def get_latest_financial_report(ticker_symbol):
         pdf_response = requests.get(download_url, headers=HEADERS, stream=True)
         pdf_response.raise_for_status()
 
-        base_directory = "finansal-raporlar" # Klasör adını da güncelledim
+        base_directory = "finansal-raporlar"
         
         quarter_map = {1: '03', 2: '06', 3: '09', 4: '12'}
         quarter_dir_suffix = quarter_map.get(report_quarter_num, '00')
@@ -122,7 +243,6 @@ def get_latest_financial_report(ticker_symbol):
             os.makedirs(output_directory)
             print(f"'{output_directory}' klasör yapısı oluşturuldu.")
 
-        # --- DEĞİŞİKLİK BURADA (Dosya Adı) ---
         output_filename = f"{ticker_symbol}_Finansal_Rapor_{report_date.split(' ')[0].replace('.', '-')}.pdf"
         full_path = os.path.join(output_directory, output_filename)
 
@@ -137,13 +257,117 @@ def get_latest_financial_report(ticker_symbol):
     except OSError as e:
         print(f"HATA: Dosya kaydedilirken bir sistem hatası oluştu: {e} ❌")
 
+def get_funds_by_asset_group(asset_group: FundAssetGroup):
+    """
+    Verilen bir varlık grubuna ait fonları ve getirilerini TEFAS'tan çeker.
+    """
+    print(f"\n'{asset_group.value}' varlık grubuna ait fonlar ve getirileri TEFAS'tan alınıyor...")
+
+    tefas_url = "https://www.tefas.gov.tr/api/DB/BindComparisonFundReturns"
+    
+    # Tarayıcıdan alınan header'ları taklit et
+    tefas_headers = {
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "Origin": "https://www.tefas.gov.tr",
+        "Referer": "https://www.tefas.gov.tr/FonKarsilastirma.aspx",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "X-Requested-With": "XMLHttpRequest",
+    }
+
+    # curl komutundan alınan form verileri
+    form_data = {
+        "calismatipi": "2",
+        "fontip": "YAT",
+        "sfontur": "",
+        "kurucukod": "",
+        "fongrup": "",
+        "bastarih": "Başlangıç",
+        "bittarih": "Bitiş",
+        "fonturkod": "",
+        "fonunvantip": asset_group.value,
+        "strperiod": "1,1,1,1,1,1,1",
+        "islemdurum": "1",
+    }
+
+    try:
+        response = requests.post(tefas_url, headers=tefas_headers, data=form_data)
+        response.raise_for_status()
+        funds_data = response.json()
+
+        if not funds_data.get('data'):
+            print("Bu varlık grubu için fon bulunamadı veya bir hata oluştu.")
+            return
+
+        print("\n--- Fon Listesi ve Getirileri ---")
+        for fund in funds_data['data']:
+            print(f"- {fund['FONKODU']}: {fund['FONUNVAN']}")
+            getiri_1a = fund.get('GETIRI1A') or 0.0
+            getiri_6a = fund.get('GETIRI6A') or 0.0
+            getiri_1y = fund.get('GETIRI1Y') or 0.0
+            getiri_3y = fund.get('GETIRI3Y') or 0.0
+            print(f"    Getiriler -> 1A: %{getiri_1a:.2f} | 6A: %{getiri_6a:.2f} | 1Y: %{getiri_1y:.2f} | 3Y: %{getiri_3y:.2f}")
+        print("-----------------------------------\n")
+
+    except requests.exceptions.RequestException as e:
+        print(f"HATA: TEFAS API'sine istek gönderilirken bir ağ hatası oluştu: {e} ❌")
+    except ValueError: # JSON decode hatalarını yakala
+        print(f"HATA: TEFAS API'sinden gelen yanıt JSON formatında değil. Yanıt: {response.text} ❌")
+
+
 # --- Script'i Çalıştırma ---
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print("\nKullanım Hatası! ❌")
-        print("Lütfen şirketin BIST kodunu tek bir parametre olarak girin.")
-        print("Örnek Kullanım: python kap_rapor_indir.py SOKM\n")
+    parser = argparse.ArgumentParser(
+        description="KAP'tan finansal rapor indirme veya fon bilgisi çekme aracı.",
+        formatter_class=argparse.RawTextHelpFormatter
+    )
+    subparsers = parser.add_subparsers(dest='command', required=True, help='Çalıştırılacak komut')
+
+    # Rapor indirme komutu
+    parser_report = subparsers.add_parser('rapor', help='Belirtilen şirket için en son finansal raporu indirir.')
+    parser_report.add_argument('ticker', type=str, help='Raporu indirilecek şirketin BIST kodu (örn: SOKM)')
+
+    # Fon yönetim ücreti komutu
+    parser_fund = subparsers.add_parser(
+        'fon-ucret', 
+        help='Belirtilen fonun yönetim ücreti oranını çeker.\nÖrnek: python kap_rapor_indir.py fon-ucret TZL',
+        formatter_class=argparse.RawTextHelpFormatter
+    )
+    parser_fund.add_argument('fund_code', type=str, help='Bilgisi çekilecek fonun kodu (örn: TZL)')
+
+    # Fon listeleme komutu
+    parser_list_funds = subparsers.add_parser(
+        'fon-liste',
+        help='Belirtilen varlık grubuna ait fonları TEFAS\'tan listeler.\nÖrnek: python kap_rapor_indir.py fon-liste Eurobond',
+        formatter_class=argparse.RawTextHelpFormatter
+    )
+    parser_list_funds.add_argument(
+        'asset_group', 
+        type=FundAssetGroup, 
+        choices=list(FundAssetGroup),
+        help=f"Fonun dahil olduğu varlık grubu (Seçenekler: {', '.join([e.value for e in FundAssetGroup])})"
+    )
+
+
+    # Eğer hiç komut girilmezse yardım mesajını göster
+    if len(sys.argv) == 1:
+        parser.print_help(sys.stderr)
+        sys.exit(1)
+        
+    args = parser.parse_args()
+
+    # Gerekli kütüphanelerin kontrolü
+    try:
+        import requests
+        from bs4 import BeautifulSoup
+    except ImportError as e:
+        print(f"HATA: Gerekli bir kütüphane eksik: {e.name}. ❌")
+        print(f"Lütfen 'pip install {e.name}' komutu ile kurun.")
         sys.exit(1)
 
-    company_ticker = sys.argv[1]
-    get_latest_financial_report(company_ticker)
+    if args.command == 'rapor':
+        get_latest_financial_report(args.ticker)
+    elif args.command == 'fon-ucret':
+        get_fund_management_fee(args.fund_code)
+    elif args.command == 'fon-liste':
+        get_funds_by_asset_group(args.asset_group)

@@ -14,14 +14,13 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **DURUM:** Banka ve holding hisselerinde gözlenen genel satış dalgası, bu sektörlerdeki güçlü temellere sahip şirketlerde **alım fırsatı** olarak değerlendirilmektedir.
 *   **GENEL STRATEJİ:** Zayıf halkalar olan EREGL ve ENJSA'dan çıkan nakit, piyasa düşüşüyle iskontolu hale gelen **YKBNK ve SAHOL** gibi Çekirdek Varlıklardaki pozisyonları güçlendirmek için kullanılmıştır. Strateji, proaktif bir şekilde **alım yönlüdür**.
 
-## 3. Siyasi Konjonktür Değerlendirmesi (12 Eylül 2025)
+## 3. Ciner Soruşturması Sonrası Piyasa Değerlendirmesi (28 Eylül 2025)
 
-*   **DURUM:** Son siyasi gelişmeler, Eylül başındaki iyimserliğe kıyasla piyasaya yeni risk katmanları eklemiştir. Bu durum, daha temkinli bir duruşu gerektirmektedir.
-*   **ANA RİSKLER:**
-    *   **Artan Siyasi Risk ve Şirket Yönetişimi:** "Can Holding" gibi büyük bir gruba yönelik "kara para aklama" operasyonu, piyasada siyasi riski ve yönetişim kaygılarını artırmaktadır. Bu durum, özellikle holdingler (`SAHOL`) ve karmaşık yapıları olan şirketlere yönelik tezleri daha riskli hale getirebilir.
-    *   **Jeopolitik Gerilim:** Dış politikadaki sert söylemler, yabancı yatırımcı algısını olumsuz etkileyebilir ve jeopolitik risk primini artırabilir.
-    *   **Makroekonomik Zorlukların Teyidi:** İktidara yakın kaynakların ekonomik hedeflerdeki sapmaları teyit etmesi, piyasadaki toparlanmanın beklenenden uzun sürebileceğine işaret etmektedir.
-*   **STRATEJİK SONUÇ:** Bu gelişmeler ışığında, "proaktif alım" stratejisi **"temkinli ve seçici alım"** olarak güncellenmiştir. Genel bir alım iştahı yerine, siyasi ve jeopolitik risklerden daha az etkilenmesi beklenen, temel hikayesi çok güçlü ve iskontosu belirgin şirketlere odaklanılacaktır. Holding pozisyonları (`SAHOL`) artan yönetişim riski nedeniyle daha yakından izlenmelidir.
+*   **DURUM:** Ciner Holding'e uzanan soruşturma, piyasalarda ani bir şok ve panik dalgası yaratmıştır. Bu durum, özellikle holdingler ve bankalar üzerinde kısa vadeli, sert bir satış baskısı oluşturma potansiyeli taşımaktadır.
+*   **ANA RİSK:** Piyasadaki panik havasının, temelinden bağımsız olarak tüm hisselerde geçici bir değer kaybına yol açması.
+*   **STRATEJİK SONUÇ (Fırsat Odaklı Alım):** Kullanıcının görüşü doğrultusunda, bu şok dalgası bir panik nedeni değil, bir **fırsat** olarak değerlendirilmektedir. Strateji, "temkinli alım" seviyesinden **"fırsat odaklı ve seçici alım"** seviyesine güncellenmiştir.
+    *   **SAHOL Stratejisi:** Piyasada yaşanacak olası bir çöküş ve SAHOL hissesinde görülecek sert satışlar, şirketin temel yatırım tezini (yeniden yapılanma potansiyeli) çok daha iskontolu bir fiyattan değerlendirmek için bir **ALIM FIRSATI** olarak kabul edilecektir.
+    *   **Diğer Pozisyonlar:** Portföydeki diğer hisseler için genel olarak **"TUT ve İZLE"** stratejisi benimsenecektir. Panik satışları yapılmayacak, ancak yeni alımlar için piyasanın oturması ve SAHOL dışındaki fırsatların netleşmesi beklenecektir.
 
 ## 4. Hisse Bazlı Stratejiler
 

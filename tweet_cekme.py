@@ -1,6 +1,13 @@
 import tweepy
 import os
 import argparse  # Argüman yönetimi için kütüphaneyi dahil ettik
+import sys
+import io
+
+# On Windows, printing to the console can fail if the tweet contains special characters.
+# To prevent a 'charmap' codec can't encode character' error, we force stdout to use UTF-8.
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
 
 # --- AYARLAR ---
 

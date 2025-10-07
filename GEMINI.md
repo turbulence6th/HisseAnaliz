@@ -97,3 +97,38 @@ python taksit_bugunku_deger_hesapla.py --toplam-odeme 15000 --taksit-sayisi 6 --
 ```
 
 Betik, alışverişin bugünkü peşin değerini standart çıktıya yazdıracaktır.
+
+### `kap_rapor_indir.py` Nasıl Kullanılır:
+
+Bu komut satırı yardımcı programı, Kamuyu Aydınlatma Platformu (KAP) üzerinden iki temel işlemi gerçekleştirmek için kullanılır:
+
+1.  **Finansal Rapor İndirme:** Belirtilen bir BIST şirketinin en güncel dönemsel finansal raporunu (PDF formatında) indirir.
+2.  **Fon Yönetim Ücreti Öğrenme:** Belirtilen bir yatırım fonunun yıllık yönetim ücreti oranını çeker.
+
+#### Finansal Rapor İndirme:
+
+```bash
+python kap_rapor_indir.py rapor <HİSSE_KODU>
+```
+
+**Örnek:**
+
+```bash
+python kap_rapor_indir.py rapor SOKM
+```
+
+Betik, raporu `finansal-raporlar/{YIL}{ÇEYREK}` dizinine `{HİSSE_KODU}_Finansal_Rapor_{TARİH}.pdf` adıyla kaydeder.
+
+#### Fon Yönetim Ücreti Öğrenme:
+
+```bash
+python kap_rapor_indir.py fon-ucret <FON_KODU>
+```
+
+**Örnek:**
+
+```bash
+python kap_rapor_indir.py fon-ucret TZL
+```
+
+Betik, ilgili fonun yıllık yönetim ücretini standart çıktıya yazdıracaktır.

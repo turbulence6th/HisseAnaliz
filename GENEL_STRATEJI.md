@@ -77,6 +77,10 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** TUT VE İZLE
 *   **GEREKÇE:** Otomotiv sektöründeki döngüsel yavaşlama ve hammadde maliyetlerindeki baskı nedeniyle hisse belirsizliğini korumaktadır. Bu nedenle "Uydu / İzleme Listesi" kategorisinde yer almaktadır [[memory:5993342]]. Mevcut pozisyon, sektördeki olası bir toparlanmayı takip etmek amacıyla korunmaktadır. Ancak, marjlarda ve talepte sürdürülelebilir bir iyileşme görülmeden yeni alım yapılması düşünülmemektedir.
 
+#### YUB (Yapı Kredi Portföy Karaköy Hisse Senedi Serbest Fon)
+*   **HÜKÜM:** AL
+*   **GEREKÇE:** Yapılan detaylı fon karşılaştırma analizleri sonucunda, YUB fonu portföyünüzdeki hisselerle ve stratejik sektör tercihlerinizle en yüksek benzerliği (%68.84) göstermektedir. Ayrıca, sizin portföyünüzden çıkardığınız EREGL veya AGHOL gibi hisseleri barındırmamaktadır. Bu özellikleriyle, portföy çeşitlendirmesi ve profesyonel yönetimden faydalanma amacıyla "AL" kararı ile Uydu/İzleme Listesi'ne eklenmiştir.
+
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
 *Bu bölümde güncel bir hisse bulunmamaktadır.*

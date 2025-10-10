@@ -33,6 +33,18 @@ Bu anlaşma, THY'nin uzun vadeli büyüme hikayesini ve küresel pazardaki payı
 
 Bu gelişme, "Çekirdek Varlık" tanımını güçlendirirken, mevcut "KADEMELİ AL" stratejisini daha da anlamlı kılmaktadır. Siparişlerin teslimatının gelecekte olması nedeniyle kısa vadeli kârlılık üzerindeki baskı devam etse de, bu haberin hisse fiyatı için orta ve uzun vadede güçlü bir çıpa olması ve olası geri çekilmeleri sınırlaması beklenebilir. Dolayısıyla, belirlenen alım kademelerine (özellikle 315.00-312.00 TL aralığı) olası bir geri çekilme, bu uzun vadeli pozitif beklenti ışığında daha da cazip bir alım fırsatı olarak değerlendirilmelidir.
 
+## Haber Akışı Analizi (10 Ekim 2025): Boeing Siparişinde Belirsizlik
+
+THY Yönetim Kurulu Başkanı'nın yaptığı açıklamalar, 26 Eylül'de duyurulan ve önemli bir pozitif katalizör olarak değerlendirilen Boeing siparişine dair yeni bir belirsizlik unsuru eklemiştir.
+
+- **Gelişme:** Yönetim, 150 adet Boeing 737 MAX siparişinin, motor üreticisi CFM ile yapılacak motor anlaşmasının şartlarına bağlı olduğunu belirtmiştir. Eğer CFM ile "uygun ekonomik şartlarda" bir anlaşmaya varılamazsa, THY'nin bu siparişten vazgeçip Airbus'a yönelebileceği ifade edilmiştir.
+- **Stratejik Yorum:** Bu durum, büyük filo genişletme anlaşmasının henüz tam olarak kesinleşmediğini ve müzakerelerin devam ettiğini göstermektedir. THY'nin bu açıklaması, CFM ve Boeing üzerindeki pazarlık gücünü artırmaya yönelik bir taktik olabileceği gibi, anlaşma sürecinde gerçek bir engele de işaret ediyor olabilir.
+
+### Analizin Stratejiye Etkisi
+Bu gelişme, 26 Eylül'deki haberin yarattığı "belirsizlik ortadan kalktı" algısını zayıflatmaktadır. Piyasa, kesinleşmemiş anlaşmaları ve artan belirsizliği sevmez. Bu nedenle, haber kısa vadede hisse üzerinde bir baskı unsuru oluşturabilir.
+
+Ancak bu durum, mevcut "KADEMELİ AL" stratejisini değiştirmemekte, aksine teyit etmektedir. Bu belirsizliğin yaratabileceği olası bir geri çekilme, daha önce belirlenmiş olan **325.00-322.00 TL** ve **315.00-312.00 TL** alım kademelerinin test edilmesi için bir fırsat yaratabilir. Uzun vadeli filo genişletme hedefi (üreticiden bağımsız olarak) geçerliliğini koruduğundan, bu kısa vadeli dalgalanma, plan dahilinde pozisyon artırmak için bir imkan olarak görülmelidir.
+
 ## Haber Akışı Analizi (10 Eylül 2025)
 
 Bugün gelen iki önemli haber akışı, hisse üzerinde kısa ve uzun vadede etkili olabilecek zıt yönlü dinamikleri ortaya koymaktadır.
@@ -57,16 +69,16 @@ Doha saldırısının yarattığı kısa vadeli negatif hava, piyasalarda risk i
 
 Kullanıcı kararı ve piyasadaki genel "düşüşü alım fırsatı olarak görme" stratejisi doğrultusunda, THY için belirlenen "Alım Yok" kararı güncellenmiştir. Fiyatın, son bir yıllık yükselişin ana destek bölgesi olan **325.00-330.00 TL** bandına gerilemesi, portföydeki ağırlığı yüksek olsa dahi, maliyet düşürmek ve pozisyonu güçlendirmek için bir fırsat olarak değerlendirilmektedir.
 
-### Kademeli Alım Planı (Revize: 26 Eylül 2025)
+### Kademeli Alım Planı (Revize: 10 Ekim 2025)
 - **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Boeing anlaşması sonrası oluşan yeni fiyat seviyesinden (328.25 TL) olası geri çekilmeleri değerlendirmek amacıyla kademeler yukarı yönlü revize edilmiştir.
-- **DURUM: 1. KADEME ALINDI. Yeni 2. kademe bekleniyor.**
+- **Gerekçe (kısa):** Boeing siparişindeki belirsizlik sonrası fiyatın 312.5 TL seviyesine gerilemesiyle alım kademeleri mevcut fiyata göre yeniden düzenlenmiştir. Atlanan 2. kademe mevcut fiyata çekilmiş, kalan bütçe için daha aşağıda yeni bir 3. kademe oluşturulmuştur.
+- **DURUM: 1. KADEME ALINDI. 2. kademe bekleniyor.**
 - **Seviyeler:**
-  - **Yeni 2. Kademe (Ara Alım): 325.00 – 322.00 TL** (Kısa vadeli geri çekilme bölgesi)
-  - **Yeni 3. Kademe (Ana Alım): 315.00 – 312.00 TL** (Önceki ara alım seviyesi, şimdi ana destek)
+  - **2. Kademe (Mevcut Fiyat Alımı): 313.00 – 310.00 TL** (Boeing belirsizliğiyle test edilen ana destek bölgesi)
+  - **3. Kademe (Son Alım): 308.00 – 305.00 TL** (Risk yönetimi seviyesi öncesi son alım bölgesi)
   - **Risk Yönetimi (Alımı Durdur):** 305.00 TL altında günlük kapanış.
 
 ### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
 - **1. Kademe (3.833 TL):** ALINDI (12 Eylül 2025)
-- **Yeni 2. Kademe (4.000 TL):** 325.00 – 322.00 TL aralığına gerilerse ek alım.
-- **Yeni 3. Kademe (3.000 TL):** 315.00 – 312.00 TL aralığına gerilerse son alım.
+- **2. Kademe (4.000 TL):** 313.00 – 310.00 TL aralığına gerilerse ek alım.
+- **3. Kademe (3.000 TL):** 308.00 – 305.00 TL aralığına gerilerse son alım.

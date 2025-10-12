@@ -42,6 +42,10 @@ Faiz indirimi teorik olarak finansman maliyetlerini düşürüp yurt içi talebi
 *   **Ana Sorun Global, Çözüm Yerel:** Türkiye'deki bir faiz indirimi, global çelik fiyatlarını veya Çin talebini etkilemez.
 *   **Sınırlı Fayda:** Faiz indirimi, şirketin temel hastalığı olan küresel talep düşüklüğü ve kâr marjlarındaki çöküşü tedavi etmek yerine, sadece bir "ağrı kesici" etkisi yaratabilir.
 
+## Güncel Gelişmeler (Ekim 2025)
+
+*   **8 Ekim 2025:** Ziraat Yatırım'ın günlük bülteninde, AB Komisyonu'nun çelik sektörüne yönelik yeni koruma planını kamuoyu ile paylaştığı belirtildi. Plan, gümrüksüz çelik ithalat hacimlerini 2024 kotalarına kıyasla %47 düşürmeyi ve kota dışı vergi oranlarını %50'ye yükseltmeyi içeriyor. Bu gelişme, şirketin Avrupa'ya yönelik ihracat potansiyeli ve karlılığı üzerinde önemli bir baskı oluşturma riski taşıyor.
+
 ## Hüküm ve Strateji
 
 Mevcut rapor, Ereğli için beklemenin verimli olmayabileceğini göstermektedir. Şirket operasyonel olarak kan kaybediyor ve sektörün genel yavaşlamasından sert bir şekilde etkileniyor.

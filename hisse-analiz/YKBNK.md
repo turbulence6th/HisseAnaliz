@@ -24,6 +24,10 @@ Rapor, bankanın hem krediler hem de mevduat tarafında piyasanın üzerinde bir
 ### Negatifler / Riskler
 *   Raporda doğrudan bir negatif unsur bulmak zor. Sektörün genelinde olduğu gibi, makroekonomik belirsizlikler ve regülasyonlar bankacılık sektörü için genel bir risk unsuru olmaya devam etmektedir. Ancak YKBNK'nın mevcut bilançosu, bu riskleri yönetebilecek güçte olduğunu gösteriyor.
 
+## Güncel Gelişmeler (Ekim 2025)
+
+*   **6-9 Ekim 2025:** Ziraat Yatırım'ın haftalık bültenlerinde, Halkbank davası ve genel piyasa koşulları nedeniyle bankacılık endeksi üzerinde satış baskısı gözlemlendiği belirtildi. Bu durum, sektör genelinde kısa vadeli bir risk unsuru olarak takip edilmelidir.
+
 ## Hüküm ve Strateji (Düşüşleri Alım Fırsatı Olarak Değerlendir)
 
 Bu sonuçlar, YKBNK'nın portföydeki "Çekirdek Varlık" tanımını sonuna kadar hak ettiğini gösteriyor. Bilanço o kadar güçlü ki, mevcut **"Düşüşleri Alım Fırsatı Olarak Değerlendir"** stratejisinin devam etmesi en doğru yaklaşım olacaktır. Banka, büyümesini kârlılık ve sağlam aktif kalitesiyle desteklemeye devam ediyor.

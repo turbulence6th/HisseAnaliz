@@ -6,3 +6,5 @@ __pycache__/
 *.pyc
 twitter_bearer.txt
 hisse-analiz/*.pdf
+gmail-integration/credentials.json
+gmail-integration/token.json

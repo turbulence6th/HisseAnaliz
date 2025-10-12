@@ -19,47 +19,23 @@ Rapor, THY'nin operasyonel olarak büyümeye ve pazar payı kazanmaya devam etti
 ## Hüküm ve Strateji (MEVCUT POZİSYONU KORU & FIRSAT BEKLE)
 Faaliyet raporu, THY'nin güçlü operasyonel yapısını ve stratejisini teyit etmektedir, bu da onun bir "Çekirdek Varlık" olarak kalmasını desteklemektedir. Ancak, kârlılıktaki sert düşüş, aceleci bir alım yapmaktan kaçınmanın ve "Fırsat Bekle" stratejisinin doğruluğunu göstermektedir. Şirketin artan maliyetleri kontrol altına aldığını görmeden pozisyon artırmak riskli olacaktır.
 
-## Haber Akışı Analizi (26 Eylül 2025): Tarihi Boeing Siparişi
+## Güncel Gelişmeler ve Haber Akışı Analizi
 
-**Pozitif Gelişme (Uzun Vade):** THY, ABD'li üretici Boeing ile 2029-2034 yılları arasında teslim alınmak üzere dev bir uçak siparişi anlaşması imzaladığını duyurdu. Bu anlaşma, şirketin 2023'te açıkladığı 600 uçaklık filo genişletme hedefinin en somut adımıdır.
+*   **9 Ekim 2025: Güçlü Trafik Verileri Stratejiyi Destekliyor**
+    *   **Gelişme:** Ziraat Yatırım'ın günlük bülteninde şirketin Eylül 2025 trafik verileri paylaşıldı. Toplam yolcu sayısı geçen yılın aynı dönemine göre **%12,9 artarak 8,7 milyona** ulaştı. Yolcu doluluk oranı ise 0,8 puan artışla **%84,6 olarak** gerçekleşti.
+    *   **Stratejik Yorum:** Bu veriler, şirketin güçlü operasyonel performansının devam ettiğini ve "POZİSYON GÜÇLENDİR / AL" stratejisini teyit ettiğini göstermektedir.
 
-- **Sipariş Detayları:**
-  - **75 adet B787 Dreamliner:** 50'si kesin, 25'i opsiyonel.
-  - **150 adet 737-MAX:** 100'ü kesin, 50'si opsiyonel.
-- **Stratejik Hedef:** Bu siparişlerle THY, 2035 yılına kadar filosunu tamamen yeni nesil uçaklarla yenilemeyi, operasyonel verimliliği artırmayı ve yıllık ortalama %6'lık bir büyüme sağlamayı hedefliyor.
+*   **10 Ekim 2025: Boeing Siparişinde Belirsizlik**
+    *   **Gelişme:** THY Yönetim Kurulu Başkanı, 150 adet Boeing 737 MAX siparişinin motor üreticisi CFM ile yapılacak anlaşmanın şartlarına bağlı olduğunu, aksi halde Airbus'a dönülebileceğini belirtti.
+    *   **Stratejik Yorum:** Bu durum, büyük filo genişletme anlaşmasının henüz tam olarak kesinleşmediğini göstererek kısa vadede hisse üzerinde bir baskı unsuru oluşturabilir. Ancak bu, mevcut "KADEMELİ AL" stratejisini değiştirmemekte, aksine olası geri çekilmeleri bir alım fırsatı olarak görme tezini güçlendirmektedir.
 
-### Analizin Stratejiye Etkisi
-Bu anlaşma, THY'nin uzun vadeli büyüme hikayesini ve küresel pazardaki payını artırma stratejisini net bir şekilde teyit eden, bugüne kadarki en önemli pozitif katalizörlerden biridir. Filo yenileme ve genişletme planlarına dair belirsizliği ortadan kaldırmakta ve şirketin gelecekteki kapasite artışına dair somut bir yol haritası sunmaktadır.
+*   **26 Eylül 2025: Tarihi Boeing Siparişi**
+    *   **Gelişme:** THY, 2029-2034 arasında teslim alınmak üzere 75 adet B787 ve 150 adet 737-MAX siparişi için Boeing ile anlaştı.
+    *   **Stratejik Yorum:** Bu anlaşma, THY'nin uzun vadeli büyüme hikayesini ve küresel pazar payı hedefini teyit eden en önemli pozitif katalizörlerden biridir. Gelişme, "Çekirdek Varlık" tanımını güçlendirirken, "KADEMELİ AL" stratejisini daha anlamlı kılmaktadır.
 
-Bu gelişme, "Çekirdek Varlık" tanımını güçlendirirken, mevcut "KADEMELİ AL" stratejisini daha da anlamlı kılmaktadır. Siparişlerin teslimatının gelecekte olması nedeniyle kısa vadeli kârlılık üzerindeki baskı devam etse de, bu haberin hisse fiyatı için orta ve uzun vadede güçlü bir çıpa olması ve olası geri çekilmeleri sınırlaması beklenebilir. Dolayısıyla, belirlenen alım kademelerine (özellikle 315.00-312.00 TL aralığı) olası bir geri çekilme, bu uzun vadeli pozitif beklenti ışığında daha da cazip bir alım fırsatı olarak değerlendirilmelidir.
-
-## Haber Akışı Analizi (10 Ekim 2025): Boeing Siparişinde Belirsizlik
-
-THY Yönetim Kurulu Başkanı'nın yaptığı açıklamalar, 26 Eylül'de duyurulan ve önemli bir pozitif katalizör olarak değerlendirilen Boeing siparişine dair yeni bir belirsizlik unsuru eklemiştir.
-
-- **Gelişme:** Yönetim, 150 adet Boeing 737 MAX siparişinin, motor üreticisi CFM ile yapılacak motor anlaşmasının şartlarına bağlı olduğunu belirtmiştir. Eğer CFM ile "uygun ekonomik şartlarda" bir anlaşmaya varılamazsa, THY'nin bu siparişten vazgeçip Airbus'a yönelebileceği ifade edilmiştir.
-- **Stratejik Yorum:** Bu durum, büyük filo genişletme anlaşmasının henüz tam olarak kesinleşmediğini ve müzakerelerin devam ettiğini göstermektedir. THY'nin bu açıklaması, CFM ve Boeing üzerindeki pazarlık gücünü artırmaya yönelik bir taktik olabileceği gibi, anlaşma sürecinde gerçek bir engele de işaret ediyor olabilir.
-
-### Analizin Stratejiye Etkisi
-Bu gelişme, 26 Eylül'deki haberin yarattığı "belirsizlik ortadan kalktı" algısını zayıflatmaktadır. Piyasa, kesinleşmemiş anlaşmaları ve artan belirsizliği sevmez. Bu nedenle, haber kısa vadede hisse üzerinde bir baskı unsuru oluşturabilir.
-
-Ancak bu durum, mevcut "KADEMELİ AL" stratejisini değiştirmemekte, aksine teyit etmektedir. Bu belirsizliğin yaratabileceği olası bir geri çekilme, daha önce belirlenmiş olan **325.00-322.00 TL** ve **315.00-312.00 TL** alım kademelerinin test edilmesi için bir fırsat yaratabilir. Uzun vadeli filo genişletme hedefi (üreticiden bağımsız olarak) geçerliliğini koruduğundan, bu kısa vadeli dalgalanma, plan dahilinde pozisyon artırmak için bir imkan olarak görülmelidir.
-
-## Haber Akışı Analizi (10 Eylül 2025)
-
-Bugün gelen iki önemli haber akışı, hisse üzerinde kısa ve uzun vadede etkili olabilecek zıt yönlü dinamikleri ortaya koymaktadır.
-
-1.  **Pozitif Gelişme (Uzun Vade): Fitch'in Air Europa Değerlendirmesi**
-    Kredi derecelendirme kuruluşu Fitch, THY'nin Air Europa'ya yapacağı potansiyel yatırımın, şirketin Latin Amerika pazarındaki stratejik konumunu güçlendireceğini ve kaldıraç üzerinde minimum etki yaratacağını belirtti. Bu gelişme, THY'nin uzun vadeli büyüme vizyonunu ve pazar payı kazanma stratejisini destekleyen, temel analizi güçlendiren pozitif bir katalizör adayıdır.
-
-2.  **Negatif Gelişme (Kısa/Orta Vade): Doha'daki Saldırı ve Artan Jeopolitik Risk**
-    İsrail'in Katar'ın başkenti Doha'da Hamas yetkililerine yönelik düzenlediği saldırı, Ortadoğu'da jeopolitik gerilimi önemli ölçüde artırmıştır. Bu durumun THY üzerindeki potansiyel etkileri şunlardır:
-    *   **Yakıt Maliyeti Riski:** Bölgesel bir kriz, petrol fiyatlarını yukarı çekebilir. Bu, THY'nin ana maliyet kalemi olan yakıt giderlerini artırarak kâr marjlarını baskı altına alma riski taşır.
-    *   **Seyahat Talebi Endişeleri:** Artan güvenlik endişeleri ve bölgesel istikrarsızlık, uluslararası seyahat talebini, özellikle de Ortadoğu'yu içeren rotalarda zayıflatabilir.
-
-### Analizin Stratejiye Etkisi
-
-Doha saldırısının yarattığı kısa vadeli negatif hava, piyasalarda risk iştahını azaltarak THY hissesi üzerinde bir satış baskısı yaratabilir. Bu durum, hissenin daha önce belirlenen **kademeli alım seviyelerine (312.00 TL ve altı)** doğru bir geri çekilme yapması için bir zemin hazırlayabilir. Dolayısıyla, bu negatif haber akışı, proaktif bir şekilde yukarı revize edilen alım planının test edilmesi için bir "fırsat" sunma potansiyeli taşımaktadır. Uzun vadeli pozitif beklentiler (Air Europa yatırımı gibi) devam ederken, kısa vadeli dalgalanmalar alım için kullanılabilir.
+*   **10 Eylül 2025: Fitch Değerlendirmesi ve Jeopolitik Risk**
+    *   **Pozitif:** Fitch, THY'nin potansiyel Air Europa yatırımının stratejik konumunu güçlendireceğini belirtti.
+    *   **Negatif:** Doha'daki saldırı sonrası artan jeopolitik riskler, petrol fiyatları ve seyahat talebi üzerinde kısa vadeli bir baskı yaratma potansiyeli taşıyor. Bu durum, kademeli alım seviyelerine bir geri çekilme için zemin hazırlayabilir.
 
 ## Potansiyel Katalistler
 

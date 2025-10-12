@@ -7,6 +7,10 @@ Bu not sade, uygulanabilir bir plan sunar: güçlü temel, fiyatlama gücü ve k
 - Temel değerler iyi; sektörde **fiyat koyma gücü** var (tarife güncellemeleri ve ARPU artışları ile).
 - Piyasada son 1 ayda endeks yükselirken kağıt geride kaldı; haber akışı nötr/pozitifleşirse toparlanma alanı var.
 
+## Güncel Gelişmeler (Ekim 2025)
+
+*   **10 Ekim 2025:** Ziraat Yatırım'ın günlük bülteninde, TCELL'in BIST100 endeksindeki düşüşü sınırlayan hisseler arasında yer aldığı belirtildi. Bu durum, hissenin piyasadaki dalgalanmalara karşı defansif bir karakter sergilediğini göstermektedir.
+
 ## Katalistler
 - Tarife güncellemeleri ve abone başı gelir (ARPU) artışı
 - 5G/spektrum adımları, fiber yayılımı ve paketleşme
@@ -57,7 +61,7 @@ Bu ihale, belirsizliğin ortadan kalkması ve Turkcell'in önümüzdeki 5-10 yı
 - **Güçlü Büyüme ve Kârlılık:** Gelirler %12.5 artarken, FAVÖK'ün %14.8 artması kârlılığın daha da hızlı büyüdüğünü gösteriyor. Techfin ve Veri Merkezi gibi stratejik alanlar %35'in üzerinde büyüdü.
 - **Yönetilebilir Bilanço:** Şirket, 1 Milyar Avro'luk Eurobond ihracı ve temettü ödemesi sonrası borcunu artırmıştır (Net Borç/FAVÖK: 0,63x). Ancak bu borçluluk seviyesi, ana rakibinin (TTKOM: 1,0x) oldukça altındadır ve büyüme odaklı yatırımları finanse ettiği için yönetilebilir bir seviyededir.
 
-## İzlenecekler (riskler)
+## İzleme (riskler)
 - **Rekabetin seyri (fiyatlama gücünü etkiler mi?)**
 - **Regülasyon/spektrum haber akışı**
 - **Borçluluk Seviyesinin Takibi:** Büyüme yatırımları için alınan borcun, kârlılığa planlandığı gibi yansıyıp yansımadığı takip edilmelidir.

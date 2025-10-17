@@ -1,4 +1,4 @@
-# Portföy Genel Strateji Belgesi (12 Eylül 2025 İtibarıyla)
+# Portföy Genel Strateji Belgesi (17 Ekim 2025 İtibarıyla)
 
 Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığında, portföydeki her bir varlık için belirlenen ana stratejiyi ve yatırım felsefesini özetlemektedir.
 
@@ -9,10 +9,12 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **Veriye Dayalı Kararlar:** Yatırım kararları, şirketlerin faaliyet raporlarına dayalı derin temel analize ve önceden belirlenmiş teknik seviyelere göre verilir [[memory:5993346]].
 *   **Kayıt Disiplini:** Her hisse için yatırım tezini, riskleri ve stratejiyi içeren ayrı `.md` dosyaları tutulur [[memory:5993348]].
 
-## 2. Mevcut Piyasa Durumu ve Acil Eylem Planı (3 Eylül 2025)
+## 2. Mevcut Piyasa Durumu ve Acil Eylem Planı (17 Ekim 2025)
 
-*   **DURUM:** Banka ve holding hisselerinde gözlenen genel satış dalgası, bu sektörlerdeki güçlü temellere sahip şirketlerde **alım fırsatı** olarak değerlendirilmektedir.
-*   **GENEL STRATEJİ:** Zayıf halkalar olan EREGL ve ENJSA'dan çıkan nakit, piyasa düşüşüyle iskontolu hale gelen **YKBNK ve SAHOL** gibi Çekirdek Varlıklardaki pozisyonları güçlendirmek için kullanılmıştır. Strateji, proaktif bir şekilde **alım yönlüdür**.
+*   **DURUM:** Piyasalar, bir yandan ABD-Rusya-Ukrayna arasında dillendirilen barış görüşmeleri gibi pozitif küresel katalizörleri, diğer yandan ABD'de bazı bölgesel bankaların açıkladığı zararlar gibi negatif sinyalleri fiyatlamaktadır.
+*   **POZİTİF GELİŞME:** Ukrayna savaşının sona erme ihtimali, küresel risk iştahını ve BIST'i pozitif etkileme potansiyeli taşımaktadır.
+*   **İZLENECEK RİSK:** ABD'deki bankacılık sorunları, küresel olarak sektöre yönelik temkinli bir duruşu gerektirebilir.
+*   **GENEL STRATEJİ:** Ana strateji olan **"fırsat odaklı ve seçici alım"** devam etmektedir. Pozitif jeopolitik beklentiler, piyasadaki geri çekilmelerin alım fırsatı olarak değerlendirilmesi görüşünü desteklemektedir. Ancak bankacılık sektöründeki küresel riskler yakından izlenecektir.
 
 ## 3. Ciner Soruşturması Sonrası Piyasa Değerlendirmesi (28 Eylül 2025)
 
@@ -27,13 +29,12 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 ### A) Çekirdek Portföy Varlıkları
 
 #### TCELL (Turkcell)
-*   **HÜKÜM:** AL
-*   **GEREKÇE:** Portföydeki en güçlü temel hikaye olmaya devam etmektedir. Mevcut piyasa düşüşü, bu hissede pozisyon artırmak için **cazip bir giriş fırsatı** sunmaktadır. Zayıf varlıklardan (EREGL) gelecek sermaye için bir numaralı hedeftir.
+*   **HÜKÜM:** UZUN VADELİ AL / İZLE
+*   **GEREKÇE:** Portföydeki en güçlü uzun vadeli temel hikayelerden biri olmaya devam etmektedir. Yakın zamanda tamamlanan 5G ihalesiyle (1.22 milyar USD) sektördeki liderliğini pekiştirmiş, ancak bu yatırımın kısa/orta vadeli finansal etkileri (borçluluk, nakit akışı) izlenmelidir. Mevcut piyasa düşüşleri, uzun vadeli birikim için alım fırsatı sunmaktadır.
 
 #### ECILC (Eczacıbaşı İlaç)
-*   **HÜKÜM:** KADEMELİ AL
-*   **GEREKÇE:** Faaliyet raporuyla ana katalizör (diyabet alanına giriş) beklentisi güçlenmiştir. Piyasa düşüşü, daha önce beklenen geri çekilmeyi gerçekleştirmiş ve hisseyi alım bölgesine getirmiştir.
-*   **AKSİYON PLANI (Revize):** **1. KADEME ALINDI (55.50 – 54.00 TL).** Strateji, fiyatın 2. kademe olan **51.00 – 49.50 TL bandına** gerilemesi durumunda yeni bir alım yapmayı hedeflemektedir.
+*   **HÜKÜM:** KADEMELİ SAT / POZİSYON AZALT
+*   **GEREKÇE:** Hisse, "ucuzluk" temalı ilk yatırım tezini 100 TL üzeri fiyatlamayla başarıyla tamamlamıştır. Ana strateji, kârın bir kısmını kademeli olarak realize ederken uzun vadeli çekirdek bir pozisyonu korumak olarak güncellenmiştir. Detaylı satış planı kendi `.md` dosyasındadır.
 
 #### SISE (Şişecam)
 *   **HÜKÜM:** KADEMELİ AL

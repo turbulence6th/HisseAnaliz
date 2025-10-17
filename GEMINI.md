@@ -132,3 +132,19 @@ python kap_rapor_indir.py fon-ucret TZL
 ```
 
 Betik, ilgili fonun yıllık yönetim ücretini standart çıktıya yazdıracaktır.
+
+### `hisse_veri_cek.py` Nasıl Kullanılır:
+
+İş Yatırım'ın web sitesinden bir hissenin F/K (Fiyat/Kazanç) ve PD/DD (Piyasa Değeri/Defter Değeri) oranlarını hızlıca çekmek için kullanılır.
+
+```bash
+python hisse_veri_cek.py <HİSSE_KODU>
+```
+
+**Örnek:**
+
+```bash
+python hisse_veri_cek.py ALKLC
+```
+
+Betik, ilgili hissenin F/K ve PD/DD oranlarını standart çıktıya yazdıracaktır.

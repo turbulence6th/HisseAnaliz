@@ -47,19 +47,38 @@ Bu dikey yükseliş sonrası mevcut seviyelerden alım yapmak risklidir. Yeni pl
 ## Strateji Değerlendirmesi (2 Eylül 2025)
 Piyasada yaşanan siyasi gerilim kaynaklı düşüş, ECILC fiyatını daha önce belirlenen **1. Kademe (64.50 – 62.00 TL)** alım aralığına getirmiştir. Gün içinde 60.00 TL görülerek 2. kademeye de yaklaşılmıştır. Bu durum, geri çekilmede kademeli alım stratejisinin **aktif hale geldiğini** teyit etmektedir. Plan, disiplinli bir şekilde uygulanmalıdır.
 
-## Kademeli Alım Planı (Revize: 19 Eylül 2025)
-- **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Fiyatın eski alım kademelerinin çok üzerine çıkmasıyla, mevcut trend içinde yeni giriş noktaları belirlemek amacıyla plan yukarı yönlü revize edilmiştir.
-- **DURUM:** Önceki kademe (55.50-54.00 TL) alındı. Şimdi yeni kademelerin test edilmesi beklenmektedir.
-- **Seviyeler:**
-  - **Yeni 1. Kademe (Ara Alım): 67.00 – 66.00 TL** (Mevcut fiyata yakın destek bölgesi)
-  - **Yeni 2. Kademe (Ana Alım): 63.00 – 61.50 TL** (Daha güçlü destek bölgesi)
-  - **Risk Yönetimi (Alımı Durdur):** 58.00 TL altında günlük kapanış.
+## Strateji Revizyonu (17 Ekim 2025): Kademeli Kâr Satışı ve Değer Odaklı Geri Alım
 
-### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
-- **Önceki Alım (3.833 TL):** 55.50 – 54.00 TL aralığından ALINDI.
-- **Yeni 1. Kademe (4.000 TL):** 67.00 – 66.00 TL aralığına gerilerse ek alım.
-- **Yeni 2. Kademe (3.000 TL):** 63.00 – 61.50 TL aralığına gerilerse son alım.
+**Hüküm:** KADEMELİ SAT / POZİSYON AZALT
+
+**Gerekçe:** Hisse, "ucuz" olan ilk yatırım tezini 100 TL üzerindeki fiyatlamayla tamamlamıştır. Mevcut strateji, bu güçlü yükseliş sonrası kârın bir kısmını realize etmeyi, uzun vadeli bir çekirdek pozisyonu korumayı ve hissenin tekrar iskontolu bir değerlemeye (PD/DD ≈ 1.0) geri dönmesi durumunda yeniden alım yapmayı hedefler.
+
+### Örnek Pozisyon Yönetimi (Toplam Pozisyonun ~%40'ını Satma)
+Aşağıdaki model, toplam pozisyonun yaklaşık %40'ını satarak kâr realize etme ve %60'ını uzun vade için tutma üzerine bir örnektir. Yüzdeler kişisel risk iştahına göre ayarlanmalıdır.
+
+### Senaryo 1: Yükselen Trendin Devamı (Stratejik Satış)
+Bu plan, fiyatın güç göstererek yeni zirvelere ulaştığı senaryoda proaktif olarak kâr almak için tasarlanmıştır.
+
+- **1. Kademe Satış: 112.00 - 114.00 TL** (Son zirveye yakın, doğal direnç)
+  - **Aksiyon:** Toplam pozisyonun **%10**'u satılır.
+- **2. Kademe Satış: 123.00 - 125.00 TL** (Yeni rekor ve psikolojik eşik)
+  - **Aksiyon:** Toplam pozisyonun **%15**'i daha satılır.
+- **3. Kademe Satış: 138.00 - 140.00 TL** (İyimser hedef bölgesi)
+  - **Aksiyon:** Kalan **%15**'lik kısım bu bölgede satılır.
+
+### Senaryo 2: Trendin Zayıflaması (Taktiksel Satış)
+Bu plan, fiyatın kritik seviyelerde tutunamayıp zayıflık gösterdiği senaryoda riski yönetmek için tasarlanmıştır.
+
+- **Tetikleyici 1 (Momentum Kaybı):** Fiyatın **100 TL**'yi kalıcı olarak aşamaması ve bu seviyeden tekrar satış baskısı görmesi.
+  - **Aksiyon:** Toplam pozisyonun ilk **%10**'u satılarak risk azaltılır.
+- **Tetikleyici 2 (Destek Kırılımı):** Fiyatın **90 TL** altinda günlük kapanış yapması.
+  - **Aksiyon:** Düşüşün derinleşme ihtimaline karşı pozisyonun **%10**'u daha satılabilir.
+
+### Değer Odaklı Geri Alım Planı
+PD/DD oranının tekrar 1.0x seviyelerine gerilemesi durumunda pozisyon güçlendirmek hedeflenir.
+
+- **Ana Alım Hedefi: 75.00 - 78.00 TL Aralığı**
+  - **Mantık:** Bu bölge, hem hedeflenen 1.0 PD/DD değerlemesine denk gelmekte hem de Ağustos ayındaki ana kırılımın yaşandığı bölgeye yakın olduğu için güçlü bir destek ve alım noktası olarak değerlendirilebilir.
 
 
 

@@ -46,6 +46,14 @@ Raporun ana hikayesi, küresel ve yurt içi sanayi sektöründeki yavaşlamaya p
 
 Bu haber, şirketin operasyonel gücüne ek olarak, maliyet yapısında da yapısal bir iyileşme potansiyeli yarattığı için "KADEMELİ AL" stratejisini güçlendiren en önemli güncel gelişmedir.
 
+### Stratejik Değerlendirme (17 Ekim 2025): Ahmet Kırman Soruşturması
+
+Bugün yayınlanan haberlere göre, şirketin eski Yönetim Kurulu Başkanı Ahmet Kırman, Can Holding'e yönelik bir "kara para aklama" soruşturması kapsamında "şüpheli" sıfatıyla ifade vermiş ve hakkında yurtdışı çıkış yasağı getirilmiştir.
+
+*   **Etki Analizi:** Bu gelişmenin Şişecam'ın mevcut operasyonları üzerinde **doğrudan bir etki yaratması beklenmemektedir.** Ahmet Kırman, Temmuz 2024'te görevinden ayrılmış ve sonrasında yönetim, İş Bankası kökenli yöneticilerin ağırlıkta olduğu yeni bir yapıya kavuşmuştur. Haberde belirtilen ve Kırman'ın mimarı olduğu Ciner Grubu ile ortaklık gibi konular, yeni yönetim tarafından zaten sonlandırılmıştı.
+*   **Risk Değerlendirmesi:** Ana risk, **kısa vadeli reputasyon riskidir.** Şirketin uzun yıllar en üst düzeyde yöneticiliğini yapmış bir ismin böyle bir soruşturmaya dahil olması, hisse üzerinde geçici bir satış baskısı ve negatif algı yaratabilir.
+*   **Stratejik Sonuç:** Bu gelişme, şirketin temel yatırım tezini (operasyonel verimlilik, marj yönetimi, enerji maliyeti avantajı) değiştirmemektedir. Aksine, soruşturmanın yaratabileceği potansiyel bir fiyat düşüşü, mevcut **"KADEMELİ AL" stratejisi için yeni bir fırsat** olarak değerlendirilebilir. Soruşturmanın şirketin mevcut yönetimine sıçramadığı varsayımı altında, bu durum bir "fiyat gürültüsü" olarak görülmelidir.
+
 ### Strateji Değerlendirmesi (2 Eylül 2025)
 Piyasada yaşanan genel düşüş, SISE fiyatını tam olarak plan dahilindeki **2. Kademe (38.50 – 40.00 TL)** alım aralığına getirmiştir. Gün içinde 37.62 TL seviyesinin test edilmesiyle bu kademe aktif hale gelmiştir. "Kademeli Alım" stratejisi disiplinli bir şekilde devam ettirilmelidir.
 

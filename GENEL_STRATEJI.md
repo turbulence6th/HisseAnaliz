@@ -82,6 +82,10 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** AL
 *   **GEREKÇE:** Yapılan detaylı fon karşılaştırma analizleri sonucunda, YUB fonu portföyünüzdeki hisselerle ve stratejik sektör tercihlerinizle en yüksek benzerliği (%68.84) göstermektedir. Ayrıca, sizin portföyünüzden çıkardığınız EREGL veya AGHOL gibi hisseleri barındırmamaktadır. Bu özellikleriyle, portföy çeşitlendirmesi ve profesyonel yönetimden faydalanma amacıyla "AL" kararı ile Uydu/İzleme Listesi'ne eklenmiştir.
 
+#### TURSG (Türkiye Sigorta)
+*   **HÜKÜM:** AL
+*   **GEREKÇE:** 3Ç 2025 finansal sonuçları, şirketin mevcut yüksek enflasyon ve faiz ortamından net bir şekilde faydalandığını göstermiştir. %45'lik prim büyümesi ve %49'luk net kâr artışı, güçlü bir performansa işaret etmektedir. Sanayi şirketlerinin döngüsel baskı altında olduğu bir dönemde, finans sektöründen güçlü bir adayın portföye eklenmesi, rotasyon stratejisiyle [[memory:6128755]] uyumludur. Bu nedenle "AL" kararı ile Uydu/İzleme listesine eklenmiştir.
+
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
 *Bu bölümde güncel bir hisse bulunmamaktadır.*

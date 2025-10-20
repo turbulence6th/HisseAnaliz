@@ -1,6 +1,17 @@
-# EREGL – 2Ç 2025 Faaliyet Raporu Analizi ve Strateji Değerlendirmesi
+# EREGL – 3Ç 2025 Faaliyet Raporu Analizi ve Strateji Değerlendirmesi
 
-Bu not, Ereğli'nin 2Ç 2025 faaliyet raporu üzerine yapılan analizi ve bu veriler ışığında mevcut yatırım stratejisinin yeniden değerlendirilmesini içermektedir.
+## 3Ç 2025 Faaliyet Raporu Analizi – Düşüş Trendi Teyit Edildi
+
+30 Eylül 2025 itibarıyla açıklanan 9 aylık finansal sonuçlar, 2. çeyrekte gözlemlenen olumsuz tabloyu teyit etmekle kalmayıp, endişeleri daha da derinleştirmektedir. Şirketin kârlılığındaki erime hız kesmeden devam etmektedir.
+
+1.  **Kârlılıkta Çöküş Devam Ediyor:** 9 aylık dönem karşılaştırması, marjlardaki dramatik daralmayı gözler önüne seriyor:
+    *   **Brüt Kâr:** Geçen yılın aynı dönemine göre %33 düşüşle 17.6 milyar TL'den 11.8 milyar TL'ye geriledi.
+    *   **Esas Faaliyet Kârı:** %63'lük şok edici bir düşüşle 15.9 milyar TL'den 5.9 milyar TL'ye indi.
+    *   **Net Kâr:** %78'lik büyük bir erimeyle 10.8 milyar TL'den 2.4 milyar TL'ye düştü.
+
+Bu sonuçlar, 2Ç 2025 raporuyla belirlenen "zayıf halka" tezini [[memory:5993342]] güçlendirmekte ve şirketin döngünün en zorlu kısmında kalmaya devam ettiğini göstermektedir. Kârlılıktaki bu serbest düşüş, şirketin temettü ödeme kapasitesine yönelik mevcut endişeleri artırmaktadır.
+
+Bu veriler ışığında, mevcut **kademeli satış** stratejisinin doğruluğu bir kez daha teyit edilmiştir. Şirketin temel dinamiklerindeki zayıflama, pozisyon azaltma veya kapatma yönündeki [[memory:6128755]] numaralı rotasyon prensibini daha da anlamlı kılmaktadır.
 
 ## 2Ç 2025 Faaliyet Raporu Analizi – Soğuk Duş Etkisi
 

@@ -20,6 +20,15 @@ Sanayi şirketlerinin (EREGL, ISDMR) döngüsel baskı altında ezildiği bir d�
 
 Bu aşamada TURSG için bir "AL" pozisyonu oluşturmak veya mevcut pozisyonu artırmak için güçlü bir temel bulunmaktadır.
 
+## Rasyo Analizi (20.10.2025)
+
+*   **F/K (Fiyat/Kazanç): 5.23**
+*   **PD/DD (Piyasa Değeri/Defter Değeri): 2.26**
+
+### Değerlendirme
+
+Kullanıcının sağladığı güncel rasyolar, şirketin güçlü kâr büyümesine rağmen fiyatlamasının hala makul seviyelerde olduğunu teyit etmektedir. 5.23 F/K oranı, %49'luk net kâr artışı göz önüne alındığında, hissenin primli olmadığını, aksine büyüme potansiyeline göre iskontolu kalmış olabileceğini göstermektedir. 2.26 PD/DD oranı ise şirketin özkaynaklarının iki katından biraz fazla bir piyasa değeriyle işlem gördüğünü gösterir ki bu da kârlı ve büyüyen bir finans şirketi için normal karşılanabilir. Bu rasyolar, mevcut "AL" pozisyonu tezini desteklemektedir.
+
 ## Riskler ve Katalizörler
 
 *   **Ana Riskler:**

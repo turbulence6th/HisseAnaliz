@@ -23,3 +23,11 @@ Anadolu Hayat Emeklilik, Türkiye'nin en büyük ve köklü hayat ve emeklilik �
 *   **HÜKÜM:** AL / POZİSYON GÜÇLENDİR
 *   **GEREKÇE:** ANHYT, Türkiye'nin en büyük finansal gruplarından birinin parçası olan, pazar lideri, istikrarlı, büyüyen ve yüksek kârlı bir şirkettir. 2025/09 sonuçları, şirketin en zorlu piyasa koşullarında bile ana faaliyet alanlarındaki gücünü koruyarak rekor kârlar elde edebildiğini göstermiştir. Bu, şirketin defansif ve aynı zamanda büyüme potansiyeli taşıyan kaliteli bir "Çekirdek Varlık" olduğunu teyit etmektedir.
 *   **EYLEM PLANI:** Portföyde ANHYT pozisyonu yoksa **ALIM** yapılmalıdır. Mevcut pozisyon varsa, piyasadaki herhangi bir geri çekilme **POZİSYON GÜÇLENDİRME** fırsatı olarak değerlendirilmelidir.
+
+## 4. Çarpan Analizi (23 Ekim 2025)
+
+*   **F/K (Fiyat/Kazanç): 7.91**
+    *   Bu oran, şirketin net kârının yaklaşık 8 katından fiyatlandığını göstermektedir. Sigortacılık gibi istikrarlı ve büyüyen bir sektördeki lider bir şirket için bu F/K oranı **oldukça makul** olarak değerlendirilebilir. Pahalılık ifade etmemektedir.
+*   **PD/DD (Piyasa Değeri/Defter Değeri): 3.36**
+    *   Bu oran, şirketin piyasa değerinin, defter değerinin 3.36 katı olduğunu göstermektedir. Finansal bir kurum için bu oran ilk bakışta yüksek görülebilir. Ancak, bu durum piyasanın şirketin yüksek özkaynak kârlılığını (ROE) ve gelecekteki büyüme potansiyelini fiyatladığına işaret eder. ANHYT'nin istikrarlı bir şekilde yüksek ROE üreten bir şirket olduğu göz önüne alındığında, bu çarpan bir "kalite primi" olarak yorumlanabilir. Hisse, bir "değer" hissesinden çok, bir **"kaliteli büyüme"** hissesi olarak konumlanmaktadır.
+*   **SONUÇ:** Çarpanlar, hissenin "bedava" olmadığını ancak mevcut kârlılık ve büyüme göz önüne alındığında **fiyatının makul olduğunu** göstermektedir. Özellikle F/K oranı, mevcut "AL / POZİSYON GÜÇLENDİR" stratejisini destekler niteliktedir. Ucuzluk tek başına bir kriter olmasa da, pahalı olmaması mevcut yatırım tezini güçlendirmektedir.

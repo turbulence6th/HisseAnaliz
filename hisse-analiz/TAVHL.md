@@ -24,3 +24,11 @@ TAV Havalimanları, Türkiye ve çevre coğrafyalardaki lider havalimanı işlet
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
 *   **GEREKÇE:** TAVHL, operasyonel olarak beklentilerin üzerinde bir performans sergilemektedir. Raporlanan net kâr, yanıltıcı bir şekilde düşük görünse de, şirketin yarattığı gerçek değer (kapsamlı gelir) rekor seviyededir. Havacılık sektöründeki güçlü seyrin devam etmesi ve Almatı gibi yeni havalimanlarının katkısının artmasıyla şirketin büyüme hikayesi güçlenerek devam edecektir. Kur riskine rağmen, şirketin operasyonel gücü ve büyüme potansiyeli bu riski fazlasıyla telafi edecek düzeydedir.
 *   **EYLEM PLANI:** TAVHL, portföydeki "Çekirdek Varlık" konumunu pekiştirmiştir. Mevcut piyasa koşullarında oluşabilecek geri çekilmeler, maliyeti düşürmek ve pozisyonu güçlendirmek için bir **alım fırsatı** olarak değerlendirilmelidir.
+
+## 4. Çarpan Analizi (23 Ekim 2025)
+
+*   **PD/DD (Piyasa Değeri/Defter Değeri): 1.14**
+    *   Bu oran, şirketin piyasa değerinin, defter değerine çok yakın olduğunu göstermektedir. TAVHL gibi altyapı ve duran varlık yoğun bir şirket için 1.14 PD/DD oranı, piyasanın şirketi varlıklarına göre oldukça **makul** bir seviyeden fiyatladığına işaret eder ve bir **ucuzluk göstergesi** olarak kabul edilebilir.
+*   **F/K (Fiyat/Kazanç): 23.10**
+    *   Bu oran, ilk bakışta yüksek görünebilir. Ancak, TAVHL'nin net kârı, yüksek amortisman giderleri ve finansal borçları üzerindeki kur farkı giderleri gibi nakit çıkışı gerektirmeyen kalemler nedeniyle baskı altındadır. Şirketin esas faaliyetlerinden yarattığı nakit akışı ve "Toplam Kapsamlı Gelir" kalemi, bu F/K oranının ima ettiğinden çok daha güçlü bir kârlılık resmidir. Bu nedenle, F/K oranı bu şirket için yanıltıcı olabilir ve tek başına bir pahalılık göstergesi olarak alınmamalıdır.
+*   **SONUÇ:** Özellikle PD/DD oranı, TAVHL'nin mevcut operasyonel performansı ve büyüme potansiyeli göz önüne alındığında **iskontolu** kaldığını göstermektedir. "AL / POZİSYON GÜÇLENDİR" stratejisi, çarpan analiziyle de desteklenmektedir.

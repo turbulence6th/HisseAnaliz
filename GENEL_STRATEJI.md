@@ -60,6 +60,10 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
 *   **GEREKÇE:** Temelleri sağlam BIST ağır toplarındandır. Beklenen alım fırsatı, mevcut piyasa düşüşüyle ortaya çıkmıştır. Strateji, bu düşüşleri maliyet düşürmek ve pozisyonu güçlendirmek için bir **fırsat olarak kullanmak** üzerine kuruludur.
 
+#### TAVHL (TAV Havalimanları Holding)
+*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
+*   **GEREKÇE:** 2025/09 finansal sonuçları, şirketin operasyonel olarak rekor bir performans sergilediğini göstermiştir. Ciro ve esas faaliyet kârı, pandemi sonrası hava trafiğindeki güçlü toparlanma ile sırasıyla %40 ve %38 artmıştır. Raporlanan net kâr, yüksek kur farkı giderleri nedeniyle baskı altında ve yanıltıcı kalsa da, şirketin yarattığı gerçek değeri daha iyi yansıtan **Toplam Kapsamlı Gelir** kalemi 21.7 Milyar TL ile rekor kırmıştır. Bu durum, TAVHL'nin temelinin ne kadar sağlam olduğunu ve kâğıt üzerindeki net kârın ötesinde bir değere sahip olduğunu göstermektedir. Yüksek borçluluk bir risk unsuru olsa da, bu borcun Almatı Havalimanı gibi gelecekteki büyümeyi destekleyecek stratejik yatırımlar için kullanılması ve güçlü operasyonel performans, bu riski yönetilebilir kılmaktadır. Hisse, net bir **Çekirdek Varlık** olarak portföydeki yerini sağlamlaştırmıştır.
+
 ### B) Uydu / İzleme Listesi Varlıkları
 
 #### DARDL (Dardanel)

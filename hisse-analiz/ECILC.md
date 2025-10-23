@@ -80,6 +80,9 @@ PD/DD oranının tekrar 1.0x seviyelerine gerilemesi durumunda pozisyon güçlen
 - **Ana Alım Hedefi: 75.00 - 78.00 TL Aralığı**
   - **Mantık:** Bu bölge, hem hedeflenen 1.0 PD/DD değerlemesine denk gelmekte hem de Ağustos ayındaki ana kırılımın yaşandığı bölgeye yakın olduğu için güçlü bir destek ve alım noktası olarak değerlendirilebilir.
 
+## Strateji Değerlendirmesi (23 Ekim 2025)
+Fiyatın 90 TL altına düşmesiyle "Senaryo 2: Trendin Zayıflaması (Taktiksel Satış)" tetiklenmiş ve 90 TL'den 1. kademe 184 lot satış gerçekleştirilmiştir. Bu durum, düşüşün derinleşme ihtimaline karşı pozisyonun %10'unun satılması aksiyonunu teyit etmektedir. Plan, disiplinli bir şekilde uygulanmaya devam edecektir.
+
 
 
 ## Vade

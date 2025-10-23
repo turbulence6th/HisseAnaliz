@@ -315,6 +315,142 @@ def get_funds_by_asset_group(asset_group: FundAssetGroup):
         print(f"HATA: TEFAS API'sinden gelen yanıt JSON formatında değil. Yanıt: {response.text} ❌")
 
 
+def download_fund_portfolio_report(fund_code):
+    """
+    Verilen fon koduna göre KAP'tan en güncel Portföy Dağılım Raporunu indirir
+    ve 'fon-raporlari/YYYY-AA' formatındaki klasöre kaydeder.
+    """
+    fund_code = fund_code.upper()
+    print(f"\n'{fund_code}' için Portföy Dağılım Raporu indirme işlemi başlatıldı... 펀")
+
+    # --- Adım 1: Fon Kodu ile memberOrFundOid'yi al ---
+    search_url = "https://www.kap.org.tr/tr/api/search/combined"
+    search_payload = {
+        "keyword": fund_code,
+        "discClass": "ALL",
+        "lang": "tr",
+        "channel": "WEB"
+    }
+    try:
+        response = requests.post(search_url, json=search_payload, headers=HEADERS)
+        response.raise_for_status()
+        search_data = response.json()
+        fund_info = next((item for item in search_data if item['category'] == 'companyOrFunds'), None)
+        if not fund_info or not fund_info['results']:
+            print(f"HATA: '{fund_code}' kodu ile eşleşen bir fon bulunamadı. ❌")
+            return
+        
+        result = fund_info['results'][0]
+        if result.get('searchType') != 'F':
+            print(f"HATA: '{fund_code}' bir fon kodu değil, şirket kodu olabilir. ❌")
+            return
+            
+        member_oid = result['memberOrFundOid']
+        print(f"Fon OID'si bulundu: {member_oid}")
+
+    except requests.exceptions.RequestException as e:
+        print(f"HATA: Fon aranırken bir ağ hatası oluştu: {e} ❌")
+        return
+
+    # --- Adım 2: Portföy Dağılım Raporlarını al ve en günceli bul ---
+    # Bu OID, "Portföy Dağılım Raporu" bildirim türü için statik bir ID'dir.
+    report_type_oid = "8aca490d502e34b801502e380044002b"
+    disclosures_url = f"https://www.kap.org.tr/tr/api/disclosure/filter/FILTERYFBF/{member_oid}/{report_type_oid}/365"
+    
+    try:
+        response = requests.get(disclosures_url, headers=HEADERS)
+        response.raise_for_status()
+        portfolio_reports = response.json()
+        
+        if not portfolio_reports:
+            print(f"HATA: '{fund_code}' için son 1 yılda 'Portföy Dağılım Raporu' bulunamadı. ❌")
+            return
+
+        # API zaten tarihe göre sıralı geliyor gibi ama garantiye alalım.
+        portfolio_reports.sort(
+            key=lambda r: datetime.strptime(r['disclosureBasic']['publishDate'], '%d.%m.%Y %H:%M:%S'),
+            reverse=True
+        )
+
+        latest_report = portfolio_reports[0]
+        disclosure_basic_info = latest_report['disclosureBasic']
+        disclosure_index = disclosure_basic_info['disclosureIndex']
+        report_date_str = disclosure_basic_info['publishDate'] # '07.10.2025 20:20:21'
+        report_date_obj = datetime.strptime(report_date_str, '%d.%m.%Y %H:%M:%S')
+        
+        print(f"En güncel portföy dağılım raporu bulundu (Yayınlanma: {report_date_str})")
+        
+    except requests.exceptions.RequestException as e:
+        print(f"HATA: Raporlar listesi çekilirken bir hata oluştu: {e} ❌")
+        return
+    except ValueError: # JSON decode hatası
+        print(f"HATA: KAP API'sinden gelen yanıt JSON formatında değil. Yanıt: {response.text} ❌")
+        return
+        
+    # --- Adım 3: Raporun eklerinden PDF/XLSX'in objId'sini al ---
+    attachment_url = f"https://www.kap.org.tr/tr/api/notification/attachment-detail/{disclosure_index}"
+    try:
+        response = requests.get(attachment_url, headers=HEADERS)
+        response.raise_for_status()
+        attachment_data = response.json()
+        file_attachment = None
+        # Önce PDF ara
+        for attachment in attachment_data[0]['attachments']:
+             if attachment['fileExtension'].lower() == 'pdf':
+                file_attachment = attachment
+                break
+        # PDF yoksa XLSX ara
+        if not file_attachment:
+            for attachment in attachment_data[0]['attachments']:
+                if attachment['fileExtension'].lower() == 'xlsx':
+                    file_attachment = attachment
+                    break
+
+        if not file_attachment:
+            print(f"HATA: Rapora ait bir PDF veya XLSX eki bulunamadı. ❌")
+            return
+            
+        obj_id = file_attachment['objId']
+        file_name = file_attachment['fileName']
+        file_ext = file_attachment['fileExtension']
+        print(f"İndirilecek ek bulundu: '{file_name}' (ObjectID: {obj_id})")
+    except requests.exceptions.RequestException as e:
+        print(f"HATA: Rapor ekleri alınırken bir hata oluştu: {e} ❌")
+        return
+
+    # --- Adım 4: Dosyayı indir ---
+    download_url = f"https://www.kap.org.tr/tr/api/file/download/{obj_id}"
+    try:
+        print("Dosya indiriliyor, lütfen bekleyin... 📥")
+        file_response = requests.get(download_url, headers=HEADERS, stream=True)
+        file_response.raise_for_status()
+
+        base_directory = "fon-raporlari"
+        period_directory = report_date_obj.strftime('%Y-%m') # YYYY-AA formatı
+        
+        output_directory = os.path.join(base_directory, period_directory)
+
+        if not os.path.exists(output_directory):
+            os.makedirs(output_directory)
+            print(f"'{output_directory}' klasör yapısı oluşturuldu.")
+
+        # Dosya adını oluştur
+        date_for_filename = report_date_obj.strftime('%Y-%m-%d')
+        output_filename = f"{fund_code}_Portfoy_Dagilim_{date_for_filename}.{file_ext.lower()}"
+        full_path = os.path.join(output_directory, output_filename)
+
+        with open(full_path, 'wb') as f:
+            for chunk in file_response.iter_content(chunk_size=8192):
+                f.write(chunk)
+        
+        print(f"\nBaşarılı! ✅\nRapor '{os.path.abspath(full_path)}' adresine kaydedildi.")
+
+    except requests.exceptions.RequestException as e:
+        print(f"HATA: Dosya indirilirken bir hata oluştu: {e} ❌")
+    except OSError as e:
+        print(f"HATA: Dosya kaydedilirken bir sistem hatası oluştu: {e} ❌")
+
+
 # --- Script'i Çalıştırma ---
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
@@ -334,6 +470,14 @@ if __name__ == "__main__":
         formatter_class=argparse.RawTextHelpFormatter
     )
     parser_fund.add_argument('fund_code', type=str, help='Bilgisi çekilecek fonun kodu (örn: TZL)')
+
+    # Fon portföy dağılım raporu komutu
+    parser_fund_report = subparsers.add_parser(
+        'fon-rapor',
+        help='Belirtilen fon(lar) için en son portföy dağılım raporunu indirir.\nÖrnek: python kap_rapor_indir.py fon-rapor TZL IIH',
+        formatter_class=argparse.RawTextHelpFormatter
+    )
+    parser_fund_report.add_argument('fund_codes', nargs='+', type=str, help='Raporu indirilecek fon kod(ları) (örn: TZL IIH)')
 
     # Fon listeleme komutu
     parser_list_funds = subparsers.add_parser(
@@ -369,5 +513,8 @@ if __name__ == "__main__":
         get_latest_financial_report(args.ticker)
     elif args.command == 'fon-ucret':
         get_fund_management_fee(args.fund_code)
+    elif args.command == 'fon-rapor':
+        for fund_code in args.fund_codes:
+            download_fund_portfolio_report(fund_code)
     elif args.command == 'fon-liste':
         get_funds_by_asset_group(args.asset_group)

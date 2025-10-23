@@ -1,0 +1,311 @@
+#mvp-wallpaper {
+background: url(http://www.mvpthemes.com/theleague/wp-content/uploads/2017/02/league-wallpaper.png) no-repeat 50% 0;
+}
+a,a:visited,.post-info-name a,ul.mvp-author-info-list li.mvp-author-info-name span a,.woocommerce .woocommerce-breadcrumb a {color: #0077ee;}
+#mvp-comments-button a,
+#mvp-comments-button span.mvp-comment-but-text,a.mvp-inf-more-but,.sp-template a,.sp-data-table a {color: #0077ee !important;}
+#mvp-comments-button a:hover,
+#mvp-comments-button span.mvp-comment-but-text:hover,
+a.mvp-inf-more-but:hover {border: 1px solid #0077ee;color: #0077ee !important;}
+a:hover,
+.mvp-feat4-sub-text h2 a:hover,
+span.mvp-widget-head-link a,
+.mvp-widget-list-text1 h2 a:hover,
+.mvp-blog-story-text h2 a:hover,
+.mvp-side-tab-text h2 a:hover,
+.mvp-more-post-text h2 a:hover,
+span.mvp-blog-story-author a,
+.woocommerce .woocommerce-breadcrumb a:hover,
+#mvp-side-wrap a:hover,
+.mvp-post-info-top h3 a:hover,
+#mvp-side-wrap .mvp-widget-feat-text h3 a:hover,
+.mvp-widget-author-text h3 a:hover,
+#mvp-side-wrap .mvp-widget-author-text h3 a:hover,
+.mvp-feat5-text h2 a:hover {
+color: #fe074e !important;
+}
+#mvp-main-nav-wrap,#mvp-fly-wrap,ul.mvp-fly-soc-list li a:hover {background: #ffffff;}
+ul.mvp-fly-soc-list li a {color: #ffffff !important;}
+#mvp-nav-menu ul li a,span.mvp-nav-soc-head,span.mvp-nav-search-but,span.mvp-nav-soc-but,nav.mvp-fly-nav-menu ul li.menu-item-has-children:after,nav.mvp-fly-nav-menu ul li.menu-item-has-children.tog-minus:after,nav.mvp-fly-nav-menu ul li a,span.mvp-fly-soc-head {color: #333333;}
+ul.mvp-fly-soc-list li a:hover {color: #333333 !important;}
+.mvp-fly-but-wrap span,ul.mvp-fly-soc-list li a {background: #333333;}
+ul.mvp-fly-soc-list li a:hover {border: 2px solid #333333;}
+#mvp-nav-menu ul li.menu-item-has-children ul.sub-menu li a:after,
+#mvp-nav-menu ul li.menu-item-has-children ul.sub-menu li ul.sub-menu li a:after,
+#mvp-nav-menu ul li.menu-item-has-children ul.sub-menu li ul.sub-menu li ul.sub-menu li a:after,
+#mvp-nav-menu ul li.menu-item-has-children ul.mvp-mega-list li a:after,
+#mvp-nav-menu ul li.menu-item-has-children a:after {
+border-color: #333333 transparent transparent transparent;
+}
+
+#mvp-nav-menu ul li:hover a,
+span.mvp-nav-search-but:hover,
+span.mvp-nav-soc-but:hover,
+#mvp-nav-menu ul li ul.mvp-mega-list li a:hover,
+nav.mvp-fly-nav-menu ul li a:hover {
+color: #fe074e !important;
+}
+#mvp-nav-menu ul li a{border-bottom:2px solid #fff;padding:14px 12px 13px;}
+#mvp-nav-menu ul li:hover a {
+border-bottom: 2px solid #fe074e;
+}
+
+.mvp-fly-but-wrap:hover span {
+background: #fe074e;
+}
+
+#mvp-nav-menu ul li.menu-item-has-children:hover a:after {
+border-color: #fe074e transparent transparent transparent !important;
+}
+
+ul.mvp-score-list li:hover {
+border: 1px solid #fe074e;
+}
+
+.es-nav span:hover a,
+ul.mvp-side-tab-list li span.mvp-side-tab-head i {
+color: #fe074e;
+}
+
+span.mvp-feat1-cat,
+.mvp-vid-box-wrap,
+span.mvp-post-cat,
+.mvp-prev-next-text a,
+.mvp-prev-next-text a:visited,
+.mvp-prev-next-text a:hover,
+.mvp-mob-soc-share-but,
+.mvp-scores-status,
+.sportspress h1.mvp-post-title .sp-player-number {
+background: #fe074e;
+}
+
+.sp-table-caption {
+background: #fe074e !important;
+}
+
+.woocommerce .star-rating span:before,
+.woocommerce-message:before,
+.woocommerce-info:before,
+.woocommerce-message:before {
+color: #fe074e;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce span.onsale,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+background-color: #fe074e;
+}
+
+span.mvp-sec-head,
+.mvp-authors-name {
+border-bottom: 1px solid #fe074e;
+}
+
+.woocommerce-error,
+.woocommerce-info,
+.woocommerce-message {
+border-top-color: #fe074e;
+}
+
+#mvp-nav-menu ul li a,
+nav.mvp-fly-nav-menu ul li a,
+#mvp-foot-nav ul.menu li a,
+#mvp-foot-menu ul.menu li a {
+font-family: 'Titillium Web', sans-serif;
+}
+
+body,
+.mvp-feat1-text p,
+.mvp-feat4-main-text p,
+.mvp-feat2-main-text p,
+.mvp-feat3-main-text p,
+.mvp-feat4-sub-text p,
+.mvp-widget-list-text1 p,
+.mvp-blog-story-text p,
+.mvp-blog-story-info,
+span.mvp-post-excerpt,
+ul.mvp-author-info-list li.mvp-author-info-name p,
+ul.mvp-author-info-list li.mvp-author-info-name span,
+.mvp-post-date,
+span.mvp-feat-caption,
+span.mvp-feat-caption-wide,
+#mvp-content-main p,
+#mvp-author-box-text p,
+.mvp-more-post-text p,
+#mvp-404 p,
+#mvp-foot-copy,
+#searchform input,
+span.mvp-author-page-desc,
+#woo-content p,
+.mvp-search-text p,
+#comments .c p,
+.mvp-widget-feat-text p,
+.mvp-feat5-text p {
+font-family: 'Titillium Web', sans-serif;
+}
+
+span.mvp-nav-soc-head,
+.mvp-score-status p,
+.mvp-score-teams p,
+.mvp-scores-status p,
+.mvp-scores-teams p,
+ul.mvp-feat2-list li h3,
+.mvp-feat4-sub-text h3,
+.mvp-widget-head-wrap h4,
+span.mvp-widget-head-link,
+.mvp-widget-list-text1 h3,
+.mvp-blog-story-text h3,
+ul.mvp-side-tab-list li span.mvp-side-tab-head,
+.mvp-side-tab-text h3,
+span.mvp-post-cat,
+.mvp-post-tags,
+span.mvp-author-box-name,
+#mvp-comments-button a,
+#mvp-comments-button span.mvp-comment-but-text,
+span.mvp-sec-head,
+a.mvp-inf-more-but,
+.pagination span, .pagination a,
+.woocommerce ul.product_list_widget span.product-title,
+.woocommerce ul.product_list_widget li a,
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta,
+.woocommerce .related h2,
+.woocommerce div.product .woocommerce-tabs .panel h2,
+.woocommerce div.product .product_title,
+#mvp-content-main h1,
+#mvp-content-main h2,
+#mvp-content-main h3,
+#mvp-content-main h4,
+#mvp-content-main h5,
+#mvp-content-main h6,
+#woo-content h1.page-title,
+.woocommerce .woocommerce-breadcrumb,
+.mvp-authors-name,
+#respond #submit,
+.comment-reply a,
+#cancel-comment-reply-link,
+span.mvp-feat1-cat,
+span.mvp-post-info-date,
+.mvp-widget-feat-text h3,
+.mvp-widget-author-text h3 a,
+.sp-table-caption {
+font-family: 'Titillium Web', sans-serif !important;
+}
+
+.mvp-feat1-text h2,
+.mvp-feat1-text h2.mvp-stand-title,
+.mvp-feat4-main-text h2,
+.mvp-feat4-main-text h2.mvp-stand-title,
+.mvp-feat1-sub-text h2,
+.mvp-feat2-main-text h2,
+.mvp-feat2-sub-text h2,
+ul.mvp-feat2-list li h2,
+.mvp-feat3-main-text h2,
+.mvp-feat3-sub-text h2,
+.mvp-feat4-sub-text h2 a,
+.mvp-widget-list-text1 h2 a,
+.mvp-blog-story-text h2 a,
+.mvp-side-tab-text h2 a,
+#mvp-content-main blockquote p,
+.mvp-more-post-text h2 a,
+h2.mvp-authors-latest a,
+.mvp-widget-feat-text h2 a,
+.mvp-widget-author-text h2 a,
+.mvp-feat5-text h2 a,
+.mvp-scores-title h2 a {
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1.mvp-post-title,
+.mvp-cat-head h1,
+#mvp-404 h1,
+h1.mvp-author-top-head,
+#woo-content h1.page-title,
+.woocommerce div.product .product_title,
+.woocommerce ul.products li.product h3 {
+font-family: 'Roboto', sans-serif;
+}
+
+.mvp-nav-links {
+display: none;
+}
+
+#mvp-wallpaper {
+top:96px;
+}
+
+.mvp-score-up {
+-webkit-transform: translate3d(0,-94px,0) !important;
+-moz-transform: translate3d(0,-94px,0) !important;
+-ms-transform: translate3d(0,-94px,0) !important;
+-o-transform: translate3d(0,-94px,0) !important;
+transform: translate3d(0,-94px,0) !important;
+z-index: 9999;
+}
+.mvp-wall-up {
+-webkit-transform: translate3d(0,-72px,0) !important;
+-moz-transform: translate3d(0,-72px,0) !important;
+-ms-transform: translate3d(0,-72px,0) !important;
+-o-transform: translate3d(0,-72px,0) !important;
+transform: translate3d(0,-72px,0) !important;
+}
+@media screen and (max-width: 1003px) and (min-width: 600px) {
+#mvp-main-wrap {
+margin-top: 122px !important;
+}
+}
+
+
+@media screen and (min-width: 900px) {
+.mvp-leader2,
+.mvp-leader3 {
+display: none;
+}
+}
+@media screen and (max-width: 899px) and (min-width: 480px) {
+.mvp-leader1,
+.mvp-leader3 {
+display: none;
+}
+.mvp-leader2 {
+display: inline-block;
+}
+}
+@media screen and (max-width: 479px) {
+.mvp-leader1,
+.mvp-leader2 {
+display: none;
+}
+.mvp-leader3 {
+display: inline-block;
+}
+}
+
+/*
+     FILE ARCHIVED ON 23:45:57 Apr 01, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:04:32 Mar 19, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 682.331
+  exclusion.robots: 0.102
+  exclusion.robots.policy: 0.094
+  RedisCDXSource: 6.183
+  esindex: 0.008
+  LoadShardBlock: 655.36 (3)
+  PetaboxLoader3.datanode: 677.518 (5)
+  CDXLines.iter: 18.565 (3)
+  load_resource: 271.114 (2)
+  PetaboxLoader3.resolve: 159.396 (2)
+*/

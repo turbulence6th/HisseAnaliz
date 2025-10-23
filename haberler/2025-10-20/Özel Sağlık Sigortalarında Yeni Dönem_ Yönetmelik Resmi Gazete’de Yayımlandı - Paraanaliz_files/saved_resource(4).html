@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)https://www.paraanaliz.com/?mailpoet_form_iframe=1 -->
+<html lang="tr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script>
+  var additionalHeight = 10,
+    attemptsToAdjust = 3,
+    delayToAdjust = 400,
+    intervalHandle;
+
+  var sendSize = function() {
+    if(!attemptsToAdjust && intervalHandle !== undefined) {
+      window.clearInterval(intervalHandle)
+      return;
+    }
+    window.top.postMessage({MailPoetIframeHeight: document.body.scrollHeight + additionalHeight + 'px'}, '*');
+    attemptsToAdjust--;
+  };
+
+  window.addEventListener('load', function () {
+    sendSize();
+    if(!window.MutationObserver) {
+      intervalHandle = setInterval(sendSize, delayToAdjust);
+      return;
+    }
+
+    var observer = new MutationObserver(sendSize);
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true
+    });
+  });
+</script>
+
+<!--<![endif]-->
+  
+    
+    <meta name="viewport" content="width=device-width">
+    <meta name="robots" content="noindex, nofollow">
+    <title>MailPoet abonelik formu</title>
+    <style>
+      html {
+        box-sizing: border-box;
+      }
+      *,
+      *:before,
+      *:after {
+        box-sizing: inherit;
+      }
+      body {
+        color: rgb(40, 48, 61);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+        text-align: left;
+      }
+    </style>
+        <link href="./css(1)" rel="stylesheet"><link href="./css(2)" rel="stylesheet"><link href="./css(3)" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./mailpoet-public.b1f0906e.css">
+    <script type="text/javascript" src="./jquery.min.js.indir" id="jquery-core-js"></script>
+<script type="text/javascript" src="./jquery-migrate.min.js.indir" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="mailpoet_public-js-extra">
+/* <![CDATA[ */
+var MailPoetForm = {"ajax_url":"https:\/\/www.paraanaliz.com\/wp-admin\/admin-ajax.php","is_rtl":"","ajax_common_error_message":"Bir istek ger\u00e7ekle\u015ftirilirken bir hata oldu, l\u00fctfen daha sonra tekrar deneyin."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./public.js.indir" id="mailpoet_public-js" defer="defer" data-wp-strategy="defer"></script>
+
+  </head>
+  <body marginwidth="0" marginheight="0">
+      
+  
+  <div class="
+    mailpoet_form_popup_overlay
+      "></div>
+  <div id="mailpoet_form_1" class="
+      mailpoet_form
+      mailpoet_form_iframe
+      mailpoet_form_position_
+      mailpoet_form_animation_
+    ">
+
+    <style type="text/css">
+     #mailpoet_form_1 .mailpoet_form {  }
+#mailpoet_form_1 form { margin-bottom: 0; }
+#mailpoet_form_1 h1.mailpoet-heading { margin: 0 0 20px; }
+#mailpoet_form_1 p.mailpoet_form_paragraph.last { margin-bottom: 5px; }
+#mailpoet_form_1 .mailpoet_column_with_background { padding: 10px; }
+#mailpoet_form_1 .mailpoet_form_column:not(:first-child) { margin-left: 20px; }
+#mailpoet_form_1 .mailpoet_paragraph { line-height: 20px; margin-bottom: 20px; }
+#mailpoet_form_1 .mailpoet_segment_label, #mailpoet_form_1 .mailpoet_text_label, #mailpoet_form_1 .mailpoet_textarea_label, #mailpoet_form_1 .mailpoet_select_label, #mailpoet_form_1 .mailpoet_radio_label, #mailpoet_form_1 .mailpoet_checkbox_label, #mailpoet_form_1 .mailpoet_list_label, #mailpoet_form_1 .mailpoet_date_label { display: block; font-weight: normal; }
+#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea, #mailpoet_form_1 .mailpoet_select, #mailpoet_form_1 .mailpoet_date_month, #mailpoet_form_1 .mailpoet_date_day, #mailpoet_form_1 .mailpoet_date_year, #mailpoet_form_1 .mailpoet_date { display: block; }
+#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea { width: 200px; }
+#mailpoet_form_1 .mailpoet_checkbox {  }
+#mailpoet_form_1 .mailpoet_submit {  }
+#mailpoet_form_1 .mailpoet_divider {  }
+#mailpoet_form_1 .mailpoet_message {  }
+#mailpoet_form_1 .mailpoet_form_loading { width: 30px; text-align: center; line-height: normal; }
+#mailpoet_form_1 .mailpoet_form_loading > span { width: 5px; height: 5px; background-color: #5b5b5b; }#mailpoet_form_1{border-radius: 16px;background: #ffffff;color: #313131;text-align: left;}#mailpoet_form_1 form.mailpoet_form {padding: 16px;}#mailpoet_form_1{width: 100%;}#mailpoet_form_1 .mailpoet_message {margin: 0; padding: 0 20px;}
+        #mailpoet_form_1 .mailpoet_validate_success {color: #00d084}
+        #mailpoet_form_1 input.parsley-success {color: #00d084}
+        #mailpoet_form_1 select.parsley-success {color: #00d084}
+        #mailpoet_form_1 textarea.parsley-success {color: #00d084}
+      
+        #mailpoet_form_1 .mailpoet_validate_error {color: #cf2e2e}
+        #mailpoet_form_1 input.parsley-error {color: #cf2e2e}
+        #mailpoet_form_1 select.parsley-error {color: #cf2e2e}
+        #mailpoet_form_1 textarea.textarea.parsley-error {color: #cf2e2e}
+        #mailpoet_form_1 .parsley-errors-list {color: #cf2e2e}
+        #mailpoet_form_1 .parsley-required {color: #cf2e2e}
+        #mailpoet_form_1 .parsley-custom-error-message {color: #cf2e2e}
+      #mailpoet_form_1 .mailpoet_paragraph.last {margin-bottom: 0} @media (max-width: 500px) {#mailpoet_form_1 {background: #ffffff;}} @media (min-width: 500px) {#mailpoet_form_1 .last .mailpoet_paragraph:last-child {margin-bottom: 0}}  @media (max-width: 500px) {#mailpoet_form_1 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child {margin-bottom: 0}} 
+    </style>
+
+    <form target="_self" method="post" action="https://www.paraanaliz.com/wp-admin/admin-post.php?action=mailpoet_subscription_form" class="mailpoet_form mailpoet_form_form mailpoet_form_iframe" novalidate="" data-delay="" data-exit-intent-enabled="" data-font-family="" data-cookie-expiration-time="">
+      <input type="hidden" name="data[form_id]" value="1">
+      <input type="hidden" name="token" value="6b89b7ed99">
+      <input type="hidden" name="api_version" value="v1">
+      <input type="hidden" name="endpoint" value="subscribers">
+      <input type="hidden" name="mailpoet_method" value="subscribe">
+
+      <label class="mailpoet_hp_email_label" style="display: none !important;">Lütfen bu alanı boş bırakın<input type="email" name="data[email]"></label><div class="mailpoet_form_image"><figure class="size-full aligncenter"><img src="./paraanalizmailbackground.png" alt="" class="wp-image-90427" srcset=""></figure></div>
+<h3 class="mailpoet-heading  mailpoet-has-font-size" style="text-align: center; color: #313131; font-size: 34px; line-height: 1.2"><span style="font-family: BioRhyme" data-font="BioRhyme" class="mailpoet-has-font"><span style="font-family: BioRhyme" data-font="BioRhyme" class="mailpoet-has-font">Güncel haberleri kaçırmayın!</span></span></h3>
+<h3 class="mailpoet-heading  mailpoet-has-font-size" style="text-align: center; color: #313131; font-size: 22px; line-height: 1.2">Bültenimize abone olun</h3>
+<div class="mailpoet_paragraph "><style>input[name="data[form_field_MzgyOGUyZDVmNGM4X2VtYWls]"]::placeholder{color:#abb8c3;opacity: 1;}</style><input type="email" autocomplete="email" class="mailpoet_text" id="form_email_1" name="data[form_field_MzgyOGUyZDVmNGM4X2VtYWls]" title="E-posta adresi" value="" style="width:100%;box-sizing:border-box;background-color:#eeeeee;border-style:solid;border-radius:8px !important;border-width:0px;border-color:#313131;padding:16px;margin: 0 auto 0 0;font-family:&#39;Montserrat&#39;;font-size:20px;line-height:1.5;height:auto;color:#abb8c3;" data-automation-id="form_email" placeholder="E-posta adresi *" aria-label="E-posta adresi *" data-parsley-errors-container=".mailpoet_error_1sv25" data-parsley-required="true" required="" aria-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-type-message="Bu değer geçerli bir e-posta olmalıdır." data-parsley-required-message="Bu alan gereklidir."><span class="mailpoet_error_1sv25"></span></div>
+<div class="mailpoet_paragraph "><input type="submit" class="mailpoet_submit" value="Abone ol!" data-automation-id="subscribe-submit-button" data-font-family="Montserrat" style="width:100%;box-sizing:border-box;border-style:solid;border-radius:8px !important;border-width:0px;padding:16px;margin: 0 auto 0 0;font-family:&#39;Montserrat&#39;;font-size:24px;line-height:1.5;height:auto;color:#ffffff;border-color:transparent;background: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);font-weight:bold;"><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></div>
+<p class="mailpoet_form_paragraph mailpoet-has-font-size last" style="text-align: center; font-size: 13px; line-height: 1.5"><em><span style="font-family: Montserrat" data-font="Montserrat" class="mailpoet-has-font">İstenmeyen posta göndermiyoruz! Daha fazla bilgi için <a target="_blank" href="https://www.paraanaliz.com/gizlilik-politikasi/">gizlilik politikamızı</a> okuyun.</span></em></p>
+
+      <div class="mailpoet_message">
+        <p class="mailpoet_validate_success" style="display:none;">Aboneliğinizi onaylamak için gelen veya istenmeyen posta kutunuzu kontrol edin.
+        </p>
+        <p class="mailpoet_validate_error" style="display:none;">        </p>
+      </div>
+    </form>
+
+      </div>
+
+  
+    <script type="text/javascript">
+      var MailPoetForm = {"ajax_url":"https:\/\/www.paraanaliz.com\/wp-admin\/admin-ajax.php","is_rtl":false};
+    </script>
+  
+
+</body></html>

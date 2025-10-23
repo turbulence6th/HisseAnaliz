@@ -1,0 +1,133 @@
+/* SportsPress icons */
+@font-face {
+	font-family: 'sportspress';
+	src:url('https://www.paraanaliz.com/tools/fonts/sportspress.eot?ddphik');
+	src:url('https://www.paraanaliz.com/tools/fonts/sportspress.eot#iefixddphik') format('embedded-opentype'),
+		url('https://www.paraanaliz.com/tools/fonts/sportspress.woff2?ddphik') format('woff2'),
+		url('https://www.paraanaliz.com/tools/fonts/sportspress.ttf?ddphik') format('truetype'),
+		url('https://www.paraanaliz.com/tools/fonts/sportspress.woff?ddphik') format('woff'),
+		url('https://www.paraanaliz.com/tools/fonts/sportspress.svg?ddphik#sportspress') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="sp-icon-"], [class*=" sp-icon-"] {
+	font-family: sportspress, dashicons;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	font-size: 20px;
+	vertical-align: top;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Performance Icons */
+.sp-icon-sub:before {
+	content: "\f503";
+}
+.sp-icon-star-filled:before {
+	content: "\f155";
+}
+.sp-icon-update:before {
+	content: "\f113";
+}
+.sp-icon-undo:before {
+	content: "\f171";
+}
+.sp-icon-redo:before {
+	content: "\f172";
+}
+.sp-icon-marker:before {
+	content: "\f159";
+}
+.sp-icon-no:before {
+	content: "\f158";
+}
+.sp-icon-heart:before {
+	content: "\f487";
+}
+
+/* Performance Icons - Sports */
+.sp-icon-soccerball:before {
+	content: "\e700";
+}
+.sp-icon-baseball:before {
+	content: "\e701";
+}
+.sp-icon-basketball:before {
+	content: "\e602";
+}
+.sp-icon-golfball:before {
+	content: "\e603";
+}
+.sp-icon-cricketball:before {
+	content: "\e604";
+}
+.sp-icon-bowling:before {
+	content: "\e605";
+}
+.sp-icon-ice-hockey:before {
+	content: "\e606";
+}
+.sp-icon-football:before {
+	content: "\e607";
+}
+.sp-icon-poolball:before {
+	content: "\e608";
+}
+.sp-icon-table-tennis:before {
+	content: "\e609";
+}
+.sp-icon-tennis:before {
+	content: "\e610";
+}
+.sp-icon-racing-flag:before {
+	content: "\e611";
+}
+
+/* Performance Icons - Sports (Alt) */
+.sp-icon-soccerball-alt:before {
+	content: "\e600";
+}
+.sp-icon-baseball-alt:before {
+	content: "\e601";
+}
+
+/* Performance Icons - Misc */
+.sp-icon-shoe:before {
+	content: "\e800";
+}
+.sp-icon-card:before {
+	content: "\e801";
+}
+
+/*
+     FILE ARCHIVED ON 08:17:58 Jan 08, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:05:58 Mar 23, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 8.08
+  exclusion.robots: 0.359
+  exclusion.robots.policy: 0.342
+  CDXLines.iter: 20.425 (3)
+  load_resource: 802.399 (2)
+  LoadShardBlock: 232.425 (3)
+  esindex: 0.015
+  captures_list: 264.957
+  PetaboxLoader3.datanode: 622.766 (5)
+  PetaboxLoader3.resolve: 281.411 (2)
+*/

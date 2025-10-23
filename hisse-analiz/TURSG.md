@@ -29,10 +29,14 @@ Bu aşamada TURSG için bir "AL" pozisyonu oluşturmak veya mevcut pozisyonu art
 
 Kullanıcının sağladığı güncel rasyolar, şirketin güçlü kâr büyümesine rağmen fiyatlamasının hala makul seviyelerde olduğunu teyit etmektedir. 5.23 F/K oranı, %49'luk net kâr artışı göz önüne alındığında, hissenin primli olmadığını, aksine büyüme potansiyeline göre iskontolu kalmış olabileceğini göstermektedir. 2.26 PD/DD oranı ise şirketin özkaynaklarının iki katından biraz fazla bir piyasa değeriyle işlem gördüğünü gösterir ki bu da kârlı ve büyüyen bir finans şirketi için normal karşılanabilir. Bu rasyolar, mevcut "AL" pozisyonu tezini desteklemektedir.
 
+## Güncel Gelişmeler (Ekim 2025)
+
+*   **20 Ekim 2025:** Resmi Gazete'de yayımlanan yeni Özel Sağlık Sigortası yönetmeliği, sektör için uzun vadeli riskler getirmektedir. 1 Ocak 2026'da yürürlüğe girecek olan düzenleme, sigorta şirketlerine belirli şartları sağlayan müşterilere **"Ömür Boyu Yenileme Garantisi"** verme zorunluluğu getirmektedir. Bu garanti verildikten sonra şirketler, teminatları daraltamayacak veya ek prim talep edemeyecektir.
+
 ## Riskler ve Katalizörler
 
 *   **Ana Riskler:**
-    *   **Regülasyon Riski:** Sigortacılık sektörüne yönelik olumsuz bir regülasyon (tavan fiyat, karşılık politikalarında değişiklik vb.) kârlılığı baskılayabilir.
+    *   **Regülasyon Riski:** Sigortacılık sektörüne yönelik olumsuz bir regülasyon (tavan fiyat, karşılık politikalarında değişiklik vb.) kârlılığı baskılayabilir. Özellikle, 1 Ocak 2026'da yürürlüğe girecek olan ve şirketlere "Ömür Boyu Yenileme Garantisi" sunma zorunluluğu getiren yeni yönetmelik, sağlık sigortası branşının uzun vadeli kârlılığı üzerinde önemli bir baskı oluşturma potansiyeli taşımaktadır.
     *   **Rekabet:** Sektördeki yoğun rekabet, prim fiyatları ve kâr marjları üzerinde baskı oluşturabilir.
     *   **Makroekonomik Bozulma:** Beklenenden daha sert bir ekonomik yavaşlama, sigorta talebini ve prim üretimini olumsuz etkileyebilir.
 

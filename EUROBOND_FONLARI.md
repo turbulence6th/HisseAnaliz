@@ -1,14 +1,29 @@
-# TEFAS Eurobond Fonları Yönetim Ücretleri Karşılaştırması (27 Eylül 2025 İtibarıyla)
+# TEFAS Eurobond Fonları Getiri ve Yönetim Ücreti Karşılaştırması (22 Ekim 2025)
 
-Bu belge, TEFAS'ta işlem gören ve takip edilen başlıca Eurobond (Döviz) Borçlanma Araçları fonlarının yıllık yönetim ücretlerini karşılaştırmaktadır. Bilgiler, ilgili portföy yönetim şirketlerinin resmi web sitelerinden teyit edilmiştir.
+Bu belge, TEFAS'ta işlem gören ve takip edilen başlıca Eurobond (Döviz) Borçlanma Araçları fonlarının getiri performanslarını ve yıllık yönetim ücretlerini karşılaştırmaktadır.
 
-| Fon Kodu | Portföy Şirketi | Yıllık Yönetim Ücreti |
-| :--- | :--- | :--- |
-| **DBH** | Deniz Portföy | **%1,75** |
-| **FUB** | QNB Finans Portföy | **%2,25** |
-| **GPA** | Garanti Portföy | **%2,90** |
-| **YBE** | Yapı Kredi Portföy | **%3,00** |
+### Fon Getiri ve Yönetim Ücreti Karşılaştırma Tablosu
 
-## Değerlendirme
+| Fon Kodu | Fon Adı | Yıllık Yönetim Ücreti (%) | 1 Yıl Getiri (%) | 3 Yıl Getiri (%) | 5 Yıl Getiri (%) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **DBH** | **DENİZ PORTFÖY (Mevcut Fon)** | **1,75** | 32,52 | **263,35** | **747,33** |
+| FPE | FİBA PORTFÖY | **1,10** | 32,89 | 229,02 | 664,57 |
+| IPV | İŞ PORTFÖY | 2,00 | 28,94 | 191,92 | 626,94 |
+| FUB | QNB PORTFÖY | 2,25 | 31,54 | 211,07 | 626,06 |
+| GPA | GARANTİ PORTFÖY | 2,90 | 34,29 | 207,82 | 616,32 |
+| YBE | YAPI KREDİ PORTFÖY | 3,00 | **34,47** | 226,33 | 612,55 |
+| AKE | AK PORTFÖY | 2,90 | 30,74 | 208,58 | 599,63 |
+| TPL | TEB PORTFÖY | 2,90 | 30,44 | 184,24 | 575,92 |
 
-Fonların yönetim ücretleri arasında belirgin farklar bulunmaktadır. `DBH` fonu **%1,75** ile en rekabetçi oranı sunarken, `FUB` (%2,25), `GPA` (%2,90) ve `YBE` (%3,00) daha yüksek oranlara sahiptir. Bu durum, fon seçiminde yönetim ücreti dışında getiri performansı, portföy dağılımı ve risk seviyesi gibi diğer faktörlerin önemini artırmaktadır.
+
+## Değerlendirme ve Sonuç
+
+Analiz, mevcut fon olan **DBH**'nin, takip edilen fonlar arasında en dengeli ve başarılı seçenek olduğunu göstermektedir.
+
+1.  **Uzun Vadeli Performans:** `DBH`, hem 3 yıllık hem de 5 yıllık getirilerde, diğer tüm fonlardan açık ara daha üstün bir performans sergilemiştir. Bu, fon yöneticisinin piyasa döngülerini başarıyla yönettiğinin en önemli göstergesidir.
+
+2.  **Maliyet Avantajı:** `DBH`'nin %1,75'lik yönetim ücreti, listenin en rekabetçi oranlarından biridir. En ucuz fon olan `FPE` (%1,10) ise getiri olarak `DBH`'nin oldukça gerisindedir. `DBH`'den daha iyi kısa vadeli getiri sunan `YBE` ve `GPA` gibi fonların yönetim ücretleri ise neredeyse iki kat daha pahalıdır.
+
+3.  **Kısa Vadeli Endişeler:** `DBH`'nin 1 ve 3 aylık getirilerde geride kalması, fon yöneticisinin faiz veya kredi riski beklentilerine göre aldığı anlık pozisyonlardan kaynaklanan normal bir dalgalanmadır. Kanıtlanmış uzun vadeli performansı göz önüne alındığında, bu durum bir "aksiyon sinyali" olarak değerlendirilmemelidir.
+
+**Öneri:** Mevcut veriler, **`DBH` fonunda kalmanın en mantıklı strateji olduğunu göstermektedir.** Kısa vadeli getiri farkları, `DBH`'nin kanıtlanmış uzun vadeli üstün performansı ve rekabetçi maliyeti karşısında pozisyon değiştirmek için yeterli bir sebep değildir.

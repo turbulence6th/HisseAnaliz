@@ -37,8 +37,8 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **GEREKÇE:** Hisse, "ucuzluk" temalı ilk yatırım tezini 100 TL üzeri fiyatlamayla başarıyla tamamlamıştır. Ana strateji, kârın bir kısmını kademeli olarak realize ederken uzun vadeli çekirdek bir pozisyonu korumak olarak güncellenmiştir. Detaylı satış planı kendi `.md` dosyasındadır.
 
 #### SISE (Şişecam)
-*   **HÜKÜM:** KADEMELİ AL
-*   **GEREKÇE:** Operasyonel verimlilik ve güçlü maliyet kontrolü, hisseyi Çekirdek Portföy için cazip kılmaktadır. Mevcut piyasa düşüşü, tam olarak "piyasa düşüşlerinde kademeli olarak pozisyon oluşturma" stratejisi için tasarlanmış bir **fırsattır**. Alımlara başlanması için uygun bir zemin oluşmuştur.
+*   **HÜKÜM:** TUT VE İZLE
+*   **GEREKÇE:** Operasyonel verimlilik ve güçlü maliyet kontrolü hisseyi çekirdek portföy için cazip kılsa da, 21 Ekim 2025'te açıklanan Rekabet Kurulu cezası (3.15 Milyar TL) kısa vadede bir belirsizlik yaratmıştır. Kullanıcının kararı doğrultusunda, pozisyon almadan önce 2025/09 bilançosunun sonuçlarını görmek ve cezanın finansallar üzerindeki potansiyel etkisini değerlendirmek üzere hisse izlemeye alınmıştır.
 
 #### ASELS (Aselsan)
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
@@ -83,8 +83,8 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **GEREKÇE:** Yapılan detaylı fon karşılaştırma analizleri sonucunda, YUB fonu portföyünüzdeki hisselerle ve stratejik sektör tercihlerinizle en yüksek benzerliği (%68.84) göstermektedir. Ayrıca, sizin portföyünüzden çıkardığınız EREGL veya AGHOL gibi hisseleri barındırmamaktadır. Bu özellikleriyle, portföy çeşitlendirmesi ve profesyonel yönetimden faydalanma amacıyla "AL" kararı ile Uydu/İzleme Listesi'ne eklenmiştir.
 
 #### TURSG (Türkiye Sigorta)
-*   **HÜKÜM:** AL
-*   **GEREKÇE:** 3Ç 2025 finansal sonuçları, şirketin mevcut yüksek enflasyon ve faiz ortamından net bir şekilde faydalandığını göstermiştir. %45'lik prim büyümesi ve %49'luk net kâr artışı, güçlü bir performansa işaret etmektedir. Sanayi şirketlerinin döngüsel baskı altında olduğu bir dönemde, finans sektöründen güçlü bir adayın portföye eklenmesi, rotasyon stratejisiyle [[memory:6128755]] uyumludur. Bu nedenle "AL" kararı ile Uydu/İzleme listesine eklenmiştir.
+*   **HÜKÜM:** KADEMELİ AL
+*   **GEREKÇE:** 3Ç 2025 finansal sonuçları (20 Ekim'de açıklandı), şirketin mevcut yüksek enflasyon ve faiz ortamından net bir şekilde faydalandığını teyit etmiştir. Güçlü kâr performansı ve sektördeki pozitif ayrışma nedeniyle küçük bir başlangıç pozisyonu alınmıştır. Strateji, olası piyasa düşüşlerini pozisyonu kademeli olarak büyütmek için bir **alım fırsatı** olarak değerlendirmektir.
 
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
@@ -121,3 +121,28 @@ Proje ana dizininde bulunan `hisse_proxy.py` scripti, bir hissenin son 1 yıllı
     python hisse_proxy.py SISE
     ```
 *   **Çıktı:** Bu komut, hissenin fiyat ve hacim bilgilerini içeren bir JSON verisi döndürür. Bu veri, anlık teknik analiz ve strateji kontrolü için kullanılabilir.
+
+## 6. Makroekonomik Gelişme ve Strateji Güncellemesi (22 Ekim 2025)
+
+*   **DURUM:** Hükümetin, 2024-2025 yıllarında uygulanan ve finansal tabloları karmaşıklaştıran "Enflasyon Düzeltmesi" uygulamasını 3 yıl süreyle erteleyerek fiilen sonlandırdığı açıklandı. Bu, 2026'dan itibaren şirketlerin daha basit, tarihsel maliyetlere dayalı bilançolar yayınlayacağı anlamına gelmektedir.
+*   **STRATEJİK ETKİ:** Bu gelişme, yatırım analizlerimizin temelini oluşturan verinin yapısını değiştirmektedir. F/K gibi rasyolar yanıltıcı hale gelebilir. Bu nedenle ana strateji, **şirketlerin operasyonel performansına ve özellikle nakit akışı yaratma becerilerine daha fazla odaklanmak** olarak güncellenmiştir.
+*   **EYLEM PLANI:** Portföydeki tüm şirketler (özellikle varlık yoğun sanayi şirketleri ve finansallar), enflasyon muhasebesi olmadan oluşacak yeni finansal yapıları ve kârlılık potansiyelleri açısından yeniden değerlendirilecektir. İlk çeyrek 2026 bilançoları, bu yeni değerlendirme için kritik öneme sahip olacaktır.
+
+### Çarpanlar Üzerindeki Beklenen Etkiler (F/K ve PD/DD)
+
+Enflasyon muhasebesinin kaldırılması, BIST şirketlerinin değerleme çarpanlarını temelden değiştirecektir. Portföydeki şirketler iki ana grupta incelenmelidir:
+
+#### 1. PD/DD (Piyasa Değeri / Defter Değeri) Etkisi
+*   **Genel Etki:** Duran varlıkların tekrar tarihi maliyetlere dönmesiyle, şirketlerin Defter Değeri (Özkaynak) düşecektir. Bu da PD/DD çarpanlarının **YÜKSELMESİNE** neden olacaktır.
+*   **Portföy Etkisi:**
+    *   **Yüksek Etki (PD/DD Artışı):** `TUPRS`, `SISE`, `ASELS`, `ALARK`, `BRISA` gibi varlık yoğun sanayi şirketlerinin PD/DD'leri ciddi şekilde artacak, bu da onları kâğıt üzerinde daha "pahalı" gösterecektir.
+    *   **Sınırlı Etki:** `YKBNK`, `TURSG`, `ECILC`, `TCELL` gibi finansal ve hizmet şirketlerinin PD/DD'leri daha az etkilenecektir.
+
+#### 2. F/K (Fiyat / Kazanç) Etkisi
+*   **Genel Etki:** Tarihi maliyetler üzerinden hesaplanacak düşük amortisman giderleri, şirketlerin Net Kârını kâğıt üzerinde artıracaktır. Bu da F/K çarpanlarının **DÜŞMESİNE** neden olacaktır.
+*   **Portföy Etkisi:**
+    *   **Yüksek Etki (F/K Düşüşü):** `TUPRS`, `SISE`, `ASELS`, `ALARK`, `BRISA` gibi sanayi şirketlerinin F/K'ları daha "ucuz" görünebilir. Bu durum, operasyonel performansı zayıf şirketler için bir **"değer tuzağı"** riski yaratır.
+    *   **Sınırlı Etki:** `YKBNK` ve `TURSG` gibi finansal şirketlerin kârları "parasal pozisyon kârı/zararı" kaleminden arınacağı için daha temiz olacaktır. F/K'ları operasyonel başarıyı daha net yansıtacaktır.
+
+#### Stratejik Sonuç
+Bu yeni dönemde PD/DD'nin anlamı azalırken, F/K yanıltıcı olabilir. Değerleme odağı, muhasebe değişimlerinden daha az etkilenen **FAVÖK (EBITDA)** ve en önemlisi **Serbest Nakit Akışı**'na kaydırılmalıdır.

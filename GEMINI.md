@@ -100,10 +100,12 @@ Betik, alışverişin bugünkü peşin değerini standart çıktıya yazdıracak
 
 ### `kap_rapor_indir.py` Nasıl Kullanılır:
 
-Bu komut satırı yardımcı programı, Kamuyu Aydınlatma Platformu (KAP) üzerinden iki temel işlemi gerçekleştirmek için kullanılır:
+Bu komut satırı yardımcı programı, Kamuyu Aydınlatma Platformu (KAP) ve TEFAS üzerinden birkaç temel işlemi gerçekleştirmek için kullanılır:
 
 1.  **Finansal Rapor İndirme:** Belirtilen bir BIST şirketinin en güncel dönemsel finansal raporunu (PDF formatında) indirir.
 2.  **Fon Yönetim Ücreti Öğrenme:** Belirtilen bir yatırım fonunun yıllık yönetim ücreti oranını çeker.
+3.  **Portföy Dağılım Raporu İndirme:** Belirtilen bir veya daha fazla yatırım fonunun en güncel portföy dağılım raporunu (PDF veya XLSX formatında) indirir.
+4.  **Varlık Grubuna Göre Fon Listeleme:** Belirtilen bir varlık grubundaki (örn: Hisse Senedi, Eurobond) fonları TEFAS'tan çeker ve getirilerini listeler.
 
 #### Finansal Rapor İndirme:
 
@@ -133,18 +135,30 @@ python kap_rapor_indir.py fon-ucret TZL
 
 Betik, ilgili fonun yıllık yönetim ücretini standart çıktıya yazdıracaktır.
 
-### `hisse_veri_cek.py` Nasıl Kullanılır:
-
-İş Yatırım'ın web sitesinden bir hissenin F/K (Fiyat/Kazanç) ve PD/DD (Piyasa Değeri/Defter Değeri) oranlarını hızlıca çekmek için kullanılır.
+#### Portföy Dağılım Raporu İndirme:
 
 ```bash
-python hisse_veri_cek.py <HİSSE_KODU>
+python kap_rapor_indir.py fon-rapor <FON_KODU_1> <FON_KODU_2> ...
 ```
 
 **Örnek:**
 
 ```bash
-python hisse_veri_cek.py ALKLC
+python kap_rapor_indir.py fon-rapor TZL IIH
 ```
 
-Betik, ilgili hissenin F/K ve PD/DD oranlarını standart çıktıya yazdıracaktır.
+Betik, raporları `fon-raporlari/{YIL}-{AY}` dizinine `{FON_KODU}_Portfoy_Dagilim_{TARIH}.pdf` veya `.xlsx` adıyla kaydeder.
+
+#### Varlık Grubuna Göre Fon Listeleme:
+
+```bash
+python kap_rapor_indir.py fon-liste <VARLIK_GRUBU>
+```
+
+**Örnek:**
+
+```bash
+python kap_rapor_indir.py fon-liste "Hisse Senedi"
+```
+
+Betik, ilgili fonları ve getiri bilgilerini standart çıktıya yazdıracaktır.

@@ -18,11 +18,10 @@ Anadolu Hayat Emeklilik, Türkiye'nin en büyük ve köklü hayat ve emeklilik �
 
 *   **Yatırım Gelirlerindeki Düşüş:** Finansal piyasalardaki dalgalanmalar nedeniyle yatırım gelirleri geçen yıla göre düşüş göstermiştir. Ancak bu, sigorta şirketlerinin doğasında olan bir durumdur ve ANHYT'nin operasyonel kârlılığı bu düşüşü fazlasıyla telafi etmiştir. Bu nedenle, bu durum ana yatırım tezini bozmamaktadır.
 
-## 3. Strateji ve Karar
+## 3. Strateji ve Karar (25 Ekim 2025 itibarıyla güncellendi)
 
-*   **HÜKÜM:** AL / POZİSYON GÜÇLENDİR
-*   **GEREKÇE:** ANHYT, Türkiye'nin en büyük finansal gruplarından birinin parçası olan, pazar lideri, istikrarlı, büyüyen ve yüksek kârlı bir şirkettir. 2025/09 sonuçları, şirketin en zorlu piyasa koşullarında bile ana faaliyet alanlarındaki gücünü koruyarak rekor kârlar elde edebildiğini göstermiştir. Bu, şirketin defansif ve aynı zamanda büyüme potansiyeli taşıyan kaliteli bir "Çekirdek Varlık" olduğunu teyit etmektedir.
-*   **EYLEM PLANI:** Portföyde ANHYT pozisyonu yoksa **ALIM** yapılmalıdır. Mevcut pozisyon varsa, piyasadaki herhangi bir geri çekilme **POZİSYON GÜÇLENDİRME** fırsatı olarak değerlendirilmelidir.
+*   **HÜKÜM:** POZİSYON ALMA / İZLE
+*   **GEREKÇE:** Şirket, temel olarak çok güçlü ve kârlı bir yapıya sahip olsa da, ana iştiraki olan Anadolu Sigorta'nın (ANSGR) portföyde Çekirdek Varlık olarak konumlandırılması nedeniyle pozisyon alınmamasına karar verilmiştir. ANSGR'nin, ANHYT'de %20 payı bulunmaktadır. Her iki hisseyi aynı anda tutmak, portföyde aynı gruba yönelik aşırı bir konsantrasyon riski yaratacaktır. Bu nedenle, sigortacılık sektöründeki yatırım ANSGR üzerinden yapılacaktır. ANHYT, tek başına güçlü bir şirket olarak izleme listesinde kalmaya devam edecektir, ancak aktif olarak portföye eklenmeyecektir.
 
 ## 4. Çarpan Analizi (23 Ekim 2025)
 

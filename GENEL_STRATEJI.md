@@ -9,6 +9,12 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **Veriye Dayalı Kararlar:** Yatırım kararları, şirketlerin faaliyet raporlarına dayalı derin temel analize ve önceden belirlenmiş teknik seviyelere göre verilir [[memory:5993346]].
 *   **Kayıt Disiplini:** Her hisse için yatırım tezini, riskleri ve stratejiyi içeren ayrı `.md` dosyaları tutulur [[memory:5993348]].
 
+### 1.1. Sektörel Yoğunlaşma Riski ve Stratejisi
+
+*   **TESPİT:** Portföyde YKBNK (Bankacılık), ANSGR (Sigortacılık), ISGSY (Girişim Sermayesi) ve GARFA (Faktoring) gibi varlıkların eklenmesiyle finans ana sektöründe bir yoğunlaşma meydana gelmiştir.
+*   **GEREKÇE:** Bu durum, "fırsat odaklı ve seçici alım" stratejisinin doğal bir sonucudur. Her ne kadar aynı ana sektörde olsalar da, bu şirketlerin her biri kendi alt segmentlerinde güçlü ve farklı dinamiklere sahip "Çekirdek Varlık" tezleri sunmaktadır.
+*   **STRATEJİ:** Finans sektöründeki bu ağırlık, potansiyel bir risk olarak kabul edilmekte ve yakından izlenmektedir. Piyasa koşullarının veya şirket bazlı tezlerin zayıflaması durumunda, "Dinamik Portföy Yönetimi" ilkesi gereği sektördeki ağırlığı dengelemek amacıyla pozisyonlar arası rotasyon yapılması değerlendirilecektir.
+
 ## 2. Mevcut Piyasa Durumu ve Acil Eylem Planı (17 Ekim 2025)
 
 *   **DURUM:** Piyasalar, bir yandan ABD-Rusya-Ukrayna arasında dillendirilen barış görüşmeleri gibi pozitif küresel katalizörleri, diğer yandan ABD'de bazı bölgesel bankaların açıkladığı zararlar gibi negatif sinyalleri fiyatlamaktadır.
@@ -50,7 +56,7 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 
 #### YKBNK (Yapı Kredi Bankası)
 *   **HÜKÜM:** POZİSYON ARTIRILDI / AL
-*   **GEREKÇE:** Bankacılık sektörüne gelen genel satışlar, temelleri sağlam olan YKBNK'da bir alım fırsatı yaratmıştır. EREGL ve ENJSA satışından elde edilen nakit, mevcut pozisyonu güçlendirmek ve maliyeti düşürmek amacıyla kullanılmıştır.
+*   **GEREKÇE:** Bankacılık sektörüne gelen genel satışlar, temelleri sağlam olan YKBNK'da bir alım fırsatı yaratmıştır. Sektördeki bu olumlu görüş, AKBNK'nın 23 Ekim'de açıkladığı beklentileri aşan 3Ç25 kârı ile de teyit edilmiştir. EREGL ve ENJSA satışından elde edilen nakit, mevcut pozisyonu güçlendirmek ve maliyeti düşürmek amacıyla kullanılmıştır.
 
 #### SAHOL (Sabancı Holding)
 *   **HÜKÜM:** AL
@@ -62,9 +68,21 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 
 #### TAVHL (TAV Havalimanları Holding)
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
-*   **GEREKÇE:** 2025/09 finansal sonuçları, şirketin operasyonel olarak rekor bir performans sergilediğini göstermiştir. Ciro ve esas faaliyet kârı, pandemi sonrası hava trafiğindeki güçlü toparlanma ile sırasıyla %40 ve %38 artmıştır. Raporlanan net kâr, yüksek kur farkı giderleri nedeniyle baskı altında ve yanıltıcı kalsa da, şirketin yarattığı gerçek değeri daha iyi yansıtan **Toplam Kapsamlı Gelir** kalemi 21.7 Milyar TL ile rekor kırmıştır. Bu durum, TAVHL'nin temelinin ne kadar sağlam olduğunu ve kâğıt üzerindeki net kârın ötesinde bir değere sahip olduğunu göstermektedir. Yüksek borçluluk bir risk unsuru olsa da, bu borcun Almatı Havalimanı gibi gelecekteki büyümeyi destekleyecek stratejik yatırımlar için kullanılması ve güçlü operasyonel performans, bu riski yönetilebilir kılmaktadır. Hisse, net bir **Çekirdek Varlık** olarak portföydeki yerini sağlamlaştırmıştır.
+*   **GEREKÇE:** Ziraat Yatırım'ın 24 Ekim 2025 tarihli raporuyla teyit edildiği üzere, 2025/09 finansal sonuçları **piyasa beklentilerinin üzerinde** gelerek yatırım tezini daha da güçlendirmiştir. Şirketin 3. çeyrek net kârı 125 milyon EUR ile beklentileri (103 milyon EUR) aşmış, ciro %46, FAVÖK ise %55 artmıştır. Bu rekor operasyonel performans, şirketin temelinin ne kadar sağlam olduğunu ve kâğıt üzerindeki net kârın ötesinde bir değer yarattığını net bir şekilde göstermektedir. Yüksek borçluluk bir risk unsuru olsa da, bu borcun Almatı Havalimanı gibi gelecekteki büyümeyi destekleyecek stratejik yatırımlar için kullanılması ve beklentileri aşan güçlü operasyonel performans, bu riski yönetilebilir kılmaktadır. Hisse, net bir **Çekirdek Varlık** olarak portföydeki yerini sağlamlaştırmıştır.
 
-### B) Uydu / İzleme Listesi Varlıkları
+#### ANSGR (Anadolu Sigorta)
+*   **HÜKÜM:** POZİSYON AL / ÇEKİRDEK PORTFÖYE EKLE
+*   **GEREKÇE:** TURSG pozisyonundan yapılan rotasyonla portföye dahil edilmiştir. 24 Ekim'de açıklanan 3Ç25 finansal sonuçları, şirketin operasyonel olarak ne kadar güçlü olduğunu teyit etmiştir. 9 ayda elde edilen **8.96 milyar TL net kâr** ve özellikle **11.4 milyar TL'lik sigortacılık teknik kârı**, şirketin sadece yatırım gelirleriyle değil, ana faaliyet alanındaki üstün performansıyla da öne çıktığını göstermektedir. Bu güçlü temel yapı, hisseyi net bir **Çekirdek Varlık** adayı yapmaktadır.
+
+#### ISGSY (İş Girişim Sermayesi)
+*   **HÜKÜM:** POZİSYON AL / ÇEKİRDEK PORTFÖYE EKLE
+*   **GEREKÇE:** 27 Ekim'de açıklanan 3Ç25 finansal sonuçları, şirketin ana faaliyet alanı olan girişim sermayesi yatırımlarında olağanüstü bir performans sergilediğini teyit etmiştir. 9 aylık **net kârın 2.11 milyar TL**'ye ulaşması, operasyonel mükemmellik ve başarılı iştirak satışları, şirketin sadece yatırım yapmakla kalmayıp somut değer yarattığını da göstermektedir. Bu güçlü temel yapı ve net büyüme hikayesi, hisseyi net bir **Çekirdek Varlık** adayı yapmaktadır.
+
+#### GARFA (Garanti Faktoring)
+*   **HÜKÜM:** POZİSYON AL / ÇEKİRDEK PORTFÖYE EKLE
+*   **GEREKÇE:** 27 Ekim'de açıklanan 3Ç25 finansal sonuçları, şirketin hem kârlılık hem de büyüme alanında ne kadar güçlü bir performans sergilediğini net bir şekilde ortaya koymuştur. İlk 9 ayda elde edilen **1.58 Milyar TL net kâr** (yıllık bazda %47 artış) ve faktoring alacaklarının 9 ayda ikiye katlanarak **27.6 Milyar TL**'ye ulaşması, şirketi portföy için vazgeçilmez bir aday yapmaktadır. Takipteki alacak oranının %1 gibi düşük bir seviyede olması, bu agresif büyümenin kontrollü bir risk yönetimi ile yapıldığını göstermektedir. Bu veriler, GARFA'yı net bir **Çekirdek Varlık** olarak konumlandırmaktadır.
+
+### B) Uydu / İzleme Listesi Varlıkları""
 
 #### DARDL (Dardanel)
 *   **HÜKÜM:** İZLE
@@ -86,13 +104,17 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** AL
 *   **GEREKÇE:** Yapılan detaylı fon karşılaştırma analizleri sonucunda, YUB fonu portföyünüzdeki hisselerle ve stratejik sektör tercihlerinizle en yüksek benzerliği (%68.84) göstermektedir. Ayrıca, sizin portföyünüzden çıkardığınız EREGL veya AGHOL gibi hisseleri barındırmamaktadır. Bu özellikleriyle, portföy çeşitlendirmesi ve profesyonel yönetimden faydalanma amacıyla "AL" kararı ile Uydu/İzleme Listesi'ne eklenmiştir.
 
-#### TURSG (Türkiye Sigorta)
-*   **HÜKÜM:** KADEMELİ AL
-*   **GEREKÇE:** 3Ç 2025 finansal sonuçları (20 Ekim'de açıklandı), şirketin mevcut yüksek enflasyon ve faiz ortamından net bir şekilde faydalandığını teyit etmiştir. Güçlü kâr performansı ve sektördeki pozitif ayrışma nedeniyle küçük bir başlangıç pozisyonu alınmıştır. Strateji, olası piyasa düşüşlerini pozisyonu kademeli olarak büyütmek için bir **alım fırsatı** olarak değerlendirmektir.
+#### VKGYO (Vakıf GYO)
+*   **HÜKÜM:** AL
+*   **GEREKÇE:** Hisse, 0.36'lık Piyasa Değeri/Defter Değeri (PD/DD) oranı ile net varlıklarının çok altında işlem görmektedir. Bu durum, şirketin sahip olduğu geniş gayrimenkul portföyüne ciddi bir iskonto ile yatırım yapma fırsatı sunmaktadır. Operasyonel kârlılığının istikrarlı seyri de göz önüne alındığında, bu derin iskonto hisseyi bir **değer yatırımı** olarak cazip kılmaktadır. Strateji, bu iskontodan faydalanmak üzere pozisyon almaktır.
+
+
 
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
-*Bu bölümde güncel bir hisse bulunmamaktadır.*
+#### TURSG (Türkiye Sigorta)
+*   **HÜKÜM:** SAT / POZİSYON KAPAT
+*   **GEREKÇE:** Portföydeki "Dinamik Portföy Yönetimi" ilkesi gereğince, daha güçlü operasyonel kârlılığa (teknik kâr) sahip olan ANSGR'ye rotasyon yapmak amacıyla pozisyonun kapatılması kararı alınmıştır. TURSG'nin finansalları zayıf olmamakla birlikte, ANSGR'nin ana sigortacılık faaliyetlerindeki performansı daha üstün bir alternatif sunmaktadır.
 
 ### D) Portföyden Çıkarılan Varlıklar
 

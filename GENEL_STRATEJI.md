@@ -108,6 +108,10 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** AL
 *   **GEREKÇE:** Hisse, 0.36'lık Piyasa Değeri/Defter Değeri (PD/DD) oranı ile net varlıklarının çok altında işlem görmektedir. Bu durum, şirketin sahip olduğu geniş gayrimenkul portföyüne ciddi bir iskonto ile yatırım yapma fırsatı sunmaktadır. Operasyonel kârlılığının istikrarlı seyri de göz önüne alındığında, bu derin iskonto hisseyi bir **değer yatırımı** olarak cazip kılmaktadır. Strateji, bu iskontodan faydalanmak üzere pozisyon almaktır.
 
+#### KORDS (Kordsa)
+*   **HÜKÜM:** POZİSYON AL / İZLE
+*   **GEREKÇE:** 2025/09 finansal sonuçlarında bildirilen tek seferlik yüksek zarara rağmen, şirketin esas faaliyetlerinden yarattığı nakit akışı olağanüstü güçlüdür. Bu durum, kâğıt üzerindeki zararın operasyonel bir zayıflıktan ziyade Endonezya'daki sel felaketinden kaynaklanan bir durum olduğunu teyit etmektedir. Şirketin ana iş kolu olan kompozit teknolojilerine odaklanmak için inşaat segmentini satması ve yüklü bir sermaye artırımı ile bilançosunu güçlendirme kararı alması, uzun vadeli yatırım tezini destekleyen çok önemli stratejik adımlardır. Piyasanın kısa vadeli zarara odaklanması, uzun vadeli potansiyeli iskontolu fiyattan almak için bir fırsat yaratabilir. Hisse, bu nedenle "İzleme Listesi"ne alınmıştır.
+
 
 
 ### C) Rotasyon Adayları (Satış Stratejisi)

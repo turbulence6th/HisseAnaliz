@@ -11,7 +11,7 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 
 ### 1.1. Sektörel Yoğunlaşma Riski ve Stratejisi
 
-*   **TESPİT:** Portföyde YKBNK (Bankacılık), ANSGR (Sigortacılık), ISGSY (Girişim Sermayesi) ve GARFA (Faktoring) gibi varlıkların eklenmesiyle finans ana sektöründe bir yoğunlaşma meydana gelmiştir.
+*   **TESPİT:** Portföyde YKBNK (Bankacılık) ve ANSGR (Sigortacılık) gibi varlıkların bulunması nedeniyle finans ana sektöründe bir yoğunlaşma mevcuttur.
 *   **GEREKÇE:** Bu durum, "fırsat odaklı ve seçici alım" stratejisinin doğal bir sonucudur. Her ne kadar aynı ana sektörde olsalar da, bu şirketlerin her biri kendi alt segmentlerinde güçlü ve farklı dinamiklere sahip "Çekirdek Varlık" tezleri sunmaktadır.
 *   **STRATEJİ:** Finans sektöründeki bu ağırlık, potansiyel bir risk olarak kabul edilmekte ve yakından izlenmektedir. Piyasa koşullarının veya şirket bazlı tezlerin zayıflaması durumunda, "Dinamik Portföy Yönetimi" ilkesi gereği sektördeki ağırlığı dengelemek amacıyla pozisyonlar arası rotasyon yapılması değerlendirilecektir.
 
@@ -71,30 +71,22 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **GEREKÇE:** Ziraat Yatırım'ın 24 Ekim 2025 tarihli raporuyla teyit edildiği üzere, 2025/09 finansal sonuçları **piyasa beklentilerinin üzerinde** gelerek yatırım tezini daha da güçlendirmiştir. Şirketin 3. çeyrek net kârı 125 milyon EUR ile beklentileri (103 milyon EUR) aşmış, ciro %46, FAVÖK ise %55 artmıştır. Bu rekor operasyonel performans, şirketin temelinin ne kadar sağlam olduğunu ve kâğıt üzerindeki net kârın ötesinde bir değer yarattığını net bir şekilde göstermektedir. Yüksek borçluluk bir risk unsuru olsa da, bu borcun Almatı Havalimanı gibi gelecekteki büyümeyi destekleyecek stratejik yatırımlar için kullanılması ve beklentileri aşan güçlü operasyonel performans, bu riski yönetilebilir kılmaktadır. Hisse, net bir **Çekirdek Varlık** olarak portföydeki yerini sağlamlaştırmıştır.
 
 #### ANSGR (Anadolu Sigorta)
-*   **HÜKÜM:** POZİSYON AL / ÇEKİRDEK PORTFÖYE EKLE
-*   **GEREKÇE:** TURSG pozisyonundan yapılan rotasyonla portföye dahil edilmiştir. 24 Ekim'de açıklanan 3Ç25 finansal sonuçları, şirketin operasyonel olarak ne kadar güçlü olduğunu teyit etmiştir. 9 ayda elde edilen **8.96 milyar TL net kâr** ve özellikle **11.4 milyar TL'lik sigortacılık teknik kârı**, şirketin sadece yatırım gelirleriyle değil, ana faaliyet alanındaki üstün performansıyla da öne çıktığını göstermektedir. Bu güçlü temel yapı, hisseyi net bir **Çekirdek Varlık** adayı yapmaktadır.
+*   **HÜKÜM:** POZİSYON ARTIRILDI / AL
+*   **GEREKÇE:** Şirketin güçlü operasyonel kârlılığına (teknik kâr) ve istikrarlı büyümesine olan güvenle, ISGSY pozisyonunun kapatılmasından elde edilen fonun bir kısmı mevcut pozisyonu güçlendirmek için kullanılmıştır. 9 ayda elde edilen **8.96 milyar TL net kâr** ve **11.4 milyar TL'lik sigortacılık teknik kârı**, hisseyi portföy için net bir **Çekirdek Varlık** yapmaktadır.
 
-#### ISGSY (İş Girişim Sermayesi)
-*   **HÜKÜM:** POZİSYON AL / ÇEKİRDEK PORTFÖYE EKLE
-*   **GEREKÇE:** 27 Ekim'de açıklanan 3Ç25 finansal sonuçları, şirketin ana faaliyet alanı olan girişim sermayesi yatırımlarında olağanüstü bir performans sergilediğini teyit etmiştir. 9 aylık **net kârın 2.11 milyar TL**'ye ulaşması, operasyonel mükemmellik ve başarılı iştirak satışları, şirketin sadece yatırım yapmakla kalmayıp somut değer yarattığını da göstermektedir. Bu güçlü temel yapı ve net büyüme hikayesi, hisseyi net bir **Çekirdek Varlık** adayı yapmaktadır.
+#### KORDS (Kordsa)
+*   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
+*   **GEREKÇE:** VAKKO ve ALARK'taki pozisyonların kapatılmasıyla serbest kalan fonun bir bölümü, bu pozisyona yönlendirilmiştir. Şirketin tek seferlik zarara rağmen olağanüstü güçlü nakit akışı yaratması, stratejik olarak kompozitlere odaklanması ve bilançosunu güçlendirme adımları, hisseyi "İzleme Listesi"nden "Çekirdek Portföy"e taşımak için yeterli güveni vermektedir. Piyasanın kısa vadeli olumsuzluğa odaklanması, uzun vadeli potansiyeli iskontolu fiyattan alma tezini güçlendirmiştir.
 
-#### GARFA (Garanti Faktoring)
-*   **HÜKÜM:** POZİSYON AL / ÇEKİRDEK PORTFÖYE EKLE
-*   **GEREKÇE:** 27 Ekim'de açıklanan 3Ç25 finansal sonuçları, şirketin hem kârlılık hem de büyüme alanında ne kadar güçlü bir performans sergilediğini net bir şekilde ortaya koymuştur. İlk 9 ayda elde edilen **1.58 Milyar TL net kâr** (yıllık bazda %47 artış) ve faktoring alacaklarının 9 ayda ikiye katlanarak **27.6 Milyar TL**'ye ulaşması, şirketi portföy için vazgeçilmez bir aday yapmaktadır. Takipteki alacak oranının %1 gibi düşük bir seviyede olması, bu agresif büyümenin kontrollü bir risk yönetimi ile yapıldığını göstermektedir. Bu veriler, GARFA'yı net bir **Çekirdek Varlık** olarak konumlandırmaktadır.
+#### VKGYO (Vakıf GYO)
+*   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
+*   **GEREKÇE:** Hisse, 0.36'lık Piyasa Değeri/Defter Değeri (PD/DD) oranı ile net varlıklarına göre sahip olduğu derin iskontoyu güçlü bir **değer yatırımı** tezi olarak sunmaktadır. ISGSY pozisyonundan çıkan fonun bir bölümü ile pozisyon açılarak hisse, "Uydu / İzleme Listesi"nden "Çekirdek Portföy"e yükseltilmiştir.
 
 ### B) Uydu / İzleme Listesi Varlıkları""
 
 #### DARDL (Dardanel)
 *   **HÜKÜM:** İZLE
 *   **GEREKÇE:** Şirket, 2025/06 raporunda teyit edildiği üzere net zarar, yüksek borçluluk ve kısa vadeli yükümlülüklerin dönen varlıkları aşması (likidite riski) gibi ciddi finansal zorluklarla karşı karşıyadır. Ancak yönetimin, Temmuz 2025'te tamamlanan büyük bir sermaye artırımı ve borç yapılandırması gibi radikal adımlarla bu durumu düzeltme çabası bulunmaktadır. Ayrıca, sandviç gibi yeni ürünlerle portföyünü çeşitlendirmesi potansiyel bir büyüme hikayesi sunmaktadır. Yüksek risk profili ve devam eden yeniden yapılandırma süreci nedeniyle hisse "Uydu / İzleme Listesi"ne eklenmiştir. Yeni pozisyon almadan önce, atılan adımların finansal tablolara (kârlılık ve likidite) olumlu yansıdığının görülmesi beklenecektir.
-
-#### VAKKO
-*   **HÜKÜM:** TUT VE İZLE
-*   **GEREKÇE:** Kullanıcının kararı doğrultusunda strateji güncellenmiştir. Portföydeki VAKKO pozisyonunun küçük olması nedeniyle, operasyonel zayıflığın getirdiği fırsat maliyetine [[memory:6128755]] katlanılarak rotasyon yapılmamasına karar verilmiştir. 2025/06 Faaliyet Raporu'nun teyit ettiği zorlu operasyonel tablo (ciro düşüşü, marj erimesi, net zarar) nedeniyle hisse yüksek riskli kalmaya devam etmektedir. Strateji, yeni alım yapmadan, mevcut küçük pozisyonla şirketin makroekonomik koşullara ve kendi iç dinamiklerine bağlı toparlanmasını beklemeyi içerir. Hisse, "Uydu / İzleme Listesi" kategorisindeki yerini korumaktadır.
-
-#### ALARK (Alarko Holding)
-*   **HÜKÜM:** TUT VE İZLE
-*   **GEREKÇE:** Kullanıcının kararı doğrultusunda strateji güncellenmiştir. 2025/06 Faaliyet Raporu'nun teyit ettiği zorlu kısa vadeli finansal tabloya (devasa zarar, zayıf likidite) rağmen, şirketin uzun vadeli dönüşüm hikayesine (Tarım, Teknoloji Yatırımları) olan beklentiyle mevcut pozisyonun korunmasına karar verilmiştir. Strateji, yeni alım yapmadan, eldeki pozisyonla şirketin dönüşümünden somut finansal sonuçlar (öncelikle tarım grubundan ciro ve kârlılık) gelmesini beklemeyi içerir. Hisse, yüksek risk profili nedeniyle "Uydu / İzleme Listesi" kategorisindeki yerini korumaktadır.
 
 #### BRISA
 *   **HÜKÜM:** TUT VE İZLE
@@ -103,14 +95,6 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 #### YUB (Yapı Kredi Portföy Karaköy Hisse Senedi Serbest Fon)
 *   **HÜKÜM:** AL
 *   **GEREKÇE:** Yapılan detaylı fon karşılaştırma analizleri sonucunda, YUB fonu portföyünüzdeki hisselerle ve stratejik sektör tercihlerinizle en yüksek benzerliği (%68.84) göstermektedir. Ayrıca, sizin portföyünüzden çıkardığınız EREGL veya AGHOL gibi hisseleri barındırmamaktadır. Bu özellikleriyle, portföy çeşitlendirmesi ve profesyonel yönetimden faydalanma amacıyla "AL" kararı ile Uydu/İzleme Listesi'ne eklenmiştir.
-
-#### VKGYO (Vakıf GYO)
-*   **HÜKÜM:** AL
-*   **GEREKÇE:** Hisse, 0.36'lık Piyasa Değeri/Defter Değeri (PD/DD) oranı ile net varlıklarının çok altında işlem görmektedir. Bu durum, şirketin sahip olduğu geniş gayrimenkul portföyüne ciddi bir iskonto ile yatırım yapma fırsatı sunmaktadır. Operasyonel kârlılığının istikrarlı seyri de göz önüne alındığında, bu derin iskonto hisseyi bir **değer yatırımı** olarak cazip kılmaktadır. Strateji, bu iskontodan faydalanmak üzere pozisyon almaktır.
-
-#### KORDS (Kordsa)
-*   **HÜKÜM:** POZİSYON AL / İZLE
-*   **GEREKÇE:** 2025/09 finansal sonuçlarında bildirilen tek seferlik yüksek zarara rağmen, şirketin esas faaliyetlerinden yarattığı nakit akışı olağanüstü güçlüdür. Bu durum, kâğıt üzerindeki zararın operasyonel bir zayıflıktan ziyade Endonezya'daki sel felaketinden kaynaklanan bir durum olduğunu teyit etmektedir. Şirketin ana iş kolu olan kompozit teknolojilerine odaklanmak için inşaat segmentini satması ve yüklü bir sermaye artırımı ile bilançosunu güçlendirme kararı alması, uzun vadeli yatırım tezini destekleyen çok önemli stratejik adımlardır. Piyasanın kısa vadeli zarara odaklanması, uzun vadeli potansiyeli iskontolu fiyattan almak için bir fırsat yaratabilir. Hisse, bu nedenle "İzleme Listesi"ne alınmıştır.
 
 
 
@@ -135,6 +119,20 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
     *   **AGHOL:** Migros'un güçlü performansına rağmen, holdingin diğer segmentlerindeki (Bira, Meşrubat, Otomotiv) ciddi kârlılık düşüşleri ve artan borçluluk, pozisyonun kapatılmasına neden olmuştur. "Net büyüme hikayesi" sunamamaktadır.
     *   **AEFES:** Yurt içi pazardaki yoğun rekabet kaynaklı marj baskısı ve Rusya pazarındaki belirsizlikler, risk/getiri profilini bozmuştur. Strateji, bu hissede pozisyon tutmamaktır.
 *   **SONUÇ:** Bu varlıklardan çıkan sermaye, Çekirdek Portföy'deki daha güçlü adaylara (özellikle TCELL) yönlendirilmek üzere serbest bırakılmıştır.
+
+#### VAKKO & ALARK (Alarko Holding)
+*   **HÜKÜM:** POZİSYONLAR KAPATILDI
+*   **GEREKÇE:** Her iki hisse de, kendi `.md` dosyalarında detaylandırılan ve zayıf operasyonel performans/yüksek risk içeren yatırım tezleri nedeniyle "Uydu / İzleme Listesi"nde bulunuyordu. Bu pozisyonlarda beklemenin fırsat maliyetinin yüksek olduğuna karar verilerek, "Dinamik Portföy Yönetimi" ilkesi gereği rotasyon yapılmıştır.
+*   **SONUÇ:** Bu varlıklardan çıkan sermaye, daha güçlü ve net yatırım tezleri sunan ISGSY ve KORDS pozisyonlarının açılması için kullanılmıştır.
+
+#### ISGSY (İş Girişim Sermayesi)
+*   **HÜKÜM:** POZİSYON KAPATILDI
+*   **GEREKÇE:** Finansal raporunun detaylı incelenmesi sonucu, şirketin kâğıt üzerinde görünen rekor kârına rağmen esas faaliyetlerinden ciddi nakit yaktığı, kârın spekülatif ve realize edilmemiş değerleme artışlarına dayandığı ve borçluluğunun arttığı tespit edilmiştir. Ortaya çıkan bu yüksek risk profili nedeniyle pozisyon kapatılarak, sermaye ANSGR ve VKGYO gibi tezleri daha sağlam varlıklara yönlendirilmiştir.
+
+#### GARFA (Garanti Faktoring)
+*   **HÜKÜM:** ALIMDAN VAZGEÇİLDİ
+*   **GEREKÇE:** Her ne kadar şirketin 3Ç25 sonuçları güçlü bir performansa işaret etse de, portföyde YKBNK ve ANSGR gibi finans şirketlerinin mevcut ağırlığı nedeniyle sektörel yoğunlaşma riskini artırmamak amacıyla pozisyon almaktan vazgeçilmiştir. Bu, stratejik bir portföy dengeleme kararıdır.
+*   **SONUÇ:** Şirket, "Çekirdek Portföy" adayı olmaktan çıkarılmıştır.
 
 ## 5. Araçlar ve Yardımcı Notlar
 

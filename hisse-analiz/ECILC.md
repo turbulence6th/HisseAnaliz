@@ -83,7 +83,44 @@ PD/DD oranının tekrar 1.0x seviyelerine gerilemesi durumunda pozisyon güçlen
 ## Strateji Değerlendirmesi (23 Ekim 2025)
 Fiyatın 90 TL altına düşmesiyle "Senaryo 2: Trendin Zayıflaması (Taktiksel Satış)" tetiklenmiş ve 90 TL'den 1. kademe 184 lot satış gerçekleştirilmiştir. Bu durum, düşüşün derinleşme ihtimaline karşı pozisyonun %10'unun satılması aksiyonunu teyit etmektedir. Plan, disiplinli bir şekilde uygulanmaya devam edecektir.
 
+## 2025 3. Çeyrek Faaliyet Raporu Notları (30 Ekim 2025)
+30 Ekim'de yayınlanan 9 aylık faaliyet raporu, finansal sonuçların arkasındaki operasyonel dinamikleri netleştirmektedir:
 
+- **Gensenta'da Stratejik Dönüşüm:** Şirket, verimsiz olarak gördüğü **Onkoloji Üretim Ünitesi** ile **hammadde (API) üretim tesisinin arsa ve binalarını satarak** önemli bir yeniden yapılanma sürecine girmiştir. Bu satışlar, finansal tablolardaki tek seferlik yüksek "Yatırım Faaliyetlerinden Gelir" kaleminin ana kaynağıdır. Operasyonel kârlılıktaki düşüş, bu birimlerin kapatılmasının etkisini yansıtmaktadır.
+
+- **Geleceğe Yönelik Fason Üretim (CMO) Yatırımı:** Bu yeniden yapılanmaya paralel olarak, Gensenta'nın ana üretim tesisi olan Yenibosna'da **~32 Milyon Avro** bütçeli, yüksek teknolojili yeni bir **steril flakon dolum hattı** yatırımı onaylanmıştır. Bu yatırım, şirketi gelecekte fason ilaç üretiminde (CMO) önemli bir oyuncu yapma potansiyeli taşımaktadır.
+
+- **Gayrimenkul Portföyü Değer Yaratıyor:**
+    - **Kanyon:** AVM ve ofis kulesi, 9 aylık dönemde yaklaşık **534 Milyon TL kira geliri** üreterek güçlü ve istikrarlı bir nakit akışı sağlamıştır. Doluluk oranları (%98 AVM, %89 Ofis) oldukça yüksektir.
+    - **Ayazağa Projesi:** Cendere Vadisi'ndeki arsa üzerinde Artaş İnşaat ile %47 hasılat paylaşımı modeliyle geliştirilecek proje ilerlemektedir. Arsa tapuları çıkmış olup, inşaat ruhsatı aşamasına gelinmiştir. Bu, şirket için önemli bir gelecek potansiyelidir.
+
+- **İlaç Pazarlama (EİP) Büyümesini Sürdürüyor:** EİP, diyabet pazarına girmiş ve portföyüne yeni ürünler eklemiştir. Bu durum, ana iş kollarından birinde büyümenin devam ettiğini göstermektedir.
+
+## Strateji Değerlendirmesi (30 Ekim 2025): 2025/09 Finansal Sonuçları
+
+30 Ekim'de açıklanan 2025 yılı 9 aylık finansal sonuçlar, mevcut **"Kademeli Sat / Pozisyon Azalt"** stratejisini destekleyen ve tezi yeniden değerlendirmeyi gerektiren karmaşık bir tablo ortaya koymuştur.
+
+*   **Yanıltıcı Net Kâr, Zayıf Operasyonlar:** Şirket, ilk 9 ayda **2.6 Milyar TL** gibi rekor bir net kâr açıklamıştır. Ancak bu, sürdürülebilir olmayan **3.8 Milyar TL**'lik tek seferlik "Yatırım Faaliyetlerinden Gelir" kaynaklıdır. Esas endişe kaynağı, operasyonel taraftaki sert bozulmadır. Geçen yılın aynı dönemine göre **Hasılat %18, Brüt Kâr %38 ve Esas Faaliyet Kârı %70** gibi ciddi oranlarda düşmüştür. Bu, ana iş kolunun performansının belirgin şekilde zayıfladığını göstermektedir.
+
+*   **Güçlü Nakit Akışı ve Bilanço:** Tüm bu operasyonel zayıflığa rağmen, şirketin **1.3 Milyar TL** gibi olağanüstü güçlü bir **işletme faaliyeti nakit akışı** yaratması ve borcunu azaltırken nakit pozisyonunu 2 Milyar TL'den 5 Milyar TL'ye çıkarması, bilançonun ve nakit yönetiminin ne kadar sağlam olduğunu kanıtlamaktadır.
+
+**Stratejik Sonuç:**
+Piyasanın rekor net kâra odaklanarak yaratabileceği olası bir yükseliş, operasyonel zayıflık göz önüne alındığında bir **"değer tuzağı"** riski taşımaktadır. Güçlü nakit akışı pozitif bir unsur olsa da, ana iş kolundaki bozulma daha ağır basmaktadır. Bu nedenle, mevcut **"Kademeli Satış"** stratejisi teyit edilmiştir. Olası yükselişler, kâr realizasyonu için bir fırsat olarak görülmeli, ancak güçlü nakit akışı ve sağlam bilanço nedeniyle pozisyonun tamamen kapatılması yerine stratejik bir çekirdek pozisyonun korunması fikri devam etmelidir.
+
+## Strateji Yeniden Değerlendirmesi (30 Ekim 2025): SAT Kararının Gözden Geçirilmesi
+
+**Hüküm: TUT / NÖTR. Kademeli satış stratejisini DURDUR ve pozisyonu koru.**
+
+**Gerekçe:** Önceki "Kademeli Satış" kararı, operasyonel kârdaki düşüşe odaklanarak riski yönetmeyi amaçlıyordu. Ancak faaliyet raporu, bu düşüşün bir **sorun değil, planlı bir stratejik dönüşümün** (verimsiz birimlerin kapatılması) sonucu olduğunu ortaya koymaktadır. Piyasanın bu stratejik adımı "operasyonel zayıflık" olarak yanlış yorumlama olasılığı, uzun vadeli yatırımcı için bir fırsat penceresi yaratabilir.
+
+1.  **Stratejik Pivot Fiyatlanmıyor:** Piyasa, şirketin yüksek kârlı fason üretime (CMO) dönüşümünü ve bu alandaki **32 Milyon Avro'luk** yeni yatırımını henüz tam olarak fiyatlamıyor.
+2.  **Nakit ve Bilanço Gücü Değerleme Çapasıdır:** 5 Milyar TL'ye ulaşan net nakit pozisyonu ve güçlü nakit akışı, şirket için sadece bir güvenlik marjı değil, aynı zamanda gelecekteki yatırımlar, potansiyel şirket/lisans alımları ve yüksek temettü potansiyeli için muazzam bir esneklik sunmaktadır. Bu durum, hisse fiyatı için güçlü bir destek ve değerleme çıpasıdır.
+3.  **Gizli Değerler Hala Masada:** Ayazağa projesinin devasa potansiyeli ve Kanyon'un istikrarlı değeri, mevcut hisse fiyatına tam olarak yansımamış olabilir.
+
+**Yeni Eylem Planı:**
+- **Satışları Durdur:** 17 Ekim'de belirlenen "Kademeli Satış" planı askıya alınmıştır. Mevcut pozisyon korunacaktır.
+- **Geri Alım Planı Aktif:** `75.00 - 78.00 TL` aralığına olası bir geri çekilme, piyasanın stratejik dönüşümü yanlış anlamasından kaynaklanacak bir panik satışı olarak görülmeli ve pozisyonu güçlendirmek için bir **alım fırsatı** olarak değerlendirilmelidir.
+- **Yeniden Değerlendirme Tetikleyicisi:** Yeni fason üretim (CMO) anlaşmaları veya Ayazağa projesinde inşaatın başlaması gibi haber akışları, stratejinin "AL" yönünde tekrar güncellenmesi için takip edilecektir.
 
 ## Vade
 - Orta–uzun vade (3–5+ yıl); haber akışı ve seviyelere göre alım temposu ayarlanır.

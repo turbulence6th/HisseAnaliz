@@ -38,23 +38,32 @@ Faaliyet raporu, şirketin içinde bulunduğu zorlu durumu ve çıkış strateji
   - **Elektrikli Araç (EV) Lastiklerinde Somut Adımlar:** Şirket, ödüllü "Lassa Revola" ve Karsan'ın elektrikli minibüsü "e-JEST" ile olan anlaşması sayesinde EV pazarında somut bir oyuncu olduğunu kanıtladı. Bu, en önemli uzun vadeli katalistlerden biridir.
   - **Teknoloji ve Hizmet Gelirleri:** Arvento'nun büyümesi ve Çiftay gibi büyük filo anlaşmaları, şirketin sadece lastik üreticisinden bir mobilite çözüm ortağına dönüştüğünü gösteriyor.
 
-## Teknik – Kademeli Alım Planı (Revize: 12 Eylül 2025)
-- Hüküm: **KADEMELİ AL**
-- Gerekçe (kısa): Fiyatın, belirlenen ikinci destek bölgesine (71.0-72.0 TL) gerilemesi ve 52 haftalık en düşük seviyesine yaklaşması, temel riskler devam etse de kademeli bir alım stratejisi için risk/getiri oranını daha makul hale getirmiştir. Strateji, "düşen bıçağı tutmak" riskini kademelere bölerek yönetmeyi amaçlar.
-- Kademeli Alım Seviyeleri:
-  - 1. Kademe: **71.0 – 72.0 TL** (Mevcut Fiyat Bölgesi)
-  - 2. Kademe: **67.0 – 68.0 TL**
-  - 3. Kademe (Dip Avı): **66.0 – 66.5 TL** (52 Haftalık Dip Bölgesi)
-- Strateji Yönetimi:
-  - **Bekleme Eşiği:** Fiyatın **66.0 TL** altında haftalık kapanış yapması durumunda yeni alımlar durdurulur ve strateji yeniden değerlendirilir.
-  - **Trend Dönüş Teyidi:** Pozisyon büyüklüğünü artırmak için, düşüş trendinin kırıldığını teyit eden **90.0 TL** üzeri haftalık kapanışlar beklenmelidir.
+## 2025 3. Çeyrek (9 Aylık) Faaliyet Raporu Notları (30 Ekim 2025)
+Rapor, 9 aylık sonuçlarda kârlılık baskısı devam etse de, 3. çeyrekte elde edilen net kâr ile toparlanma sinyali veriyor. Bu durum, "TUT ve İZLE" stratejisini güçlendiriyor.
+
+- **Negatif Gelişmeler (9 Aylık):**
+  - **Net Zarar:** Şirket, 2025'in ilk 9 ayında **918 Milyon TL net zarar** açıkladı (2024/9: 677 Milyon TL kâr).
+  - **Ciro ve FAVÖK Düşüşü:** Net satışlar %8 düşüşle 29,3 Milyar TL'ye, FAVÖK ise %26 düşüşle 3,6 Milyar TL'ye geriledi.
+  - **Artan Borçluluk:** Net finansal borç, 2024 sonuna göre %51 artarak 6,4 Milyar TL'ye yükseldi.
+
+- **Pozitif Gelişmeler (Operasyonel ve 3. Çeyrek):**
+  - **3. Çeyrekte Kâra Dönüş:** İlk yarıdaki zararın ardından, şirket 3. çeyrekte **291 Milyon TL net kâr** yaratarak kârlılıkta bir dönüm sinyali verdi.
+  - **Çok Güçlü Nakit Akışı:** Kâğıt üzerindeki zarara rağmen, **İşletme Faaliyetlerinden Nakit Akışı** geçen yıla göre %19 artarak **3 Milyar TL**'ye ulaştı. Bu, şirketin operasyonel gücünü ve direncini gösteren en kritik veridir.
+  - **İhracat Büyümesi:** Yurt içi satışlar tonaj bazında %9 daralırken, **ihracat %3 arttı**. Bu durum, şirketin zayıf iç pazarı ihracatla dengeleme stratejisinin işlediğini gösteriyor.
+
+## Strateji ve Teknik Değerlendirme (30 Ekim 2025)
+- Hüküm: **TUT VE İZLE**
+- Gerekçe: 9 aylık zarar tablosu endişe verici olsa da, 3. çeyrekte net kâra geçilmesi ve operasyonel nakit akışının çok güçlü seyretmesi, en kötünün geride kalmış olabileceğine dair bir umut ışığı yakıyor. Bu nedenle, mevcut pozisyonu korumak ve kârlılıktaki bu toparlanmanın kalıcı olup olmayacağını görmek için bir sonraki bilançoyu beklemek en doğru stratejidir.
+- Teknik Seviyeler:
+  - **Destek Bölgesi:** 66.0 – 68.0 TL aralığı, hissenin 52 haftalık dip bölgesi olması nedeniyle kritik bir destek alanı olarak izlenmelidir. Bu seviyenin altında kalıcılık, teknik görünümü daha da zayıflatacaktır.
+  - **Direnç ve Teyit Bölgesi:** Düşüş trendinin kırılması ve pozitif bir görünümden bahsedebilmek için fiyatın **90.0 TL** üzerinde haftalık kapanışlar yapması gerekmektedir.
 
 ## Risk Yönetimi
-- Mevcut düşüş trendi nedeniyle yeni pozisyon açmak için acele edilmemelidir.
-- Fiyatın destek seviyelerinde stabilize olması ve bir dip formasyonu (örn: ikili dip, yatay bant) oluşturması beklenmelidir.
+- Kârlılıktaki negatif seyrin kalıcı olması ve borçluluğun artmaya devam etmesi ana risklerdir.
+- Yeni pozisyon açmak için acele edilmemeli, 3. çeyrekte başlayan kârlılığın 4. çeyrekte de devam edip etmediği görülmelidir.
 
 ## Vade
-- Kısa vadede belirsizlik yüksek. Uzun vade için ise şirketin temel hikayesindeki toparlanma sinyalleri (bilanço düzelmesi, kârlılık artışı) izlenmelidir.
+- Kısa vadede belirsizlik sürse de, 3. çeyrek sonuçları uzun vade için olumlu bir sinyal olabilir. Kârlılıktaki toparlanmanın teyidi için en az bir bilanço dönemi daha beklenmelidir.
 
 ## Gönderi
-BRISA'yı izliyorum ancak şu an için oldukça temkinliyim. Kötü gelen bilanço sonrası düşüş trendi teyit edildi ve hisse henüz dip yapmış görünmüyor. Yüksek F/K oranı da bir diğer risk faktörü [[memory:5733129]]. Alım için acele etmiyorum, 76.5 ve 71.0 civarındaki destekleri izleyeceğim. 66.0 altı tehlikeli bölge. Trendin döndüğünü söylemek için 90.0 üzerinde kalıcılık şart.
+BRISA 3Ç25'te 9 aylık zarar 918M TL'ye ulaşsa da kritik bir eşik aşıldı: Şirket 3. çeyrekte 291M TL net kâr açıkladı. Zarara rağmen 3 Milyar TL'lik rekor operasyonel nakit akışı yaratmaları da cabası. Bu, en kötünün geride kaldığına dair güçlü bir sinyal. Pozisyonu koruyup izlemeye devam. Yeni alım için 4. çeyrek kârını görmek isterim. 66 TL destek, 90 TL direnç. Strateji: TUT ve İZLE.

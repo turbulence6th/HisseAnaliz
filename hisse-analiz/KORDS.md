@@ -6,14 +6,25 @@ Kordsa, geleneksel ve kârlı olan lastik güçlendirme pazarındaki global lide
 
 Tez, şirketin bu yüksek katma değerli segmentte global bir oyuncu haline gelerek kârlılık marjlarını ve ciro içindeki payını artırması beklentisine dayanmaktadır. Sabancı Holding'in şirkete olan desteği (sermaye artırımı kararı) ve stratejik odaklanmayı netleştiren adımlar (inşaat segmentinin satışı), bu tezi güçlendiren en önemli unsurlardır.
 
-## 2. 2025/09 Finansal Rapor Notları
+## 2. 2025/09 Finansal Rapor Notları (Faaliyet Raporu Detayları)
 
-27 Ekim 2025'te açıklanan 9 aylık sonuçlar, ilk bakışta olumsuz bir tablo sunsa da, detaylar incelendiğinde ana tezin güçlü kaldığını göstermektedir.
+27 Ekim 2025 tarihli faaliyet raporu, 3. çeyrek sonuçlarına dair daha derin bir bakış sunarak ana yatırım tezini güçlendiren önemli detaylar içermektedir. Analiz, TL yerine daha anlamlı olan USD bazlı rakamlar üzerinden yapılmıştır.
 
-*   **Net Zarar ve Sebebi:** Şirket, 9 ayda **858.9 Milyon TL net zarar** açıklamıştır. Bu zararın ana nedeni, Mart 2025'te Endonezya tesisinde yaşanan sel felaketiyle ilgili kaydedilen tek seferlik giderlerdir (stok ve duran varlık değer düşüklüğü). Bu giderler olmasaydı şirketin operasyonel olarak kârlı olacağı açıktır.
-*   **Esas Faaliyet Kârı:** Esas faaliyet kârı, geçen yılın aynı dönemine göre %46 düşüşle 468 Milyon TL'ye gerilemiştir. Bu düşüşte de sel felaketinin yarattığı maliyetler etkilidir.
-*   **Ciro:** Ciro, %3.5 artışla 23.5 Milyar TL'ye ulaşarak enflasyonun altında bir büyüme göstermiştir. Ancak segment bazında bakıldığında, stratejik öneme sahip **İleri Kompozit Malzemeler** segmentinin cirosu geçen yıla göre %18 artarak 5.6 Milyar TL'ye ulaşmıştır. Bu, tezin çalıştığını gösteren en önemli verilerden biridir.
-*   **Nakit Akışı (En Önemli Pozitif Sinyal):** Raporlanan zarara rağmen, şirketin **işletme faaliyetlerinden yarattığı nakit akışı 4.3 Milyar TL** gibi olağanüstü güçlü bir seviyededir (geçen yıl 514 Milyon TL). Bu durum, şirketin operasyonel verimliliğinin ve nakit yaratma kabiliyetinin kâğıt üzerindeki zarardan çok daha iyi durumda olduğunu net bir şekilde ortaya koymaktadır.
+*   **Ana Rakamlar (3Ç 2025):**
+    *   **Ciro:** Yıllık %15.9 düşüşle 198 Milyon USD.
+    *   **FAVÖK:** 11.6 Milyon USD.
+    *   **Net Zarar:** 10.4 Milyon USD.
+
+*   **Segment Performansı (Tezin Doğrulanması):**
+    *   **Lastik Güçlendirme:** Ciro, yıllık %19 düşüşle 145 Milyon USD'ye geriledi. Bu düşüşün temel nedenleri, Endonezya'daki sel sonrası üretimin yavaş toparlanması ve Çin kaynaklı yoğun fiyat rekabetidir. Kısa vadeli olumsuzluk burada yoğunlaşmıştır.
+    *   **Kompozit Teknolojileri:** Ciro, zorlu piyasa koşullarına rağmen yıllık **%4 artışla 50 Milyon USD**'ye ulaştı. Bu büyüme, şirketin stratejik olarak odaklandığı katma değerli alanda pazar payı kazanmaya devam ettiğini göstererek **ana yatırım tezini doğrulamaktadır.**
+
+*   **Tek Seferlik Etkilerin Analizi:** Çeyrek sonuçları, tek seferlik ve operasyonel olmayan gelişmelerden önemli ölçüde etkilenmiştir:
+    *   **Endonezya Sel Felaketi:** Rapor, selin net etkisini bu çeyrek için **-5.1 Milyon USD** olarak rakamsallaştırmıştır (26.1 Milyon USD'lik stok/varlık değer düşüklüğüne karşılık, 20 Milyon USD sigorta geliri ve 1 Milyon USD hurda satışı).
+    *   **Düzeltilmiş Kârlılık:** Sel felaketinin tek seferlik etkisi hariç bırakıldığında, 3. çeyrek FAVÖK rakamı **22.9 Milyon USD** gibi çok daha sağlıklı bir seviyede olacaktı. Bu durum, altta yatan operasyonel performansın göründüğünden daha güçlü olduğunu kanıtlamaktadır.
+
+*   **Finansal Sağlık:**
+    *   **Nakit Yaratma ve Borçluluk:** Raporlanan zarara rağmen, etkin işletme sermayesi yönetimi sayesinde **net borç, bir önceki çeyreğe göre 19 Milyon USD azalarak 376 Milyon USD'ye gerilemiştir.** Bu, şirketin güçlü nakit yaratma kapasitesini teyit eden en önemli verilerden biridir.
 
 ## 3. Stratejik Gelişmeler (Rapor Sonrası)
 
@@ -37,7 +48,10 @@ Tez, şirketin bu yüksek katma değerli segmentte global bir oyuncu haline gele
 
 ## 5. Strateji ve Hüküm
 
-*   **Değerleme (27 Ekim 2025):** F/K oranı, şirketin tek seferlik zararı nedeniyle N/A (hesaplanamıyor). PD/DD oranı ise **0.72** seviyesindedir. Bu oran, hissenin defter değerinin altında işlem gördüğünü ve potansiyel bir değer iskontosuna işaret ederek yatırım tezini desteklediğini göstermektedir.
+*   **Değerleme (27 Ekim 2025):**
+    *   **PD/DD:** **0.72**. Hisse, defter değerinin altında işlem görerek potansiyel bir iskonto sunmaktadır.
+    *   **Net Borç/FAVÖK:** Manşet oran 6.9x ile yüksek görünse de, sel etkisinden arındırılmış FAVÖK ile hesaplandığında **4.8x** gibi daha makul bir seviyeye inmektedir. Bu, borçluluğun yönetilebilir olduğunu göstermektedir.
+    *   **F/K:** Tek seferlik zarar nedeniyle hesaplanamamaktadır (N/A).
 
 *   **HÜKÜM:** POZİSYON AL / İZLE
 *   **GEREKÇE:** Kordsa, yüzeydeki net zarar rakamının aksine, operasyonel olarak güçlü nakit üreten ve stratejik olarak doğru adımlar atan bir şirkettir. Piyasanın, tek seferlik zarara odaklanarak hisseyi olumsuz fiyatlaması, ana yatırım tezinin potansiyelini iskontolu bir fiyattan değerlendirmek için bir **alım fırsatı** sunabilir. Hisse, bu gerekçelerle "Uydu / İzleme Listesi"ne eklenmiştir. Strateji, mevcut piyasa koşullarında hisse fiyatını izlemek ve olası geri çekilmelerde kademeli olarak pozisyon oluşturmaktır.

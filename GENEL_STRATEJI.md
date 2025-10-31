@@ -38,10 +38,6 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** UZUN VADELİ AL / İZLE
 *   **GEREKÇE:** Portföydeki en güçlü uzun vadeli temel hikayelerden biri olmaya devam etmektedir. Yakın zamanda tamamlanan 5G ihalesiyle (1.22 milyar USD) sektördeki liderliğini pekiştirmiş, ancak bu yatırımın kısa/orta vadeli finansal etkileri (borçluluk, nakit akışı) izlenmelidir. Mevcut piyasa düşüşleri, uzun vadeli birikim için alım fırsatı sunmaktadır.
 
-#### ECILC (Eczacıbaşı İlaç)
-*   **HÜKÜM:** KADEMELİ SAT / POZİSYON AZALT
-*   **GEREKÇE:** Hisse, "ucuzluk" temalı ilk yatırım tezini 100 TL üzeri fiyatlamayla başarıyla tamamlamıştır. Ana strateji, kârın bir kısmını kademeli olarak realize ederken uzun vadeli çekirdek bir pozisyonu korumak olarak güncellenmiştir. Detaylı satış planı kendi `.md` dosyasındadır.
-
 #### SISE (Şişecam)
 *   **HÜKÜM:** TUT VE İZLE
 *   **GEREKÇE:** Operasyonel verimlilik ve güçlü maliyet kontrolü hisseyi çekirdek portföy için cazip kılsa da, 21 Ekim 2025'te açıklanan Rekabet Kurulu cezası (3.15 Milyar TL) kısa vadede bir belirsizlik yaratmıştır. Kullanıcının kararı doğrultusunda, pozisyon almadan önce 2025/09 bilançosunun sonuçlarını görmek ve cezanın finansallar üzerindeki potansiyel etkisini değerlendirmek üzere hisse izlemeye alınmıştır.
@@ -66,14 +62,6 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
 *   **GEREKÇE:** Temelleri sağlam BIST ağır toplarındandır. Beklenen alım fırsatı, mevcut piyasa düşüşüyle ortaya çıkmıştır. Strateji, bu düşüşleri maliyet düşürmek ve pozisyonu güçlendirmek için bir **fırsat olarak kullanmak** üzerine kuruludur.
 
-#### TAVHL (TAV Havalimanları Holding)
-*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
-*   **GEREKÇE:** Ziraat Yatırım'ın 24 Ekim 2025 tarihli raporuyla teyit edildiği üzere, 2025/09 finansal sonuçları **piyasa beklentilerinin üzerinde** gelerek yatırım tezini daha da güçlendirmiştir. Şirketin 3. çeyrek net kârı 125 milyon EUR ile beklentileri (103 milyon EUR) aşmış, ciro %46, FAVÖK ise %55 artmıştır. Bu rekor operasyonel performans, şirketin temelinin ne kadar sağlam olduğunu ve kâğıt üzerindeki net kârın ötesinde bir değer yarattığını net bir şekilde göstermektedir. Yüksek borçluluk bir risk unsuru olsa da, bu borcun Almatı Havalimanı gibi gelecekteki büyümeyi destekleyecek stratejik yatırımlar için kullanılması ve beklentileri aşan güçlü operasyonel performans, bu riski yönetilebilir kılmaktadır. Hisse, net bir **Çekirdek Varlık** olarak portföydeki yerini sağlamlaştırmıştır.
-
-#### ANSGR (Anadolu Sigorta)
-*   **HÜKÜM:** POZİSYON ARTIRILDI / AL
-*   **GEREKÇE:** Şirketin güçlü operasyonel kârlılığına (teknik kâr) ve istikrarlı büyümesine olan güvenle, ISGSY pozisyonunun kapatılmasından elde edilen fonun bir kısmı mevcut pozisyonu güçlendirmek için kullanılmıştır. 9 ayda elde edilen **8.96 milyar TL net kâr** ve **11.4 milyar TL'lik sigortacılık teknik kârı**, hisseyi portföy için net bir **Çekirdek Varlık** yapmaktadır.
-
 #### KORDS (Kordsa)
 *   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
 *   **GEREKÇE:** VAKKO ve ALARK'taki pozisyonların kapatılmasıyla serbest kalan fonun bir bölümü, bu pozisyona yönlendirilmiştir. Şirketin tek seferlik zarara rağmen olağanüstü güçlü nakit akışı yaratması, stratejik olarak kompozitlere odaklanması ve bilançosunu güçlendirme adımları, hisseyi "İzleme Listesi"nden "Çekirdek Portföy"e taşımak için yeterli güveni vermektedir. Piyasanın kısa vadeli olumsuzluğa odaklanması, uzun vadeli potansiyeli iskontolu fiyattan alma tezini güçlendirmiştir.
@@ -82,7 +70,19 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
 *   **GEREKÇE:** Hisse, 0.36'lık Piyasa Değeri/Defter Değeri (PD/DD) oranı ile net varlıklarına göre sahip olduğu derin iskontoyu güçlü bir **değer yatırımı** tezi olarak sunmaktadır. ISGSY pozisyonundan çıkan fonun bir bölümü ile pozisyon açılarak hisse, "Uydu / İzleme Listesi"nden "Çekirdek Portföy"e yükseltilmiştir.
 
+#### YYLGD (Yayla Agro Gıda)
+*   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
+*   **GEREKÇE:** Şirket, 2025/09 raporunda teyit edilen **7.5 Milyar TL'lik olağanüstü faaliyet nakit akışı** ile güçlü bir "nakit akışı ve borç azaltma (deleveraging)" hikayesi sunmaktadır. Yaratılan bu nakit, agresif bir şekilde borç ödemede kullanılmaktadır. Bu stratejinin, gelecekte finansman giderlerini düşürerek operasyonel kârı net kâra daha güçlü yansıtması beklenmektedir. Piyasanın bu uzun vadeli pozitif gelişmeyi henüz fiyatlamadığı değerlendirilerek, hisse **"Çekirdek Varlık"** olarak portföye eklenmiştir.
+
+#### ECILC (Eczacıbaşı İlaç)
+*   **HÜKÜM:** TUT / NÖTR (Strateji Değişikliği)
+*   **GEREKÇE:** 30 Ekim tarihli 9 aylık sonuçlara dayanan "Satış" kararı yeniden değerlendirilmiştir. Operasyonel kârdaki düşüşün, verimsiz birimlerin planlı olarak kapatılmasından kaynaklanan **geçici ve stratejik bir adım** olduğu sonucuna varılmıştır. Piyasanın bu durumu "zayıflık" olarak yanlış yorumlama potansiyeli, uzun vadeli yatırımcı için bir fırsat yaratabilir. Şirketin 5 Milyar TL'ye ulaşan net nakit pozisyonu, fason üretime (CMO) yönelik **32 Milyon Avro'luk dönüşümsel yatırımı** ve Ayazağa projesi gibi gizli varlıkları, hisseyi "Çekirdek Varlık" olarak teyit etmektedir. Strateji, satışları durdurup pozisyonu korumak ve olası geri çekilmeleri alım fırsatı olarak değerlendirmektir.
+
 ### B) Uydu / İzleme Listesi Varlıkları""
+
+#### ANSGR (Anadolu Sigorta)
+*   **HÜKÜM:** TUT / UYDU VARLIK
+*   **GEREKÇE:** Hisse, hatalı bir ön analiz sonucu "AL" kararı ile portföye girmiştir. Detaylı analiz (`hisse-analiz/ANSGR.md`), kârlılığın operasyonel değil, faiz ortamına bağımlı yatırım gelirlerinden kaynaklandığını göstermiştir. Bu durum, hisseyi "Çekirdek Varlık" tanımından uzaklaştırmaktadır. Strateji, bu yeni ve küçük pozisyonu bir **"Uydu Varlık"** olarak elde tutmak, faiz indirimlerinin hızına ve şirketin operasyonel verimliliğine göre (birleşik rasyo) önümüzdeki çeyreklerde bir çıkış fırsatı aramaktır. Yeni alım yapılmayacaktır.
 
 #### DARDL (Dardanel)
 *   **HÜKÜM:** İZLE
@@ -90,21 +90,24 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 
 #### BRISA
 *   **HÜKÜM:** TUT VE İZLE
-*   **GEREKÇE:** Otomotiv sektöründeki döngüsel yavaşlama ve hammadde maliyetlerindeki baskı nedeniyle hisse belirsizliğini korumaktadır. Bu nedenle "Uydu / İzleme Listesi" kategorisinde yer almaktadır [[memory:5993342]]. Mevcut pozisyon, sektördeki olası bir toparlanmayı takip etmek amacıyla korunmaktadır. Ancak, marjlarda ve talepte sürdürülelebilir bir iyileşme görülmeden yeni alım yapılması düşünülmemektedir.
+*   **GEREKÇE:** 30 Ekim 2025'te açıklanan 2025/09 finansal sonuçları, şirketin yatırım tezindeki belirsizliklerin devam ettiğini teyit etmiştir. Şirket, ilk 9 ayda **903 Milyon TL net zarar** açıklamıştır. Bu durum, otomotiv sektöründeki yavaşlamanın ve maliyet baskılarının kârlılığa etkisini net bir şekilde göstermektedir. Ancak, tüm bu olumsuzluğa rağmen şirketin **3 Milyar TL gibi güçlü bir faaliyet nakit akışı** yaratması, operasyonel verimliliğini koruduğuna işaret etmektedir. Bu nakit akışı, şirketi "İzleme Listesi"nde tutmak için ana gerekçedir. Strateji, kârlılıkta net bir iyileşme görülene kadar yeni alım yapmadan mevcut pozisyonu korumak ve gelişmeleri izlemektir.
 
 #### YUB (Yapı Kredi Portföy Karaköy Hisse Senedi Serbest Fon)
 *   **HÜKÜM:** AL
 *   **GEREKÇE:** Yapılan detaylı fon karşılaştırma analizleri sonucunda, YUB fonu portföyünüzdeki hisselerle ve stratejik sektör tercihlerinizle en yüksek benzerliği (%68.84) göstermektedir. Ayrıca, sizin portföyünüzden çıkardığınız EREGL veya AGHOL gibi hisseleri barındırmamaktadır. Bu özellikleriyle, portföy çeşitlendirmesi ve profesyonel yönetimden faydalanma amacıyla "AL" kararı ile Uydu/İzleme Listesi'ne eklenmiştir.
 
-
-
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
-#### TURSG (Türkiye Sigorta)
-*   **HÜKÜM:** SAT / POZİSYON KAPAT
-*   **GEREKÇE:** Portföydeki "Dinamik Portföy Yönetimi" ilkesi gereğince, daha güçlü operasyonel kârlılığa (teknik kâr) sahip olan ANSGR'ye rotasyon yapmak amacıyla pozisyonun kapatılması kararı alınmıştır. TURSG'nin finansalları zayıf olmamakla birlikte, ANSGR'nin ana sigortacılık faaliyetlerindeki performansı daha üstün bir alternatif sunmaktadır.
 
 ### D) Portföyden Çıkarılan Varlıklar
+
+#### TAVHL (TAV Havalimanları Holding)
+*   **HÜKÜM:** POZİSYON KAPATILDI
+*   **GEREKÇE:** Portföydeki hisse sayısını azaltmak ve havacılık sektöründeki yoğunlaşmayı (THYAO varlığı nedeniyle) düşürmek amacıyla pozisyon kapatılmıştır. Şirketin temel performansı güçlü olsa da, portföy optimizasyonu stratejik olarak daha öncelikli görülmüştür.
+
+#### TURSG (Türkiye Sigorta)
+*   **HÜKÜM:** POZİSYON KAPATILDI
+*   **GEREKÇE:** Portföydeki "Dinamik Portföy Yönetimi" ilkesi gereğince, daha güçlü operasyonel kârlılığa (teknik kâr) sahip olan ANSGR'ye rotasyon yapmak amacıyla pozisyon kapatılmıştır. TURSG'nin finansalları zayıf olmamakla birlikte, ANSGR'nin ana sigortacılık faaliyetlerindeki performansı daha üstün bir alternatif sunduğu için satış tercih edilmiştir.
 
 #### EREGL (Ereğli Demir Çelik) & ENJSA (Enerjisa)
 *   **HÜKÜM:** POZİSYONLAR KAPATILDI

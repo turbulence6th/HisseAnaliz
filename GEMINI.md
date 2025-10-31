@@ -162,3 +162,7 @@ python kap_rapor_indir.py fon-liste "Hisse Senedi"
 ```
 
 Betik, ilgili fonları ve getiri bilgilerini standart çıktıya yazdıracaktır.
+
+# Gemini'ye Eklenen Hafıza Kuralları
+
+*   Finansal rapor analizi istendiğinde, raporu `GENEL_STRATEJI.md` belgesine göre değerlendir ve ardından ilgili hissenin `hisse-analiz` klasöründeki `.md` dosyasını güncelle.

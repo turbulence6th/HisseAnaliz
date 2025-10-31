@@ -10,6 +10,33 @@ Enerjisa, öngörülebilir ve regüle bir iş modeline sahip, istikrarlı bir ş
 - **Katalizör Eksikliği:** Rapor, şirketin ana işi olan elektrik dağıtım ve perakende satışına odaklandığını teyit ediyor. Müşteri çözümleri gibi yeni alanlar henüz toplam gelir içinde küçük bir paya sahip.
 - **Defansif (Savunmacı) Hisse:** Enerjisa, ekonomik belirsizlik dönemlerinde güvenli bir liman olabilir ancak mevcut piyasa koşullarında, büyüme odaklı hisseler daha caziptir.
 
+## 2025 3. Çeyrek Faaliyet Raporu Notları (30 Ekim 2025)
+**SELL Tezi Güçleniyor: Kâra Dönüş Pozitif, Ancak Yapısal Büyüme Eksikliği Devam Ediyor**
+
+### Finansal Performans (9 Aylık 2025 vs 2024)
+- **Kâra Dönüş (Pozitif Gelişme):** Net kâr 445 milyon TL (2024: -5.6 milyar TL zarar). TMS 29 enflasyon muhasebesi etkilerinin azalması ve operasyonel verimlilik artışının sonucu.
+- **Gelir Düşüşü (Negatif):** Hasılat 163.2 milyar TL (-%8 düşüş, 2024: 177.3 milyar TL). Büyüme hikayesi yok.
+- **Brüt Kâr Artışı:** 41.6 milyar TL (%6.4 artış) - maliyet kontrolü iyi ancak gelir büyümesi olmadan sürdürülebilir değil.
+- **Finansman Gideri Yükü:** 47.4 milyar TL finansman gideri, operasyonel kârın büyük kısmını yiyor. Net finansman gideri 38.2 milyar TL.
+
+### Segment Performansı (Faaliyet Kârı)
+- **Dağıtım:** 22.6 milyar TL (hala ana motor, regüle yapı)
+- **Perakende:** 4.8 milyar TL (istikrarlı)
+- **Müşteri Çözümleri:** 3.1 milyar TL (büyüyor ama henüz toplam içinde küçük, "oyun değiştirici" değil)
+
+### Bilanço Sağlamlığı
+- Toplam varlıklar: 224.1 milyar TL
+- Özkaynaklar: 89.6 milyar TL
+- Net borç: 52.1 milyar TL (Net Borç/Özkaynaklar: %58 - makul ama yüksek faiz ortamında finansman maliyeti ağır)
+
+### Değerlendirme: SELL Tezi Doğrulandı
+1. **Kâra Dönüş ≠ Büyüme Hikayesi:** Zarar eden bir şirketin kâra dönmesi pozitif ama bu, hissenin yapısal büyüme potansiyelini artırmıyor. TCELL'in pazar payı kazanımı veya ECILC'nin diyabet pazarı gibi bir "büyüme katalizörü" yok.
+2. **Gelir Düşüşü:** -%8 hasılat düşüşü, şirketin organik olarak büyüyemediğini gösteriyor.
+3. **Katalizör Eksikliği Devam Ediyor:** E-şarj veya AI/veri merkezi talepleri hakkında raporda spesifik bilgi yok. Uzun vadeli potansiyel hala belirsiz.
+4. **Yüksek Finansman Maliyeti:** Faiz ortamı şirketin kârlılığını baskılıyor, bu da değerlemeyi sınırlıyor.
+
+**Sonuç:** Q3 2025 raporu, "defansif ama heyecan verici olmayan" tezi güçlendiriyor. Teknik satış planını uygulamak ve sermayeyi yüksek büyüme potansiyelli hisselere kaydırmak stratejisi geçerliliğini koruyor.
+
 ## Potansiyel Katalistler ve Uzun Vadeli Büyüme Hikayeleri
 Bu bölüm, hissenin neden "izleme listesinde" kalması gerektiğini açıklar.
 

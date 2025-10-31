@@ -2,52 +2,39 @@
 
 Bu not, Yapı ve Kredi Bankası'nın 2Ç 2025 faaliyet raporu sonuçlarını analiz etmekte ve bu veriler ışığında mevcut "Düşüşleri Alım Fırsatı Olarak Değerlendir" stratejisinin devamlılığını değerlendirmektedir.
 
-## 2Ç 2025 Faaliyet Raporu Analizi: Büyüme ve Kârlılıkta Güçlü Performans
+## 2. 2025/09 Finansal Rapor Analizi (31 Ekim 2025)
 
-Rapor, bankanın hem krediler hem de mevduat tarafında piyasanın üzerinde bir büyüme yakalarken, kârlılığını, sermaye yapısını ve likiditesini son derece sağlam seviyelerde tuttuğunu ortaya koyuyor. Bu, YKBNK'nın "Çekirdek Varlık" statüsünü ve mevcut yatırım stratejisini teyit eden çok güçlü bir sonuçtur.
+30 Eylül 2025 itibarıyla açıklanan 9 aylık konsolide olmayan finansal sonuçlar, bankanın yatırım tezini ve `GENEL_STRATEJI.md` dosyasında belirtilen "AL" stratejisini güçlü bir şekilde teyit etmektedir. Banka, tüm temel metriklerde olağanüstü bir performans sergilemiştir.
 
-### Pozitifler
-1.  **Güçlü ve Dengeli Büyüme:**
-    *   **Krediler:** Nakdi krediler yıllık bazda **%55** gibi etkileyici bir oranda büyüyerek 1,2 trilyon TL'ye ulaşmış. Özellikle TL kredilerdeki **%68'lik** artış, bankanın pazar payı kazandığını gösteriyor.
-    *   **Mevduat:** Toplam mevduatlar yıllık **%60** artarak kredi büyümesini sağlıklı bir şekilde fonlamış. Bu, müşteri tabanının ne kadar geniş ve sadık olduğunun bir kanıtı.
-2.  **Yüksek Kârlılık:**
-    *   İlk altı ayda elde edilen **30,1 milyar TL net kâr**, bankanın güçlü performansının net bir sonucu.
-    *   **%29,5'lik Ortalama Maddi Özkaynak Kârlılığı (ROATE)**, enflasyonist ortamda dahi reel getiri sağlama kapasitesini gösteriyor ve oldukça başarılı bir oran.
-3.  **Kusursuza Yakın Risk Yönetimi:**
-    *   **Düşük Kredi Riski Maliyeti:** Net kredi riski maliyetinin **88 baz puan** gibi sektör ortalamasının altında bir seviyede olması, en dikkat çekici pozitiflerden biri. Bu, kredilerin kalitesinin yüksek olduğunu ve karşılıkların ihtiyatlı bir şekilde ayrıldığını gösteriyor.
-    *   **Takipteki Krediler Oranı:** %3,3'lük oran sektörle paralel ve kontrol altında.
-4.  **Sağlam Bilanço ve Likidite:**
-    *   **Güçlü Sermaye:** **%16,9'luk Sermaye Yeterlilik Rasyosu**, yasal sınırların oldukça üzerinde olup bankaya gelecekteki büyüme için önemli bir tampon sağlıyor.
-    *   **Aşırı Güçlü Likidite:** **%205'lik Likidite Karşılama Oranı (LKO)**, olası bir piyasa şokuna karşı bankanın ne kadar hazırlıklı olduğunun en net göstergesi.
-5.  **Uluslararası Piyasada Güçlü İtibar:** Yılın ilk yarısında başarılı bir şekilde temin edilen 1,2 milyar dolarlık sendikasyon kredisi ve diğer ihraçlar, uluslararası finans çevrelerinin Yapı Kredi'ye olan güvenini teyit ediyor.
+### Olumlu Gelişmeler
 
-### Negatifler / Riskler
-*   Raporda doğrudan bir negatif unsur bulmak zor. Sektörün genelinde olduğu gibi, makroekonomik belirsizlikler ve regülasyonlar bankacılık sektörü için genel bir risk unsuru olmaya devam etmektedir. Ancak YKBNK'nın mevcut bilançosu, bu riskleri yönetebilecek güçte olduğunu gösteriyor.
+*   **Olağanüstü Kârlılık Artışı:** Bankanın 9 aylık **net dönem kârı**, geçen yılın aynı dönemine göre **%69 artarak 22.4 milyar TL'den 37.8 milyar TL'ye** fırlamıştır. Bu, operasyonel verimliliğin ve gelir artışının güçlü bir göstergesidir. CEO mesajında belirtilen **%23,6'lık Ortalama Maddi Özkaynak Kârlılığı (ROATE)**, bankanın enflasyonist ortamda dahi hissedarlarına reel getiri sağlama kapasitesini ortaya koymaktadır.
 
-## Güncel Gelişmeler (Ekim 2025)
+*   **Çekirdek Gelirlerde Patlama:**
+    *   **Net Faiz Gelirleri:** Yıllık bazda **%80 artarak** 53.8 milyar TL'den 97.2 milyar TL'ye çıkmıştır. Bu, bankanın ana faaliyet alanı olan kredi ve mevduat yönetimindeki üstün başarısını ve faiz marjlarındaki iyileşmeyi göstermektedir.
+    *   **Net Ücret ve Komisyon Gelirleri:** Yıllık bazda **%51 artarak** 52.6 milyar TL'den 79.7 milyar TL'ye yükselmiştir. Bu, bankanın sadece faize bağımlı kalmadığını ve hizmet gelirlerini de güçlü bir şekilde artırdığını teyit etmektedir.
 
-*   **6-9 Ekim 2025:** Ziraat Yatırım'ın haftalık bültenlerinde, Halkbank davası ve genel piyasa koşulları nedeniyle bankacılık endeksi üzerinde satış baskısı gözlemlendiği belirtildi. Bu durum, sektör genelinde kısa vadeli bir risk unsuru olarak takip edilmelidir.
+*   **Güçlü ve Kontrollü Bilanço Büyümesi:**
+    *   **Krediler:** 2024 sonuna göre **%32 artışla** 1.25 trilyon TL'den 1.65 trilyon TL'ye ulaşarak piyasa payı kazanımının devam ettiğini göstermektedir.
+    *   **Mevduatlar:** 2024 sonuna göre **%28.5 artışla** 1.27 trilyon TL'den 1.63 trilyon TL'ye yükselerek kredi büyümesini sağlıklı ve istikrarlı bir şekilde fonlamıştır.
 
-## Hüküm ve Strateji (Düşüşleri Alım Fırsatı Olarak Değerlendir)
+*   **Kaya Gibi Sağlam Likidite ve Sermaye Yapısı:**
+    *   **Likidite:** Raporun detaylarında görülen **%124'lük Likidite Karşılama Oranı (LKO)** ve **%123'lük Net İstikrarlı Fonlama Oranı (NİFO)**, yasal limitlerin çok üzerinde olup bankanın olası şoklara karşı ne kadar dayanıklı olduğunun en net kanıtıdır.
+    *   **Sermaye:** **%15,1'lik Sermaye Yeterlilik Rasyosu (SYR)**, bankanın gelecekteki büyümeyi destekleyecek güçlü bir sermaye tamponuna sahip olduğunu göstermektedir.
+    *   **Aktif Kalitesi:** Kredilerdeki hızlı büyümeye rağmen, takipteki krediler için ayrılan karşılıkların toplam kredilere oranı %3.78'den %3.66'ya hafifçe gerilemiştir. Bu durum, büyümenin agresif ancak risk yönetimi disiplininden kopmadan, kontrollü bir şekilde sağlandığına işaret etmektedir.
 
-Bu sonuçlar, YKBNK'nın portföydeki "Çekirdek Varlık" tanımını sonuna kadar hak ettiğini gösteriyor. Bilanço o kadar güçlü ki, mevcut **"Düşüşleri Alım Fırsatı Olarak Değerlendir"** stratejisinin devam etmesi en doğru yaklaşım olacaktır. Banka, büyümesini kârlılık ve sağlam aktif kalitesiyle desteklemeye devam ediyor.
+### Dikkat Edilmesi Gerekenler
 
-## Strateji Değerlendirmesi ve Alım Planının Aktivasyonu (2 Eylül 2025)
+*   **Faaliyetlerden Gelen Nakit Akışında Azalma:** Bankacılık faaliyetlerinden kaynaklanan net nakit akışı, geçen yılın aynı dönemine göre 45.7 milyar TL'den 19.5 milyar TL'ye gerilemiştir. Ancak bu durum, operasyonel bir zayıflıktan ziyade, bilançodaki **kredi büyümesine (414 milyar TL'lik net artış)** harcanan nakitten kaynaklanmaktadır. Bu, gelecekteki faiz gelirleri için yapılan bir yatırım olduğundan negatif bir gösterge olarak değerlendirilmemektedir.
 
-Piyasada yaşanan genel düşüş, YKBNK fiyatını tam da beklediğimiz alım kademelerine getirmiştir. Fiyat, gün içinde **30.28 TL**'ye kadar gerileyerek hem **1. Kademe (31.50 – 32.50 TL)** hem de **2. Kademe (29.50 – 30.50 TL)** alım bölgelerini test etmiştir.
+## 3. Hüküm ve Strateji
 
-Bu durum, "Düşüşleri Alım Fırsatı Olarak Değerlendir" stratejisinin ne kadar isabetli olduğunu teyit etmiş ve alım planını **aktif hale getirmiştir**. Strateji, plana sadık kalarak bu kademelerden alım yapmak üzerine devam etmelidir.
+*   **HÜKÜM:** AL / POZİSYON ARTIR
+*   **GEREKÇE:** Son finansal sonuçlar, mevcut "AL" stratejisini ve YKBNK'nın portföydeki "Çekirdek Varlık" konumunu **olağanüstü bir şekilde doğrulamaktadır.** Banka, hem kârlılık hem de büyüme tarafında muazzam bir performans sergilemektedir. Özellikle güçlü likidite ve sermaye oranları, bankayı sektördeki diğer oyunculardan pozitif ayrıştırmaktadır. Piyasadaki genel satışlar, bu güçlü temellere sahip hisseyi iskontolu bir fiyattan almak için bir fırsat sunmaya devam etmektedir. Mevcut alım planı geçerliliğini korumaktadır.
 
-### Kademeli Alım Planı (Revize: 19 Eylül 2025)
-- **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Fiyatın eski alım planı seviyelerinin çok üzerine çıkması ve ana strateji dosyasındaki 'Al' kararı doğrultusunda, mevcut trend içinde yeni giriş noktaları belirlemek amacıyla plan yukarı yönlü revize edilmiştir.
+### Kademeli Alım Planı (19 Eylül 2025 Revizyonu)
 - **DURUM:** Mevcut pozisyon üzerine ekleme yapmak için yeni kademeler beklenmektedir.
 - **Seviyeler:**
-  - **1. Kademe (Ara Alım): 33.50 – 32.50 TL** (Mevcut fiyata yakın ara destek)
-  - **2. Kademe (Ana Alım): 31.50 – 30.50 TL** (Daha güçlü destek bölgesi)
+  - **1. Kademe (Ara Alım): 33.50 – 32.50 TL**
+  - **2. Kademe (Ana Alım): 31.50 – 30.50 TL**
   - **Risk Yönetimi (Alımı Durdur):** 29.00 TL altında günlük kapanış.
-
-### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
-- **1. Kademe (3.833 TL):** 33.50 – 32.50 TL aralığından alım.
-- **2. Kademe (4.000 TL):** 31.50 – 30.50 TL aralığına gerilerse ek alım.
-- **Not:** Kalan 3.000 TL'lik bütçe, daha derin bir düzeltme olması durumunda değerlendirilmek üzere saklanmaktadır.

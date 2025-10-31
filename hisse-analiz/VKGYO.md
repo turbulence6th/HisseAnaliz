@@ -15,21 +15,30 @@ Vakıf GYO, 2025'in ilk dokuz ayında **627 milyon TL net kâr** açıklamışt�
 *   **Tek Seferlik Gelir Etkisi:** Geçen yılın yüksek kârı, büyük ölçüde 5.39 milyar TL'lik "Diğer Faaliyet Gelirleri" kaleminden kaynaklanmıştır. Bu tür tek seferlik gelirler hariç tutulduğunda, şirketin 2025'teki 1.36 milyar TL'lik brüt kârlılığı, normalleşen bir operasyonel performansa işaret etmektedir.
 *   **Bilanço Yapısı:** Şirketin bilançosunun en önemli kalemi olan **yatırım amaçlı gayrimenkuller 20.16 milyar TL** değerindedir. Şirketin toplam özkaynakları ise 23.41 milyar TL seviyesindedir. Bu, şirketin ana değer önerisinin gayrimenkul portföyü olduğunu teyit etmektedir.
 
-## 3. Gerekçe ve Sonuç
+## 3. 3Ç25 Faaliyet Raporu'ndan Ek Notlar
 
-VKGYO'nun performansı, büyük proje satışlarının lumpy (düzensiz) doğası nedeniyle yıldan yıla dramatik farklılıklar gösterebilmektedir. 2025 sonuçları, 2024'teki tek seferlik gelirler çıkarıldığında, şirketin kira ve düzenli satışlardan istikrarlı bir brüt kârlılık ürettiğini göstermektedir.
+Faaliyet raporu, finansal tabloların ötesinde şirketin operasyonel durumu hakkında önemli detaylar sunmaktadır:
 
-Bir GYO için temel değerleme metriği, genellikle hisse fiyatının Net Aktif Değerine (NAD) olan iskontosu veya primidir. Şirketin özkaynakları NAD için iyi bir gösterge olarak kullanılabilir. Mevcut finansallar, şirketin varlıklarını koruduğunu ve operasyonel olarak kârlı olduğunu göstermektedir. Ancak, kârda ve hasılatta olağanüstü bir büyüme de göstermemektedir.
+*   **Güçlü Likidite:** Şirketin likidite oranları oldukça sağlıklıdır (Cari Oran: 3.88, Likit Oran: 2.53). Bu, şirketin kısa vadeli yükümlülüklerini karşılama konusunda hiçbir sıkıntısı olmadığını ve finansal olarak sağlam bir duruş sergilediğini göstermektedir.
+*   **Proje Gelişmeleri:**
+    *   **Devam Eden Projeler:** Sancaktepe Merkez projesinde %39 tamamlanma oranına ulaşılmış ve satışlar başlamıştır. Medyan Kadıköy projesindeki 30 bağımsız bölümün ise %76'sı tamamlanmış ve satış kararı alınmıştır. Bu projelerden yakın gelecekte nakit akışı beklenmektedir.
+    *   **İptal Edilen Proje:** İzmir Konak'ta planlanan VYeniKonak projesinin ana yüklenici sözleşmesi karşılıklı olarak feshedilmiştir. Bu durum, "Proje Gecikmeleri" riskinin bir yansımasıdır ve gelecekteki büyüme potansiyelini bir miktar azaltmaktadır.
 
-Bu nedenle, hisse senedi ne ucuz ne de pahalıdır. Mevcut pozisyonu olan yatırımcılar için satmayı gerektirecek bir bozulma yoktur, ancak yeni yatırımcılar için de cazip bir giriş fırsatı sunmamaktadır.
+## 4. Gerekçe ve Sonuç
 
-## 4. Potansiyel Riskler
+VKGYO'nun 2025 performansı, 2024'teki tek seferlik proje gelirleri hariç tutulduğunda, şirketin ana işi olan gayrimenkul geliştirme ve kiralamadan istikrarlı bir operasyonel kârlılık yarattığını göstermektedir.
+
+Asıl yatırım tezi, şirketin **derin iskontosunda** yatmaktadır. 0.36'lık PD/DD oranı, piyasanın şirketin 23.4 milyar TL'lik özkaynağını (ve 20.16 milyar TL'lik yatırım amaçlı gayrimenkul portföyünü) sadece 8.4 milyar TL olarak fiyatladığını göstermektedir. Bu, şirketin varlıklarına net değerinin üçte bir fiyatına yatırım yapma imkanı sunan olağanüstü bir güvenlik marjıdır.
+
+Raporda belirtilen güçlü likidite ve devam eden projelerdeki ilerleme, operasyonel risklerin yönetildiğini teyit etmektedir. İzmir projesinin iptali bir pürüz olsa da, bu durum ana yatırım tezini bozmamaktadır. Bu derin değer iskontosu, hisseyi **AL** için cazip kılmaktadır.
+
+## 5. Potansiyel Riskler
 
 *   **Gayrimenkul Piyasası Riski:** Gayrimenkul piyasasındaki genel bir durgunluk, hem şirketin mülklerinin değerini hem de kira gelirlerini olumsuz etkileyebilir.
-*   **Proje Gecikmeleri:** Geliştirilmekte olan projelerde yaşanabilecek gecikmeler veya maliyet artışları, gelecekteki kârlılığı baskılayabilir.
+*   **Proje Geliştirme Riskleri:** Geliştirilmekte olan projelerde yaşanabilecek gecikmeler, maliyet artışları veya (İzmir projesinde görüldüğü gibi) iptaller, gelecekteki kârlılığı baskılayabilir.
 *   **Faiz Oranı Riski:** Yüksek faiz ortamı, hem yeni proje finansman maliyetlerini artırabilir hem de gayrimenkule olan talebi azaltabilir.
 
-## 5. Çarpan Analizi (25 Ekim 2025)
+## 6. Çarpan Analizi (25 Ekim 2025)
 
 *   **F/K (Fiyat/Kazanç): 16**
     *   Bu oran, mevcut kârlılık seviyeleri için makul bir değerlemeye işaret etmektedir. Hisse, kârının 16 katından işlem görmektedir.

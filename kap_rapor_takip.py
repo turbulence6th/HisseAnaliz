@@ -76,19 +76,28 @@ def check_for_new_reports():
         return
 
     new_reports_found_this_run = False
+    seen_stock_day_reports = set() # Her kontrol döngüsünde sıfırlanır
+
     for report in reversed(disclosures):
         basic_info = report['disclosureBasic']
         disclosure_id = basic_info['disclosureId']
         title = basic_info['title']
+        stock_code = basic_info['stockCode']
+        publish_date_only = basic_info['publishDate'].split(' ')[0] # Sadece tarih kısmını al
         
-        if disclosure_id not in seen_disclosure_ids and "Faaliyet Raporu" in title:
+        # Aynı disclosure_id'ye sahip raporu ve aynı hisse senedi için aynı gün içindeki raporu tekrar yazdırma
+        if disclosure_id not in seen_disclosure_ids and \
+           (stock_code, publish_date_only) not in seen_stock_day_reports and \
+           ("Faaliyet Raporu" in title or "Finansal Rapor" in title):
+            
             if not new_reports_found_this_run:
                 print("-"*50)
             
-            print(f"🔔 YENİ FAALİYET RAPORU: {basic_info['stockCode']} - {basic_info['companyTitle']} ({basic_info['publishDate']})")
+            print(f"🔔 YENİ RAPOR: {stock_code} - {basic_info['companyTitle']} ({basic_info['publishDate']})")
             
             new_reports_found_this_run = True
             seen_disclosure_ids.add(disclosure_id)
+            seen_stock_day_reports.add((stock_code, publish_date_only))
             
     if new_reports_found_this_run:
         print("-"*50)
@@ -97,14 +106,14 @@ def check_for_new_reports():
         time.sleep(0.05) # Notalar arası kısa bir duraklama
         winsound.Beep(800, 250)  # Frekans: 800Hz, Süre: 250ms
     else:
-        print("Yeni bir faaliyet raporu bulunamadı.")
+        print("Yeni bir rapor bulunamadı.")
 
 def main():
     """
     Ana döngü. Betiği başlatır ve periyodik olarak kontrol eder.
     """
     print("KAP Faaliyet Raporu Takip Betiği Başlatıldı.")
-    check_interval_seconds = 300  # 5 dakika
+    check_interval_seconds = 180  # 5 dakika
 
     while True:
         check_for_new_reports()

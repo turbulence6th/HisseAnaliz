@@ -1,19 +1,19 @@
-# Anadolu Sigorta (ANSGR) - Hisse Analiz Raporu (25 Ekim 2025)
+# Anadolu Sigorta (ANSGR) - Hisse Analiz Raporu (30 Ekim 2025)
 
 ## 1. Yatırım Tezi ve Strateji
 
-*   **HÜKÜM:** AL / UYDU LİSTESİNE EKLE
-*   **STRATEJİ:** Şirketin 24 Ekim 2025'te açıklanan 3Ç25 finansal sonuçları, mevcut yüksek faiz ve enflasyon ortamından ne kadar güçlü bir şekilde faydalandığını net bir şekilde ortaya koymaktadır. Portföydeki bir diğer sigorta şirketi olan TURSG ile benzer şekilde, hatta daha da güçlü bir operasyonel performans sergilemiştir. Bu nedenle hisse, portföye çeşitlilik katmak ve sigorta sektöründeki pozitif ayrışmadan faydalanmak amacıyla **"AL"** kararı ile "Uydu / İzleme Listesi"ne eklenmiştir.
+*   **HÜKÜM:** TUT
+*   **STRATEJİ (30 Ekim 2025 Revizyonu):** İlk analizde şirketin güçlü net ve teknik kârı "AL" kararı için dayanak oluşturmuştu. Ancak, faaliyet raporunun detaylı incelenmesi, teknik kârın neredeyse tamamen, toplanan primlerin yüksek faizle değerlendirilmesinden elde edilen yatırım gelirlerinden kaynaklandığını göstermiştir. %110,4'lük birleşik rasyo, ana sigortacılık faaliyetlerinin operasyonel olarak kârlı olmadığına işaret etmektedir. Bu durum, şirketin kârlılığını Merkez Bankası'nın para politikasına ve faizlerin seyrine aşırı duyarlı hale getirmektedir. Beklentiler faiz indirimlerinin başlayacağı yönünde olduğundan, yatırım gelirlerinin azalması ve operasyonel kârlılığın tek başına yeterli kalmaması riski mevcuttur. Bu nedenle, **"AL"** kararı **"TUT"** olarak revize edilmiştir. Hisse, mevcut pozisyonuyla korunacak ancak yeni alım yapılmayacaktır. Faiz indirim döngüsünün başlangıcı ve şirketin operasyonel kârlılığındaki gelişmeler yakından izlenecektir.
 
 ## 2. 3Ç 2025 Finansal Sonuçları Değerlendirmesi
 
-Anadolu Sigorta, 2025 yılının ilk dokuz ayında **8.96 milyar TL net kâr** açıklayarak son derece güçlü bir performans sergilemiştir. Bu rakam, geçen yılın aynı dönemine göre (8.28 milyar TL) %8'lik bir artışa işaret etmektedir.
+Anadolu Sigorta, 2025'in ilk dokuz ayında, geçen yılın aynı dönemine göre %8,2 artışla **8.96 milyar TL net kâr** açıklayarak güçlü bir finansal performans sergilemiştir.
 
 ### Temel Finansal Göstergeler:
 
-*   **Teknik Kârlılık:** Şirketin başarısındaki en dikkat çekici unsur, sigortacılık faaliyetlerinden elde ettiği kârdır. Dokuz aylık dönemde **11.4 milyar TL'lik hayat dışı teknik bölüm kârı** elde edilmiştir. Bu rakam, şirketin ana faaliyet konusu olan sigortacılıkta ne kadar disiplinli ve kârlı çalıştığının en önemli göstergesidir. Net kârdan bile daha yüksek olan bu teknik kâr, şirketin operasyonel mükemmelliğini ve güçlü underwriting (risk kabul) kabiliyetini teyit etmektedir.
-*   **Yatırım Gelirleri:** Yüksek faiz ortamı, şirketin yatırım gelirlerini desteklemeye devam etmiştir. Bu durum, toplam kârlılığa önemli bir katkı sağlamaktadır.
-*   **Özsermaye Büyümesi:** Şirketin özsermayesi, yıl başındaki 23.7 milyar TL'den **30.8 milyar TL'ye** yükselerek güçlü bir büyüme kaydetmiştir. Bu, şirketin net varlık değerindeki artışı ve kârlılığının bilançoya pozitif etkisini göstermektedir.
+*   **Prim Üretimi:** Şirket, prim üretimini geçen yılın aynı dönemine göre **%45,9** gibi etkileyici bir oranda artırarak **67,9 milyar TL**'ye ulaştırmıştır. Bu büyüme, şirketin pazar payını ve sektördeki güçlü konumunu koruduğunu göstermektedir.
+*   **Teknik Kârlılık ve Yatırım Gelirlerinin Rolü:** İlk bakışta **11,4 milyar TL** olarak açıklanan hayat dışı teknik bölüm kârı oldukça pozitif bir görüntü çizmektedir. Ancak, bu kârlılığın arkasındaki dinamikleri doğru anlamak kritik öneme sahiptir. Faaliyet raporu detayları incelendiğinde, bu kârın ana itici gücünün, teknik bölüme aktarılan **16,1 milyar TL'lik yatırım geliri** olduğu görülmektedir. Şirketin birleşik rasyosu (kombine rasyo) **%110,4** seviyesindedir. Bu oran, sigortacılık operasyonlarının (prim gelirleri vs. hasar ve faaliyet giderleri) tek başına kârlı olmadığını, ancak toplanan primlerin (float) yüksek faiz ortamında finansal araçlarda değerlendirilmesiyle elde edilen muazzam yatırım gelirlerinin bu operasyonel açığı fazlasıyla telafi ederek güçlü bir toplam teknik kâr yarattığını ortaya koymaktadır.
+*   **Net Kâr:** Tüm bu dinamikler sonucunda, şirket 9 aylık periyodu **8,96 milyar TL** net kâr ile kapatmıştır. Bu, şirketin mevcut makroekonomik konjonktürü ne kadar etkin bir şekilde kendi lehine kullandığının bir kanıtıdır.
 
 ## 3. Gerekçe ve Sonuç
 

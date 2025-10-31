@@ -1,28 +1,27 @@
-# TABGD – Çekirdek Varlık Analizi (Defansif Büyüme)
+# TAB Gıda Sanayi ve Ticaret A.Ş. (TABGD) - Hisse Analizi
 
-Bu not, TAB Gıda'nın 2025 ilk yarı faaliyet raporunu analiz etmekte ve şirketin neden portföyde bir "Çekirdek Varlık" [[memory:5993342]] olarak konumlandırılması gerektiğini açıklamaktadır.
+## 1. Yatırım Tezi
 
-## Tez: Operasyonel Mükemmellik ve İstikrarlı Büyüme
-TAB Gıda, güçlü marka portföyü, entegre ekosistem modeli ve kanıtlanmış operasyonel verimliliği ile defansif ve istikrarlı bir büyüme profili sunmaktadır. Strateji, bu kaliteli varlıkta, piyasa düşüşlerini bir alım fırsatı olarak değerlendirerek pozisyon oluşturmak üzerine kurulmalıdır.
+TAB Gıda, 2025/09 finansal raporu sonrası, "Uydu / İzleme Listesi"ne alınmıştır. Şirket, satışlarını artırmaya devam etse de, bu büyüme operasyonel kârlılığa ve en önemlisi nakit akışına yansımamaktadır. `GENEL_STRATEJI.md` belgesinde vurgulanan "nakit akışı yaratma becerisi" ilkesiyle çelişen bu durum, hisseyi şimdilik bir "Çekirdek Varlık" olmaktan uzaklaştırmaktadır.
 
-## 2025 2. Çeyrek Faaliyet Raporu Analizi
+## 2. Finansal Analiz (30 Eylül 2025 Raporu)
 
 ### Pozitifler
-*   **Net Kâr Marjı Genişlemesi (En Kritik Olumlu):** Şirketin cirosu %10,2 artarken, net kârının **%18,7** gibi çok daha yüksek bir oranda artması, maliyet yönetimindeki ve operasyonel verimlilikteki başarısını gösteren en güçlü sinyaldir.
-*   **İstikrarlı Ciro Artışı:** Pazarın genel seyrine paralel, öngörülebilir ve istikrarlı bir ciro büyümesi sergilemektedir.
-*   **Güçlü Bilanço:** 19 Milyar TL'lik özkaynak yapısı, şirkete hem yeni yatırımlar için finansal esneklik hem de olası krizlere karşı dayanıklılık sağlamaktadır.
-*   **Yatırımcı Dostu Adımlar:**
-    *   **Hisse Geri Alımı:** Aktif bir geri alım programı yürütmeleri (30.06.2025 itibarıyla 226.000 TL'lik nominal pay), yönetimin hisseye güvendiğini göstermektedir.
-    *   **Temettü:** Düzenli temettü ödemesi, yatırımcıya nakit akışı sağlamaktadır.
 
-### Stratejik Güçlü Yönler
-*   **Entegre Ekosistem Modeli:** Gıda tedariği (Fasdat), inşaat (Ekur), reklam (Reklam Üssü) ve teknoloji (ATP) gibi kritik operasyonların grup şirketleri üzerinden yönetilmesi, şirkete önemli bir maliyet ve verimlilik avantajı sağlamaktadır.
-*   **Pazar Lideri Marka Portföyü:** Burger King, Popeyes, Sbarro gibi markalarla sektörün lideridir. Bu, fiyatlama gücü ve marka bilinirliği avantajı yaratır.
+*   **Satış Büyümesi:** Şirketin hasılatı geçen yılın aynı dönemine göre %12 artarak 34.2 milyar TL'ye ulaşmıştır.
+*   **Net Kâr Artışı:** Net dönem kârı, geçen yılın aynı dönemine göre %23 artışla 2.5 milyar TL'ye yükselmiştir.
+*   **Güçlü Nakit Pozisyonu:** Şirketin kasasında 5.9 milyar TL nakit ve nakit benzeri bulunmaktadır.
 
-### Riskler
-*   **Makroekonomik Duyarlılık:** Tüketici harcamalarına doğrudan bağlı olması, ekonomik yavaşlama dönemlerinde bir risk oluşturur.
-*   **Gıda Enflasyonu:** Kontrol edilemeyen gıda enflasyonu, kâr marjları üzerinde sürekli bir baskı unsurudur.
-*   **Yoğun Rekabet:** Sektördeki yoğun rekabet, pazar payı ve kârlılık üzerinde baskı yaratabilir.
+### Negatifler
 
-## Hüküm ve Strateji (KADEMELİ AL)
-TAB Gıda, defansif yapısı, operasyonel mükemmelliği ve istikrarlı büyümesiyle bir "Çekirdek Varlık" tanımını tam olarak karşılamaktadır. Strateji, aceleci davranmak yerine, piyasa genelindeki düşüşleri bu kaliteli şirkette kademeli olarak pozisyon artırmak için bir fırsat olarak değerlendirmek olmalıdır.
+*   **KRİTİK - Negatif Faaliyet Nakit Akışı:** Şirket, 9 aylık dönemde esas faaliyetlerinden **-800 milyon TL negatif nakit akışı** üretmiştir. Bu durum, elde edilen kârın nakde dönmediğini ve operasyonların nakit yaktığını göstermektedir ki bu, yatırım stratejisinin en temel kriterine aykırıdır.
+*   **Düşen Operasyonel Kârlılık:** Artan pazarlama ve yönetim giderleri nedeniyle, Esas Faaliyet Kârı geçen yıla göre %5 gerilemiştir.
+*   **Daralan Brüt Marj:** Satışlardaki artışa rağmen brüt kârın sadece %6 artması, maliyet baskısının ve marj daralmasının bir işaretidir.
+*   **Kârın Kaynağı:** Net kârdaki artış, operasyonel performanstan ziyade, 1.4 milyar TL'lik "Yatırım Faaliyetlerinden Gelirler" gibi ana faaliyet dışı kalemlerden desteklenmektedir.
+*   **Artan Kısa Vadeli Borçlar:** Kısa vadeli yükümlülükler 9 ayda %33 oranında artarak 7.9 milyar TL'ye ulaşmıştır.
+
+## 3. Strateji ve Karar
+
+*   **HÜKÜM:** İZLE / UYDU VARLIK
+*   **GEREKÇE:** TAB Gıda, ciro bazında büyüyen ancak operasyonel verimliliği düşen ve en önemlisi faaliyetlerinden nakit yaratamayan bir profil çizmektedir. Bu durum, `GENEL_STRATEJI.md`'de belirtilen temel yatırım felsefesiyle uyumsuzdur. Şirketin kârlılığını ve özellikle nakit akışını sürdürülebilir bir şekilde iyileştirdiği görülmeden pozisyon alınması riskli olacaktır. Hisse, operasyonel metriklerde net bir düzelme görülene kadar "Uydu / İzleme Listesi"nde takip edilecektir.
+

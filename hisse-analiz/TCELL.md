@@ -61,6 +61,15 @@ Bu ihale, belirsizliğin ortadan kalkması ve Turkcell'in önümüzdeki 5-10 yı
 - **Güçlü Büyüme ve Kârlılık:** Gelirler %12.5 artarken, FAVÖK'ün %14.8 artması kârlılığın daha da hızlı büyüdüğünü gösteriyor. Techfin ve Veri Merkezi gibi stratejik alanlar %35'in üzerinde büyüdü.
 - **Yönetilebilir Bilanço:** Şirket, 1 Milyar Avro'luk Eurobond ihracı ve temettü ödemesi sonrası borcunu artırmıştır (Net Borç/FAVÖK: 0,63x). Ancak bu borçluluk seviyesi, ana rakibinin (TTKOM: 1,0x) oldukça altındadır ve büyüme odaklı yatırımları finanse ettiği için yönetilebilir bir seviyededir.
 
+## 2025 3. Çeyrek Faaliyet Raporu Notları (6 Kasım 2025)
+- **Yatırım Tezi Güçlenerek Teyit Edildi:** 3. çeyrek sonuçları, "fiyatlama gücü", "pazar liderliği" ve "stratejik alanlarda büyüme" tezlerini bir kez daha doğruladı.
+- **Güçlü Finansallar ve Yukarı Yönlü Revizyon:** Konsolide gelirler %11.2 artışla 59.5 milyar TL'ye, FAVÖK ise %10.5 artışla 26.2 milyar TL'ye ulaştı. %43.9'luk FAVÖK marjı korundu. Yönetim, bu güçlü sonuçlar ışığında 2025 yılı için ciro büyüme hedefini ~%10'a, FAVÖK marjı hedefini ise %42-%43 aralığına **yukarı yönlü revize etti.** Bu, yönetimin şirketin gidişatına olan güvenini gösteren en önemli pozitif sinyaldir.
+- **Net Kâr Analizi (Önemli Not):** İlk bakışta geçen seneye göre düşmüş gibi görünen net kâr, yanıltıcıdır. Geçen senenin kârı, Ukrayna operasyonlarının satışından elde edilen 14.9 milyar TL'lik tek seferlik geliri içeriyordu. **Esas faaliyetlerden (devam eden operasyonlardan) elde edilen net kâr ise %31.8 artarak 5.4 milyar TL'ye yükseldi.** Bu, operasyonel performansın ne kadar güçlü olduğunun net bir kanıtıdır.
+- **Operasyonel Mükemmellik Devam Ediyor:**
+    - **Mobil Tarafta:** 569 bin yeni faturalı abone kazanımı ile pazar payı artışı devam etti. Mobil ARPU (abone başı gelir) %11.9 büyüyerek fiyatlama gücünü teyit etti.
+    - **Fiber Tarafta:** 33 bin yeni fiber abonesi ve %17.3'lük etkileyici ARPU büyümesi, bu alandaki liderliğin ve verimliliğin altını çiziyor.
+- **5G Liderliği Tescillendi:** Faaliyet raporunda detayı verilen 16 Ekim'deki ihale sonucuyla, Turkcell bir operatörün alabileceği maksimum frekans olan 160 MHz'i, 3 taksitli uygun ödeme koşullarıyla kazandı. Bu, şirketin önümüzdeki 10 yıllık teknoloji liderliğini ve yeni gelir alanları yaratma potansiyelini güvence altına almaktadır.
+
 ## İzleme (riskler)
 - **Rekabetin seyri (fiyatlama gücünü etkiler mi?)**
 - **Regülasyon/spektrum haber akışı**

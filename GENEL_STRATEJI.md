@@ -4,23 +4,37 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 
 ## 1. Genel Yatırım Felsefesi
 
-*   **Dinamik Portföy Yönetimi:** Portföy statik değildir. Zayıflayan bir varlığı satıp (rotasyon), fonu daha güçlü veya tezi daha uygun bir varlığa aktarmak temel prensiptir [[memory:6128755]].
-*   **Çekirdek ve Uydu Stratejisi:** Portföy, güçlü bilançoya ve net büyüme hikayesine sahip "Çekirdek Varlıklar" ile daha küçük ve/veya tezi henüz tam olgunlaşmamış "Uydu/İzleme Varlıkları" olarak ikiye ayrılır [[memory:5993342]].
-*   **Veriye Dayalı Kararlar:** Yatırım kararları, şirketlerin faaliyet raporlarına dayalı derin temel analize ve önceden belirlenmiş teknik seviyelere göre verilir [[memory:5993346]].
-*   **Kayıt Disiplini:** Her hisse için yatırım tezini, riskleri ve stratejiyi içeren ayrı `.md` dosyaları tutulur [[memory:5993348]].
+*   **Dinamik Portföy Yönetimi:** Portföy statik değildir. Zayıflayan bir varlığı satıp (rotasyon), fonu daha güçlü veya tezi daha uygun bir varlığa aktarmak temel prensiptir.
+*   **Çekirdek ve Uydu Stratejisi:** Portföy, güçlü bilançoya ve net büyüme hikayesine sahip "Çekirdek Varlıklar" ile daha küçük ve/veya tezi henüz tam olgunlaşmamış "Uydu/İzleme Varlıkları" olarak ikiye ayrılır.
+*   **Veriye Dayalı Kararlar:** Yatırım kararları, şirketlerin faaliyet raporlarına dayalı derin temel analize ve önceden belirlenmiş teknik seviyelere göre verilir.
+*   **Halka Açıklık Oranı Değerlendirmesi:** Şirketlerin halka açıklık oranı, yatırım kararlarında önemli bir kriterdir.
+    *   %30 ve altı: Çok iyi (Likidite ve manipülasyon riski açısından olumlu).
+    *   %30 - %70 arası: Duruma göre değerlendirilir.
+    *   %70 ve üstü: Çok kötü (Likidite ve manipülasyon riski açısından olumsuz).
+*   **İmtiyazlı Hisse Senetleri:** İmtiyazlı hisse senetleri olan şirketlerden uzak durulacaktır. Bu tür hisseler, yönetimde azınlık hissedarların aleyhine karar alma potansiyeli taşıdığı ve özellikle temettü dağıtımında imtiyazlı olmaması gerektiği için tercih edilmemektedir.
+*   **Kayıt Disiplini:** Her hisse için yatırım tezini, riskleri ve stratejiyi içeren ayrı `.md` dosyaları tutulur.
 
 ### 1.1. Sektörel Yoğunlaşma Riski ve Stratejisi
 
-*   **TESPİT:** Portföyde YKBNK (Bankacılık) ve ANSGR (Sigortacılık) gibi varlıkların bulunması nedeniyle finans ana sektöründe bir yoğunlaşma mevcuttur.
+*   **TESPİT:** Portföyde YKBNK (Bankacılık) ve AGESA (Hayat ve Emeklilik) gibi varlıkların bulunması nedeniyle finans ana sektöründe bir yoğunlaşma mevcuttur.
 *   **GEREKÇE:** Bu durum, "fırsat odaklı ve seçici alım" stratejisinin doğal bir sonucudur. Her ne kadar aynı ana sektörde olsalar da, bu şirketlerin her biri kendi alt segmentlerinde güçlü ve farklı dinamiklere sahip "Çekirdek Varlık" tezleri sunmaktadır.
 *   **STRATEJİ:** Finans sektöründeki bu ağırlık, potansiyel bir risk olarak kabul edilmekte ve yakından izlenmektedir. Piyasa koşullarının veya şirket bazlı tezlerin zayıflaması durumunda, "Dinamik Portföy Yönetimi" ilkesi gereği sektördeki ağırlığı dengelemek amacıyla pozisyonlar arası rotasyon yapılması değerlendirilecektir.
 
-## 2. Mevcut Piyasa Durumu ve Acil Eylem Planı (17 Ekim 2025)
+### 1.2. Niteliksel Değerleme Kriterleri (Bonus)
 
-*   **DURUM:** Piyasalar, bir yandan ABD-Rusya-Ukrayna arasında dillendirilen barış görüşmeleri gibi pozitif küresel katalizörleri, diğer yandan ABD'de bazı bölgesel bankaların açıkladığı zararlar gibi negatif sinyalleri fiyatlamaktadır.
-*   **POZİTİF GELİŞME:** Ukrayna savaşının sona erme ihtimali, küresel risk iştahını ve BIST'i pozitif etkileme potansiyeli taşımaktadır.
-*   **İZLENECEK RİSK:** ABD'deki bankacılık sorunları, küresel olarak sektöre yönelik temkinli bir duruşu gerektirebilir.
-*   **GENEL STRATEJİ:** Ana strateji olan **"fırsat odaklı ve seçici alım"** devam etmektedir. Pozitif jeopolitik beklentiler, piyasadaki geri çekilmelerin alım fırsatı olarak değerlendirilmesi görüşünü desteklemektedir. Ancak bankacılık sektöründeki küresel riskler yakından izlenecektir.
+Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilirliğini ve rekabet gücünü ölçmek için aşağıdaki niteliksel faktörler de "bonus" olarak değerlendirilir. Bu kriterlerin varlığı, bir şirketin yatırım tezini güçlendiren önemli unsurlardır:
+
+*   **Rekabet Avantajı (Moat):** Şirketin rakiplerine karşı sahip olduğu sürdürülebilir bir üstünlük var mı? (Örn: Marka gücü, patentler, teknolojik liderlik, ölçek ekonomisi).
+*   **Fiyat Koyma Gücü (Pricing Power):** Şirket, maliyet artışlarını müşterilerine ne ölçüde yansıtabiliyor? Enflasyonist ortamlarda marjlarını koruyabiliyor mu?
+*   **Dağıtım Kanalları:** Şirket, ürün veya hizmetlerini müşteriye ulaştırmada ne kadar etkin? Kendi dağıtım ağına sahip olması veya kilit distribütörlerle güçlü ilişkileri olması bir avantajdır.
+*   **Tedarikçi Çeşitliliği:** Şirket, kritik ham maddeler veya hizmetler için tek bir tedarikçiye bağımlı mı? Tedarik zincirindeki çeşitlilik, operasyonel riskleri azaltır.
+
+## 2. Mevcut Piyasa Durumu ve Strateji (6 Kasım 2025)
+
+*   **DURUM:** 3. çeyrek bilanço döneminin sonuna gelindi. Piyasa, genel olarak beklentileri karşılayan ve bazı durumlarda (TCELL, AKBNK, SAHOL) aşan şirket sonuçlarını büyük ölçüde fiyatladı. Endeks, son haftalarda bilanço beklentileriyle yaşanan yükselişin ardından bir miktar yorgunluk belirtisi göstererek yatay/sınırlı negatif bir seyre geçti.
+*   **POZİTİF GELİŞME:** Enflasyon muhasebesinin kaldırılması sonrası odak noktası haline gelen "nakit akışı" ve "operasyonel kârlılık" temalarının, bilançosu güçlü gelen şirketlerde (TCELL, YYLGD, KORDS) teyit edilmesi, bu hisselere olan güveni artırdı.
+*   **İZLENECEK RİSK:** Bilanço dönemi sonrası piyasanın yeni bir hikaye bulmakta zorlanması. Kâr realizasyonları ve yabancı yatırımcı akışının seyri, kısa vadeli yönü belirleyecektir.
+*   **GENEL STRATEJİ:** Ana strateji, **"kârını koru ve seçici ol"** olarak güncellenmiştir. Bilanço beklentisiyle hızlı yükselmiş pozisyonlarda kısmi kâr realizasyonu düşünülebilir. Yeni alımlar için ise, ya bilançosu güçlü gelmesine rağmen henüz fiyatlanmamış (geride kalmış) şirketler ya da ana trend desteklerine geri çekilen "Çekirdek Varlıklar" hedeflenmelidir. Panik alımlarından kaçınılacaktır.
 
 ## 3. Ciner Soruşturması Sonrası Piyasa Değerlendirmesi (28 Eylül 2025)
 
@@ -35,8 +49,8 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 ### A) Çekirdek Portföy Varlıkları
 
 #### TCELL (Turkcell)
-*   **HÜKÜM:** UZUN VADELİ AL / İZLE
-*   **GEREKÇE:** Portföydeki en güçlü uzun vadeli temel hikayelerden biri olmaya devam etmektedir. Yakın zamanda tamamlanan 5G ihalesiyle (1.22 milyar USD) sektördeki liderliğini pekiştirmiş, ancak bu yatırımın kısa/orta vadeli finansal etkileri (borçluluk, nakit akışı) izlenmelidir. Mevcut piyasa düşüşleri, uzun vadeli birikim için alım fırsatı sunmaktadır.
+*   **HÜKÜM:** UZUN VADELİ AL / GÜÇLENDİR
+*   **GEREKÇE:** Portföydeki en güçlü temel hikayelerden biri. 2025/09 sonuçları, yatırım tezini **beklentilerin üzerinde** teyit etmiştir. Şirket, esas faaliyetlerinden elde ettiği net kârı %32 artırmış, abone kazanımında ve ARPU büyümesinde pazar liderliğini sürdürmüştür. En önemlisi, yönetim bu güçlü sonuçlarla 2025 yılı ciro ve FAVÖK marjı hedeflerini **yukarı yönlü revize ederek** şirketin gidişatına olan güvenini net bir şekilde ortaya koymuştur. 5G ihalesinin uygun koşullarla kazanılmasıyla uzun vadeli teknolojik liderlik ve büyüme potansiyeli güvence altına alınmıştır. Strateji, TCELL'i portföyün ana taşıyıcılarından biri olarak görmeye devam etmek ve olası geri çekilmeleri pozisyonu daha da güçlendirmek için bir alım fırsatı olarak değerlendirmektir.
 
 #### SISE (Şişecam)
 *   **HÜKÜM:** TUT VE İZLE
@@ -55,8 +69,8 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **GEREKÇE:** Bankacılık sektörüne gelen genel satışlar, temelleri sağlam olan YKBNK'da bir alım fırsatı yaratmıştır. Sektördeki bu olumlu görüş, AKBNK'nın 23 Ekim'de açıkladığı beklentileri aşan 3Ç25 kârı ile de teyit edilmiştir. EREGL ve ENJSA satışından elde edilen nakit, mevcut pozisyonu güçlendirmek ve maliyeti düşürmek amacıyla kullanılmıştır.
 
 #### SAHOL (Sabancı Holding)
-*   **HÜKÜM:** AL
-*   **GEREKÇE:** Holdinglere yönelik genel satış dalgası, şirketin spekülatif "yeniden yapılanma" potansiyeli tezini [[memory:6128757]] iskontolu bir fiyattan değerlendirme fırsatı sunmuştur. Hisse, bu alımla birlikte "İzleme Listesi"nden "Çekirdek Portföy"e yükseltilmiştir. Strateji, EREGL ve ENJSA'dan çıkan fonların bir kısmını bu potansiyele yatırmaktır.
+*   **HÜKÜM:** AL / POZİSYON ARTIR
+*   **GEREKÇE:** Spekülatif "yeniden yapılanma" tezi, 2025/09 sonuçlarıyla **güçlenerek teyit edilmiştir.** Holdingin en zayıf halkası olan Malzeme Teknolojileri segmentinde kârlılıktaki sert düşüş durmuş, segmentin ve bankacılığın desteğiyle holding konsolide olarak yeniden net kâra geçmiştir. Bu durum, en kötünün geride kaldığına ve tezin çalıştığına işaret etmektedir. Strateji, bu olumlu gelişme ışığında pozisyonu korumak ve/veya artırmaktır.
 
 #### TUPRS
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
@@ -66,10 +80,6 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
 *   **GEREKÇE:** VAKKO ve ALARK'taki pozisyonların kapatılmasıyla serbest kalan fonun bir bölümü, bu pozisyona yönlendirilmiştir. Şirketin tek seferlik zarara rağmen olağanüstü güçlü nakit akışı yaratması, stratejik olarak kompozitlere odaklanması ve bilançosunu güçlendirme adımları, hisseyi "İzleme Listesi"nden "Çekirdek Portföy"e taşımak için yeterli güveni vermektedir. Piyasanın kısa vadeli olumsuzluğa odaklanması, uzun vadeli potansiyeli iskontolu fiyattan alma tezini güçlendirmiştir.
 
-#### VKGYO (Vakıf GYO)
-*   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
-*   **GEREKÇE:** Hisse, 0.36'lık Piyasa Değeri/Defter Değeri (PD/DD) oranı ile net varlıklarına göre sahip olduğu derin iskontoyu güçlü bir **değer yatırımı** tezi olarak sunmaktadır. ISGSY pozisyonundan çıkan fonun bir bölümü ile pozisyon açılarak hisse, "Uydu / İzleme Listesi"nden "Çekirdek Portföy"e yükseltilmiştir.
-
 #### YYLGD (Yayla Agro Gıda)
 *   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
 *   **GEREKÇE:** Şirket, 2025/09 raporunda teyit edilen **7.5 Milyar TL'lik olağanüstü faaliyet nakit akışı** ile güçlü bir "nakit akışı ve borç azaltma (deleveraging)" hikayesi sunmaktadır. Yaratılan bu nakit, agresif bir şekilde borç ödemede kullanılmaktadır. Bu stratejinin, gelecekte finansman giderlerini düşürerek operasyonel kârı net kâra daha güçlü yansıtması beklenmektedir. Piyasanın bu uzun vadeli pozitif gelişmeyi henüz fiyatlamadığı değerlendirilerek, hisse **"Çekirdek Varlık"** olarak portföye eklenmiştir.
@@ -78,11 +88,13 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** TUT / NÖTR (Strateji Değişikliği)
 *   **GEREKÇE:** 30 Ekim tarihli 9 aylık sonuçlara dayanan "Satış" kararı yeniden değerlendirilmiştir. Operasyonel kârdaki düşüşün, verimsiz birimlerin planlı olarak kapatılmasından kaynaklanan **geçici ve stratejik bir adım** olduğu sonucuna varılmıştır. Piyasanın bu durumu "zayıflık" olarak yanlış yorumlama potansiyeli, uzun vadeli yatırımcı için bir fırsat yaratabilir. Şirketin 5 Milyar TL'ye ulaşan net nakit pozisyonu, fason üretime (CMO) yönelik **32 Milyon Avro'luk dönüşümsel yatırımı** ve Ayazağa projesi gibi gizli varlıkları, hisseyi "Çekirdek Varlık" olarak teyit etmektedir. Strateji, satışları durdurup pozisyonu korumak ve olası geri çekilmeleri alım fırsatı olarak değerlendirmektir.
 
+#### AGESA (AgeSA Hayat ve Emeklilik)
+*   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
+*   **GEREKÇE:** "Dinamik Portföy Yönetimi" ilkesi gereğince, kârlılığı operasyonel olmayan ve tezi zayıflayan ANSGR pozisyonundan çıkılarak, sermaye AGESA'ya aktarılmıştır. AGESA, operasyonel kârlılığı, pazar liderliği, düşük halka açıklık oranı (%20) ve imtiyazlı hisse bulundurmaması gibi özellikleriyle stratejinin tüm kriterlerine uyan, çok daha güçlü ve sağlam bir "Çekirdek Varlık" tezi sunmaktadır.
+
 ### B) Uydu / İzleme Listesi Varlıkları""
 
-#### ANSGR (Anadolu Sigorta)
-*   **HÜKÜM:** TUT / UYDU VARLIK
-*   **GEREKÇE:** Hisse, hatalı bir ön analiz sonucu "AL" kararı ile portföye girmiştir. Detaylı analiz (`hisse-analiz/ANSGR.md`), kârlılığın operasyonel değil, faiz ortamına bağımlı yatırım gelirlerinden kaynaklandığını göstermiştir. Bu durum, hisseyi "Çekirdek Varlık" tanımından uzaklaştırmaktadır. Strateji, bu yeni ve küçük pozisyonu bir **"Uydu Varlık"** olarak elde tutmak, faiz indirimlerinin hızına ve şirketin operasyonel verimliliğine göre (birleşik rasyo) önümüzdeki çeyreklerde bir çıkış fırsatı aramaktır. Yeni alım yapılmayacaktır.
+### B) Uydu / İzleme Listesi Varlıkları""
 
 #### DARDL (Dardanel)
 *   **HÜKÜM:** İZLE
@@ -96,10 +108,22 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** AL
 *   **GEREKÇE:** Yapılan detaylı fon karşılaştırma analizleri sonucunda, YUB fonu portföyünüzdeki hisselerle ve stratejik sektör tercihlerinizle en yüksek benzerliği (%68.84) göstermektedir. Ayrıca, sizin portföyünüzden çıkardığınız EREGL veya AGHOL gibi hisseleri barındırmamaktadır. Bu özellikleriyle, portföy çeşitlendirmesi ve profesyonel yönetimden faydalanma amacıyla "AL" kararı ile Uydu/İzleme Listesi'ne eklenmiştir.
 
+#### ENJSA (Enerjisa Enerji)
+*   **HÜKÜM:** TEKRAR DEĞERLENDİR / İZLE
+*   **GEREKÇE:** Şirketin daha önce "sınırlı büyüme potansiyeli" gerekçesiyle portföyden çıkarılma kararı, 2025/09 faaliyet raporu ile geçersiz kalmıştır. Rapor, şirketin operasyonel verimlilik ve yeni iş kolları sayesinde %36'lık "Baz Alınan Net Kâr" artışı yakaladığını göstermiştir. Kurumsal yönetim yapısının yatırım ilkeleriyle tam uyumlu olması ve sürdürülebilirlik alanındaki liderliği, şirketi tekrar "Çekirdek Varlık" adayı yapmaktadır. Yeniden pozisyon almak üzere İzleme Listesi'ne alınmıştır.
+
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
 
 ### D) Portföyden Çıkarılan Varlıklar
+
+#### ANSGR (Anadolu Sigorta)
+*   **HÜKÜM:** POZİSYON KAPATILDI / ROTASYON
+*   **GEREKÇE:** "Dinamik Portföy Yönetimi" ilkesi gereğince pozisyon kapatılmıştır. Detaylı analiz, şirketin kârlılığının ana sigortacılık faaliyetlerinden değil, tamamen yüksek faiz ortamından elde edilen yatırım gelirlerinden kaynaklandığını göstermiştir (Bileşik Rasyo: %110,4). Bu durum, tezi zayıflatmış ve faiz indirimlerinin beklendiği bir ortamda riski artırmıştır. Serbest kalan fon, tezi çok daha güçlü olan ve stratejinin tüm kriterlerine uyan AGESA pozisyonuna aktarılmıştır.
+
+#### VKGYO (Vakıf GYO)
+*   **HÜKÜM:** POZİSYON KAPATILDI / SAT
+*   **GEREKÇE:** Faaliyet raporu incelemesinde, şirketin A Grubu hisselerine yönetim kurulu seçimlerinde 15 kat oy hakkı tanıyan **imtiyazlı bir yapıya sahip olduğu tespit edilmiştir.** Bu durum, "İmtiyazlı hisse senetleri olan şirketlerden uzak durulacaktır" şeklindeki temel yatırım ilkesini doğrudan ihlal etmektedir. Her ne kadar şirketin net varlıklarına göre iskontolu olması (değer tezi) geçerliliğini korusa da, kurumsal yönetim yapısındaki bu temel uyumsuzluk nedeniyle pozisyonun kapatılmasına karar verilmiştir.
 
 #### TAVHL (TAV Havalimanları Holding)
 *   **HÜKÜM:** POZİSYON KAPATILDI
@@ -109,12 +133,9 @@ Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığın
 *   **HÜKÜM:** POZİSYON KAPATILDI
 *   **GEREKÇE:** Portföydeki "Dinamik Portföy Yönetimi" ilkesi gereğince, daha güçlü operasyonel kârlılığa (teknik kâr) sahip olan ANSGR'ye rotasyon yapmak amacıyla pozisyon kapatılmıştır. TURSG'nin finansalları zayıf olmamakla birlikte, ANSGR'nin ana sigortacılık faaliyetlerindeki performansı daha üstün bir alternatif sunduğu için satış tercih edilmiştir.
 
-#### EREGL (Ereğli Demir Çelik) & ENJSA (Enerjisa)
-*   **HÜKÜM:** POZİSYONLAR KAPATILDI
-*   **GEREKÇE:** Her iki hisse de, kendi `.md` dosyalarında detaylandırılan ve aşağıda özetlenen temel gerekçelerle portföyden çıkarılmıştır. Strateji, bu zayıf halkalardan çıkan sermayeyi, Çekirdek Portföy'deki (özellikle TCELL ve ECILC) daha güçlü ve net büyüme hikayelerine sahip varlıklara yönlendirmektir.
-    *   **EREGL:** Faaliyet raporuyla teyit edilen kârlılık, üretim ve marjlardaki sert çöküş, hisseyi portföydeki en yüksek "fırsat maliyetine" sahip varlık haline getirmiştir.
-    *   **ENJSA:** İstikrarlı yapısına rağmen, sınırlı büyüme potansiyeli ve "oyun değiştirici" bir katalizörden yoksun olması, daha dinamik büyüme hikayelerine sahip hisselere (Çekirdek Varlıklar) rotasyon yapılmasını stratejik olarak daha mantıklı kılmıştır.
-*   **SONUÇ:** Bu varlıklardan çıkan sermaye, Çekirdek Portföy'deki daha güçlü adaylara yönlendirilmek üzere serbest bırakılmıştır.
+#### EREGL (Ereğli Demir Çelik)
+*   **HÜKÜM:** POZİSYON KAPATILDI
+*   **GEREKÇE:** Faaliyet raporuyla teyit edilen kârlılık, üretim ve marjlardaki sert çöküş, hisseyi portföydeki en yüksek "fırsat maliyetine" sahip varlık haline getirmiştir.
 
 #### AGHOL (Anadolu Grubu Holding) & AEFES (Anadolu Efes)
 *   **HÜKÜM:** POZİSYONLAR KAPATILDI

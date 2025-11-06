@@ -1,15 +1,15 @@
-# AEFES – Kısa Tez (Strateji: SAT / UZAK DUR)
+# AEFES – Kısa Tez (Strateji: SAT / UZAK DUR) - 05 Kasım 2025 Güncellemesi
 
-Bu not, Anadolu Efes'in 2025 ikinci çeyrek sonuçları sonrası oluşan zayıf görünümü ve artan riskleri özetlemektedir. Mevcut durumda strateji, hissede pozisyon azaltmak veya yeni pozisyon almaktan kaçınmaktır.
+Bu not, Anadolu Efes'in 2025 üçüncü çeyrek sonuçları sonrası daha da netleşen zayıf görünümü ve devam eden riskleri özetlemektedir. Mevcut "SAT / UZAK DUR" stratejisi güçlenerek teyit edilmiştir.
 
 ## Tez (neden SAT / UZAK DUR?)
-Anadolu Efes, hem yurt içi pazardaki yoğun rekabet hem de en önemli dış pazarlarından biri olan Rusya'daki jeopolitik belirsizlikler nedeniyle ciddi zorluklarla karşı karşıyadır. Faaliyet raporu, şirketin kârlılığının ve marjlarının baskı altında olduğunu net bir şekilde teyit etmektedir. Bu nedenle, mevcut risk/getiri dengesi yatırım için cazip değildir.
+Anadolu Efes, özellikle ana iş kolu olan Bira Grubu'nda ve yurt içi pazarda derinleşen zorluklarla karşı karşıyadır. Zayıf tüketici talebi ve yoğun rekabet, şirketin kârlılığını ve nakit akışını ciddi şekilde baskılamaktadır. 2025/09 raporu, bu olumsuz gidişatın devam ettiğini ve kötüleştiğini teyit etmiştir. Risk/getiri dengesi yatırım için halen cazip değildir.
 
-## 2025 2. Çeyrek Faaliyet Raporu Notları (13 Ağustos 2025)
-- **Finansallar Baskı Altında:** Hacim artışına rağmen, ciro %2, FAVÖK (kârlılık) ise %17 düştü. Bu, şirketin kâr ederek büyüyemediğini gösteriyor.
-- **Yoğun Rekabet ve İskontolar:** Türkiye bira pazarındaki büyüme, kâr marjlarını doğrudan ezen "yoğunlaşan iskontolara" dayanıyor. Bu sürdürülebilir bir model değil.
-- **Rusya Belirsizliği:** Rusya operasyonlarının kontrolünün kaybedilmesi ve "finansal yatırım" olarak yeniden sınıflandırılması, büyük bir belirsizlik ve risk faktörüdür.
-- **Temkinli Yönetim Beklentisi:** Şirket yönetimi, yılın geri kalanı için açıkça "zorlu" ve "ihtiyatlı" bir duruş sergiliyor, bu da yakın zamanda bir toparlanma beklenmediğini gösteriyor.
+## 2025 3. Çeyrek Faaliyet Raporu Notları (05 Kasım 2025)
+- **Bira Grubunda Çöküş Derinleşiyor:** İlk 9 ayda, Bira Grubu'nun satış gelirleri %5.3, FAVÖK'ü ise %11.6 geriledi. Segment, **5.4 Milyar TL negatif serbest nakit akışı** üreterek ciddi şekilde nakit yakmaya devam etti.
+- **Türkiye Pazarında Alarm Zilleri:** CEO, 3. çeyrekte yurt içi bira pazarında "zorlukların daha belirgin hale geldiğini" ve "talepte yavaşlama" olduğunu açıkça belirtmiştir. 3. çeyrekte Türkiye bira hacmi %8.4 daralmıştır. Bu, zayıf tüketici alım gücünün doğrudan bir sonucudur.
+- **Kârsız Büyüme Sorunu Devam Ediyor:** Konsolide bazda hacimler artsa da, bu artış tamamen daha düşük kârlı meşrubat işinden gelmektedir. Konsolide net satış gelirleri yerinde sayarken (%-0.7), FAVÖK %8.9 ve net kâr %23.5 gerilemiştir. Şirket kâr ederek büyüyememektedir.
+- **Olumsuz Görünüm Teyit Edildi:** İkinci çeyrek sonrası oluşan negatif tez, üçüncü çeyrek sonuçlarıyla tamamen doğrulanmış ve hatta kötüleşmiştir. Bira işindeki kan kaybı, meşrubat tarafının olumlu hacim performansını gölgede bırakmaktadır.
 
 ## Katalistler (Takip Edilecek Olası Pozitifler)
 - Rusya operasyonlarında kontrolün yeniden kazanılması veya kârlı bir satış süreci.

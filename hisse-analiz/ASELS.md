@@ -21,6 +21,21 @@ ASELSAN, Türkiye'nin teknoloji ve savunma sanayisindeki liderliği, güçlü ve
 *   **Jeopolitik Riskler:** Uluslararası ilişkilerdeki gerginlikler, potansiyel tedarik zinciri sorunları veya ihracat kısıtlamaları riski taşımaktadır.
 *   **Enflasyon Muhasebesi Etkisi (TMS 29):** Yüksek enflasyon ortamında, şirketin net parasal varlık pozisyonu nedeniyle kâğıt üzerinde "Parasal Kayıp" yazması, net kâr rakamının şirketin gerçek operasyonel performansını yansıtmasını engelleyerek kafa karışıklığı yaratabilir.
 
+## Faaliyet Raporu Değerlendirmesi (2025/09)
+
+2025 yılı 9 aylık sonuçlar, şirketin ana yatırım tezini (reel büyüme, güçlü operasyonel kârlılık ve sağlam bilanço) teyit ederek güçlendirmiştir.
+
+### Pozitif Gözlemler
+1.  **Reel Büyüme Sürüyor:** Hasılat, geçen yılın aynı dönemine göre **%12 artarak 90.9 Milyar TL'ye** ulaşmıştır. Bu büyüme, şirketin >%10 olan kendi yıl sonu hedefini desteklemekte ve enflasyon üzerinde reel büyüme kapasitesini göstermektedir.
+2.  **Güçlü FAVÖK Kârlılığı:** FAVÖK marjı, %24.9 seviyesinde gerçekleşerek şirketin **>%23 olan hedefini aşmış** ve geçen yılki seviyesini korumuştur. Bu, operasyonel kârlılığın ve verimliliğin ana stratejinin odaklandığı şekilde güçlü kaldığını teyit etmektedir.
+3.  **Rekor Bakiye Sipariş:** Bakiye sipariş tutarı **18 Milyar ABD Doları** gibi devasa bir seviyededir. Bu rekor seviye, şirketin gelecek yıllardaki gelirleri için olağanüstü bir öngörülebilirlik ve güvence sağlamaktadır.
+4.  **Daha da Sağlamlaşan Bilanço:** Toplam finansal borcun toplam aktiflere oranı %13.4'ten **%11.8'e gerilemiştir**. Şirketin zaten çok düşük olan borçluluk seviyesi daha da iyileşerek finansal riskini minimuma indirmiştir.
+5.  **Artan Özsermaye Kârlılığı:** Özsermaye kârlılığı (ROE), %11.3'ten **%12.7'ye yükselmiştir**. Bu, şirketin hissedarları için yarattığı değeri artırdığının bir göstergesidir.
+
+### Negatif Gözlemler / Dikkat Edilmesi Gerekenler
+1.  **Faaliyet Kâr Marjındaki Sınırlı Gerileme:** Faaliyet kâr marjı (EBIT) %22.4'ten %20.8'e düşmüştür. Ancak, FAVÖK marjının korunuyor olması bu gerilemenin etkisini sınırlamakta ve ana operasyonel kârlılıkta bir bozulma olmadığını göstermektedir.
+2.  **Çalışma Sermayesi Yönetimi:** Likidite oranının 0.75 seviyesinde olması, riskler bölümünde de belirtilen çalışma sermayesi ve alacak yönetimi konusunun yakından izlenmeye devam edilmesi gerektiğini göstermektedir.
+
 ## Faaliyet Raporu Değerlendirmesi (2025/06)
 
 2025 ilk yarı raporu, enflasyon muhasebesinin yarattığı karmaşıklığa rağmen, şirketin temel işleyişinin ne kadar sağlam olduğunu net bir şekilde ortaya koymaktadır.

@@ -50,3 +50,12 @@ ENKA, 2025/09 finansal sonuçlarıyla teyit edildiği üzere, `GENEL_STRATEJI.md
 *   **Varlık Değeri (PD/DD):** Bu bilanço enflasyon muhasebesine (TMS 29) göre hazırlandığı için, 1.32'lik PD/DD oranı piyasanın şirkete düzeltilmiş net varlıklarının %32 üzerinde bir değer biçtiğini gösterir. Bu prim, defter değerinde tam olarak yansıtılamayan gelecekteki kâr yaratma kapasitesi (örn: 8.7 Milyar Dolarlık sipariş bakiyesi) ve şirketin 'kale' gibi sağlam finansal yapısı için ödenen bir **kalite ve büyüme primi** olarak yorumlanmalıdır.
 
 **Sonuç:** Çarpanlar, bir "kalenin" çarpanlarıdır ve yüzeydeki rakamların ötesinde, nakit ve varlık kalitesine göre cazip bir değerlemeye işaret etmektedir.
+
+## 5. Kademeli Alım İçin Teknik Seviyeler (7 Kasım 2025)
+
+*   **1. Kademe (Başlangıç Alımı):** 75.00 - 76.50 TL
+    *   *Gerekçe:* Kısa vadeli dinlenme ve destek alanı. Olası bir küçük geri çekilmede pozisyona ilk adımı atmak için ideal.
+*   **2. Kademe (Pozisyon Güçlendirme):** 69.00 - 71.00 TL
+    *   *Gerekçe:* Önemli bir önceki destek/direnç bölgesi. Daha belirgin bir düzeltmede pozisyonu güçlendirmek için cazip bir fırsat.
+*   **3. Kademe (Ana Alım Yeri):** 61.00 - 63.00 TL
+    *   *Gerekçe:* Uzun vadeli ana destek hattı. Sert bir satış dalgasında ana alımı yapmak için iskontolu ve güvenli bir bölge.

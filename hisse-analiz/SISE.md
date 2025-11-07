@@ -76,3 +76,25 @@ Piyasada yaşanan genel düşüş, SISE fiyatını tam olarak plan dahilindeki *
 1.  **Marjların Durumu:** Özellikle FAVÖK ve Brüt Kâr marjları, geçen senenin aynı dönemiyle ve bir önceki çeyrekle karşılaştırılacak. Enerji maliyetlerini fiyatlara yansıtıp yansıtamadığına bakılacak.
 2.  **Segment Bazında Talep:** Düzcam (inşaat), otomotiv camları ve cam ambalaj (içecek/gıda) segmentlerindeki satış hacimlerinin ne yönde olduğu incelenecek.
 3.  **Yönetimin Yorumları:** Şirket yönetiminin raporun ilerleyen dönemler için talep ve kârlılık beklentileri kritik olacaktır.
+
+## 3Ç 2025 Faaliyet Raporu Analizi ve Strateji Güncellemesi (7 Kasım 2025)
+
+7 Kasım 2025'te açıklanan 3. çeyrek (9 aylık) sonuçları, şirketin yatırım tezini **güçlü bir şekilde teyit etmiş** ve Rekabet Kurulu cezası nedeniyle oluşan belirsizliği ortadan kaldırmıştır.
+
+### Ana Tema: Ciro Düşüşüne Rağmen Artan Kârlılık
+
+Raporun ana hikayesi, 2Ç 2025'te başlayan trendin devam ettiğini göstermektedir. Küresel yavaşlamaya paralel olarak konsolide net satışlar yıllık bazda **%11 düşerek 162.3 Milyar TL'ye gerilemiş**, ancak şirket bu duruma olağanüstü bir kârlılık artışıyla yanıt vermiştir.
+
+### Pozitif Gelişmeler
+1.  **Marj Devrimi:** Satışlardaki düşüşe rağmen, etkin maliyet yönetimi ve fiyatlama disiplini sayesinde **Brüt Kâr Marjı %23'ten %28'e**, **FAVÖK Marjı ise %8'den %11'e yükselmiştir.** Bu, şirketin operasyonel mükemmelliğini ve döngüsel yavaşlamalara karşı direncini kanıtlayan en önemli veridir.
+2.  **Güçlü Finansman Sağlandı:** Rapor döneminden hemen sonra, 7 Kasım 2025'te IFC ile **550 Milyon Euro'ya varan uzun vadeli bir kredi anlaşması** imzalanması, şirketin yatırım programını ve bilançosunu güvence altına alan çok önemli bir gelişmedir.
+3.  **Yatırımlar Tam Gaz Devam:** 9 aylık dönemde yapılan **22.9 Milyar TL'lik yatırım harcaması**, şirketin büyüme stratejisine olan bağlılığını göstermektedir.
+
+### Negatif Gelişmeler / İzlenecek Konular
+1.  **Ciro Gerilemesi:** Satışlardaki %11'lik düşüş, şirketin faaliyet gösterdiği pazarlardaki zayıflığın sürdüğünü göstermektedir.
+2.  **Artan Net Borç:** Yatırım harcamaları ve işletme sermayesi ihtiyacı nedeniyle Net Finansal Borç / Özkaynak oranı yıl sonundaki 0,35 seviyesinden **0,45'e yükselmiştir.** Ancak bu borçluluk seviyesi yönetilebilir düzeydedir ve IFC kredisi ile yapı daha da sağlamlaşmıştır.
+
+### Yeni Hüküm ve Strateji: KADEMELİ AL Teyit Edildi
+
+*   **Karar:** 3Ç 2025 sonuçları, "BEKLE VE GÖR" stratejisinin gerekçesi olan Rekabet Kurulu cezası belirsizliğini tamamen ortadan kaldırmıştır. Şirketin operasyonel performansı, bu tek seferlik yükümlülüğü rahatlıkla yönetebileceğini göstermektedir. Bu nedenle, daha önce belirlenen **"KADEMELİ AL"** stratejisi güçlenerek **teyit edilmiştir.**
+*   **Gerekçe:** Şirket, ciro düşüşü yaşanan zorlu bir konjonktürde kârlılığını artırma becerisini kanıtlamıştır. Bu, şirketin defansif kalitesini ve uzun vadeli değer yaratma potansiyelini ortaya koymaktadır. Piyasadaki olası dalgalanmalar, mevcut alım planı çerçevesinde birer fırsat olarak görülmelidir.

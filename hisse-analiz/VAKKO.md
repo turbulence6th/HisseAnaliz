@@ -43,6 +43,21 @@ Bu not sade, uygulanabilir bir plan sunar: lüks odaklı tez + seviyeye dayalı 
 
 Bu metriklerde somut bir iyileşme görülene kadar pozisyon artırımı düşünülmemelidir. [[memory:6128757]]
 
+### Faaliyet Raporu Değerlendirmesi (2025/09)
+
+07.11.2025 tarihinde açıklanan 2025 yılı ilk 9 aylık faaliyet raporu, 2025/06 döneminde gözlemlenen operasyonel zayıflığın sadece devam etmekle kalmayıp **kötüleştiğini** de teyit etmektedir.
+
+1.  **Kârlılıkta Çöküş:**
+    *   **Satış Gelirleri:** Yıllık bazda sadece %1 artarak reel olarak sert bir daralma göstermiştir.
+    *   **Faaliyet Kârı:** Geçen yılın aynı dönemindeki 849 milyon TL'den bu yıl 203 milyon TL'ye gerileyerek **%76'lık bir çöküş** yaşamıştır.
+    *   **Net Sonuç:** Şirket, geçen yılki 721 milyon TL net kâra karşılık bu dönem **16 milyon TL net zarar** açıklamıştır. Bu durum, kârlılıktaki erozyonun ne kadar şiddetli olduğunu göstermektedir.
+
+2.  **Değişmeyen Tek Pozitif: Bilanço:**
+    *   Tüm bu olumsuzluklara rağmen, özsermayenin toplam kaynaklar içindeki %64'lük payı ile şirketin bilançosu güçlü kalmaya devam etmektedir.
+
+### Nihai Sonuç
+2025/09 sonuçları, `GENEL_STRATEJI.md` belgesinde daha önce alınan **"POZİSYON KAPATILDI"** kararını kesin ve net bir şekilde doğrulamaktadır. Şirketin "toparlanma" hikayesi gerçekleşmemekte, aksine temel operasyonel performans daha da bozulmaktadır. Bu hissede pozisyon tutmak, mevcut konjonktürde yüksek bir fırsat maliyeti taşımaktadır. Strateji, bu hisseden **uzak durmaktır.**
+
 ## Teknik – 6 aylık grafiğe göre alım seviyeleri
 - Hüküm: AL (kademeli)
 - Gerekçe (kısa): 6 aylık görünümde son haftalarda toparlanma ve daha yüksek dipler; kademeli alım tercih edilir.

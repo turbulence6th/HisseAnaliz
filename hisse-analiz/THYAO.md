@@ -1,3 +1,28 @@
+# THYAO – 3Ç 2025 Faaliyet Raporu Analizi ve Strateji Güncellemesi
+
+Bu not, Türk Hava Yolları'nın 7 Kasım 2025'te açıklanan 3. çeyrek (9 aylık) faaliyet raporu sonuçlarını analiz etmekte ve bu veriler ışığında mevcut stratejiyi yeniden değerlendirmektedir.
+
+## 3Ç 2025 Faaliyet Raporu Analizi: Operasyonel Büyüme Güçlü, Kârlılık Baskı Altında
+
+Rapor, THY'nin operasyonel olarak büyümeye ve pazar payı kazanmaya devam ettiğini, ancak kârlılık tarafında marjların ciddi şekilde baskı altında kaldığını gösteren karışık bir tablo sunmaktadır.
+
+### Pozitifler
+1.  **Güçlü ve Büyüyen Operasyonlar:** Yolcu sayısı geçen yılın aynı dönemine göre **%6,6 artarak 69,4 milyona** ulaşmış, stratejik öneme sahip **dıştan dışa transfer yolcu sayısı ise %10,7 gibi çok güçlü bir artış göstermiştir.** Doluluk oranı %82,9'a yükselmiştir.
+2.  **Düşen Akaryakıt Maliyetleri:** Ortalama birim akaryakıt maliyeti geçen yıla göre **%11 düşmüş** ve akaryakıtın toplam giderler içindeki payı **%31'den %27'ye gerilemiştir.** Bu, kârlılık için önemli bir destek sağlamıştır.
+3.  **Kargo Performansı:** Taşınan kargo miktarı **%5,6 artarak** global ticaretteki gücünü koruduğunu göstermiştir.
+
+### Negatifler / Ana Riskler
+1.  **Sert Düşen Kârlılık ve Marjlar:** En önemli negatif gelişmedir. Düşen yakıt maliyetlerine ve artan ciroya rağmen, 9 aylık **dolar bazında net kâr %25 düşüşle 2 Milyar Dolara** gerilemiştir. **Net kâr marjı ise geçen yılki %15,9 seviyesinden %11,4'e sert bir şekilde inmiştir.**
+2.  **Artan Operasyonel Maliyetler:** Kârlılıktaki bu düşüş, akaryakıt dışı operasyonel giderlerin (personel, bakım, yer hizmetleri vb.) çok ciddi şekilde arttığına ve yakıt maliyetindeki avantajı ortadan kaldırdığına işaret etmektedir.
+
+## Hüküm ve Strateji (TUT)
+2025/09 sonuçları, şirketin "Çekirdek Varlık" statüsünü operasyonel gücüyle teyit etse de, kârlılıktaki sert ve devam eden düşüş, mevcut "AL" stratejisinin risk/getiri dengesini bozmuştur. Önceki "Kademeli Alım" kararı, fiyatın teknik destek seviyelerine gerilemesine dayanıyordu; ancak yeni gelen temel veriler, bu düşüşün arkasında zayıflayan bir kârlılık olduğunu göstermektedir.
+
+Bu nedenle strateji **"TUT"** olarak güncellenmiştir. Pozisyon artırmak için, şirketin artan operasyonel maliyetleri kontrol altına aldığını ve marjlardaki düşüşü durdurduğunu görmek rasyonel olacaktır. Mevcut pozisyon, şirketin güçlü pazar konumu ve uzun vadeli büyüme potansiyeli nedeniyle korunacaktır.
+
+---
+*Aşağıdaki notlar, geçmiş analizleri ve tarihsel bağlamı korumak amacıyla arşivlenmiştir.*
+
 # THYAO – 2Ç 2025 Faaliyet Raporu Analizi ve Strateji
 
 Bu not, Türk Hava Yolları'nın 2Ç 2025 faaliyet raporu sonuçlarını analiz etmekte ve bu veriler ışığında mevcut "MEVCUT POZİSYONU KORU & FIRSAT BEKLE" stratejisinin devamlılığını değerlendirmektedir.

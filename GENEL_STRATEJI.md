@@ -61,8 +61,8 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **GEREKÇE:** Operasyonel güç ve reel büyüme kapasitesiyle net bir Çekirdek Varlıktır. Son dönemdeki prim sonrası beklenen geri çekilme fırsatı, mevcut piyasa düşüşüyle gelmiştir. Strateji, bu düşüşü maliyet düşürmek ve pozisyonu güçlendirmek için bir **alım fırsatı** olarak kullanmaktır.
 
 #### THYAO (Türk Hava Yolları)
-*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL (Kademeli)
-*   **GEREKÇE:** Piyasadaki düşüş, fiyatı ana trend desteği olan 325-330 TL bandına getirmiştir. Bu durum, portföydeki ağırlığı yüksek olsa da, maliyet düşürmek ve pozisyonu güçlendirmek için teknik bir alım fırsatı sunmaktadır. Strateji, bu kritik destekten kademeli alım yapmak üzerine güncellenmiştir.
+*   **HÜKÜM:** TUT
+*   **GEREKÇE:** 2025/09 sonuçları, şirketin operasyonel olarak güçlü büyümesini (yolcu, kargo ve kapasite artışı) teyit etse de, kârlılıkta ciddi bir baskı olduğunu ortaya koymuştur. Dolar bazında net kâr marjının geçen yılın aynı dönemine göre %15.9'dan %11.4'e gerilemesi, düşen akaryakıt maliyetlerine rağmen akaryakıt dışı giderlerdeki artışın kârlılığı erittiğini göstermektedir. Bu durum, daha önce teknik seviyelere dayanan 'AL' stratejisi için risk/getiri dengesini bozmaktadır. Strateji, operasyonel güç nedeniyle pozisyonu korumak, ancak kârlılıkta bir dengeleme görülene kadar yeni alım yapmaktan kaçınarak 'TUT' olarak güncellenmiştir.
 
 #### YKBNK (Yapı Kredi Bankası)
 *   **HÜKÜM:** POZİSYON ARTIRILDI / AL

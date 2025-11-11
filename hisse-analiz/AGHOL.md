@@ -1,4 +1,31 @@
-# AGHOL – 2Ç 2025 Faaliyet Raporu Analizi ve Strateji Değerlendirmesi
+# AGHOL – 3Ç 2025 Faaliyet Raporu Analizi ve Strateji Değerlendirmesi
+
+Bu not, AG Anadolu Grubu Holding'in 3Ç 2025 faaliyet raporu üzerine yapılan analizi ve bu veri ışığında güncel durumu özetlemektedir.
+
+## 3Ç 2025 Faaliyet Raporu Analizi: Toparlanma Sinyalleri, Yapısal Sorunlar Baki
+
+2025 üçüncü çeyrek sonuçları, bir önceki çeyreğe göre belirgin bir toparlanma göstermekle birlikte, holdingin yapısal sorunlarının devam ettiğini teyit etmektedir.
+
+1.  **Operasyonel Toparlanma ve Borçlulukta İyileşme:**
+    *   **Çeyreklik Performans:** Holding, 3. çeyrekte konsolide bazda **FAVÖK'ünü %15,9 artırmayı** başarmıştır. Bu, 2. çeyrekteki zayıf performansın ardından olumlu bir sinyaldir.
+    *   **Borçluluk Azaldı:** Daha da önemlisi, 2. çeyrekte 1,5x'e yükselen Net Borç/FAVÖK oranı, bu çeyrek itibarıyla tekrar **1,1x seviyesine gerilemiştir.** Bu, finansal sağlık açısından önemli bir iyileşmedir.
+
+2.  **Yapısal Sorun Devam Ediyor: Migros Tek Başına Taşıyor**
+    *   **Segment Performansları:** İyileşmeye rağmen, holdingin kârlılığı ve finansal yapısı hâlâ büyük ölçüde Migros'a bağımlıdır. Diğer segmentlerin borçluluk oranları bu durumu net bir şekilde ortaya koymaktadır:
+        *   **Perakende (Migros):** Net nakit pozisyonunda (Net Borç/FAVÖK: 0.0x).
+        *   **Meşrubat:** 0.9x (Makul).
+        *   **Bira:** 4.7x (Çok Yüksek).
+        *   **Otomotiv:** 5.9x (Çok Yüksek).
+        *   **Tarım, Enerji ve Sanayi:** 8.3x (Aşırı Yüksek).
+    *   **Kümülatif Kârlılık:** Çeyreklik toparlanmaya rağmen, 9 aylık kümülatif **ana ortaklık net kârı, geçen yılın aynı dönemine göre %46,4 gibi sert bir düşüş** göstermektedir.
+
+## Hüküm ve Strateji (Pozisyon Kapalı, İzlemede Kalmaya Devam)
+
+Ağustos ayında pozisyonun kapatılmasına neden olan temel dinamikler (Migros bağımlılığı, diğer segmentlerdeki yapısal zayıflık ve yüksek borç) hâlâ geçerliliğini korumaktadır. 3Ç25 raporu, bu kararın doğruluğunu teyit etmiştir.
+
+Ancak, Net Borç/FAVÖK oranındaki belirgin iyileşme ve çeyreklik operasyonel toparlanma olumlu gelişmelerdir. Bu nedenle AGHOL, "potansiyel bir geri dönüş hikayesi" adayı olarak izleme listesinde kalmaya devam edecektir. Ancak mevcut yapısıyla, `GENEL_STRATEJI.md`'de tanımlanan bir "Çekirdek Varlık" olma kriterlerini karşılamaktan uzaktır. Yeni bir pozisyon alımı için, özellikle Bira ve Otomotiv segmentlerinin borçluluk ve kârlılıklarında kalıcı bir iyileşme görülmesi beklenecektir.
+
+# AGHOL – 2Ç 2025 Faaliyet Raporu Analizi ve Strateji Değerlendirmesi (Arşiv)
 
 Bu not, AG Anadolu Grubu Holding'in 2Ç 2025 faaliyet raporu üzerine yapılan analizi ve bu veriler ışığında mevcut "TUT" stratejisinin dayanaklarını ve izleme noktalarını içermektedir.
 

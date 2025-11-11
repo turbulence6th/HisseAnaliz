@@ -68,16 +68,20 @@ Betik, tweet'leri standart çıktıya yazdıracaktır. Bu çıktının analiz ed
 
 ### `efektif_faiz_hesapla.py` Nasıl Kullanılır:
 
-Bir kredi veya taksitli alım için efektif aylık faiz oranını hesaplamak amacıyla kullanılır. Gerekli parametreler komut satırı argümanları olarak sağlanmalıdır.
+Bir kredi veya taksitli alım için efektif aylık faiz oranını hesaplamak amacıyla kullanılır. Kredinin ödemesiz (erteleme) dönemi varsa bu da hesaba katılabilir. Gerekli parametreler komut satırı argümanları olarak sağlanmalıdır.
 
 ```bash
-python efektif_faiz_hesapla.py --ana-para <TUTAR> --taksit-sayisi <AY> --aylik-odeme <TUTAR>
+python efektif_faiz_hesapla.py --ana-para <TUTAR> --taksit-sayisi <AY> --aylik-odeme <TUTAR> [--erteleme <AY>]
 ```
 
-**Örnek:**
+**Örnekler:**
 
 ```bash
+# Standart kredi
 python efektif_faiz_hesapla.py --ana-para 100000 --taksit-sayisi 12 --aylik-odeme 9500.50
+
+# 3 ay ertelemeli kredi
+python efektif_faiz_hesapla.py --ana-para 100000 --taksit-sayisi 12 --aylik-odeme 10500 --erteleme 3
 ```
 
 Betik, hesaplanan efektif aylık ve yıllık faiz oranlarını standart çıktıya yazdıracaktır.

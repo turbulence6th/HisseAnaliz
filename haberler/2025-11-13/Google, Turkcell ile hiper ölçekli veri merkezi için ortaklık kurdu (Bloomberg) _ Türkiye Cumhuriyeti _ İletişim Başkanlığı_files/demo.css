@@ -1,0 +1,75 @@
+
+.demo-wrapper {
+ position: relative;
+ width: 100%;
+ /* whitespace trickery */
+ font-size: 0px;
+}
+
+.demo-left,
+.demo-right {
+ font-size: 16px;
+ font-size: 1rem;
+ position: relative;
+ display: inline-block;
+ width: 48%;
+ vertical-align: top;
+}
+
+.demo-left {
+ margin-right: 2%;
+ border-right: 1px dotted transparent;
+}
+
+.demo-wrapper .demo-bd {
+ padding-right: 1em;
+}
+
+.demo-right {
+ left: -1px; /* sneaky */
+ margin-left: -2%;
+ border-left: 1px dotted transparent;
+}
+
+.demo-left,
+.demo-right {
+ border-color: #ccc;
+}
+
+.demo-right .demo-bd {
+ padding-left: 1em;
+ padding-right: 0.5em;
+}
+
+.about {
+ color: #333;
+ font-size: small;
+ line-height: 1.5em;
+ margin-bottom: 0.5em;
+}
+
+.about a {
+ text-decoration: none;
+}
+
+.note {
+ font-size: 0.5em;
+ color: #333;
+}
+
+#size-field {
+ vertical-align: middle;
+}
+
+#colors {
+ margin-bottom: 0.5em;
+}
+
+#colors * {
+ vertical-align: middle;
+}
+
+.sm2-bar-ui {
+ /* demo silliness */
+ transition: all 0.2s ease-in-out;
+}

@@ -46,6 +46,10 @@ Faaliyet raporu, THY'nin güçlü operasyonel yapısını ve stratejisini teyit 
 
 ## Güncel Gelişmeler ve Haber Akışı Analizi
 
+*   **12 Kasım 2025: Fiyat Düşüşü ve Strateji Revizyonu**
+    *   **Gelişme:** 3Ç25 sonuçlarının ardından artan kârlılık endişeleriyle hisse fiyatı sert bir düşüşle **268.0 TL** seviyesine gerilemiştir. Bu seviye, önceki analizlerde belirtilen tüm destek ve alım kademelerinin önemli ölçüde altındadır.
+    *   **Stratejik Yorum:** Kârlılık marjlarındaki baskı nedeniyle strateji "TUT" olarak belirlenmiş olsa da, fiyatlardaki düşüşün boyutu (son zirvelerden %20'den fazla düşüş ve 305 TL risk seviyesinin oldukça altında) yeni bir risk/getiri senaryosu oluşturmaktadır. Şirketin operasyonel tarafı güçlü kalmaya devam etmektedir. Bu yeni, daha düşük değerlemeden, uzun vadeli bir yatırımcı için potansiyel getiri, marj sıkışmasının kısa vadeli risklerinden daha ağır basmaya başlamaktadır. Bu nedenle, stratejiyi "TUT" konumundan tekrar **"KADEMELİ AL"** konumuna getirmek ve yeni, daha düşük alım kademeleri belirlemek mantıklıdır. Bu, piyasanın kârlılık haberlerine aşırı tepki verdiği varsayımına dayanan karşıt bir yaklaşımdır.
+
 *   **9 Ekim 2025: Güçlü Trafik Verileri Stratejiyi Destekliyor**
     *   **Gelişme:** Ziraat Yatırım'ın günlük bülteninde şirketin Eylül 2025 trafik verileri paylaşıldı. Toplam yolcu sayısı geçen yılın aynı dönemine göre **%12,9 artarak 8,7 milyona** ulaştı. Yolcu doluluk oranı ise 0,8 puan artışla **%84,6 olarak** gerçekleşti.
     *   **Stratejik Yorum:** Bu veriler, şirketin güçlü operasyonel performansının devam ettiğini ve "POZİSYON GÜÇLENDİR / AL" stratejisini teyit ettiğini göstermektedir.

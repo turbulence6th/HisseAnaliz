@@ -7,12 +7,15 @@ Bu not sade, uygulanabilir bir plan sunar: güçlü temel, fiyatlama gücü ve k
 - Temel değerler iyi; sektörde **fiyat koyma gücü** var (tarife güncellemeleri ve ARPU artışları ile).
 - Piyasada son 1 ayda endeks yükselirken kağıt geride kaldı; haber akışı nötr/pozitifleşirse toparlanma alanı var.
 
-## Güncel Gelişmeler (Ekim 2025)
+## Güncel Gelişmeler (Kasım 2025)
+
+*   **12 Kasım 2025 (Bloomberg):** Google (Alphabet Inc.), Türkiye'deki ilk **hiper ölçekli veri merkezini** kurmak için Turkcell ile stratejik bir ortaklık imzaladığını duyurdu. Bu anlaşma kapsamında Turkcell, hem altyapı sağlayıcısı hem de Google Cloud hizmetlerinin Türkiye'deki satıcısı olacak. Anlaşma, 2029'a kadar en az üç ağ kümesinden oluşan bir bulut bölgesi geliştirmeyi hedefliyor. Turkcell CEO'su Ali Taha Koç, bu ortaklığın Türkiye'yi dijital hizmetler için bölgesel bir merkez yapma hedefini pekiştirdiğini ve Turkcell'i "küresel bir bulut merkezi" haline getireceğini belirtti. Bu gelişme, şirketin veri merkezi ve bulut hizmetleri alanındaki büyüme potansiyelini ve stratejik konumunu somutlaştıran çok önemli bir adımdır.
 
 *   **10 Ekim 2025:** Ziraat Yatırım'ın günlük bülteninde, TCELL'in BIST100 endeksindeki düşüşü sınırlayan hisseler arasında yer aldığı belirtildi. Bu durum, hissenin piyasadaki dalgalanmalara karşı defansif bir karakter sergilediğini göstermektedir.
 
 ## Katalistler
 - Tarife güncellemeleri ve abone başı gelir (ARPU) artışı
+- **Veri merkezi ve bulut hizmetleri büyümesi (Google işbirliği)**
 - 5G/spektrum adımları, fiber yayılımı ve paketleşme
 - Nakit yaratımı, temettü/geri alım haberleri
 

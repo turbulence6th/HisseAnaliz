@@ -51,6 +51,13 @@ ASELSAN, Türkiye'nin teknoloji ve savunma sanayisindeki liderliği, güçlü ve
 1.  **Muhasebesel Parasal Kayıp:** Gelir tablosundaki **14 milyar TL'lik "Parasal Kayıp"**, operasyonel bir zayıflık değil, enflasyon muhasebesinin (TMS 29) bir sonucudur. Şirketin gerçek performansını analiz ederken, bu kalemin yanıltıcı etkisine karşı dikkatli olunmalı ve **Esas Faaliyet Kârı'na** odaklanılmalıdır.
 2.  **Yatırım Odaklı Nakit Akışı:** Şirket, kazandığı nakdi geleceğine (Ar-Ge, yeni tesisler) yatırmaya devam etmektedir. Bu, uzun vade için pozitif olsa da kısa vadede serbest nakit akışını sınırlar.
 
+## Değerleme (14 Kasım 2025)
+
+*   **F/K Oranı: 34.96**
+*   **PD/DD Oranı: 4.25**
+
+**Not:** Enflasyon muhasebesi (TMS 29) uygulaması nedeniyle, özellikle Net Kâr rakamı üzerinden hesaplanan F/K (Fiyat/Kazanç) oranı yanıltıcı olabilir. Şirketin net parasal varlık pozisyonu, kâr üzerinde muhasebesel "Parasal Kayıp" baskısı yaratmakta ve bu da F/K oranını yapay olarak şişirmektedir. Benzer şekilde, özsermayenin enflasyona göre düzeltilmesi PD/DD (Piyasa Değeri/Defter Değeri) oranını etkiler. Bu nedenle, değerleme yaparken bu çarpanlardan ziyade şirketin Esas Faaliyet Kârı (EFK), FAVÖK ve Bakiye Siparişleri gibi operasyonel metriklerine odaklanmak daha sağlıklı bir yaklaşım sunar. Mevcut çarpanlar, şirketin operasyonel gücünü tam olarak yansıtmayıp, tarihsel ortalamalarına göre yüksek görünmektedir.
+
 ## Strateji ve Sonuç
 
 ASELSAN, operasyonel gücü, stratejik konumu ve sağlam finansallarıyla portföydeki **"Çekirdek Varlık"** [[memory:5993342]] statüsünü fazlasıyla hak etmektedir. Kısa vadeli muhasebesel etkilerden ziyade, şirketin ana faaliyetlerindeki ezici güce ve reel büyüme kapasitesine odaklanmak esastır.
@@ -59,16 +66,17 @@ ASELSAN, operasyonel gücü, stratejik konumu ve sağlam finansallarıyla portf�
 
 Strateji, mevcut pozisyonu korumak ve piyasa düşüşlerini, bu kaliteli varlıktaki payı artırmak için bir alım fırsatı olarak değerlendirmek üzerine kuruludur.
 
-## Strateji Değerlendirmesi ve Yeni Alım Planı (19 Eylül 2025)
+## Strateji Değerlendirmesi ve Yeni Alım Planı (14 Kasım 2025)
 
-Hissenin son alım planından bu yana önemli ölçüde ralli yapması ve 196.6 TL seviyesine ulaşmasıyla eski plan geçerliliğini yitirmiştir. Yeni strateji, mevcut güçlü yukarı yönlü trenddeki küçük geri çekilmeleri yeni alım fırsatları olarak değerlendirmeyi amaçlar.
+Hissenin 19 Eylül'deki zirvesinden (196.6 TL) bu yana %11'den fazla değer kaybederek 174.2 TL'ye gerilemesi, önceki alım planını geçersiz kılmıştır. Mevcut düşüş trendi içinde, daha düşük ve daha güvenli görünen destek seviyelerinde yeni bir kademeli alım stratejisi oluşturulmuştur.
 
-### Teknik Alım Planı (Revize: 19 Eylül 2025)
+### Teknik Alım Planı (Revize: 14 Kasım 2025)
 - **HÜKÜM:** POZİSYON GÜÇLENDİR / AL (Kademeli)
-- **Gerekçe (kısa):** Fiyatın eski alım planı seviyelerinin çok üzerine çıkmasıyla, mevcut güçlü trend içinde yeni giriş noktaları belirlemek amacıyla plan yukarı yönlü revize edilmiştir.
-- **DURUM:** Önceki alım planındaki 1. kademenin (175-172 TL) kullanıldığı varsayılarak yeni kademeler beklenmektedir.
+- **Gerekçe (kısa):** Fiyatın önceki planın "Alımı Durdur" seviyesinin altına inmesiyle, mevcut düşüş trendi içinde yeni ve daha güvenli destek noktaları belirlenerek kademeli alım planı aşağı yönlü revize edilmiştir.
+- **DURUM:** Yeni plan, mevcut pozisyonu korurken, nakit rezervlerini daha stratejik seviyelerden alım yapmak için kullanmayı hedefler.
 - **Seviyeler:**
-  - **Yeni 1. Kademe (Ara Alım): 192.00 – 189.00 TL** (Mevcut fiyata yakın ara destek)
-  - **Yeni 2. Kademe (Ana Alım): 185.00 – 182.00 TL** (Daha güçlü destek bölgesi)
-- **Bütçe Yönetimi (Yüzdesel):** Yeni alımlar için ayrılan bütçenin sırasıyla **%50** ve **%50**'si bu kademelerde kullanılır.
-- **Risk Yönetimi (Alımı Durdur):** 175.00 TL altında haftalık kapanış.
+  - **1. Kademe (Ana Alım): 172.00 – 169.00 TL** (Psikolojik ve teknik destek bölgesi)
+  - **2. Kademe (Güçlü Alım): 165.00 – 162.00 TL** (Ana destek ve potansiyel dip bölgesi)
+  - **3. Kademe (Fırsat Alımı): 155.00 TL ve altı** (Piyasa genelinde sert bir satış olması durumunda değerlendirilecek fırsat seviyesi)
+- **Bütçe Yönetimi (Yüzdesel):** Yeni alımlar için ayrılan bütçenin sırasıyla **%40**, **%40** ve **%20**'si bu kademelerde kullanılır.
+- **Risk Yönetimi (Alımı Durdur):** 150.00 TL altında haftalık kapanış.

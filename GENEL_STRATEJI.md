@@ -150,6 +150,24 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **HÜKÜM:** POZİSYON ALIMINDAN VAZGEÇİLDİ
 *   **GEREKÇE:** Stratejik önceliklerin değişmesi ve portföyde daha cazip bulunan ENKAI ve AGESA gibi adaylara odaklanılması nedeniyle pozisyon almaktan vazgeçilmiştir.
 
+### E) Fon Stratejileri (Emtia Odaklı)
+
+#### GBZ (Azimut Portföy Emtia Fon Sepeti Fonu)
+*   **HÜKÜM:** AL / PORTFÖYE EKLE
+*   **GEREKÇE:** Portföyün emtia bacağını güçlendirmek amacıyla yapılan analizler sonucunda seçilmiştir. Seçim kriterlerinde belirleyici olan faktörler şunlardır:
+    1.  **Bakır Odaklılık:** Portföyünde hem fiziksel Bakır (WisdomTree Copper) hem de Bakır Madenciliği Şirketleri (Global X Copper Miners ETF) taşımasıyla, bakır fiyatlarındaki artış potansiyelini en iyi yansıtan fon olması.
+    2.  **Düşük Petrol Ağırlığı:** Diğer rakiplerine (TGE, KIF) kıyasla enerji ve petrol ağırlığının minimize edilmiş olması.
+    3.  **ALTIN.S1 Hassasiyeti:** Piyasa fiyatının üzerinde primli işlem gören "Darphane Altın Sertifikası (ALTIN.S1)" yerine, daha likit ve net aktif değerine yakın işlem gören ETF'leri (GLDTR) tercih etmesi.
+
+### F) Fon Stratejileri (Hisse Senedi Odaklı)
+
+#### MTH (MT Portföy Birinci Hisse Senedi Fonu)
+*   **HÜKÜM:** İZLE / PORTFÖYE EKLEME
+*   **GEREKÇE:** Fonun başarısı takdir edilmekle birlikte, mevcut yatırım stratejisiyle uyumsuzluklar tespit edilmiştir:
+    1.  **Strateji Uyumsuzluğu:** Fonun yoğun VİOP (kaldıraçlı) kullanımı ve yüksek işlem hacmi (trade odaklı), "temel analize dayalı uzun vadeli yatırım" felsefesiyle örtüşmemektedir.
+    2.  **Yüksek Maliyet:** %2,73'lük yıllık yönetim ücreti, pasif bir yatırıma göre yüksek bulunmuştur.
+    3.  **Portföy Çakışması:** Fonun en büyük pozisyonları (MGROS, ASTOR, Bankalar), bireysel portföyde zaten bulunan veya stratejik olarak azaltılan sektörlerle (Havacılık) büyük ölçüde örtüşmektedir. Bu durum çeşitlendirme sağlamamakta, aksine konsantrasyon riskini artırmaktadır.
+
 ## 4. Araçlar ve Yardımcı Notlar
 
 ### Anlık Hisse Verisi Çekme

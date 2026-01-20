@@ -98,6 +98,10 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **HÜKÜM:** ALIM İÇİN İZLE / GÜÇLÜ ÇEKİRDEK VARLIK ADAYI
 *   **GEREKÇE:** 5.8 Milyar Dolarlık net nakit pozisyonu, kusursuz kurumsal yönetimi ve 8.7 Milyar Dolarlık sipariş bakiyesi ile ideal bir "Çekirdek Varlık" adayıdır. Nakit akışının kral olduğu mevcut konjonktür için en uygun hisselerden biri olarak alım için takip edilmektedir.
 
+#### FORTE (Forte Teknoloji)
+*   **HÜKÜM:** ALINDI (625 Lot) / SPEKÜLATİF
+*   **GEREKÇE:** Şirketin temel verileri (negatif nakit akışı, operasyonel zarar, imtiyazlı paylar) strateji kriterlerini karşılamasa da; **GİB (Gelir İdaresi Başkanlığı) ihalesinin kazanılması beklentisi** nedeniyle kısa vadeli/spekülatif bir pozisyon açılmıştır. Hedef, ihalenin katalizör etkisiyle oluşabilecek x2 getiri potansiyelidir. İhale süreci yakından takip edilecektir.
+
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
 #### BRISA -> ENKAI Rotasyonu (Planlama Aşamasında)

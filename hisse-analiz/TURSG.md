@@ -1,55 +1,50 @@
-# TURSG – 3Ç 2025 Finansal Rapor Analizi ve İlk Değerlendirme
+# TURSG – Türkiye Sigorta Hisse Analiz Raporu
 
-Bu not, Türkiye Sigorta'nın (TURSG) 30 Eylül 2025 tarihli 9 aylık finansal raporunun analizini ve şirkete yönelik ilk yatırım tezini içermektedir.
+**Son Güncelleme:** 19 Aralık 2025
+**Rapor Dönemi:** 2025/09 (3. Çeyrek)
+**Mevcut Karar:** İZLEME LİSTESİNE AL (GÜÇLÜ ADAY)
 
-## 3Ç 2025 Finansal Rapor Analizi – Güçlü Büyüme ve Kârlılık
+## 1. Yatırım Tezi ve Temel Görünüm
 
-Açıklanan 9 aylık sonuçlar, şirketin mevcut ekonomik konjonktürde oldukça güçlü bir performans sergilediğini göstermektedir.
+Türkiye Sigorta, 2025 yılı 3. çeyrek finansal sonuçlarıyla, daha önce portföyden çıkarılmasına neden olan "zayıf operasyonel kârlılık" endişelerini tamamen ortadan kaldırmıştır. Şirket, sadece finansal gelirlerle değil, **esas sigortacılık faaliyetlerinden (Teknik Bölüm Dengesi)** elde ettiği muazzam kâr ile dikkat çekmektedir.
 
-1.  **Prim Üretiminde Etkileyici Büyüme:** Şirketin brüt yazılan primleri geçen yılın aynı dönemine göre %45 gibi çok güçlü bir oranda artarak 72.6 milyar TL'den 105.1 milyar TL'ye yükselmiştir. Bu, şirketin pazar payını ve gelir tabanını ne kadar hızlı büyüttüğünü gösteriyor.
+*   **Teknik Kârlılıkta Sıçrama:** Şirketin Hayat Dışı Teknik Bölüm Dengesi, geçen yılın aynı dönemine göre %41 artarak **17.7 Milyar TL** seviyesine ulaşmıştır. Bu rakam, şirketin 14.4 Milyar TL'lik toplam net kârının da üzerindedir ve kârın kalitesinin (sürdürülebilirliğinin) yüksek olduğunu gösterir.
+*   **Pazar Liderliği:** Eylül ayı itibarıyla %14 pazar payı ve 105 Milyar TL prim üretimi ile sektör liderliğini açık ara sürdürmektedir.
+*   **Güçlü Nakit Yönetimi:** Yatırım gelirleri %47 artışla 25.9 Milyar TL'ye ulaşmıştır. Şirket, topladığı primleri finansal piyasalarda etkin bir şekilde değerlendirerek teknik kârlılığını finansal gelirlerle desteklemektedir.
 
-2.  **Sağlam Teknik Kârlılık:** Sigortacılık ana faaliyet alanı olan hayat-dışı teknik bölüm dengesi, %41'lik bir artışla 12.5 milyar TL'den 17.7 milyar TL'ye ulaşmıştır. Bu, prim üretimindeki büyümenin kârlı bir şekilde yapıldığını teyit etmektedir.
+## 2. 2025/09 Finansal Sonuçlar Analizi
 
-3.  **Net Kârda Sıçrama:** Şirketin net dönem kârı, geçen yılın aynı dönemine göre %49 artarak 9.7 milyar TL'den 14.4 milyar TL'ye yükselmiştir. Bu güçlü kâr artışı, şirketin hem operasyonel olarak başarılı olduğunu hem de yatırım gelirlerini etkin bir şekilde yönettiğini göstermektedir.
+### Özet Tablo (Milyon TL)
 
-## İlk Yatırım Tezi ve Strateji
+| Kalem | 2024/09 | 2025/09 | Değişim | Yorum |
+| :--- | :--- | :--- | :--- | :--- |
+| **Prim Üretimi** | 72.580 | **105.135** | **+%45** | Enflasyonun üzerinde güçlü büyüme. |
+| **Teknik Denge** | 12.495 | **17.659** | **+%41** | Operasyonel kârlılıkta çok güçlü performans. |
+| **Yatırım Gelirleri** | 17.600 | **25.934** | **+%47** | Portföy yönetim başarısı. |
+| **Net Dönem Kârı** | 9.666 | **14.413** | **+%49** | Beklentileri aşan net kâr büyümesi. |
+| **Özkaynaklar** | 27.665* | **40.613** | **+%47** | *(2024/12 verisi ile karşılaştırma)* |
 
-Türkiye Sigorta, mevcut yüksek enflasyon ve yüksek faiz ortamından pozitif etkilenen bir profil çizmektedir. Artan prim üretimi ve güçlü kârlılık, şirketi portföy için cazip bir aday haline getirmektedir.
+### Öne Çıkan Detaylar
 
-Sanayi şirketlerinin (EREGL, ISDMR) döngüsel baskı altında ezildiği bir dönemde, finans sektöründe yer alan TURSG gibi bir şirkete rotasyon yapmak, [[memory:6128755]] numaralı portföy rotasyon prensibi ile tam uyumludur. Şirket, hem defansif özellikleri hem de mevcut ortamdan faydalanma potansiyeli ile öne çıkmaktadır.
+1.  **Teknik Denge vs. Yatırım Geliri:** Şirket, net kârını büyük ölçüde teknik kârlılıktan elde etmektedir. Teknik Bölüm Dengesi (17.7 Mr TL), Net Kârın (14.4 Mr TL) %122'sine denktir. Bu durum, şirketin "sigortacılık yaparak" para kazandığını kanıtlar.
+2.  **Branş Bazlı Performans:**
+    *   **Yangın ve Doğal Afetler:** Teknik kârın lokomotifi olmaya devam ediyor (7.5 Milyar TL teknik kâr).
+    *   **Kaza Branşı:** 4.1 Milyar TL teknik kâr ile önemli katkı sağlamıştır.
+    *   **Kasko (Kara Araçları):** 5.7 Milyar TL teknik kâr ile %47 büyüme kaydetmiştir.
+3.  **Rasyolar:**
+    *   **Net Bileşik Rasyo:** %98 seviyesinde yatay seyretmiştir. %100'ün altı, teknik kârlılığın sürdüğünü gösterir.
+    *   **Hasar/Prim Oranı:** %73 seviyesine gerilemiştir (İyileşme).
 
-Bu aşamada TURSG için bir "AL" pozisyonu oluşturmak veya mevcut pozisyonu artırmak için güçlü bir temel bulunmaktadır.
+## 3. Riskler ve İzlenecek Hususlar
 
-## Rasyo Analizi (20.10.2025)
+*   **Ömür Boyu Yenileme Garantisi Yönetmeliği:** 1 Ocak 2026'da yürürlüğe girecek olan Sağlık Sigortası yönetmeliği, uzun vadede sağlık branşında (şu an portföyde %12.8 paya sahip) kâr marjlarını baskılayabilir. Şirketin bu düzenlemeye nasıl uyum sağlayacağı izlenmelidir.
+*   **Yatırım Gelirlerinin Sürdürülebilirliği:** Faiz indirim döngüsüne girilmesi durumunda, şirketin finansal gelirlerinde (Yatırım Gelirleri) yaşanabilecek olası bir ivme kaybı, teknik kârlılığın önemini daha da artıracaktır.
 
-*   **F/K (Fiyat/Kazanç): 5.23**
-*   **PD/DD (Piyasa Değeri/Defter Değeri): 2.26**
+## 4. Stratejik Değerlendirme ve Karar
 
-### Değerlendirme
+**KARAR: İZLEME LİSTESİNE AL / ALIM FIRSATI KOLLA**
 
-Kullanıcının sağladığı güncel rasyolar, şirketin güçlü kâr büyümesine rağmen fiyatlamasının hala makul seviyelerde olduğunu teyit etmektedir. 5.23 F/K oranı, %49'luk net kâr artışı göz önüne alındığında, hissenin primli olmadığını, aksine büyüme potansiyeline göre iskontolu kalmış olabileceğini göstermektedir. 2.26 PD/DD oranı ise şirketin özkaynaklarının iki katından biraz fazla bir piyasa değeriyle işlem gördüğünü gösterir ki bu da kârlı ve büyüyen bir finans şirketi için normal karşılanabilir. Bu rasyolar, mevcut "AL" pozisyonu tezini desteklemektedir.
+**Gerekçe:**
+TURSG, 2025/09 bilançosuyla portföye geri dönmek için çok güçlü sinyaller vermiştir. Daha önceki "ANSGR daha operasyonel" tezi, TURSG'nin 17.7 Milyar TL'lik teknik kâr rakamıyla geçerliliğini yitirmiştir. Şirket, hem büyüme (%45 ciro artışı) hem de kârlılık (%49 net kâr artışı) açısından "Çekirdek Varlık" kriterlerini karşılamaktadır.
 
-## Güncel Gelişmeler (Ekim 2025)
-
-*   **20 Ekim 2025:** Resmi Gazete'de yayımlanan yeni Özel Sağlık Sigortası yönetmeliği, sektör için uzun vadeli riskler getirmektedir. 1 Ocak 2026'da yürürlüğe girecek olan düzenleme, sigorta şirketlerine belirli şartları sağlayan müşterilere **"Ömür Boyu Yenileme Garantisi"** verme zorunluluğu getirmektedir. Bu garanti verildikten sonra şirketler, teminatları daraltamayacak veya ek prim talep edemeyecektir.
-
-## Riskler ve Katalizörler
-
-*   **Ana Riskler:**
-    *   **Regülasyon Riski:** Sigortacılık sektörüne yönelik olumsuz bir regülasyon (tavan fiyat, karşılık politikalarında değişiklik vb.) kârlılığı baskılayabilir. Özellikle, 1 Ocak 2026'da yürürlüğe girecek olan ve şirketlere "Ömür Boyu Yenileme Garantisi" sunma zorunluluğu getiren yeni yönetmelik, sağlık sigortası branşının uzun vadeli kârlılığı üzerinde önemli bir baskı oluşturma potansiyeli taşımaktadır.
-    *   **Rekabet:** Sektördeki yoğun rekabet, prim fiyatları ve kâr marjları üzerinde baskı oluşturabilir.
-    *   **Makroekonomik Bozulma:** Beklenenden daha sert bir ekonomik yavaşlama, sigorta talebini ve prim üretimini olumsuz etkileyebilir.
-
-*   **Ana Katalizörler:**
-    *   **Enflasyon ve Faiz Ortamı:** Yüksek enflasyonun devam etmesi, primlerin yeniden fiyatlanarak artmasını sağlarken, yüksek faiz ortamı da şirketin elindeki büyük nakit ve finansal varlıklardan elde ettiği yatırım gelirlerini destekler.
-    *   **Büyüme Potansiyeli:** Türkiye'de sigortalılık oranlarının gelişmiş ülkelere göre düşük olması, sektör için uzun vadeli bir büyüme potansiyeli sunmaktadır.
-
-## Yönetim ve Şeffaflık Değerlendirmesi
-
-*   **Genel Durum:** Yönetim kurulunun genel olarak standart ve temiz bir profesyonel geçmişe sahip olduğu görülmektedir.
-*   **CEO Taha Çakmak:** Geçmişte TCMB Başkan Yardımcılığı görevinden alınmış olması kariyerinde dikkat çeken bir noktadır, ancak bu durumun kişisel bir usulsüzlükten kaynaklandığına dair bir bulgu yoktur.
-*   **Yönetim Kurulu Üyesi Mahmut Kaçar:** Hakkında geçmişte kamuoyuna 'birden fazla maaş aldığı' yönünde iddialar yansımıştır. Kaçar bu iddiaları reddetmiş ve hukuki süreç başlattığını belirtmiştir. Bu durum, bir **itibar riski** olarak değerlendirilebilir ancak şirketin operasyonel performansını doğrudan etkileyen bir faktör olarak görülmemektedir.
-
-## Hüküm
-
-TURSG, 3Ç 2025 sonuçlarıyla portföyde yer almayı hak eden güçlü bir aday olduğunu kanıtlamıştır. Şirketin mevcut makroekonomik konjonktürden faydalanma kabiliyeti, onu döngüsel baskı altındaki sanayi hisselerine karşı cazip bir alternatif haline getirmektedir. Yönetim kuruluna ilişkin küçük çaplı itibar riski not edilmekle birlikte, şirketin güçlü finansalları ve stratejik uygunluğu bu riski gölgede bırakmaktadır. Bu dosya, gelecekteki analizler için bir başlangıç noktası olarak oluşturulmuştur.
+Şu an için "İzleme Listesi"ne alınmalı ve piyasada oluşabilecek bir geri çekilmede veya mevcut portföydeki nakit durumuna göre **tekrar portföye dahil edilmelidir.**

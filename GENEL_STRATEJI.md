@@ -29,6 +29,15 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **Dağıtım Kanalları:** Şirket, ürün veya hizmetlerini müşteriye ulaştırmada ne kadar etkin? Kendi dağıtım ağına sahip olması veya kilit distribütörlerle güçlü ilişkileri olması bir avantajdır.
 *   **Tedarikçi Çeşitliliği:** Şirket, kritik ham maddeler veya hizmetler için tek bir tedarikçiye bağımlı mı? Tedarik zincirindeki çeşitlilik, operasyonel riskleri azaltır.
 
+### 1.3. Makro Görünüm ve Riskler: Avrupa Pazarı Daralması (YENİ)
+
+*   **GÖRÜŞ:** Avrupa ekonomisinde beklenen resesyon ve pazar daralması, portföy için yeni ve kritik bir risk faktörü olarak tanımlanmıştır.
+*   **RİSK GRUBU:** Gelirlerinin önemli bir kısmını Avrupa'ya ihracattan elde eden şirketler (Özellikle Beyaz Eşya, Otomotiv, Demir-Çelik ve Tekstil sektörleri) bu daralmadan en sert etkilenecek gruptur.
+*   **STRATEJİ:**
+    *   **İhracat Payı Analizi:** Portföydeki şirketlerin ihracat pazarları ayrıştırılacak; Avrupa bağımlılığı yüksek olanlarda pozisyon azaltma veya kapatma değerlendirilecektir.
+    *   **Alternatif Odak:** İhracatını ABD veya Orta Doğu gibi büyüyen pazarlara yapan veya cirosunu güçlü iç taleple (gıda perakendeciliği, telekom) destekleyen şirketlere ağırlık verilecektir.
+    *   **Negatif İzleme Listesi:** VESTL (Talep daralması teyitli), EREGL (Kota riski), YUNSA (Lüks tüketim daralması), TTRAK (İhracat düşüşü).
+
 ## 2. Mevcut Piyasa Durumu ve Strateji (7 Kasım 2025)
 
 *   **DURUM:** 3. çeyrek bilanço dönemi sona erdi. Piyasa, genel olarak beklentileri karşılayan şirket sonuçlarını büyük ölçüde fiyatladı ve bir miktar yorgunluk belirtisi göstererek yatay bir seyre geçti.
@@ -160,6 +169,10 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
     3.  **ALTIN.S1 Hassasiyeti:** Piyasa fiyatının üzerinde primli işlem gören "Darphane Altın Sertifikası (ALTIN.S1)" yerine, daha likit ve net aktif değerine yakın işlem gören ETF'leri (GLDTR) tercih etmesi.
 
 ### F) Fon Stratejileri (Hisse Senedi Odaklı)
+
+#### BDY (Ak Portföy BIST 100 Dışı Şirketler Hisse Senedi Fonu)
+*   **HÜKÜM:** ALIM İÇİN İZLE / PORTFÖYE EKLE
+*   **GEREKÇE:** Avrupa pazarına yönelik ihracat ağırlıklı sanayi şirketlerinden kaçınma ve "Hizmet/Teknoloji" sektörüne odaklanma stratejisi doğrultusunda seçilmiştir. GOH gibi rakiplerinin aksine portföyünde Otomotiv veya Çimento gibi sanayi ağırlığı yerine; **MACKO, HTTBT, LOGO, ARDYZ** gibi teknoloji/yazılım ve **LIDER, NTHOL** gibi hizmet sektörü hisselerini barındırması, hedeflenen "sanayi riskinden korunma" temasını en iyi yansıtan özellikleridir.
 
 #### MTH (MT Portföy Birinci Hisse Senedi Fonu)
 *   **HÜKÜM:** İZLE / PORTFÖYE EKLEME

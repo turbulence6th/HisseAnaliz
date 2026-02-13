@@ -1,23 +1,23 @@
-# AKBNK (Akbank T.A.Ş.) Analizi - 23 Ekim 2025
+# AKBNK (Akbank T.A.Ş.) Analizi - 3 Şubat 2026
 
 ## 1. Yatırım Tezi
 
-Akbank, Türkiye'nin en büyük özel bankalarından biri olarak, ülkenin ekonomik döngülerinde merkezi bir rol oynamaktadır. Yatırım tezi, bankanın güçlü marka değeri, yaygın şube ağı, dijital bankacılıktaki liderliği ve sağlam bilanço yapısı üzerine kuruludur. Banka, hem bireysel hem de kurumsal segmentlerdeki güçlü pazar konumu sayesinde istikrarlı bir gelir ve kâr yaratma potansiyeline sahiptir. Bu özellikler, AKBNK'yı herhangi bir portföy için temel bir "Çekirdek Varlık" haline getirmektedir.
+Akbank, Türkiye'nin en büyük özel bankalarından biri olarak, ülkenin ekonomik döngülerinde merkezi bir rol oynamaktadır. Yatırım tezi, bankanın güçlü marka değeri, yaygın şube ağı, dijital bankacılıktaki liderliği ve sağlam bilanço yapısı üzerine kuruludur. Banka, hem bireysel hem de kurumsal segmentlerdeki güçlü pazar konumu sayesinde istikrarlı bir gelir ve kâr yaratma potansiyeline sahiptir. Özellikle faiz dışı gelir yaratma konusundaki başarısı, bankayı faiz dalgalanmalarına karşı daha defansif ve öngörülebilir kılmaktadır. Bu özellikler, AKBNK'yı herhangi bir portföy için temel bir "Çekirdek Varlık" haline getirmektedir.
 
-## 2. Finansal Analiz (2025/09 Konsolide Olmayan Finansal Rapor İncelemesi)
+## 2. Finansal Analiz (2025/12 Konsolide Olmayan Finansal Rapor İncelemesi)
 
-23 Ekim 2025'te açıklanan 9 aylık finansal sonuçlar, bankanın operasyonel gücünü ve stratejik başarısını teyit etmektedir:
+3 Şubat 2026'da açıklanan 2025 yıl sonu finansal sonuçları, bankanın stratejik dönüşümünün başarısını ve operasyonel mükemmelliğini kanıtlamaktadır. 4. çeyrekte gösterilen olağanüstü performans (yaklaşık 18.4 Milyar TL çeyreklik kâr), yılın genelindeki büyümeyi taçlandırmıştır.
 
 ### Pozitif Yönler
 
-*   **Ücret ve Komisyon Gelirlerinde Patlama:** Bankanın en etkileyici performansı, net ücret ve komisyon gelirlerinde yaşanmıştır. Bu kalem, geçen yılın aynı dönemine göre **%69 artarak 81.9 Milyar TL**'ye ulaşmış ve bankanın ana gelir kalemi olan net faiz gelirini (65 Milyar TL) geride bırakmıştır. Bu, Akbank'ın gelirlerini ne kadar başarılı bir şekilde çeşitlendirdiğinin ve faiz dışı gelir yaratma kapasitesinin ne kadar yüksek olduğunun en net göstergesidir.
-*   **İstikrarlı Kâr Büyümesi:** Banka, 2025'in ilk 9 ayında **38.9 Milyar TL net kâr** açıklamıştır. Bu rakam, geçen yılın aynı dönemine göre **%17'lik** bir artışa işaret etmektedir ve bankanın kârlılığını sürdürülebilir bir şekilde artırdığını göstermektedir.
-*   **Sağlıklı Büyüme:** Toplam krediler yıl başına göre %25, mevduatlar ise %23 büyüyerek bankanın pazar payını koruduğunu ve ekonomiyi desteklemeye devam ettiğini göstermektedir.
-*   **Güçlü Sermaye Yapısı:** Bankanın sermaye yeterlilik rasyosu **%20.24** gibi oldukça yüksek bir seviyededir. Bu, yasal limit olan %8'in çok üzerinde olup, bankaya hem potansiyel ekonomik şoklara karşı bir tampon sağlamakta hem de gelecekteki büyüme için önemli bir alan tanımaktadır.
-*   **Kontrol Altında Riskler:** Takipteki kredi oranı %3.7 ile yönetilebilir bir seviyededir.
+*   **Komisyon Gelirlerinde Liderlik:** Bankanın gelir çeşitlendirme stratejisi meyvelerini vermeye devam etmektedir. Net ücret ve komisyon gelirleri, geçen yıla göre **%65 artarak 114.4 Milyar TL** seviyesine ulaşmıştır. Bu kalemin, Net Faiz Geliri (101.2 Milyar TL) üzerindeki ağırlığını koruması, Akbank'ın "sadece faizle yaşayan banka" modelinden çıkarak "hizmet odaklı gelir" modeline geçtiğinin en net kanıtıdır.
+*   **Güçlü Kârlılık:** Banka, 2025 yılını **57.3 Milyar TL net kâr** ile tamamlamıştır. Geçen yılın aynı dönemine göre **%35'lik** bir artış yakalanmıştır. Özellikle son çeyrekte yaratılan kâr, bankanın ivme kazandığını göstermektedir.
+*   **Net Faiz Gelirinde Toparlanma:** Yüksek faiz ortamına rağmen, Net Faiz Gelirleri yıllık bazda **%47 artışla 101.2 Milyar TL**'ye yükselmiştir. Banka, faiz marjlarını etkin bir şekilde yönetmeyi başarmıştır.
+*   **Dengeli Büyüme:** Toplam krediler %36, mevduatlar ise %33 oranında büyümüştür. Kredi/Mevduat dengesi korunurken, banka reel sektörü desteklemeye devam etmiştir.
+*   **Sağlam Sermaye ve Aktif Kalitesi:** Sermaye Yeterlilik Rasyosu **%19.98** ile yasal sınırların çok üzerinde, oldukça güvenli bir seviyededir. Takipteki kredi oranı (NPL) ise **%3.5** seviyelerine gerileyerek aktif kalitesinin iyileştiğini ve risklerin etkin yönetildiğini teyit etmektedir.
 
 ## 3. Strateji ve Karar
 
-*   **HÜKÜM:** TUT / KADEMELİ AL
-*   **GEREKÇE:** Akbank, 2025/09 sonuçlarıyla sadece faiz oranlarına duyarlı bir yapıdan çıkarak, bankacılık hizmetleri ve komisyon gelirleriyle de ne kadar güçlü bir kâr motoru yarattığını kanıtlamıştır. Bu, bankanın gelir kalitesini artıran ve onu daha defansif kılan çok önemli bir stratejik başarıdır. Sağlam bilançosu, güçlü kârlılığı ve istikrarlı büyümesi ile Akbank, portföydeki "Çekirdek Varlık" statüsünü sonuna kadar hak etmektedir.
-*   **EYLEM PLANI:** Mevcut pozisyonlar korunmalıdır. Bankacılık sektörüne yönelik olası genel satışlar veya piyasa dalgalanmaları, maliyet düşürmek ve pozisyonu artırmak için bir **kademeli alım fırsatı** olarak değerlendirilebilir.
+*   **HÜKÜM:** İZLE / YKBNK ALTERNATİFİ
+*   **GEREKÇE:** Akbank, 2025 yıl sonu sonuçlarıyla finansal olarak mükemmel bir performans sergilemiş ve "hizmet odaklı gelir" modelini kanıtlamıştır. Ancak, portföy yönetimi açısından sektörel çeşitlilik esastır. Bankanın temelleri çok sağlam olsa da, yatırım kararı portföyün mevcut yapısına göre şekillendirilmelidir.
+*   **EYLEM PLANI:** Portföyde halihazırda Bankacılık sektörü temsili için **YKBNK** ("Çekirdek Varlık") bulunmaktadır. Sektörel yoğunlaşma riskini artırmamak adına, AKBNK'nın bu güçlü sonuçlarına rağmen **yeni alım yapılmayacaktır.** Bu rapor, YKBNK'nın beklenen bilançosu için pozitif bir öncü gösterge olarak değerlendirilmiştir. YKBNK sonuçları gelene kadar sektör bu hisse üzerinden izlenmeye devam edilecektir.

@@ -75,7 +75,7 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 
 #### TUPRS
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
-*   **GEREKÇE:** Temelleri sağlam BIST ağır toplarındandır. Beklenen alım fırsatı, mevcut piyasa düşüşüyle ortaya çıkmıştır. Strateji, bu düşüşleri maliyet düşürmek ve pozisyonu güçlendirmek için bir **fırsat olarak kullanmak** üzerine kuruludur.
+*   **GEREKÇE:** 2025 yıl sonu finansal sonuçları, şirketin "Nakit Kraldır" tezini kanıtlar niteliktedir. Net kârın 29.5 Milyar TL'ye yükselmesi ve kasanın 107 Milyar TL nakitle dolu olması, hem güçlü temettü beklentisini hem de stratejik yatırımları (Romanya Güneş Enerjisi alımı gibi) desteklemektedir. Cirodaki düşüşe rağmen kârlılığın artması, operasyonel ve finansal yönetimin başarısıdır.
 
 #### KORDS (Kordsa)
 *   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK

@@ -27,7 +27,28 @@ Bu not, Yapı ve Kredi Bankası'nın 2Ç 2025 faaliyet raporu sonuçlarını ana
 
 *   **Faaliyetlerden Gelen Nakit Akışında Azalma:** Bankacılık faaliyetlerinden kaynaklanan net nakit akışı, geçen yılın aynı dönemine göre 45.7 milyar TL'den 19.5 milyar TL'ye gerilemiştir. Ancak bu durum, operasyonel bir zayıflıktan ziyade, bilançodaki **kredi büyümesine (414 milyar TL'lik net artış)** harcanan nakitten kaynaklanmaktadır. Bu, gelecekteki faiz gelirleri için yapılan bir yatırım olduğundan negatif bir gösterge olarak değerlendirilmemektedir.
 
-## 3. Hüküm ve Strateji
+## 3. 2025 Yıl Sonu Finansal Rapor Analizi (5 Şubat 2026)
+
+31 Aralık 2025 tarihli yıl sonu finansal sonuçları, YKBNK'nın "Çekirdek Varlık" tezini perçinleyen ve operasyonel mükemmelliğini kanıtlayan veriler sunmaktadır. Banka, zorlu makroekonomik koşullara rağmen kârlılığını ve pazar payını artırmayı başarmıştır.
+
+### Öne Çıkan Finansal Veriler (Konsolide Olmayan)
+
+*   **Net Kârda Sıçrama:** 2025 yılı net dönem kârı, bir önceki yıla göre **%62 artışla 29 milyar TL'den 47.1 milyar TL'ye** yükselmiştir. Bu artış, bankanın gelir yaratma kapasitesinin ne kadar güçlü olduğunu göstermektedir.
+*   **Çekirdek Gelirlerde Muazzam Büyüme:**
+    *   **Net Faiz Gelirleri:** Yıllık bazda **%90 gibi olağanüstü bir artışla** 75.9 milyar TL'den 144.6 milyar TL'ye ulaşmıştır. Bu, faiz marjı yönetimindeki başarının en net göstergesidir.
+    *   **Net Ücret ve Komisyonlar:** Yıllık bazda **%51 artışla** 73.1 milyar TL'den 110.3 milyar TL'ye yükselmiş, gelir çeşitliliği korunmuştur.
+*   **Bilanço Büyümesi:**
+    *   **Krediler:** Toplam nakdi krediler yıllık **%43 artışla** 1.25 trilyon TL'den 1.78 trilyon TL'ye ulaşmıştır.
+    *   **Mevduat:** Toplam mevduat yıllık **%40 artışla** 1.27 trilyon TL'den 1.78 trilyon TL'ye yükselerek kredi büyümesini fonlamıştır.
+*   **Sermaye ve Likidite:**
+    *   **Sermaye Yeterliliği:** Sermaye Yeterlilik Rasyosu (SYR) **%18,09** seviyesinde gerçekleşerek yasal sınırların ve sektör ortalamalarının oldukça üzerinde, çok güçlü bir sermaye tamponuna işaret etmektedir.
+    *   **Likidite:** Son üç aylık ortalama Likidite Karşılama Oranı **%123** seviyesindedir.
+
+### Değerlendirme
+
+Banka, enflasyon muhasebesinin uygulanmadığı 2025 yılında nominal olarak çok güçlü sonuçlar açıklamıştır. Net faiz gelirlerindeki %90'lık artış, ana bankacılık faaliyetlerindeki kârlılığın sürdürülebilirliğini kanıtlar niteliktedir. Takipteki krediler (NPL) tutarındaki nominal artış (45 milyar TL -> 76 milyar TL) dikkat çekici olsa da, ayrılan güçlü karşılıklar (71.5 milyar TL) bu riski minimize etmektedir.
+
+## 4. Hüküm ve Strateji
 
 *   **HÜKÜM:** AL / POZİSYON ARTIR
 *   **GEREKÇE:** Son finansal sonuçlar, mevcut "AL" stratejisini ve YKBNK'nın portföydeki "Çekirdek Varlık" konumunu **olağanüstü bir şekilde doğrulamaktadır.** Banka, hem kârlılık hem de büyüme tarafında muazzam bir performans sergilemektedir. Özellikle güçlü likidite ve sermaye oranları, bankayı sektördeki diğer oyunculardan pozitif ayrıştırmaktadır. Piyasadaki genel satışlar, bu güçlü temellere sahip hisseyi iskontolu bir fiyattan almak için bir fırsat sunmaya devam etmektedir. Mevcut alım planı geçerliliğini korumaktadır.

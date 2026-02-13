@@ -1,35 +1,28 @@
-# AYGAZ (AYGAZ) - Temel Analiz ve Strateji (31 Ekim 2025)
+# AYGAZ (AYGAZ) - Temel Analiz ve Strateji (9 Şubat 2026)
 
 ## 1. Yatırım Tezi
 
-Aygaz, hem istikrarlı ve kârlı ana iş kolu olan LPG dağıtımı, hem de önemli bir değer potansiyeli taşıyan iştirak portföyü ile dengeli bir yatırım profili sunmaktadır. Şirket, ana işinden elde ettiği güçlü nakit akışını, Türkiye'nin en büyük sanayi şirketlerinden biri olan Tüpraş'taki stratejik payı ve lojistik sektöründe büyüyen "Kolay Gelsin" iştiraki ile birleştirmektedir. Bu yapı, Aygaz'ı hem defansif hem de büyüme potansiyeli olan bir **"Çekirdek Varlık"** olarak konumlandırmaktadır.
+Aygaz, Türkiye LPG pazarındaki liderliğini korurken, güçlü nakit yaratma kapasitesi, Tüpraş (EYAŞ) kaynaklı iştirak gelirleri ve çeşitlendirilmiş iş kollarıyla (Doğalgaz, Kargo, Deniz Taşımacılığı) defansif ve büyüme odaklı özellikler taşıyan bir **"Çekirdek Varlık"**tır. Şirketin net nakit pozisyonunda olması ve düzenli temettü ödeme kültürü, özellikle belirsiz piyasa koşullarında onu portföyün en güvenilir limanlarından biri yapmaktadır.
 
-## 2. Finansal Analiz (2025/09 Raporu)
+## 2. Finansal Analiz (2025/12 Raporu)
 
-31 Ekim 2025'te açıklanan 9 aylık finansal sonuçlar, yatırım tezini destekleyen ve bazı önemli dinamikleri ortaya koyan bir tablo çizmektedir:
+9 Şubat 2026'da açıklanan 2025 Yıl Sonu (Enflasyon Muhasebeli) finansal sonuçları, şirketin operasyonel gücünü ve bilanço sağlamlığını net bir şekilde ortaya koymuştur:
 
 ### Pozitif Gelişmeler
 
-*   **Artan Kârlılık ve Marjlar:** Geçen yılın aynı dönemine göre ciroda yaşanan düşüşe rağmen, **brüt kâr, esas faaliyet kârı ve net dönem kârında önemli artışlar** kaydedilmiştir. Bu durum, şirketin maliyetlerini etkin bir şekilde yönettiğini ve kârlılık marjlarını iyileştirdiğini göstermektedir.
-    *   **Brüt Kâr:** 6.8 Milyar TL (2024/09: 6.6 Milyar TL)
-    *   **Esas Faaliyet Kârı:** 1.5 Milyar TL (2024/09: 590 Milyon TL)
-    *   **Net Dönem Kârı:** 2.7 Milyar TL (2024/09: 1.2 Milyar TL)
-    *   **Kâr Marjları:** Brüt Kâr Marjı %10.5 (önceki %8.5), Faaliyet Kâr Marjı %2.4 (önceki %0.8), Net Kâr Marjı %4.2 (önceki %2.3) olarak gerçekleşmiştir.
-*   **Güçlü Nakit Pozisyonu:** Şirketin nakit ve nakit benzerleri 6 Milyar TL'ye yükselerek finansal esnekliğini artırmıştır. Net Finansal Borç/Özkaynak oranı %-4.7 ile net nakit pozisyonunu korumaktadır.
-*   **Stratejik İştirakler ve Operasyonel Genişleme:**
-    *   **Tüpraş (EYAŞ üzerinden %20):** Özkaynak yöntemiyle değerlenen yatırımların 46.7 Milyar TL'lik büyük kısmı, Türkiye'nin en değerli şirketlerinden biri olan Tüpraş'taki dolaylı ortaklıktan gelmektedir. Bu, Aygaz'a istikrarlı bir temettü geliri ve değer artışı potansiyeli sunmaktadır.
-    *   **Kolay Gelsin (Sendeo):** Sendeo'nun Ekol Kargo ile birleşerek "Kolay Gelsin" markası altında faaliyetlerine devam ettiği belirtilmektedir. Aygaz'ın bu yeni ve büyüyen yapıdaki %27.5'lik payı, gelecekte önemli bir "uydu" büyüme hikayesi potansiyeli taşımaktadır.
-    *   **United Aygaz LPG Ltd. (Bangladeş):** Bangladeş pazarında LPG satışlarına başlayan bu iştirak, 240 bayi ve 13.000 satış noktasına ulaşmıştır. Uluslararası büyüme stratejisinin önemli bir parçasıdır.
-*   **Yüksek Temettü Verimi:** 27 Mart 2025'teki Genel Kurul'da toplam 2.75 Milyar TL temettü dağıtımı onaylanmıştır.
-*   **Altyapı ve Ar-Ge Yatırımları:** 1.098 Milyon TL'lik yatırım programı ve 73 Milyon TL'lik Ar-Ge harcamaları, şirketin gelecekteki büyüme ve verimlilik hedeflerini desteklemektedir.
+*   **Net Kârda Sıçrama:** Şirket, geçen yılın aynı dönemine göre net dönem kârını %80 artırarak **2.8 Milyar TL'den 5.0 Milyar TL'ye** yükseltmiştir. Hisse başına kazanç 12,64 TL'den **22,73 TL'ye** çıkmıştır.
+*   **Operasyonel Kârlılık Artışı:** Cirodaki düşüşe rağmen, brüt kâr %4 artışla 9.35 Milyar TL'ye, Esas Faaliyet Kârı ise **%84 artışla 1.15 Milyar TL'den 2.11 Milyar TL'ye** yükselmiştir. Bu durum, marj yönetiminin ve operasyonel verimliliğin başarısını göstermektedir.
+*   **Muazzam Net Nakit Pozisyonu:** Şirketin net nakit pozisyonu, geçen yıla göre iki kattan fazla artarak **2.4 Milyar TL'den 5.4 Milyar TL'ye** ulaşmıştır. Kasa, 8.5 Milyar TL nakit ve benzeri varlıkla doludur. Bu durum, "Nakit Kraldır" stratejimizle birebir örtüşmektedir.
+*   **Geleceğe Yatırım (Yeni Gemi):** Bilanço sonrası önemli bir gelişme olarak, Ocak 2026'da 119 Milyon USD bedelle yeni bir LPG gemisi (VLGC) siparişi verilmiştir. Bu, deniz taşımacılığı iş kolundaki büyüme vizyonunu teyit etmektedir.
+*   **İştirak Katkısı:** Tüpraş (EYAŞ) kaynaklı kâr payı 2.5 Milyar TL olarak gerçekleşmiş ve kârlılığı desteklemeye devam etmiştir.
 
 ### İzlenmesi Gerekenler
 
-*   **Cirodaki Düşüş:** Hasılatın geçen yıla göre 77 Milyar TL'den 65 Milyar TL'ye gerilemesi, LPG fiyatlarındaki veya satış hacmindeki değişimlerden kaynaklanıyor olabilir. Türkiye toplam LPG satışları da %5.8 azalış göstermiştir. Bu trendin önümüzdeki çeyreklerdeki seyri takip edilmelidir.
-*   **Borç Yapısı:** Kısa vadeli borçlanmalar 1.6 Milyar TL'den 2.1 Milyar TL'ye yükselirken, uzun vadeli borçların azalması pozitif bir gelişmedir. Borçluluk seviyesi genel olarak yönetilebilir düzeydedir.
+*   **Cirodaki Daralma:** Hasılat, enflasyon düzeltmesi etkisiyle reel olarak %16 düşüşle 107 Milyar TL'den 89.6 Milyar TL'ye gerilemiştir. Bu düşüşün hacimsel mi yoksa fiyat kaynaklı mı olduğu ve trendin devam edip etmeyeceği takip edilmelidir.
+*   **Kolay Gelsin (Sendeo) Zararı:** İştiraklerden Kolay Gelsin'in zararı devam etmekte olup, şirket özkaynakları negatife dönmüştür. Grup desteği sürmekle birlikte, bu iş kolunun kârlılığa geçiş süreci yakından izlenmelidir.
 
 ## 3. Strateji
 
-*   **HÜKÜM:** AL / ÇEKİRDEK VARLIK
-*   **GEREKÇE:** Aygaz, artan kârlılığı, güçlü nakit pozisyonu ve hem olgun hem de büyüme potansiyeli taşıyan iştirak portföyü ile `GENEL_STRATEJI.md` belgesinde tanımlanan **"Çekirdek Varlık"** kriterlerini fazlasıyla karşılamaktadır. Şirket, Türkiye LPG pazarında %41-43 tüplügaz ve %22-23 otogaz pazar payı beklentileriyle lider konumunu sürdürmektedir. Piyasanın, şirketin artan operasyonel verimliliğini ve iştiraklerinin (özellikle Kolay Gelsin ve United Aygaz) uzun vadeli potansiyelini henüz tam olarak fiyatlamadığı değerlendirilmektedir.
-*   **EYLEM PLANI:** Mevcut piyasa koşullarında, Aygaz portföye eklemek için cazip bir aday olarak değerlendirilmektedir. Olası geri çekilmeler, uzun vadeli bir pozisyon oluşturmak için **alım fırsatı** olarak kullanılabilir.
+*   **HÜKÜM:** GÜÇLÜ AL / ÇEKİRDEK VARLIK
+*   **GEREKÇE:** Aygaz, 2025 yıl sonu sonuçlarıyla portföyün en sağlam "Çekirdek Varlıkları"ndan biri olduğunu kanıtlamıştır. 5.4 Milyar TL'lik net nakit pozisyonu, şirketi yüksek faiz ortamında dahi korunaklı kılmaktadır. Net kârdaki %80'lik reel artış ve operasyonel kârlılıktaki iyileşme, değerleme açısından hisseyi oldukça cazip kılmaktadır. Yeni gemi yatırımı, şirketin sadece bir temettü şirketi olmadığını, aynı zamanda büyümeye odaklandığını göstermektedir.
+*   **EYLEM PLANI:** Mevcut pozisyonlar korunmalı ve olası piyasa geri çekilmelerinde portföy ağırlığı artırılmalıdır. Şirketin güçlü nakit akışı, yüksek temettü verimi beklentisini de desteklemektedir.

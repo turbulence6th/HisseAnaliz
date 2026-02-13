@@ -1,3 +1,24 @@
+# TUPRS – 2025 Yıllık (4Ç) Finansal Rapor Analizi ve Strateji
+
+Bu not, Tüpraş'ın 6 Şubat 2026'da açıklanan 2025 yıl sonu (4Ç) finansal sonuçlarını analiz etmekte ve "POZİSYON GÜÇLENDİR / AL" stratejisini teyit etmektedir.
+
+## 2025 Yıllık Rapor Analizi: Güçlü Nakit, Stratejik Dönüşüm ve Artan Net Kâr
+Şirket, cirodaki düşüşe rağmen net kârını artırmayı başarmış ve bilançosunu devasa bir nakit pozisyonuyla güçlendirmiştir. Enflasyon muhasebesi (TMS 29) uygulanmış sonuçlar, şirketin reel büyüme ve değer yaratma kapasitesini koruduğunu göstermektedir.
+
+### Öne Çıkanlar
+1.  **NET KÂR BÜYÜMESİ:** 2024 yılında 23.9 Milyar TL olan net dönem kârı, 2025 yılında **29.5 Milyar TL'ye** yükselmiştir (%23 artış). Hasılat düşüşüne rağmen net kârın artması, finansman gelirlerinin ve vergi yönetiminin katkısını göstermektedir.
+2.  **GÜÇLÜ NAKİT POZİSYONU:** Nakit ve nakit benzerleri yıl sonunda **107.2 Milyar TL** seviyesine ulaşmıştır (2024: 96.2 Milyar TL). Net nakit pozisyonu, temettü verimliliği ve yeni yatırımlar için büyük bir güvence oluşturmaktadır.
+3.  **STRATEJİK YATIRIMLAR (Sıfır Karbon):** Romanya'daki güneş enerjisi şirketleri (Eco Sun ve Euromec) satın alınarak "Stratejik Dönüşüm Planı" kapsamında somut adımlar atılmıştır. Bu satın alma, şirketin sadece bir rafineri değil, bir enerji şirketine dönüşümünü hızlandırmaktadır.
+4.  **HASILAT DARALMASI:** Hasılat, petrol fiyatlarındaki değişimler ve kur etkisiyle 1.06 Trilyon TL'den **830.3 Milyar TL'ye** gerilemiştir. Ancak brüt kâr marjı korunmaya çalışılmıştır.
+5.  **FAALİYET NAKİT AKIŞI:** İşletme faaliyetlerinden sağlanan nakit akışı **49.5 Milyar TL** olarak gerçekleşmiş, güçlü nakit yaratma kabiliyeti devam etmiştir.
+
+### Değerlendirme ve Strateji
+Sonuçlar, TUPRS'un nakit zengini, temettü şampiyonu adayı ve dönüşüm hikayesi olan bir "Çekirdek Varlık" olduğunu bir kez daha kanıtlamıştır. Cirodaki düşüş konjonktüreldir, ancak kârlılık ve nakit akışı yapısal gücü yansıtmaktadır. Strateji **"GÜÇLÜ AL"** olarak devam etmektedir.
+
+---
+*Aşağıdaki notlar, geçmiş analizleri ve stratejik evrimi göstermek amacıyla arşivlenmiştir.*
+---
+
 # TUPRS – 3Ç 2025 Finansal ve Faaliyet Raporu Analizi ve Strateji
 
 Bu not, Tüpraş'ın 31 Ekim 2025'te açıklanan 3. çeyrek (3Ç) 2025 sonuçlarını, finansal tablolar ve faaliyet raporuyla bir bütün olarak analiz etmekte ve bu veriler ışığında mevcut "POZİSYON GÜÇLENDİR / AL" stratejisini teyit etmektedir.

@@ -167,6 +167,64 @@ python kap_rapor_indir.py fon-liste "Hisse Senedi"
 
 Betik, ilgili fonları ve getiri bilgilerini standart çıktıya yazdıracaktır.
 
+### `extract_pdf_text.py` Nasıl Kullanılır:
+
+Bir PDF dosyasının içeriğini metin olarak çıkarmak için kullanılır. Özellikle KAP'tan indirilen finansal raporların analizinde, metin verisini işlemek için gereklidir. `pdfminer` ve `pypdf` kütüphanelerini kullanarak okuma yapar.
+
+```bash
+python extract_pdf_text.py <PDF_DOSYA_YOLU>
+```
+
+**Örnek:**
+
+```bash
+python extract_pdf_text.py finansal-raporlar/202512/AGESA_Finansal_Rapor_13-02-2026.pdf
+```
+
+Betik, çıkarılan metni standart çıktıya sayfa sayfa yazdıracaktır.
+
+### `fix_pdf.py` Nasıl Kullanılır:
+
+Bozuk veya hatalı başlığa sahip (örneğin Java serileştirme başlığı içeren) bir PDF dosyasını onarmak için kullanılır. Dosya içindeki `%PDF-` imzasını bularak öncesindeki hatalı veriyi temizler ve düzeltilmiş dosyayı kaydeder.
+
+```bash
+python fix_pdf.py <GİRDİ_PDF_YOLU> <ÇIKTI_PDF_YOLU>
+```
+
+**Örnek:**
+
+```bash
+python fix_pdf.py hatali_rapor.pdf duzeltilmis_rapor.pdf
+```
+
+Betik, işlem sonucunu standart çıktıya bildirir.
+
+### `kmh_efektif_faiz_hesapla.py` Nasıl Kullanılır:
+
+Kredili Mevduat Hesabı (KMH) veya benzeri günlük faiz işletilen hesaplar için efektif aylık ve yıllık faiz oranını hesaplamak amacıyla kullanılır. Vergi ve fon kesintilerini (KKDF, BSMV) dikkate alır.
+
+```bash
+python kmh_efektif_faiz_hesapla.py --faiz-orani <YÜZDE> [--vergi-orani <YÜZDE>]
+```
+
+**Örnek:**
+
+```bash
+python kmh_efektif_faiz_hesapla.py --faiz-orani 5.00
+```
+
+Betik, hesaplanan efektif faiz oranlarını standart çıktıya yazdıracaktır.
+
+### `kap_rapor_takip.py` Nasıl Kullanılır:
+
+Belirtilen şirketlerin KAP'a düşen yeni bildirimlerini (özellikle finansal raporlarını) takip etmek için kullanılır. `kap_takip.log` dosyasına son kontrol zamanını ve işlem durumunu kaydeder. Genellikle bir zamanlanmış görev (cron job) olarak çalıştırılmak üzere tasarlanmıştır ancak manuel de tetiklenebilir.
+
+```bash
+python kap_rapor_takip.py
+```
+
+Betik, takip listesindeki hisseler için yeni bir rapor varsa indirir ve `hisse-analiz/` dizinindeki ilgili dosyaları günceller (veya güncelleme için hazırlık yapar).
+
 # Gemini'ye Eklenen Hafıza Kuralları
 
 *   Finansal rapor analizi istendiğinde, raporu `GENEL_STRATEJI.md` belgesine göre değerlendir ve ardından ilgili hissenin `hisse-analiz` klasöründeki `.md` dosyasını güncelle.

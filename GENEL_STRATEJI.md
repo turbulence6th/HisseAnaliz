@@ -74,8 +74,8 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **GEREKÇE:** Spekülatif "yeniden yapılanma" tezi, 2025/09 sonuçlarıyla **güçlenerek teyit edilmiştir.** Holdingin en zayıf halkası olan Malzeme Teknolojileri segmentinde kârlılıktaki sert düşüş durmuş, segmentin ve bankacılığın desteğiyle holding konsolide olarak yeniden net kâra geçmiştir.
 
 #### TUPRS
-*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
-*   **GEREKÇE:** Temelleri sağlam BIST ağır toplarındandır. Beklenen alım fırsatı, mevcut piyasa düşüşüyle ortaya çıkmıştır. Strateji, bu düşüşleri maliyet düşürmek ve pozisyonu güçlendirmek için bir **fırsat olarak kullanmak** üzerine kuruludur.
+*   **HÜKÜM:** GÜÇLÜ AL / TEMETTÜ PORTFÖYÜ
+*   **GEREKÇE (17.02.2026):** 2025 yılı sonuçları, 7,0 $/varil ile beklentileri aşan rafineri marjı ve toplamda hisse başı ~17,13 TL'lik temettü teklifi ile "Çekirdek Varlık" tezini perçinlemiştir. Nakit yaratma gücü ve stratejik dönüşüm yatırımları, hisseyi portföyün en güvenli limanlarından biri yapmaktadır.
 
 #### KORDS (Kordsa)
 *   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK

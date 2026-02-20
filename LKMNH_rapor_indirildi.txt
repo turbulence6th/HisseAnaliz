@@ -1,0 +1,6 @@
+LKMNH (Lokman Hekim Engürüsağ) için 2025 4. Çeyrek raporları başarıyla indirildi.
+
+*   **Finansal Rapor:** `finansal-raporlar/202512/LKMNH_Finansal_Rapor_16-02-2026.pdf`
+*   **Faaliyet Raporu:** `faaliyet-raporlari/202512/LKMNH_Faaliyet_Raporu_16-02-2026.pdf`
+
+Analiz dosyası (`hisse-analiz/LKMNH.md`) henüz mevcut değil. Oluşturmak isterseniz belirtebilirsiniz.

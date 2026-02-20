@@ -1,5 +1,54 @@
 # ORGE Enerji Elektrik Taahhüt A.Ş. - Analiz ve Strateji
 
+## 2025 Yıl Sonu (12A) Faaliyet Raporu ve Finansal Analiz
+
+Bu analiz, ORGE'nin 1 Ocak – 31 Aralık 2025 dönemine ait Konsolide Faaliyet Raporu ve Finansal Tabloları ışığında güncellenmiştir.
+
+### Özet: "Geçmiş Zayıf, Gelecek Dolu"
+2025 yılı sonuçları, finansal tablolar (P&L) ile bilanço/beklentiler arasında keskin bir zıtlık barındırmaktadır. Enflasyon muhasebesi (TMS 29) etkisiyle şirket, 2024'e göre reel olarak küçülmüş görünse de; **tarihinin en yüksek iş yüküne (backlog)** ulaşmış ve 2026'ya çok hızlı bir giriş yapmıştır.
+
+#### 1. Finansal Görünüm (Geriye Dönük Zayıflık)
+*   **Reel Daralma:** Hasılat reel olarak **%22**, Net Kâr **%34** düşmüştür. 2025, operasyonel olarak "duraklama" yılı olmuştur.
+*   **Marj Baskısı:** Brüt Kâr Marjı %58'den %53'e gerilemiştir. Maliyet artışları kârlılığı törpülemiştir.
+
+#### 2. Faaliyet Raporundan Öne Çıkanlar (Geleceğe Dönük Güç)
+Raporun derinlemesine incelenmesi, finansal tablolardaki negatifliğin aksine, şirketin operasyonel kaslarının güçlendiğini ortaya koymaktadır:
+
+*   **Rekor İş Yükü (Backlog):** Bilançodaki "Devam Eden İnşaat Sözleşme Varlıkları" kalemi **3.84 Milyar TL'den 4.63 Milyar TL'ye** (+%20) yükselmiştir. Bu kalem, önümüzdeki dönemlerde ciroya dönüşecek kesinleşmiş işleri gösterir ve 2026 cirosu için çok güçlü bir öncü göstergedir.
+*   **2026'ya Hızlı Giriş (Yeni Sözleşmeler):** Raporlama dönemi bittikten sonra (Ocak-Şubat 2026) açıklanan yeni işler, büyümenin tekrar başladığını teyit etmektedir:
+    *   **Altunizade Metro Projesi:** 8.3 Milyon Euro + KDV
+    *   **THY İstanbul Havalimanı Hangarı:** 230 Milyon TL + KDV
+    *   **DenizKoru Sarıyer:** 230 Milyon TL + KDV
+*   **Stratejik Dönüşüm:** Şirket sadece bir "elektrik taahhüt" firması olmaktan çıkıp, "Teknoloji ve Yeşil Dönüşüm" şirketine evrilmektedir.
+    *   **E-Mobilite:** Kendi markasıyla ürettiği AC tipi "Round" model elektrikli araç şarj cihazları piyasaya sürülmüştür.
+    *   **Yazılım:** Lixhium girişimi ile "Super-App" geliştirme çalışmaları devam etmektedir.
+*   **Kurumsal Yönetim:** Şirkette **imtiyazlı pay yoktur**. Halka açıklık oranı ~%52 seviyesindedir (Kabul edilebilir sınır).
+
+#### 3. Bilanço Sağlığı
+*   **Net Nakit:** Şirket net nakit pozisyonundadır (267 Milyon TL Nakit vs 63 Milyon TL Finansal Borç). Yüksek faiz ortamında borçsuzluk büyük avantajdır.
+
+#### 4. Değerleme Çarpanları (Güncel)
+*   **Fiyat:** 69.55 TL (19 Şubat 2026 itibarıyla)
+*   **Piyasa Değeri:** 5.56 Milyar TL
+*   **F/K (Fiyat/Kazanç):** 9.38x
+*   **PD/DD (Piyasa Değeri/Defter Değeri):** 1.40x
+*   **Yorum:** 9.38x F/K ve özellikle **1.40x PD/DD** oranları, şirketin temel verilerine göre oldukça **iskontolu** işlem gördüğünü kanıtlamaktadır. Şirket neredeyse defter değerine yakın fiyatlanmaktadır ki bu, böylesine yüksek backlog'a sahip bir şirket için nadir görülen bir "değer" fırsatıdır.
+
+#### 5. Yönetim Kalitesi ve Vizyon Analizi (Niteliksel)
+*   **Liderlik:** CEO Nevhan Gündüz (Kurucu Ortak), sektörde 25 yılı aşkın deneyime sahiptir. Yapılan araştırmalarda (Google/Haber Taraması), şahsı veya şirket yönetimi hakkında herhangi bir **manipülasyon, SPK cezası veya yolsuzluk haberine rastlanmamıştır.** Temiz bir sicile sahiptir.
+*   **Şeffaflık:** Yönetim, 2025'teki duraklamayı ve 2026 beklentilerini (Kur artışı beklentisi, yeni işler) yatırımcıyla açık bir dille paylaşmaktadır. Hedeflerin (örneğin %50 büyüme) somut verilere dayandırılması güven vermektedir.
+*   **Vizyoner Adımlar (Lixhium & E-Mobilite):** Şirket yönetimi, sadece bir "inşaat taahhüt" firması olarak kalmayıp, katma değeri yüksek teknoloji alanlarına yönelmektedir:
+    *   **Lixhium Yatırımı:** Elektrikli araç ekosistemi için geliştirilen "Super-App" girişimine yapılan %15'lik stratejik yatırım, şirketin vizyonunun "kablo çekmenin" ötesinde olduğunu kanıtlamaktadır.
+    *   **Round Şarj Cihazları:** Kendi markasıyla ürettiği şarj cihazları, şirketin Ar-Ge yeteneğini ve üretim vizyonunu göstermektedir.
+*   **Sonuç:** Yönetim kalitesi, yatırımcı dostu (imtiyazsız paylar) ve inovatif (Ar-Ge odaklı) yapısıyla "Çekirdek Portföy" kriterlerini fazlasıyla karşılamaktadır.
+
+### Hüküm ve Strateji
+
+ORGE, 2025 finansallarına bakarak "satılacak", ancak faaliyet raporuna, backlog'una ve **güvenilir yönetimine** bakarak "alınacak" bir hissedir. `GENEL_STRATEJI.md` prensipleri gereği, **gelecek beklentisi, bilanço sağlığı ve yönetim kalitesi**, geçmiş P&L performansından daha önceliklidir. 4.6 Milyar TL'lik backlog ve 2026 başındaki güçlü ihale kazanımları, 2025'teki duraklamanın geçici olduğunu işaret etmektedir.
+
+*   **Mevcut Yatırımcı İçin Strateji:** `TUT / EKLE`. Düşen kâr rakamları nedeniyle hisse fiyatında oluşabilecek baskı, **alım fırsatı** olarak değerlendirilmelidir. Şirketin "büyüme hikayesi" bitmemiş, sadece bir yıl mola vermiştir.
+*   **Yeni Yatırımcı İçin Strateji:** `KADEMELİ AL`. Bilanço çok sağlam (Net Nakit), iş yükü rekor seviyede, yönetim temiz. Fiyatın 2025 finansallarını negatif fiyatladığı noktalar, 2026 hikayesine ortak olmak için güvenli giriş seviyeleridir.
+
 ## 3Ç 2025 Faaliyet Raporu Değerlendirmesi
 
 Bu analiz, ORGE'nin 1 Ocak – 30 Eylül 2025 dönemine ait finansal raporu üzerine yapılmıştır.
@@ -24,26 +73,3 @@ ORGE, finansal olarak çok sağlam bir şirket olmaya devam etse de, 3Ç 2025 so
 *   **Mevcut Yatırımcı İçin Strateji:** `İZLE`. Pozisyonu olan yatırımcıların, şirketin bir sonraki çeyrek performansını görmeden pozisyon artırmaması ve `GENEL_STRATEJI.md`'de belirtilen ENKAI gibi daha güçlü bir teze sahip rotasyon adaylarını değerlendirmesi önerilir.
 *   **Yeni Yatırımcı İçin Strateji:** `YENİ ALIM ÖNERİLMEZ`. Şirketin tekrar reel büyüme patikasına girdiğini gösteren net finansal kanıtlar görülene kadar yeni pozisyon açmak için acele edilmemelidir. Mevcut "Kademeli Alım" stratejisi, bu raporla birlikte geçerliliğini yitirmiştir.
 
-## 2Ç 2025 Faaliyet Raporu Değerlendirmesi
-
-Bu analiz, ORGE'nin 1 Ocak – 30 Haziran 2025 dönemine ait finansal raporları ve şirketin genel durumu üzerine yapılmıştır. Analiz, şirketin mevcut finansal sağlığını, büyüme potansiyelini ve potansiyel risklerini değerlendirmeyi amaçlamaktadır.
-
-### Pozitifler
-
-1.  **Güçlü Finansal Performans:** Şirket, gelirlerini ve net kârını istikrarlı bir şekilde artırmaktadır. Özellikle son çeyrekte açıklanan kâr rakamı, beklentilerin üzerinde gelerek güçlü bir operasyonel verimliliğe işaret etmiştir.
-2.  **Sağlam Bilanço:** ORGE, sektördeki benzerlerinin aksine çok düşük bir borçluluk oranına sahiptir. Net nakit pozisyonu güçlüdür ve likidite oranları oldukça sağlıklıdır. Bu durum, şirkete finansal esneklik ve krizlere karşı dayanıklılık kazandırmaktadır.
-3.  **Yüksek Sipariş Stoku:** Şirketin "Bakiye Siparişleri", gelecekteki birkaç çeyrek için gelir görünürlüğü sağlamakta ve büyümenin devam edeceğine dair güçlü bir sinyal vermektedir.
-4.  **Temiz Yönetim ve Kurumsal İtibar:** Şirket yönetimi hakkında kamuoyuna yansıyan herhangi bir olumsuz haber veya şaibe bulunmamaktadır. Şirket, sektöründe itibarlı ve güvenilir bir oyuncu olarak bilinmektedir.
-
-### Negatifler / Riskler
-
-1.  **Sektörel Bağımlılık:** Şirketin gelirleri büyük ölçüde inşaat ve altyapı projelerine dayanmaktadır. Türkiye ekonomisindeki veya inşaat sektöründeki olası bir yavaşlama, şirketin yeni proje alımını ve gelirlerini olumsuz etkileyebilir.
-2.  **Müşteri Yoğunlaşması:** Gelirlerin önemli bir kısmının az sayıda büyük projeden elde edilmesi, bir veya birkaç projenin gecikmesi veya iptal olması durumunda finansallar üzerinde baskı yaratabilir.
-3.  **Rekabet Baskısı:** Taahhüt sektörü, yoğun rekabetin olduğu bir alandır. Bu durum, gelecekte kâr marjları üzerinde baskı oluşturma potansiyeline sahiptir.
-
-### Hüküm ve Strateji
-
-ORGE, finansal olarak çok sağlam, iyi yönetilen ve büyüme potansiyeli olan bir şirkettir. Özellikle seçim öncesi dönemde kamu ve özel sektör inşaat projelerinin hızlanacağına dair beklenti, şirket için en önemli potansiyel katalisttir.
-
-*   **Mevcut Yatırımcı İçin Strateji:** `TUT`. Şirketin temel dinamikleri ve ileriye dönük beklentiler pozisyonun korunmasını desteklemektedir.
-*   **Yeni Yatırımcı İçin Strateji:** `KADEMELİ ALIM`. Özellikle inşaat sektörüne yönelik olumlu beklentisi olan bir yatırımcı için, mevcut seviyelerden kademeli olarak pozisyon açmak mantıklı bir strateji olabilir. Şirketin finansal kalitesi, potansiyel sektörel risklere karşı bir güvence sunmaktadır.

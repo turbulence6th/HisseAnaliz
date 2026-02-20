@@ -107,6 +107,10 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **HÜKÜM:** ALINDI (625 Lot) / SPEKÜLATİF
 *   **GEREKÇE:** Şirketin temel verileri (negatif nakit akışı, operasyonel zarar, imtiyazlı paylar) strateji kriterlerini karşılamasa da; **GİB (Gelir İdaresi Başkanlığı) ihalesinin kazanılması beklentisi** nedeniyle kısa vadeli/spekülatif bir pozisyon açılmıştır. Hedef, ihalenin katalizör etkisiyle oluşabilecek x2 getiri potansiyelidir. İhale süreci yakından takip edilecektir.
 
+#### ARDYZ (ARD Grup Bilişim)
+*   **HÜKÜM:** POTANSİYEL AL / YAKIN TAKİP (İntron Birleşmesi Hikayesi)
+*   **GEREKÇE:** 30.12.2025'te tamamlanan İntron Bilişim birleşmesi, şirketin ciro ve kâr hacmini efektif olarak ikiye katlamıştır. Resmi bilançoda (541 Milyon TL Net Kâr) bu etki tam görülmese de, Yönetim'in sunduğu **"Proforma" (Birleşmiş) tablolar 7.56 Milyar TL Ciro ve 1.19 Milyar TL Net Kâr** işaret etmektedir. Bu "gizli değer", hissenin çarpanlarını (Proforma F/K: ~12.3x) teknoloji sektörü için çok cazip hale getirmektedir. Avrupa sanayi riskinden kaçınmak için "Teknoloji" sektörüne geçiş stratejisine (BDY Fonu mantığı) tam uymaktadır. Ancak yüksek ticari alacaklar (2.88 Milyar TL) nedeniyle nakit akışı yakından izlenmelidir.
+
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
 #### BRISA/KORDSA -> AGESA Rotasyonu (Şarta Bağlı)
@@ -177,6 +181,14 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 #### BDY (Ak Portföy BIST 100 Dışı Şirketler Hisse Senedi Fonu)
 *   **HÜKÜM:** ALIM İÇİN İZLE / PORTFÖYE EKLE
 *   **GEREKÇE:** Avrupa pazarına yönelik ihracat ağırlıklı sanayi şirketlerinden kaçınma ve "Hizmet/Teknoloji" sektörüne odaklanma stratejisi doğrultusunda seçilmiştir. GOH gibi rakiplerinin aksine portföyünde Otomotiv veya Çimento gibi sanayi ağırlığı yerine; **MACKO, HTTBT, LOGO, ARDYZ** gibi teknoloji/yazılım ve **LIDER, NTHOL** gibi hizmet sektörü hisselerini barındırması, hedeflenen "sanayi riskinden korunma" temasını en iyi yansıtan özellikleridir.
+
+#### DTL (Deniz Portföy BIST 100 Dışı Şirketler Hisse Senedi Fonu)
+*   **HÜKÜM:** AL / PORTFÖYE EKLE
+*   **GEREKÇE:** 10 adet BIST 100 Dışı hisse senedi fonunun portföy dağılımları, yatırım stratejisiyle uyum skoru, yönetim ücretleri ve sanayi/GYO riski karşılaştırmalı olarak analiz edilmiş; DTL en uygun fon olarak seçilmiştir. Seçim kriterlerinde belirleyici olan faktörler şunlardır:
+    1.  **En Yüksek Net Uyum Skoru (5.8):** Sanayi ve GYO şirketleri negatif kritere dahil edildiğinde, DTL açık ara lider konumdadır (2. sıra BDY: 3.9, 3. sıra ZJL: 2.3). Hedeflenen 7 hisseden 5'ini portföyünde taşımaktadır: **AGESA** (%5,11), **AYGAZ** (%3,05), **KLKIM** (%3,04), **ORGE** (%2,73) ve **LOGO** (%2,56).
+    2.  **En Düşük Yönetim Ücreti (%2,75):** BDY (%3,30), GOH (%3,20) ve YHB (%3,00) gibi rakiplerine kıyasla en ucuz fondur. Skor/ücret oranı (2.11) ile de en iyi fiyat/performans dengesini sunmaktadır.
+    3.  **Düşük Sanayi/GYO Riski:** Sanayi ve GYO maruziyeti sadece OZKGY (%3,10) ile sınırlıdır. YHB'nin BOBET (%8,01), AKSGY (%4,26), OZKGY (%5,46), ZERGY (%2,72) gibi ağır pozisyonlarıyla kıyaslandığında çok daha temiz bir portföy yapısı sunmaktadır.
+*   **RİSK NOTU:** Fonun TRGYO (%4,68) ve TKNSA (%2,92) taşıması izlenmelidir. Ancak bu toplam negatif ağırlık (%7,60), pozitif ağırlığın (%16,49) çok altındadır.
 
 #### MTH (MT Portföy Birinci Hisse Senedi Fonu)
 *   **HÜKÜM:** İZLE / PORTFÖYE EKLEME

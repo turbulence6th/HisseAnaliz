@@ -1,0 +1,2241 @@
+--- Extracting from: faaliyet-raporlari/202512/MACKO_Faaliyet_Raporu_19-02-2026.pdf ---
+Attempting with pdfminer.six...
+--- Page 1 ---
+MACKOLİK İNTERNET HİZMETLERİ TİCARET A.Ş. ve BAĞLI ORTAKLIKLARI
+
+01.01.2025-31.12.2025
+YÖNETİM KURULU YILLIK FAALİYET RAPORU
+--- Page 2 ---
+
+--- Page 3 ---
+YÖNETİM KURULUNUN YILLIK FAALİYET RAPORUNA
+İLİŞKİN BAĞIMSIZ DENETÇİ RAPORU
+
+Mackolik İnternet Hizmetleri Ticaret Anonim Şirketi 
+Genel Kurulu’na
+İstanbul / Türkiye
+
+1. Görüş
+
+Mackolik  İnternet  Hizmetleri  Ticaret  Anonim  Şirketi  ve  bağlı  ortaklıklarının  (“hep 
+birlikte  Grup”)  01  Ocak  -  31  Aralık  2025  hesap  dönemine  ilişkin  yıllık  faaliyet 
+raporunu denetlemiş bulunuyoruz.
+
+Görüşümüze  göre,  Yönetim  Kurulu’nun  yıllık  faaliyet  raporu  içinde  yer  alan 
+finansal  bilgiler  ile  Yönetim  Kurulu’nun  Grup’un  durumu  hakkında  denetlenmiş 
+olan konsolide finansal tablolarda yer alan bilgileri kullanarak yaptığı irdelemeler, 
+tüm  önemli  yönleriyle,  denetlenen  tam  set  konsolide  finansal  tablolarla  ve 
+bağımsız  denetim  sırasında  elde  ettiğimiz  bilgilerle  tutarlıdır  ve  gerçeği 
+yansıtmaktadır.
+
+2. Görüşün Dayanağı
+
+Yaptığımız  bağımsız  denetim,  Sermaye  Piyasası  Kurulu’nca  (“SPK”)  yayımlanan 
+bağımsız  denetim  düzenlemeleri  ve  Kamu  Gözetimi,  Muhasebe  ve  Denetim 
+tarafından  yayımlanan  Türkiye  Denetim 
+Standartları  Kurumu 
+Standartları’nın bir parçası olan Bağımsız Denetim Standartları’na uygun olarak 
+yürütülmüştür.  Bu  standartlar  kapsamındaki  sorumluluklarımız,  raporumuzun 
+Bağımsız  Denetçinin  Yıllık  Faaliyet  Raporunun  Bağımsız  Denetimine  İlişkin 
+
+(“KGK”) 
+
+Sorumlulukları”  bölümünde  ayrıntılı  bir  şekilde  açıklanmıştır.  KGK  tarafından 
+yayımlanan  Bağımsız  Denetçiler  için  Etik  Kurallar  (“Etik  Kurallar”)  ile  finansal 
+tabloların  bağımsız  denetimiyle  ilgili  mevzuatta  yer  alan  etik  hükümlere  uygun 
+olarak  Şirket’ten  bağımsız  olduğumuzu  beyan  ederiz.  Etik  Kurallar  ve  mevzuat 
+kapsamındaki etiğe ilişkin diğer sorumluluklar da tarafımızca yerine getirilmiştir. 
+Bağımsız  denetim  sırasında  elde  ettiğimiz  bağımsız  denetim  kanıtlarının, 
+için  yeterli  ve  uygun  bir  dayanak  oluşturduğuna 
+görüşümüzün  oluşması 
+inanıyoruz.
+
+3- Tam Set Konsolide Finansal Tablolara İlişkin Denetçi Görüşümüz
+
+Grup’un  01  Ocak  -  31  Aralık  2025  hesap  dönemine  ilişkin,  Türkiye  Muhasebe 
+Standartları  (“TMS”)  ve  Türkiye  Finansal  Raporlama  Standartları  (“TFRS”)’na 
+göre  hazırlanan  tam  set  konsolide  finansal  tabloları  hakkında  19  Şubat  2026 
+tarihli denetçi raporumuzda olumlu görüş bildirmiş bulunuyoruz.
+
+4- Yönetim Kurulunun Yıllık Faaliyet Raporuna İlişkin Sorumluluğu 
+
+Grup  yönetimi,  6102  sayılı  Türk  Ticaret  Kanunu'nun  (“TTK”)  514.  ve  516. 
+maddelerine  ve  Sermaye  Piyasası  Kurulu’nun  (“SPK”)  II-14.1  No’lu  “Sermaye 
+Piyasasında Finansal Raporlamaya İlişkin Esaslar Tebliği” (“Tebliğ”) hükümlerine 
+göre yıllık faaliyet raporuyla ilgili olarak aşağıdakilerden sorumludur:
+
+a) Yıllık faaliyet raporunu bilanço gününü izleyen ilk üç ay içinde hazırlar ve genel 
+kurula sunar.
+--- Page 4 ---
+b)  Yıllık  faaliyet  raporunu;  Grup’un  o  yıla  ait  faaliyetlerinin  akışı  ile  her  yönüyle 
+finansal  durumunu  doğru,  eksiksiz,  dolambaçsız,  gerçeğe  uygun  ve  dürüst  bir 
+şekilde yansıtacak şekilde hazırlar. Bu raporda finansal durum, finansal tablolara 
+göre  değerlendirilir.  Raporda  ayrıca,  Grup’un  gelişmesine  ve  karşılaşması 
+muhtemel risklere de açıkça işaret olunur. Bu konulara ilişkin yönetim kurulunun 
+değerlendirmesi de raporda yer alır.
+
+c) Faaliyet raporu ayrıca aşağıdaki hususları da içerir:
+
+-  Faaliyet  yılının  sona  ermesinden  sonra  Grup’ta  meydana  gelen  ve  özel  önem 
+taşıyan olaylar,
+- Grup’un araştırma ve geliştirme çalışmaları,
+-  Yönetim  kurulu  üyeleri  ile  üst  düzey  yöneticilere  ödenen  ücret,  prim,  ikramiye 
+gibi  mali  menfaatler,  ödenekler,  yolculuk,  konaklama  ve  temsil  giderleri,  ayni  ve 
+nakdî imkânlar, sigortalar ve benzeri teminatlar.
+
+Yönetim kurulu, faaliyet raporunu hazırlarken Gümrük ve Ticaret Bakanlığının ve 
+ilgili kurumların yaptığı ikincil mevzuat düzenlemelerini de dikkate alır.
+
+5-  Bağımsız  Denetçinin  Yıllık  Faaliyet  Raporunun  Bağımsız  Denetimine  İlişkin 
+Sorumluluğu
+
+görüş vermek ve bu görüşümüzü içeren bir rapor düzenlemektir.
+
+Yaptığımız  bağımsız  denetim,  BDS’lere  uygun  olarak  yürütülmüştür.  Bu 
+standartlar, etik hükümlere uygunluk sağlanması ile bağımsız denetimin, faaliyet 
+raporunda yer alan finansal bilgiler ve Yönetim Kurulu’nun yaptığı irdelemelerin 
+finansal  tablolarla  ve  denetim  sırasında  elde  edilen  bilgilerle  tutarlı  olup 
+olmadığına  ve  gerçeği  yansıtıp  yansıtmadığına  dair  makul  güvence  elde  etmek 
+üzere planlanarak yürütülmesini gerektirir.
+
+Bu bağımsız denetimi yürütüp sonuçlandıran sorumlu denetçi Ömer Çekiç’tir.
+
+Ram Bağımsız Denetim ve Danışmanlık Anonim Şirketi
+Member firm of SW International
+
+Ömer Çekiç
+Sorumlu Denetçi
+
+Amacımız,  TTK  ve  Tebliğ  hükümleri  çerçevesinde  yıllık  faaliyet  raporu  içinde  yer 
+alan  finansal  bilgiler  ile  Yönetim  Kurulunun  yaptığı  irdelemelerin,  Grup’un 
+denetlenen  konsolide  finansal  tablolarıyla  ve  bağımsız  denetim  sırasında  elde 
+ettiğimiz bilgilerle tutarlı olup olmadığı ve gerçeği yansıtıp yansıtmadığı hakkında 
+
+19 Şubat 2026
+İstanbul, Türkiye
+--- Page 5 ---
+ŞİRKET BİLGİLERİ
+
+Rapor Dönemi
+
+ 01.01.2025-31.12.2025
+
+Şirketin Ticaret Unvanı
+
+MACKOLİK İNTERNET HİZMETLERİ TİCARET ANONİM ŞİRKETİ
+
+Kayıtlı Olduğu Ticaret Sicili Müdürlüğü
+
+T.C. İSTANBUL TİCARET SİCİLİ MÜDÜRLÜĞÜ
+
+Ticaret Sicil Numarası
+
+Ticaret Siciline Tescil Tarihi
+
+465409
+
+2001
+
+Mersis No
+
+0609-0444-9520-0001
+
+Vergi Dairesi / No
+
+Göztepe - 609 044 4952
+
+Merkez Adresi
+
+Telefon
+
+E-posta adresi
+
+İnternet Adresi
+
+Zühtüpaşa Mh. Şefikbey Sk. No:1 Kadıköy/İstanbul
+
+0216 338 6555
+
+yatirimciiliskileri@mackolik.com
+
+www.mackolik.com
+--- Page 6 ---
+27
+
+28
+
+29
+
+31
+
+32
+
+34
+
+Kar veya Zarar Tablosu
+
+Markalara Göre Gelir Dağılımı
+
+Finansal Göstergeler
+
+Bağımsız Denetçi
+
+İlişkili Taraf İşlemleri
+
+Diğer Hususlar 
+
+1
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+13
+
+14
+
+16
+
+19
+
+23
+
+24
+
+Genel Müdür'ün Mesajı
+
+Faaliyet Alanı, Kuruluş ve Tarihçe
+
+Zaman Çizelgesi
+
+Sermaye ve Ortaklık Yapısı
+
+Bağlı Ortaklık Ve İştirakler
+
+Bölgesel Faaliyet Yapısı
+
+Neler Yapıyoruz?
+
+Yönetim Kurulu ve Üst Yönetim
+
+Organizasyon Şeması
+
+Personel Bilgileri
+
+Performans Göstergeleri
+
+Sosyal Medyada Mackolik
+
+Bilanço Döneminde Gerçekleşen İşlemler
+
+Mackolik Uygulama Yenilikleri
+
+Sorumluluk Beyanı
+
+Bilanço
+
+İÇİNDEKİLER
+--- Page 7 ---
+GENEL MÜDÜRÜN MESAJI
+
+Değerli Paydaşlarımız,
+
+Sizlere ilk kez bu sıfatla seslenirken, 13 yıl boyunca ortaya koyduğu vizyon ve liderlikle Mackolik’i bugün bulunduğu güçlü konuma taşıyan ve bayrağı kendisinden devraldığım 
+Emre Uğurlu’ya teşekkür ederek başlamak isterim. Kendisi, yalnızca bir şirket değil; yüksek marka bilinirliğine, milyonlarca sadık kullanıcıya ve güçlü bir teknoloji kültürüne 
+sahip sürdürülebilir bir yapı inşa etti.
+
+Mackolik  tarihinin  en  hareketli  yıllarından  birini  geride  bıraktık.  Spor  gündeminin  yoğunluğu  ile  operasyonel  süreçlerimizin  temposu  aynı  anda  yükseldi.  2025  yılı,  Türk 
+sporunun uluslararası arenada önemli eşikleri aştığı bir dönem olarak hafızalara kazındı. Türkiye A Milli Erkek Basketbol Takımı’nın EuroBasket 2025’te elde ettiği ikincilik, 
+yıllar  sonra  gelen  güçlü  bir  geri  dönüşün  simgesi  oldu.  Türkiye  A  Milli  Kadın  Voleybol  Takımı’nın  dünya  ikinciliği  ve  Türkiye  A  Milli  Erkek  Voleybol  Takımı’nın  Dünya 
+Şampiyonası’nda ilk kez çeyrek finale yükselmesi, takım sporlarımızdaki istikrarlı gelişimin somut göstergeleri arasında yer aldı.
+
+Futbolda da milli düzeyde kritik adımlar atıldı. Türkiye A Milli Erkek Futbol Takımı, UEFA Uluslar Ligi’nde A Ligi’ne yükselerek Avrupa’nın elit grubuna dahil oldu; 2026 Dünya 
+Kupası  yolunda  elde  edilen  play-off  hakkı  ise  uluslararası  turnuva  sürekliliği  açısından  önemli  bir  eşik  niteliği  taşıdı.  Sporun  nabzının  böylesine  yüksek  attığı  bir  yılda, 
+platformlarımızda  oluşan  yoğun  trafik  ve  anlık  veri  akışı,  teknolojik  altyapımızın  ve  ekip  koordinasyonumuzun  gerçek  bir  dayanıklılık  testinden  geçmesini  sağladı.  Anlık 
+milyonlarca talebi karşılayabilen ölçeklenebilir altyapımız ve veri odaklı çalışma disiplinimiz sayesinde kullanıcı deneyiminden ödün vermeden yolumuza devam ettik.
+
+Yıl sonu ise hepimiz için bir vaka çalışması niteliğindeydi. Süreci en başından itibaren halka açık bir şirket olmanın sorumluluğunun bilinciyle, şeffaflık ilkesini temel alarak 
+yönettik. Bugün geldiğimiz noktada, bu deneyimin bizi daha güçlü, daha stratejik ve daha kararlı kıldığına inanıyorum. Yeni döneme, odağını teknolojiye, çeşitlendirilebilir 
+gelir  kaynaklarına  ve  büyümeye  netleştirmiş  bir  Mackolik  olarak  giriyoruz.  Bu  dönemde  Mackolik’e  olan  güvenini  koruyan  yatırımcılarımıza  ve  yoğun  tempoda  büyük 
+özveriyle çalışan tüm ekip arkadaşlarıma içtenlikle teşekkür ederim.
+
+Finansal  sonuçlarımız  da  bu  dayanıklılığı  teyit  eder  nitelikte  gerçekleşti.  Geçen  yıla  göre  %20  artış  gösteren  ciromuz  ve  %55  seviyesinde  oluşan  FAVÖK  marjımız  ile 
+hedeflerimizle uyumlu bir performans ortaya koyduk. Eylül ayında gerçekleştirdiğimiz, pay başına brüt 0,55 TL tutarındaki temettü ödemesinin ikinci taksitiyle birlikte 2024 
+yılı kârından dağıtılan toplam temettü 155.000.000 TL’ye ulaştı.
+
+Türkiye’de ve uluslararası pazarlarda sahip olduğumuz konumu daha ileriye taşırken; sporun yükselen performans grafiğine eşlik eden, teknolojisiyle bu heyecana anlık 
+olarak aracılık eden bir yapı olmayı sürdüreceğiz. Hepimize spor ve başarılarla dolu bir yeni dönem diliyorum.
+
+Saygılarımla,
+Engin KEHALE
+
+1
+--- Page 8 ---
+MACKOLİK
+HAKKINDA
+
+2
+--- Page 9 ---
+FAALİYET ALANI VE TARİHÇE
+
+Şirket,  web  siteleri  ve  mobil  uygulamaları  üzerinden  milyonlarca 
+kullanıcıya  ulaşan,  gelir  modelini  büyük  ölçüde  dijital  reklam  ve  reklam 
+gelirlerinin optimizasyonuna yönelik yazılım çözümleri üzerine kurmuş bir 
+spor teknolojileri ve dijital medya şirketidir. Kullanıcı deneyimini merkeze 
+alan  ürün  yaklaşımı  sayesinde  erişimini  istikrarlı  biçimde  genişletirken, 
+reklam gelirlerini veri analitiği ve performans odaklı teknolojik altyapıyla 
+destekler. Bu yapı, bilişim kabiliyetleri ile dijital medya dinamiklerini aynı 
+potada buluşturan sürdürülebilir bir iş modeline dayanır.
+
+25  yıldır  Türkiye’de,  18  yıldır  Fransa’da  faaliyet  gösteren  platform; 
+Türkiye'de  Mackolik,  Fransa'da  Match  en  Direct,  global  olarak  da  M 
+Scores  markalarıyla  milyonlarca  kullanıcıya  hitap  eder.  2001  yılında 
+başlayan bu yolculukta futbol, basketbol ve tenis başta olmak üzere pek 
+çok branşta canlı skor hizmeti sunulmuş; güçlü editoryal içerik yapısıyla 
+spor  gündeminin  güvenilir  adreslerinden  biri  haline  gelinmiştir.  Web 
+tabanlı yayıncılıkla başlayan gelişim süreci, iOS, Android ve Huawei mobil 
+uygulamalarıyla  çeşitlenmiş;  sosyal  medya  kanallarıyla  desteklenen 
+çoklu platform yapısı sayesinde kullanıcılarla kesintisiz ve anlık etkileşim 
+sağlanmıştır.
+
+Şirket, Türkiye’de ve dünyada kendi alanında halka açık tek şirket olma 
+niteliğiyle  sektörde  ayrı  bir  konuma  sahiptir.  Bu  kurumsal  şeffaflık  ve 
+
+finansal disiplin yapısı, teknoloji yatırımlarını da güçlü biçimde destekler. 
+Sahip olduğu ölçeklenebilir mimari sayesinde yoğun trafik anlarında dahi 
+performansından  ödün  vermeyen  altyapısı,  eş  zamanlı  olarak  anlık  3 
+milyon  talebi  karşılayabilecek  kapasiteye  sahiptir.  Bu  teknoloji  gücü, 
+özellikle  yüksek  tempolu  canlı  skor  ve  veri  akışının  kritik  olduğu  anlarda 
+platformun kesintisiz hizmet sunmasını sağlar.
+
+2023 yılında halka arz ile yeni bir evreye geçen Şirket, aynı yıl internet 
+üzerinden  yayıncılık  faaliyetlerini  yürütmek  amacıyla  Momentum  Dijital 
+Yayıncılık  A.Ş.’yi,  yurtdışı  büyümesini  hızlandırmak  amacıyla  Hollanda 
+merkezli  M  Sports  B.V.’yi  kurarak  organizasyonel  kapasitesini 
+güçlendirmiştir.  2025  yılında 
+ise  teknoloji  odaklı  büyüme  vizyonu 
+doğrultusunda  yapay  zekâ,  yazılım  geliştirme  ve  Ar-Ge  faaliyetlerine 
+odaklanmak üzere Mackolik Teknoloji A.Ş. hayata geçirilmiştir.
+
+Bugün  gelinen  noktada  Şirket;  güçlü  marka  bilinirliği,  yüksek  kullanıcı 
+sadakati,  halka  açık  yapısının  getirdiği  kurumsal  güven  ve  ileri  teknoloji 
+altyapısıyla  yalnızca  bir  spor  yayıncılık  platformu  değil,  aynı  zamanda 
+ölçeklenebilir  bir  spor  teknolojileri  ekosistemi  olarak  konumlanır. 
+Türkiye’de  edindiği  deneyimi  uluslararası  pazarlara  taşıyan  bu  yapı, 
+dijital  medyanın  değişen  dinamiklerine  hızlı  uyum  sağlayan,  yenilikçi  ve 
+veriye dayalı bir büyüme perspektifi sunar.
+
+3
+--- Page 10 ---
+zaman
+çİZELGESİ
+
+Mackolik
+kuruldu.
+2001
+
+Sahadan
+kuruldu.
+2003
+
+Match en Direct
+kuruldu.
+2008
+
+Perform Group
+Mackolik’i satın aldı.
+2011
+
+2023
+
+2022
+
+2021
+
+2021
+
+2021
+
+2020
+
+2015
+
+2012
+
+Mackolik
+halka arz oldu.
+
+Global Matchoholic 
+uygulaması 14 dilde 
+yayına alındı.
+
+Mackolik & Match en 
+Direct, Mediazz ve Emre
+Uğurlu tarafından satın alındı.
+
+Match en Direct
+uygulama arayüzü
+yenilendi.
+
+2023
+
+2023
+
+2024
+
+2025
+
+Momentum
+kuruldu.
+
+M Sports B.V. 
+kuruldu.
+
+Matchoholic, 
+M Scores'a
+dönüştü.
+
+Mackolik Teknoloji
+ A.Ş. kuruldu.
+
+Mackolik,
+Match en Direct'i
+satın aldı.
+
+Mackolik 
+uygulamaları
+yenilendi.
+
+Perform Group, 
+Match en Direct'i
+satın aldı.
+
+iOS ve Android
+uygulamaları 
+yayına alındı.
+
+4
+--- Page 11 ---
+SERMAYE VE ORTAKLIK YAPISI 19.02.2026
+
+Ortağın Adı-Soyadı, Ticaret Ünvanı
+
+Sermayedeki Payı (TL)
+
+Sermayedeki Payı (%)
+
+Oy Hakkı Oranı (%)
+
+Mediazz Yeni Medya ve Teknoloji Yatırımları A.Ş.
+
+Matchzone Teknoloji Anonim Şirketi
+
+Abdulkadir Emre Uğurlu
+
+Diğer
+
+TOPLAM
+
+51.000.000
+
+10.585.758
+
+6.100.000
+
+32.314.242
+
+100.000.000
+
+%51.00
+
+%10,59
+
+%6,10
+
+%32,31
+
+%100
+
+%70,60
+
+%6,54
+
+%3,63
+
+%19,23
+
+%100
+
+İMTİYAZLI PAYLAR
+
+16  Nisan  2025  tarihi  itibariyle  gerçekleşen  bedelsiz  sermaye  artırımı  sonrasında  Şirket’in  100.000.000  TL’lik  çıkarılmış  sermayesinin 
+17.000.000  TL  (OnYediMilyonTürkLirası)’si  imtiyazlı  nama  yazılı  A  Grubu  hisselerden  oluşmakta  olup;  18  Temmuz  2025  tarihinde 
+gerçekleşen hisse devir sözleşmesi neticesinde bunların 16.900.000 adedi Mediazz Yeni Medya ve Teknoloji Yatırımları A.Ş’ye; 100.000 
+adedi ise Matchzone Teknoloji Anonim Şirketi’ne aittir.
+
+İmtiyazlı Payların Oy Haklarına İlişkin Açıklama
+Esas sözleşmeye göre A grubu paylar yönetim kurulu üyelerinin seçiminde ve oy hakkının kullanımında imtiyazlıdır.
+
+5
+--- Page 12 ---
+Mackolİk bağlı ortaklık ve İŞTİRAKLER
+
+Activaweb SAS (Bağlı Ortaklık)
+Mackolik,  Fransa  merkezli  canlı  skor  ve  veri  platformu  Match  en 
+Direct 
+(BinEuro) 
+sermayesini  temsil  eden  payların  tamamını  2021  yılında  satın 
+almıştır.
+
+(MeD)’in  sahibi  Activaweb  SAS’ın 
+
+1.000€ 
+
+Momentum Dijital Yayıncılık Anonim Şirketi (Bağlı Ortaklık)
+2023  Haziran  ayı  içerisinde  İnternet  Üzerinden  Yayıncılık  Hizmeti 
+gerçekleştirilebilmesi  amacıyla  sermayesi  100.000  TL 
+(Yüz-
+BinTürkLirası) olan Momentum Dijital Yayıncılık Anonim Şirketi kurul-
+muştur. Konuyla ilgili detaylı bilgiye 
+https://www.kap.org.tr/tr/Bildirim/1157820 linki üzerinden 
+ulaşılabilir.
+
+M Sports B.V. (Bağlı Ortaklık)
+2023  Aralık  ayı  içerisinde  Şirket’in  yurtdışı  operasyonlarını  büyüt-
+mek amacıyla %100 hissedarı olduğu, Hollanda merkezli ve 20.000€ 
+(YirmiBinEuro) sermayeli M Sports B.V. Şirketi kurulmuştur. Konuyla 
+ilgili  detaylı  bilgiye  https://www.kap.org.tr/tr/Bildirim/1228243 
+linki üzerinden ulaşılabilir.
+
+Mackolik Teknoloji A.Ş (Bağlı Ortaklık)
+2025  Temmuz  ayı  içerisinde  Şirket’in  teknoloji  odaklı  büyüme 
+stratejileri doğrultusunda yapay zekâ, yazılım geliştirme ve (Ar-Ge) 
+faaliyetlerine odaklanmak amacıyla %100 hissedarı olduğu, Türkiye 
+merkezli  ve  500.000  TL  sermayeli  Mackolik  Teknoloji  A.Ş.’nin  tescil 
+işlemleri  1  Temmuz  2025  tarihinde  tamamlanmıştır.  Konuyla  ilgili 
+detaylı  bilgiye  https://www.kap.org.tr/tr/Bildirim/1453982  linki 
+üzerinden ulaşılabilir.
+
+Fantazzie Oyun Teknolojileri A.Ş. (Finansal Duran Varlık)
+2023  Ağustos  ayı  içerisinde  Fantazzie  Oyun  Teknolojileri  A.Ş.’nin 
+sermayesine  %5  oranında  ortak  olunmuş;  Kasım  2024  döneminde 
+ise  Şirket’in  sermaye  artırımına  katılınarak  pay  sahipliği  oranı 
+%5,66’ya yükseltilmiştir. Konuyla ilgili detaylı bilgiye
+https://www.kap.org.tr/tr/Bildirim/1359093 linki üzerinden
+ulaşılabilir.
+
+6
+--- Page 13 ---
+Bölgesel FaalİYET yapısı
+
+Haftalık 
+ortalama 
+2500 canlı 
+maç yayını
+
+1500 lig 
+1200 futbol, 
+300 
+basketbol.
+
+Dünyanın 
+%84’ü 
+kapsama 
+alanında
+
+M Scores ile 
+15 dilde 
+yayın yapan 
+global 
+uygulama.
+
+M Scores ile 
+175 ülkede 
+yayın yapan 
+global 
+uygulama.
+
+7
+--- Page 14 ---
+NELER
+YAPIYORUZ?
+
+ANLIK BİLDİRİM
+
+canlı skorlar
+
+web
+
+haberler
+
+8
+--- Page 15 ---
+YÖNETİM KURULU
+
+Alpaslan ENSARİ
+Yönetim Kurulu Başkanı
+
+Hasan Turgay OZANER
+Yönetim Kurulu Başkan Vekili
+
+Engin KEHALE
+Yönetim Kurulu Üyesi
+Genel Müdür
+
+Kadir Kaan KAYABALI
+Yönetim Kurulu Üyesi
+
+Ramazan Ayhan Üstün
+Bağımsız Yönetim Kurulu
+Üyesi
+
+Alise Lize Karaboğa Kaptan
+Bağımsız Yönetim Kurulu
+Üyesi
+
+ÜST YÖNETİM
+
+Furkan Nebioğlu
+Genel Müdür Yardımcısı
+COO
+
+Engin KEHALE
+Yönetim Kurulu Üyesi
+Genel Müdür
+
+Murat İlker DEMİREL
+Genel Müdür Yardımcısı
+CFO
+
+9
+--- Page 16 ---
+organİZASYON ŞEMASI
+
+YÖNETİM KURULU
+
+GENEL MÜDÜR/CEO
+
+İÇ DENETİM
+
+CTO
+
+GENEL MÜDÜR
+YARDIMCISI/COO
+
+GENEL MÜDÜR
+YARDIMCISI/CFO
+
+YAZILIM GELİŞTİRME
+
+BÜYÜME/VERİ ANALİZ
+DİREKTÖRÜ
+
+ÜRÜN, İÇERİK VE
+İŞ GELİŞTİRME DİREKTÖRÜ
+
+TASARIM
+
+MATCH EN DIRECT
+
+FİNANS/MUHASEBE
+
+YAZILIM TEST
+
+ÜRÜN
+
+SOSYAL MEDYA
+
+YATIRIMCI İLİŞKİLERİ
+
+BİLGİ TEKNOLOJİLERİ
+
+UI TASARIM
+
+HABER
+
+HUKUK
+
+VERİ TOPLAMA
+
+YOUTUBE
+
+İNSAN KAYNAKLARI
+
+10
+--- Page 17 ---
+PERSONEL BİLGİLERİ
+
+Personel Sayısı
+31  Aralık  2025  tarihinde  sona  eren  hesap  dönemi  içerisinde,  Ana 
+Ortaklık  Şirket’in  ortalama  personel  sayısı  134  (31  Aralık  2024: 
+112)’tür.
+
+Ana Ortaklık Şirket’in 19 Şubat 2026 tarihi itibarıyla toplam
+personel sayısı ise 140’tır.
+
+Toplu Sözleşme Uygulamaları
+Şirket bünyesinde toplu sözleşme uygulanmamaktadır.
+
+Personel ve İşçilere Sağlanan Hak ve Menfaatler
+Şirket’in tüm çalışanlarına özel sağlık sigortası yapılmakta ve yemek 
+verilmektedir.
+
+Üst Düzey Yöneticilere Sağlanan Mali Haklar
+içerisinde  Üst  Düzey 
+Şirket’in  01.01.2025-31.12.2025  dönemi 
+Yöneticilere  sağladığı  ücret  ve  benzeri  menfaatlerin  toplam  brüt 
+tutarı 39.383.720 TL‘dir. 
+
+(01.01.2024-31.12.2024 tutarı 47.941.344 TL’dir).
+
+11
+--- Page 18 ---
+performans
+göstergelerİ
+
+12
+--- Page 19 ---
+AYLIK ORTALAMA
+APP KULLANICI*
+
+MACKOLİK
+
+7.68 Milyon
+
+MATCH en DIRECT
+
+1.70 Milyon
+
+GÜNLÜK ORTALAMA
+APP KULLANICI*
+
+AYLIK ORTALAMA
+APP EKRAN GÖRÜNTÜLEME**
+
+MACKOLİK
+
+3.76 Milyon
+
+MATCH en DIRECT
+
+0.66 Milyon
+
+MACKOLİK
+
+6.40 Milyar
+
+MATCH en DIRECT
+
+411 Milyon
+
+*01.01.2025-31.12.2025 arasındaki 12 aylık Adjust verileridir.
+**01.01.2025-31.12.2025 arasındaki 12 aylık Google Analytics verileridir.
+
+13
+
+ANA GÖSTERGELER
+--- Page 20 ---
+SOSYAL MEDYAda mackolİK 
+
+3 Milyon
+
+INSTAGRAM
+
+1.4 Milyon
+
+x
+
+604 Bin
+
+FACEBOOK
+
+527 Bin
+
+YOUTUBE
+
+1.9 Milyon
+
+WHATSAPP
+
+1.5 Milyon
+
+TIKTOK
+
+14
+--- Page 21 ---
+2025 YILINDA
+MACKOLİK
+
+15
+--- Page 22 ---
+BİLANÇO DÖNEMİNDE GERÇEKLEŞEN GELİŞMELER
+
+ÖZEL VE KAMU DENETİMİNE İLİŞKİN AÇIKLAMALAR 
+
+PAY GERİ ALIM PROGRAMI
+
+Rekabet  Kurumu’nun  10.08.2023  tarihli  ve  22-37/714-M  sayılı  kararıyla  4054 
+sayılı Rekabetin Korunması Hakkında Kanun’un 4. ve 6. maddelerinin ihlal edilip 
+edilmediğine  yönelik  olarak  Mackolik  İnternet  Hizmetleri  Ticaret  A.Ş  hakkında 
+4054  sayılı  Kanun’un  41.  Maddesi  uyarınca  soruşturma  başlatılmıştı  ve  4054 
+sayılı  Kanun’un  9.  maddesinin  dördüncü  fıkrası  uyarınca  07.09.2023  tarihli  ve 
+23-41/797-281 sayılı tedbir kararı tarafımıza tebliğ edilmişti. 21.02.2025 tarihin-
+de  Rekabet  Kurulu  tarafından  Mackolik  İnternet  Hizmetleri  Ticaret  A.Ş’  ye 
+12.990.246,80  TL  tutarında  idari  para  cezası  verildiği  tarafımıza  bildirilmiştir. 
+İdari para cezası ile ilgili gerekçeli kararın tarafımıza tebliğ edilmesinin ardından, 
+5326 sayılı Kabahatler Kanunu’nun 17’nci maddesinin 6’ncı fıkrası uyarınca %25 
+indirimden yararlanılarak ilgili ceza 9.742.685,10 TL olarak ödenmiştir. 
+
+YAYGIN VE SÜREKLİLİK ARZ EDEN İLİŞKİLİ TARAF İŞLEMLERİ
+
+Şirket Yönetim Kurulu, 02.04.2025 tarihli toplantısında Sermaye Piyasası Kuru-
+lu'nun 3 Ocak 2014 tarih ve 28871 sayılı Resmi Gazete‘de yayımlanarak yürürlüğe 
+giren  "II-17.1"  sayılı  Kurumsal  Yönetim  Tebliği'nin  "Yaygın  ve  Süreklilik  Arz  Eden 
+İşlemler" başlıklı 10. maddesi gereğince, Şirket ile Mediazz Yeni Medya ve Teknoloji 
+Yatırımları A.Ş. arasındaki işlemlere yönelik olarak Yaygın ve Süreklilik Arz Eden 
+İşlemlere İlişkin Rapor hazırlamış ve raporun sonuç bölümünü 
+https://www.kap.org.tr/tr/Bildirim/1416693 linki ile KAP’ta yayımlamıştır.
+
+Ana Ortaklık Şirket’in 03 Nisan 2025 ve 07 Mayıs 2025 tarihlerinde kamuoyuna 
+açıklamış olduğu “Payların geri alım işlemleri” çerçevesinde, Ana Ortaklık Şirket, 31 
+Aralık  2025  tarihi  itibarıyla  toplam  2.750.000  TL  tutarındaki  nominal  paylarını 
+108.074.936 TL karşılığında iktisap etmiştir. İlgili paylardan elde edilen 2.337.500 
+TL tutarındaki kâr payı gelirleri, özkaynaklarda “Geri Alınmış Paylar” hesap kale-
+minde raporlanmıştır. Konuyla ilgili detaylı bilgiye
+https://www.kap.org.tr/trBildirim/1448858 linki üzerinden ulaşılabilir.
+
+GSYF YATIRIMI
+
+Ana Ortaklık Şirket’in 31 Aralık 2025, 31 Aralık 2024 ve 31 Aralık 2023 tarihlerinde 
+sona eren hesap  dönemlerine ait, VUK’a göre hesaplanan net dönem karından 
+sırasıyla  51.000.000  TL,  28.000.000  TL  ve  17.000.000  TL  tutarlarında  Girişim 
+Sermayesi Yatırım Fonlarına yatırım yapılabilmesi adına yasal kayıtlarda fon ay-
+rılmasına karar verilmiştir. Ana Ortaklık Şirket, 01 Ekim 2025, 17 Temmuz 2025, 
+07 Mart 2025 ve 24 Mayıs 2024 tarihli Yönetim Kurulu kararlarıyla, bu kapsamda 
+ayrılan  fonun,  Ana  Ortaklık  Şirket’in  ilişkili  tarafı  konumunda  bulunan  İstanbul 
+Portföy Yönetimi A.Ş. Dijital Spor ve Medya Yatırımları Girişim Sermayesi Yatırım 
+Fonu’nda değerlendirilmesine karar vermiştir.
+
+16
+--- Page 23 ---
+BİLANÇO DÖNEMİNDE GERÇEKLEŞEN GELİŞMELER
+
+BEDELSİZ SERMAYE ARTIRIMI
+
+Şirketimiz sermayesinin, tamamı iç kaynaklardan karşılanmak suretiyle, %300 or-
+anında  artırılarak  25.000.000  TL’den  100.000.000  TL’ye  çıkarılması  işlemleri 
+kapsamında gerçekleştirilen Bedelsiz Sermaye Artırımı 26.05.2025 tarihinde Ti-
+caret  Sicil  Müdürlüğü  Tarafından  tescil  edilmiş  olup  26.05.2025  tarih  ve  11338 
+sayılı Ticaret Sicil Gazetesi’nde yayınlanmıştır. Konuyla ilgili detaylı bilgiye ve Be-
+delsiz  Sermaye  Artırımı  sonrasında  güncellenen  esas  sözleşme  tadil  metnine 
+https://www.kap.org.tr/tr/Bildirim/1442147 ve 
+https://www.kap.org.tr/tr/Bildirim/1442165 linkleri üzerinden ulaşılabilir. 
+
+GENEL KURUL
+
+27.05.2025  Tarihinde  şirket  merkezinde  gerçekleştirilip  05.06.2025  tarihinde 
+tescil edilmiş; 05.06.2025 tarihli ve 11346 sayılı Türkiye Ticaret Sicili Gazetesi’nde 
+ilan edilmiştir. 2024 Olağan genel kurul toplantısı ile ilgili detaylı bilgiye ve toplantı 
+tutanağına,  https://www.kap.org.tr/tr/Bildirim/1446269  linki  üzerinden  şirket 
+yatırımcı ilişkileri web sitesi üzerinden ulaşılabilir.
+
+KAR PAYI DAĞITIMI
+
+Şirket Yönetim Kurulu, Kamu Gözetimi Muhasebe ve Denetim Standartları (“KGK”) 
+tarafından yayımlanan Türkiye Muhasebe Standartları (“TMS”) ve ilgili yorumları 
+da  kapsayan  Türkiye  Finansal  Raporlama  Standartları’na  (“TFSR”)  uygun  ve 
+uyumlu  bir  biçimde  hazırlanan  01.01.2024  –  31.12.2024  hesap  dönemine  ait 
+konsolide  finansal  tabloları  ile  VUK  esaslarına  göre  hazırlanan  mali  tabloları 
+birlikte  dikkate  alındığında;  TFRS’ye  uygun  olarak  hazırlanan  finansal  tablolara 
+göre 255.418.403 TL net dönem karı, VUK kayıtlarına göre ise 305.862.765,52 
+
+TL  net  dönem  karı  bulunduğu  görülmüş  olup  buna  göre;  Sermaye  Piyasası 
+mevzuatı  ile  Şirket  Esas  Sözleşmesi’nin  kar  dağıtımı  ile  ilgili  maddesine  ve 
+Şirketimiz  Kar  Dağıtım  Politikası  ‘na  uygun  olarak;  Türk  Ticaret  Kanunu’nun 
+519’uncu maddesi uyarınca ayrılması gereken %5 oranındaki genel kanuni yedek 
+akçenin, 31.12.2024 itibariyle Vergi Usul Kanunu kayıtlarında mevcut genel kanuni 
+yedek akçe tutarı sermayenin %20’lik sınırına ulaştığı için genel kanuni yedek akçe 
+(birinci  tertip  yedek  akçe)  ayrılmamasına  ve  yasal  kayıtlarda  bulunan  genel 
+kanuni yedek akçelerin toplamının ödenmiş sermayenin %50’sini aştığı için genel 
+kanuni  yedek  akçe  (ikinci  tertip  yedek  akçe)  ayrılmamasına,  2024  yılı  “Net 
+Dağıtılabilir  Dönem  Karından”  öncelikle  çıkarılmış  sermayenin  %5’i  oranında  ve 
+5.000.000  TL  tutarında  I.  Temettü  dağıtılmasına,  sonrasında  net  dağıtılabilir 
+dönem karının 150.000.000 TL’si tutarında II. Temettü dağıtılmasına, 07.08.2024 
+tarihli  Yönetim  Kurulu  kararına  istinaden  dağıtılan  45.000.000  tutarındaki  kar 
+payı  avansı  düşüldükten  sonra  toplamda  110.000.000  TL  temettü  tutarının  ilk 
+taksidinin  04.06.2025  tarihinde  ve 
+ikinci  taksidinin  26.09.2025  tarihinde 
+ödenecek  şekilde  iki  (2)  taksit  halinde  dağıtılmasına,  Dağıtımlardan  sonra  kalan 
+tutarların  Olağanüstü  Yedekler’e  aktarılması  teklifinde  bulunmuş  ve  ilgili  teklif 
+27.05.2025 tarihinde gerçekleşen olağan genel kurul toplantısında kabul edilmiş 
+ve  kar  payı  dağıtımının  ilk  taksit  ödemesi  04.06.2025,  ikinci  taksit  ödemesi  ise 
+26.09.2025 tarihinde gerçekleşmiştir.
+
+KREDİ DERECELENDİRME
+
+Uzun Vadeli Ulusal Kurum Kredi Rating Notu
+
+Kısa Vadeli Ulusal Kurum Kredi Rating Notu
+
+KREDİ DEĞERLENDİRME NOTU
+
+AA+ (tr) / (Stabil Görünüm)
+
+J1+ (tr) / (Stabil Görünüm)
+
+Uzun Vadeli Uluslararası Yabancı Para Kurum Kredi Rating Notu
+
+BB (tr) / (Stabil Görünüm)
+
+Uzun Vadeli Uluslararası Yerel Para Kurum Kredi Rating Notu
+
+AA+ (tr) / (Stabil Görünüm)
+
+17
+--- Page 24 ---
+BİLANÇO DÖNEMİNDE GERÇEKLEŞEN GELİŞMELER
+
+MACKOLİK TEKNOLOJİ ANONİM ŞİRKETİNİN KURULUŞU
+
+REKLAM GÖSTERİMLERİ
+
+Ana  Ortaklık  Şirket’in  24  Haziran  2025  tarihli  Yönetim  Kurulu  kararıyla  kuruluş 
+işlemleri  başlatılan  ve  500.000  TL  tutarında  sermayesi  olan  Mackolik  Teknoloji 
+Anonim  Şirketi’nin  kuruluş  tescil  işlemleri,  01  Temmuz  2025  tarihinde,  T.C. 
+İstanbul Ticaret Sicili Müdürlüğü tarafından gerçekleştirilmiştir.
+
+PAY DEVRİ
+
+Şirket hakim ortağı Mediazz Yeni Medya ve Teknoloji Yatırımları A.Ş.’nin %100’üne 
+sahip  olduğu  Matchzone  Teknoloji  A.Ş.  ile  Şirket  paylarının  %15’ine  sahip  ortağı 
+Abdulkadir Emre Uğurlu arasında imzalanan hisse devir sözleşmesi neticesinde 
+Abdulkadir  Emre  Uğurlu’ya  ait  Şirket  sermayesinin  %9’una  karşılık  gelen 
+9.000.000  adet  pay  Matchzone  Teknoloji  A.Ş.’ye  devredilmiştir.  Bu  kapsamda, 
+100.000  adet  A  grubu  imtiyazlı  pay  ve  8.900.000  adet  B  grubu  imtiyazsız  pay 
+olmak  üzere  toplam  9.000.000  adet  pay  devri  sonrasında  Abdulkadir  Emre 
+Uğurlu’nun  pay  oranı  %6’ya  gerilerken  Matchzone  Teknoloji  A.Ş.’nin  pay  oranı 
+%9’a yükselmiştir. Mediazz Yeni Medya ve Teknoloji Yatırımları A.Ş.’nin doğrudan 
+ve  dolaylı  olarak  pay  sahipliği  ise  toplamda  %60’a  yükselmiştir.  Konuyla  ilgili 
+açıklamaya https://www.kap.org.tr/tr/Bildirim/1464755 linki üzerinden ulaşıla-
+bilir.
+
+ÜST DÜZEY YÖNETİCİ DEĞİŞİKLİĞİ
+
+22 Ekim 2012 tarihinden bu yana şirketimizde Genel Müdürlük görevini yürüten ve 
+aynı  zamanda  Yönetim  Kurulu  üyemiz  olan  Sayın  A.Emre  Uğurlu  1  Kasım  2025 
+tarihinden itibaren görevlerini Sayın H.Engin Kehale'ye devretmiştir. Konuyla ilgili 
+KAP  bildirimine  https://www.kap.org.tr/tr/Bildirim/1509912 
+linki  üzerinden 
+ulaşılabilir.
+
+Spor Toto Teşkilat Başkanlığı tarafından müşterilerimize tebliğ edilen, yürütmenin 
+durdurulması  konulu  bildirim  nedeniyle  ve  müşterilerimizden  tarafımıza  iletilen 
+talep  doğrultusunda,  uygulama  ve  web  sitemizde  yayımlanan  bahis  üzerine 
+reklamların gösterimi, yasal çerçeve netleşene kadar geçici bir süreliğine askıya 
+alınmış; 13.02.2026 tarihli Resmi Gazete’de yayımlanan güncelleme sonrasında 
+ise 18.02.2026 tarihinde reklam gösterimleri yeniden uygulamaya alınmıştır. İlgili 
+sürece ait tüm KAP bildirimlerine 
+https://www.kap.org.tr/tr/Bildirim/153156,
+https://www.kap.org.tr/tr/Bildirim/1557232 
+ve https://www.kap.org.tr/tr/Bildirim/1558179 linkleri üzerinden ulaşılabilir.
+
+SÖZLEŞME FESHİ
+
+Ana Ortaklık Şirket ile S Şans Oyunları Anonim Şirketi (“Tuttur”) arasında 2025 yılı 
+dönemi  için  imzalanan  reklam  satış  sözleşmesi,  07  Ekim  2025  tarihinde 
+feshedilmiştir. Ana Ortaklık Şirket yönetimi, ilgili sözleşmeye bağlı olarak 2025
+yılında oluşması beklenen hasılatın önemli bir kısmının gerçekleşmiş olduğunu, ilgili 
+fesih işleminin, Ana Ortaklık Şirket’in konsolide finansal tablolarında önemli bir etki 
+yaratmayacağını beyan etmektedir.
+
+18
+--- Page 25 ---
+mackolİK UYGULAMA YENİLİKLERİ
+
+ANA SAYFA ÇİFT SATIR FİLTRESİ
+Mackolik’in futbol ve basketbol ana sayfasındaki maç sonuçlarının görünümünün 
+kullanıcılar  için  kişiselleştirilebilir  hale  getirilmesini  sağlayan  geliştirmedir.  Futbol 
+ve  basketbol  maçları  artık  tercihe  göre  tek  satırda  veya  çift  satırda 
+görüntülenebilecektir. Böylece kullanıcılar maçları dilediği gibi düzenleyerek daha 
+verimli bir deneyim yaşayabileceklerdir. 
+
+ANA SAYFADA FUTBOL & BASKETBOL ORTAK FAVORİ GÖSTERİMİ;
+Futbol ve basketbol ana sayfasında kullanıcıların favorilerine ekledikleri maçları 
+daha rahat ve pratik şekilde takip edebilmelerini sağlayan geliştirmedir. Bu özellik 
+ile  beraber  futbol  ve  basketbol  branşında  favorilere  eklenen  karşılaşmalar,  bu 
+spor  branşlarının  ana  sayfasındaki  Favorilerim  alanına  bir  arada  gösterilmeye 
+başlandı. 
+
+HAKEM PROFİLİ
+Hangi  takımın  hangi  hakem  yönetiminde  hangi  sonuçları  aldığı,  hakemlerin  kaç 
+kart  çıkardığı  veya  kaç  penaltı  verdiği  gibi  kritik  kararların  toplam/maç  başı 
+değerlerinin detaylı bir şekilde incelenip analiz edilebileceği futbol hakem profilleri 
+geliştirmesidir. Hakem performanslarına dair kullanıcılar tarafından merak edilen 
+tüm  soruların  yanıtları  Mackolik  hakem  profilleri  ile  kullanıcıların  deneyimine 
+sunulmuştur. 
+
+YENİ EŞLEŞMELER
+UEFA’nın  2024/2025  sezonu 
+itibariyle  Şampiyonlar  Ligi,  Avrupa  Ligi  ve 
+Konferans Ligi için getirdiği yeni lig sistemi ve statü/kural değişiklikleri ile birlikte 
+oynanacak  lig  maçları  sonrasındaki  muhtemel  eşleşmeleri  gösteribilmek  için 
+yapılmış  geliştirmedir.  Bu  özellik  sayesinde  kullanıcılar  ilgili  UEFA  turnuvalarının 
+eşleşme ağaçlarını tek bir sayfa içerisinde görebilecek ve olası eşleşmeleri de bu 
+sayede takip edebileceklerdir. 
+
+İstatistik  sayfalarında  kullanıcılar 
+
+TOPUN OYUNDA KALMA SÜRESİ
+ile  buluşturan 
+Kapsamlı  futbol  verilerini 
+Mackolik,  topun  oyunda  kalma  süresini  de  bu  istatistik  parametreleri  arasına 
+ekledi.  Kullanıcılar  Futbol  Maç  Detay  sayfasında  bulunan  İstatistik  sekmesine 
+girerek  bir  maçın  ilk  yarısında,  ikinci  yarısında  ve  genelinde  topun  oyunda  ne 
+kadar kaldığını görebilecekler ve maçın gidişatına dair daha kapsamlı bir izlenim 
+elde edebileceklerdir. 
+
+MACKOLİK TEMA
+Mackolik  arayüzünü  favori  takım/forma  renklerine  göre  tasarlayarak  uygulama 
+deneyimini  kişiselleştirmek  isteyen  kullanıcılara  sunulmuş  özellik.  Bu  özellik  ile 
+kullanıcılar uygulama arayüzlerini kendi zevklerini yansıtan forma renklerine göre 
+kişiselleştirilmiş bir şekilde kullanma ayrıcalığını yaşayacaklardır. Uygulamanın sol 
+menüsünde  yer  alan  “Sana  Özel  Mackolik”  sekmesindeki  forma  renklerinden  en 
+sevdiğini seçerek, seni yansıtan Mackolik’i kullanmaya başlayabilirsin.
+
+MACKOLİK x BLINDLOOK PROJESİ
+Mackolik  ve  Blindlook  işbirliği  ile  yürütülen,  görme  engelli  kullanıcılarımızın 
+uygulama  deneyimini  daha  iyi  ve  verimli  hale  getirmeyi  amaçlayan  projedir. 
+Uygulama  içerisindeki  sesli  geri  yanıt  komutları  artırılmış  ve  iyileştirilmiş,  bu 
+sayede görme engelli bireylerin Mackolik kullanımı kolaylaşmıştır.
+
+ÜYE PROFİLİ GELİŞTİRMESİ
+Yeni  üye  profili  geliştirmesi  ile  kullanıcılar  Mackolik  deneyimini  artık  daha 
+kişiselleştirilebilir  şekilde  yaşayabileceklerdir.  Yeni  üye  profil  sayfasında 
+kullanıcılar  bilgilerini  rahatlıkla  güncelleyebilecek,  ana  sayfa  sıralamasını 
+değiştirebilecek, forum mesajlarını tek bir yerde görüntüleyebilecek ve favorilerini 
+kolaylıkla yönetebileceklerdir.
+
+19
+--- Page 26 ---
+VOLEYBOL MAÇ DETAY SAYFASI İÇİN CANLI GÖRSEL ANLATIM
+ENTEGRASYONU
+Futbol  ve  basketbol  karşılaşmalarında  büyük  ilgi  gören  canlı  görsel  anlatım 
+özelliği,  artık  voleybol  karşılaşmalarında  da  kullanılabilecek.  Voleybol  tutkunları, 
+maç  içinde  yaşanan  tüm  aksiyonları  canlı  görsel  anlatım  ile  anlık  olarak  takip 
+edebileceklerdir. 
+
+PUANMATİK
+Takımın sezona nasıl başlar, kritik haftalarda hangi takım galibiyet serisi yakalar, 
+hangi  takım  sürpriz  puan  kaybı  yaşar  gibi  merak  edilen  tüm  soruların  cevabı 
+Puanmatik özelliği ile kullanıcılarımız tarafından cevaplanabilecek. Puanmatik ile 
+tüm  bu  soruların  cevaplarını  verebilmek  ve  olası  puan  durumu  hesaplarını 
+görebilmek 
+ligde,  seçilen  takımların  maç  sonucu  tahminleri 
+yapılabilecektir. 
+
+için  seçilen 
+
+VAR DETAY GÖSTERİMİ
+Maç  detay  ekranlarında  artık  VAR  (Video  Yardımcı  Hakem)  incelemelerine  ait 
+olaylar  da  görüntülenebiliyor.  Bu  sayede  kullanıcılar  maçın  kritik  anlarını 
+kaçırmadan takip edebiliyor. 
+
+YENİLENMİŞ KADRO SEKMESİ
+Maç  detay  sayfasındaki  kadro  sekmesi  yenilenerek  kullanıcıların  iki  takımı  tek 
+sayfada görmesi sağlandı. Bunun haricinde ortalam yaş, boy gibi bilgiler sayfaya 
+eklenerek iki takımı karşılaştırma şansı verildi. 
+
+OYUNCU KARŞILAŞTIRMA
+Yeni yapılan bu sayfa ile kullanıcıların oyuncuları birbirleriyle istedikleri sezonluk 
+performansı karşılaştırması sağlandı. Oyunculara dair tüm detaylı istatistikler bu 
+özellike sayesinde hem sezon sezon hem de lig bazlı karşılaştırılabilir oldu.
+
+FORMULA 1 CANLI ANLATIM
+Uygulamamıza Formula 1 tutkunları için bir yeni özellik daha eklendi. Kullanıcılar 
+artık Formula 1 yarışlarını canlı anlatım ile anlık olarak takip edebilecekler. Yarış 
+öncesi notlar, önemli telsiz konuşmaları, pit-stop stratejileri, yarış sonucu çarpıcı 
+açıklamalar ve çok daha fazlası artık Formula 1 sayfasında olacak. 
+
+SPİKER & YORUMCU GÖSTERİMİ
+Maç  detayda  bulunan  maç  bilgisi  kutucuğuna  ilgili  maçı  anlatan  spiker  ve 
+yorumcu bilgilerinin bulunduğu bir alan eklenmiştir. Bu sayede kullanıcılar maçın 
+spikeri  ve  yorumcusunu  maç  öncesinde,  maç  sırasında  ve  maç  sonrasında 
+kolayca görebilecektir.
+
+TENİS CANLI GÖRSEL ANLATIM
+Tenis  karşılaşmalarında  canlı  görsel  anlatım  entegre  edildi.  Bu  geliştirme  ile 
+kullanıcılar tenis maçlarındaki anlık gelişmeleri daha ayrıntılı takip edebilecek. 
+
+MAÇ DETAYA KATEDİLEN MESAFE TABİ
+Maç sonlarında maç detay ekranına, oyuncuların katedilen mesafe bilgisi eklendi. 
+Sadece  maç  sona  erdiğinde  ve  verisi  mevcutsa  gösterilecek  bu  alan,  oyuncu 
+performans analizlerine yeni bir boyut kazandırıyor. 
+
+CANLI ETKİNLİK GELİŞTİRMESİ
+Futbol maçlarına özel olarak geliştirilen “Canlı Etkinlik” özelliği, kullanıcıların maç 
+takibini telefonlarının kilit ekranına taşımasını sağlıyor. Maç detay sayfasından bu 
+opsiyonu  aktif  eden  kullanıcılar,  uygulamayı  açmadan  da  skoru  ve  maçın  genel 
+akışını anlık olarak takip edebilmektedir.
+
+20
+--- Page 27 ---
+CANLI YAYIN GELİŞTİRMESİ
+Maç detaya eklenen “Canlı Yayın” sekmesi, kullanıcıların artık ilgili maçı doğrudan 
+uygulama  içerisinden  izleyebileceği  şekilde  geliştirilmiştir.  Bu  yenilik  sayesinde 
+kullanıcılar, maçları takip ederken ek bir platforma ihtiyaç duymadan Mackolik'ten 
+kesintisiz bir maç izleme deneyimi yaşayabilecektir. 
+
+TAKIM KARŞILAŞTIRMA
+Takım  Karşılaştırma  sayfaları  sayesinde  kullanıcılar  diledikleri  iki  takımı  seçerek 
+aralarındaki  rekabeti  detaylı  istatistikler  üzerinden  inceleyebilecektir.  Hücum, 
+savunma  ve  paslaşma  gibi  başlıklar  altında  birçok  farklı  metrik  kullanıcıların 
+maçlar öncesi daha isabetli öngörülerde bulunmasına yardımcı olacaktır.
+
+FORUM CANLI GÖRSEL ANLATIM GELİŞTİRMESİ
+Maç  Forumu  sayfalarına,  maçın  önemli  anlarının  (gol,  kart  vb.)  canlı  ve  görsel 
+olarak  akmasını  sağlayan  bir  entegrasyon  yapılmıştır.  Bu  özellik,  forumdaki 
+konuşmaların interaktif bir şekilde maçın akışıyla eş zamanlı ilerlemesine olanak 
+sağlamaktadır. 
+
+TAHMİNCİ PROFİLİ / FAVORİLEME VE BİLDİRİM GELİŞTİRMESİ
+ilgilendikleri 
+Maç  detay  sayfalarındaki  “Tahmin”  sekmesinde,  kullanıcıların 
+tahmincilerin  profillerine  “Takip  Et”  özelliği  eklenmiştir.  Bu  geliştirme  sayesinde 
+kullanıcılar,  takip  ettikleri  bir  tahminci  yeni  bir  paylaşımda  bulunduğunda  anlık 
+bildirim alarak tahminlerinden anında haberdar olabilecektir.
+
+HAKEM BİLDİRİMLERİ GELİŞTİRMESİ
+Hakem  bildirimleri  geliştirmesi  sayesinde  kullanıcıların  favorilerine  eklediği  bir 
+maçın veya favorilere eklediği takımın oynayacağı karşılaşmanın hakemleri belli 
+olduğunda,  bu  bilgi  kendilerine  anlık  bildirim  olarak  gönderilecektir.  Bu 
+bilgilendirme özellikle kritik maçların hakem atamalarını merak eden kullanıcıların 
+bu bilgiye en hızlı ve doğru şekilde ulaşmasını sağlamaktadır.
+
+OYUNCU SAYFASI MAÇLAR GELİŞTİRMESİ
+“Maçlar”  sekmesi,  kullanıcılara  oyuncunun 
+Futbolcu  profillerindeki  yeni 
+imkânı 
+performansını  sezon  ve  turnuva  bazında 
+sunmaktadır. Bu geliştirme sayesinde, listelenen her maçın karşısında oyuncunun 
+attığı  gol,  gördüğü  sarı  veya  kırmızı  kart  gibi  kilit  performans  metrikleri  de  anlık 
+olarak görülebilmektedir.
+
+filtreleyerek 
+
+inceleme 
+
+GOL ANİMASYONU GELİŞTİRMESİ
+Futbol maç detay sayfalarına eklenen yeni gol animasyonu özelliği, kullanıcılara 
+atılan gollerin nasıl gerçekleştiğini görsel olarak yeniden yaşama imkanı tanır. Tek 
+bir tıkla, kullanıcılar gol pozisyonunun hazırlık aşamasından son vuruşa kadar tüm 
+gelişimini ve detaylarını animasyon üzerinden kolayca takip edebilmektedir. 
+
+MAÇ DETAY KADRO DİZİLİŞ FİLTRELEME GELİŞTİRMESİ
+Futbol  maç  detay  sayfasındaki  Kadro  sekmesine  eklenen  yeni  menü  sayesinde 
+kullanıcılar maç önü, esnası veya sonrasında dizilişte yer alan futbolcuların yaş, 
+boy,  uyruk  gibi  bilgilerinin  yanı  sıra  ortalama  Mackolik  puanı,  şut,  gol  beklentisi, 
+tek  ekranda 
+faul 
+inceleyebilmektedir.
+
+katedilen  mesafe  gibi  önemli 
+
+istatistiklerini 
+
+ve 
+
+OYUNCU SAYFASI İSTATİSTİKLER SEKMESİ
+“İstatistikler”  sekmesi,  kullanıcıların  bir 
+Oyuncu  profillerine  eklenen  yeni 
+futbolcunun  performansını  derinlemesine  analiz  etmesine  olanak  tanır.  Bu 
+geliştirme  sayesinde  oyuncunun  tüm  hücum,  savunma  ve  paslaşma  gibi  ana 
+başlıklar  altındaki  istatistiksel  verileri,  sezon  ve  turnuva  bazında  filtrelenerek 
+karşılaştırmalı olarak incelenebilmektedir.
+
+AMERİKAN FUTBOL GELİŞTİRMESİ
+Mackolik’e  yeni  bir  branş  olarak  Amerikan  Futbolu  eklenerek,  kullanıcıların 
+Amerikan Ulusal Futbol Ligi’ni (NFL) daha yakından takip edebilmesi sağlandı. Bu 
+geliştirme  sayesinde  kullanıcılar  artık  Amerikan  Ulusal  Futbol  Ligi  (NFL)  maç 
+sonuçları,  fikstürler  ve  turnuva  detaylarına  doğrudan  uygulama  içerisinden 
+ulaşılabilecektir.
+
+21
+--- Page 28 ---
+FİNANSAL
+SONUÇLAR
+
+22
+--- Page 29 ---
+sorumluluk beyanı
+
+FİNANSAL  TABLO  VE  FAALİYET  RAPORLARININ  KABULÜNE  İLİŞKİN  YÖNETİM  KURULU'NUN  SERMAYE  PİYASASI  KURULU'NUN  II-14.1.SAYILI  "SERMAYE 
+PİYASASINDA FİNANSAL RAPORLAMAYA İLİŞKİN ESASLAR TEBLİĞİ"NİN İKİNCİ BÖLÜMÜNÜN 9. MADDESİ GEREĞİNCE SORUMLULUK BEYANI
+
+Şirketimizin,  Yönetim  Kurulu  tarafından  onaylanmış,  01.01.2025  -  31.12.2025 
+dönemine  ait  Sermaye  Piyasası  Kurulunun  "Sermaye  Piyasasında  Finansal 
+Raporlamaya  İlişkin  Esaslar  Tebliği  (Seri  II-14.1)"  uyarınca  Kamu  Gözetimi 
+Muhasebe  ve  Denetim  Standartları  Kurumu  tarafından  yayımlanan  Türkiye 
+Muhasebe Standartları / Türkiye Finansal Raporlama Standartları çerçevesinde 
+ve mevzuata uygun olarak SPK tarafından belirlenen formatlar ile uyumlu olacak 
+şekilde  hazırlanan,  bağımsız  denetimden  geçmiş  Mackolik  İnternet  Hizmetleri 
+Ticaret  A.Ş’nin  Konsolide  Finansal  Tablolar  ve  Dipnotları,  Yönetim  Kurulu  Yıllık 
+Faaliyet Raporu, SPK'nın 10.01.2019 tarih ve 2/49 sayılı II-17.1 "Kurumsal Yönetim 
+Tebliği"  uyarınca  KAP  üzerinden  Kurumsal  Yönetim  Uyum  Raporu  (URF)  ile 
+Kurumsal  Yönetim  Bilgi  Formu  (KYBF)  şablonları  kullanılarak  hazırlanmış 
+Kurumsal  Yönetim  Uyum  Raporları  ve  Sürdürülebilirlik  Uyum  Raporları  SPK 
+düzenlemeleri  doğrultusunda  hazırlanmış  olup 
+ilgili  raporların  ve  finansal 
+tabloların;
+
+a) Tarafımızca incelendiğini,
+b)  Şirketimizdeki  görev  ve  sorumluluk  alanında  sahip  olduğumuz  bilgiler 
+çerçevesinde,  önemli  konularda  gerçeğe  aykırı  bir  açıklama  içermediğini  ya  da 
+açıklamanın  yapıldığı  tarih  itibariyle  yanıltıcı  olması  sonucunu  doğurabilecek 
+herhangi bir eksiklik içermediğini,
+c)  Şirketimizdeki  görev  ve  sorumluluk  alanında  sahip  olduğumuz  bilgiler 
+çerçevesinde,  yürürlükteki  finansal  raporlama  standartlarına  göre  hazırlanmış 
+Mackolik  İnternet  Hizmetleri  Ticaret  A.Ş.’nin  Konsolide  Finansal  Tablolarının, 
+Şirketimizin  aktiflerini,  pasiflerini,  finansal  durumunu  ve  kar  ve  zararı  ile  ilgili 
+gerçeği  dürüst  bir  biçimde  gösterdiğini  ve  Yönetim  Kurulu  Yıllık  Faaliyet 
+Raporunun işin gelişimi ve performansını ve şirketimizin finansal durumunu, karşı 
+karşıya olduğu önemli riskler ve belirsizliklerle birlikte, dürüstçe yansıttığını, beyan 
+ederiz.
+
+Saygılarımızla,
+
+MACKOLİK İNTERNET HİZMETLERİ TİCARET ANONİM ŞİRKETİ YÖNETİM KURULU
+
+23
+--- Page 30 ---
+KONSOLİDE FİNANSAL
+DURUM TABLOLARI
+
+Sermaye  Piyasası  Kurulu’nun  28/12/2023  tarihli  Kararı’na 
+uygun  olarak  Türkiye  Muhasebe/  Finansal  Raporlama 
+Standartlarını  uygulayan  Şirketimizin  TMS  29  hükümlerine 
+göre  enflasyon  muhasebesi  uygulanmış  finansal  verileri 
+esas alınmıştır.
+
+Yuvarlama sebebiyle toplamlar farklılık gösterebilir.
+
+BİLANÇO VARLIKLAR
+
+Dönen Varlıklar
+
+Nakit ve Nakit Benzerleri
+
+Ticari Alacaklar
+
+İlişkili taraflardan ticari alacaklar
+
+İlişkili olmayan taraflardan ticari alacaklar
+
+Diğer Alacaklar
+
+İlişkili taraflardan diğer alacaklar
+
+İlişkili olmayan taraflardan diğer alacaklar
+
+Peşin Ödenmiş Giderler
+
+Diğer Dönen Varlıklar
+
+Duran Varlıklar
+
+Diğer Alacaklar
+
+İlişkili taraflardan diğer alacaklar
+
+İlişkili olmayan taraflardan diğer alacaklar
+
+Finansal Yatırımlar
+
+Kullanım Hakkı Varlıkları
+
+Maddi Duran Varlıklar
+
+Maddi Olmayan Duran Varlıklar
+
+Toplam Varlıklar
+
+31.12.2025
+
+31.12.2024
+
+538.2
+
+106.6
+
+307.5
+
+74.7
+
+232.8
+
+114.9
+
+88.6
+
+26.3
+
+8.9
+
+0.3
+
+375.0
+
+143.1
+
+143.0
+
+0.1
+
+91.6
+
+10.9
+
+20.4
+
+109.1
+
+913.2
+
+517.3
+
+131.8
+
+229.1
+
+28.2
+
+201.0
+
+141.4
+
+126.3
+
+15.1
+
+14.7
+
+0.2
+
+186.8
+
+0.2
+
+-
+
+0.2
+
+57.4
+
+7.7
+
+18.2
+
+103.2
+
+704.1
+
+24
+--- Page 31 ---
+KONSOLİDE FİNANSAL
+DURUM TABLOLARI
+
+Sermaye  Piyasası  Kurulu’nun  28/12/2023  tarihli  Kararı’na 
+uygun  olarak  Türkiye  Muhasebe/  Finansal  Raporlama 
+Standartlarını  uygulayan  Şirketimizin  TMS  29  hükümlerine 
+göre  enflasyon  muhasebesi  uygulanmış  finansal  verileri 
+esas alınmıştır.
+
+Yuvarlama sebebiyle toplamlar farklılık gösterebilir.
+
+BİLANÇO YÜKÜMLÜLÜKLER
+
+Kısa Vadeli Yükümlülükler
+
+Kısa Vadeli Borçlanmalar
+
+Uzun Vadeli Borçlanmaların Kısa Vadeli Kısımları
+
+Ticari Borçlar
+
+İlişkili taraflara ticari borçlar
+
+İlişkili olmayan taraflara ticari borçlar
+
+Çalışanlara sağlanan faydalar kapsamında borçlar
+
+Diğer borçlar
+
+İlişkili taraflara diğer borçlar
+
+İlişkili olmayan taraflara diğer borçlar
+
+Ertelenmiş gelirler
+
+Dönem karı vergi yükümlülüğü
+
+Kısa vadeli karşılıklar
+
+Çalışanlara sağlanan faydalara ilişkin karşılıklar
+
+Diğer kısa vadeli karşılıklar
+
+Uzun Vadeli Yükümlülükler
+
+Uzun Vadeli Borçlanmalar
+
+Diğer Borçlar
+
+Uzun vadeli karşılıklar
+
+Çalışanlara sağlanan faydalara ilişkin karşılıklar
+
+Ertelenmiş vergi yükümlülüğü
+
+Toplam Yükümlülükler
+
+31.12.2025
+
+31.12.2024
+
+189.6
+
+87.9
+
+8.4
+
+32.9
+
+1.0
+
+31.9
+
+4.1
+
+23.7
+
+-
+
+23.7
+
+0.2
+
+16.0
+
+16.4
+
+6.1
+
+10.3
+
+32.1
+
+1.9
+
+22.1
+
+6.4
+
+6.4
+
+1.7
+
+92.1
+
+0.9
+
+3.8
+
+28.3
+
+-
+
+28.3
+
+2.9
+
+20.9
+
+-
+
+20.9
+
+0.8
+
+10.0
+
+24.5
+
+8.3
+
+16.2
+
+23.3
+
+2.9
+
+13.5
+
+4.7
+
+4.7
+
+2.2
+
+221.8
+
+115.5
+
+25
+--- Page 32 ---
+KONSOLİDE FİNANSAL
+DURUM TABLOLARI
+
+Sermaye  Piyasası  Kurulu’nun  28/12/2023  tarihli  Kararı’na 
+uygun  olarak  Türkiye  Muhasebe/  Finansal  Raporlama 
+Standartlarını  uygulayan  Şirketimizin  TMS  29  hükümlerine 
+göre  enflasyon  muhasebesi  uygulanmış  finansal  verileri 
+esas alınmıştır.
+
+Yuvarlama sebebiyle toplamlar farklılık gösterebilir.
+
+ÖZKAYNAKLAR
+
+Özkaynaklar
+
+Ödenmiş Sermaye
+
+Sermaye düzeltme farkları
+
+Geri alınmış paylar (-)
+
+Kar veya zararda Yeniden Sınıflandırılmayacak
+Birikmiş Diğer kapsamlı gelir veya giderler
+
+Yeniden ölçüm kazançları (Kayıpları)
+
+Tanımlanmış Fayda planları yeniden ölçüm kazançları (Kayıpları)
+
+Ödenen Kar payı avansları (net)
+
+Kar veya zararda Yeniden Sınıflandırılacak
+Birikmiş Diğer kapsamlı gelir veya giderler
+
+Yabancı para çevrim farkları
+
+Kardan ayrılan kısıtlanmış yedekler
+
+Geçmiş yıllar Kar / Zararları
+
+Net dönem Karı / Zararı
+
+Kontrol gücü olmayan paylar
+
+Toplam Kaynaklar
+
+31.12.2025
+
+31.12.2024
+
+691.4
+
+100.0
+
+72.8
+
+(105.7)
+
+0.5
+
+0.5
+
+0.5
+
+-
+
+(102.8)
+
+(102.8)
+
+132.3
+
+272.7
+
+321.6
+
+-
+
+913.2
+
+588.6
+
+25.0
+
+147.8
+
+-
+
+0.4
+
+0.4
+
+0.4
+
+(64.5)
+
+(113.1)
+
+(113.1)
+
+26.6
+
+232.0
+
+334.3
+
+-
+
+704.1
+
+26
+--- Page 33 ---
+KAR VEYA ZARAR
+TABLOSU
+
+Sermaye  Piyasası  Kurulu’nun  28/12/2023  tarihli  Kararı’na 
+uygun  olarak  Türkiye  Muhasebe/  Finansal  Raporlama 
+Standartlarını  uygulayan  Şirketimizin  TMS  29  hükümlerine 
+göre  enflasyon  muhasebesi  uygulanmış  finansal  verileri 
+esas alınmıştır.
+
+Yuvarlama sebebiyle toplamlar farklılık gösterebilir.
+
+KAR VEYA ZARAR
+
+Kar veya zarar kısmı
+
+Hasılat
+
+Satışların Maliyeti
+
+Brüt kar / (Zarar)
+
+Genel Yönetim Giderleri
+
+Pazarlama Giderleri
+
+Esas Faaliyetlerden Diğer Gelirler 
+
+Esas Faaliyetlerden Diğer Giderler
+
+Esas Faaliyet Karı / (Zararı)
+
+Yatırım Faaliyetlerinden Gelirler
+
+Yatırım Faaliyetlerinden Giderler
+
+Finansman Geliri / (Gideri) Öncesi Faaliyet Karı / (Zararı)
+
+Finansman Gelirleri
+
+Finansman Giderleri (-)
+
+Parasal Kazanç / Kayıp, net
+
+Sürdürülen faaliyetler vergi öncesi Karı / (Zararı)
+
+Sürdürülen Faaliyetler Vergi Gelir / (Gideri)
+
+Dönem Vergi (Gideri) / Geliri
+
+Ertelenmiş Vergi (Gideri) / Geliri
+
+Dönem Karı / Zararı
+
+Dönem Karı / (Zararının) Dağılımı 
+
+Kontrol Gücü Olmayan Paylar 
+
+Ana Ortaklık Payları
+
+Pay başına kazanç
+
+FAVÖK
+
+FAVÖK Oranı
+
+01.01 -
+31.12.2025
+
+01.01 -
+31.12.2024
+
+1,099.7
+
+(343.2)
+
+756.6
+
+(117.2)
+
+(106.6)
+
+19.5
+
+(39.3)
+
+-
+512.9
+
+118.3
+
+(26.1)
+
+605.1
+
+8.1
+
+(42.1)
+
+(116.9)
+
+454.2
+
+(132.7)
+
+(133.5)
+
+0.9
+
+321.6
+
+-
+
+321.6
+
+4,59
+
+602.9
+
+54.8%
+
+912.9
+
+(276.3)
+
+636.5
+
+(110.7)
+
+(54.3)
+
+20.6
+
+(13.5)
+
+478.7
+
+77.8
+
+-
+
+556.6
+
+10.4
+
+(6.3)
+
+(109.5)
+
+451.2
+
+(116.9)
+
+(115.7)
+
+(1.2)
+
+334.3
+
+-
+
+334.3
+
+13,37
+
+524.0
+
+57.4%
+
+27
+--- Page 34 ---
+MARKALARA GÖRE GELİR DAĞILIMI
+
+31.12.2025 GELİR DAĞILIMI
+
+31.12.2024 GELİR DAĞILIMI
+
+%19
+
+%21
+
+(mn TL)
+
+01.01-31.12.2025
+
+01.01-31.12.2024
+
+Mackolik
+
+896.089.633
+
+718.499.532
+
+Yurt dışı
+
+203.658.706
+
+194.369.177
+
+Toplam
+
+1.099.748.339
+
+912.868.709
+
+Mackolik
+
+Yurt dışı
+
+%81
+
+%79
+
+28
+--- Page 35 ---
+GÜÇLÜ FİNANSAL YAPI - BİLANÇO
+
+KAR VEYA ZARAR
+TABLOSU
+
+Sermaye  Piyasası  Kurulu’nun  28/12/2023  tarihli  Kararı’na 
+uygun  olarak  Türkiye  Muhasebe/  Finansal  Raporlama 
+Standartlarını  uygulayan  Şirketimizin  TMS  29  hükümlerine 
+göre  enflasyon  muhasebesi  uygulanmış  finansal  verileri 
+esas alınmıştır.
+
+Yuvarlama sebebiyle toplamlar farklılık gösterebilir.
+
+Nakit ve Nakit Benzerleri
+
+Toplam Varlıklar
+
+Dönen varlıklar
+
+Duran varlıklar
+
+Toplam Yükümlülükler
+
+KV Yükümlülükler
+
+UV Yükümlülükler
+
+Özkaynaklar
+
+Likidite Oranları
+
+Cari Oran
+
+Nakit Oran
+
+Borçluluk Oranları
+
+Kaldıraç Oranı
+
+Borç Özkaynak Oranı
+
+32.12.2025
+
+31.12.2024
+
+106.6
+
+913.2
+
+538.2
+
+375.0
+
+221.8
+
+189.6
+
+32.1
+
+691.4
+
+2.8
+
+0.6
+
+24%
+
+32%
+
+131.8
+
+704.1
+
+517.3
+
+186.8
+
+115.5
+
+92.1
+
+23.3
+
+588.6
+
+5.6
+
+1.4
+
+16%
+
+20%
+
+NET NAKİT
+106.6 mn TL
+
+TOPLAM VARLIK
+913.2 mn TL
+
+ 55 mn TL dağıtılan temettü ve 108.4 mn TL
+geri alım programı sonrası nakit durumu
+
+Ağırlıklı kısmı dönen varlıklardan oluşan
+kuvvetli varlık yapısı
+
+ÖZKAYNAKLAR
+691.4 mn TL
+
+Güçlü özkaynak yapısı
+
+29
+--- Page 36 ---
+GÜÇLÜ FİNANSAL YAPI - GELİR TABLOSU
+
+Hasılat
+
+Brüt kar
+
+Faaliyet Karı
+
+FAVÖK
+
+Net Kar
+
+Karlılık Oranları
+
+Brüt Kar Marjı
+
+Faaliyet Kar Marjı
+
+FAVÖK Marjı
+
+Net Kar Marjı
+
+KAR VEYA ZARAR
+TABLOSU
+
+Sermaye  Piyasası  Kurulu’nun  28/12/2023  tarihli  Kararı’na 
+uygun  olarak  Türkiye  Muhasebe/  Finansal  Raporlama 
+Standartlarını  uygulayan  Şirketimizin  TMS  29  hükümlerine 
+göre  enflasyon  muhasebesi  uygulanmış  finansal  verileri 
+esas alınmıştır.
+
+Yuvarlama sebebiyle toplamlar farklılık gösterebilir.
+
+01.01-
+31.12.2025
+
+01.01-
+31.12.2024
+
+1,099.7
+
+756.6
+
+532.8
+
+602.9
+
+321.6
+
+69%
+
+48%
+
+55%
+
+29%
+
+912.9
+
+636.5
+
+471.6
+
+524.0
+
+334.3
+
+70%
+
+52%
+
+57%
+
+37%
+
+%20
+CİRO ARTIŞI
+
+%19
+BRÜT KAR
+
+602.9 mn TL
+FAVÖK
+
+Geçtiğimiz döneme göre %20 ciro artışı
+
+Geçtiğimiz döneme göre %19 brüt karda büyüme
+
+FAVÖK’te %15 büyüme
+
+30
+--- Page 37 ---
+BAĞIMSIZ DENETÇİ
+
+RAM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.
+
+Sorumlu Denetçi
+
+Ömer Çekiç
+
+Adres
+
+Telefon
+
+Faks
+
+Maslak Mahallesi,Taşyoncası Sokak, Maslak 1453 Sitesi T4 Blok, No:1U, İç Kapı No:B40, Sarıyer/İstanbul
+
+0 (212) 803 36 60
+
+0 (212) 809 51 01
+
+İnternet Adresi
+
+www.ramdenetim.com
+
+Üyesi Olunan Profesyonel Meslek Kuruluşları
+
+İstanbul Serbest Muhasebeci Mali Müşavirler Odası SW International
+
+19.02.2025 tarihinde gerçekleşen Şirket Yönetim Kurulu Toplantısı’nda, Genel Kurul’un onayına sunulmak üzere 2026 yılına yönelik hesap dönemi için 
+Bağımsız Denetim Şirketi olarak Ram Bağımsız Denetim ve Danışmanlık Anonim Şirketi önerilmiştir. 
+
+31
+--- Page 38 ---
+İLİŞKİLİ TARAFLARA YAPILAN SATIŞ, ALIŞ VE İŞLEMLER
+
+Satışlar
+
+Onedio Bilişim Yazılım Medya Teknoloji ve Sanayi Ticaret A.Ş.
+
+Faiz Gelirleri
+
+Mediazz Yeni Medya ve Teknoloji Yatırımları Anonim Şirketi
+
+Vade Farkı Gelirleri
+
+Onedio Bilişim Yazılım Medya Teknoloji ve Sanayi Ticaret A.Ş.
+
+Alışlar
+
+Mediazz Yeni Medya ve Teknoloji Yatırımları Anonim Şirket
+
+Mediazone Oyun Teknolojileri Anonim Şirketi
+
+FC Dordrecht Betaald Voetbal BV
+
+Respect Dijital Yayıncılık Anonim Şirketi
+
+01.01-
+31.12.2025
+
+01.01-
+31.12.2024
+
+62.7
+
+103.2
+
+4.1
+
+6.5
+
+3.2
+
+2.4
+
+0.5
+
+60.1
+
+47.9
+
+-
+
+3.6
+
+-
+
+3.1
+
+-
+
+İlişkili taraflarla yapılan diğer işlemlere bağımsız denetim raporunun 6 numaralı dipnotunda yer verilmektedir
+
+Ana Ortaklık Şirket, %51 oranında pay sahibi olan Mediazz Yeni Medya ve Teknoloji Yatırımları Anonim Şirketi’ne 31 Aralık 2025 dönemi iti-
+barıyla toplam 223.000.000 TL tutarında borç vermiştir.Ana Ortaklık Şirket, toplam 223.000.000 TL tutarındaki ana para alacağına, 01 
+Ocak –  31 Aralık 2025 tarih aralığında, %49, %50, %52, %53, %54, %55 oranlarında faiz uygulamıştır. (01 Ocak – 31 Aralık 2024: %40, %46, 
+%51 ve %55)
+
+32
+--- Page 39 ---
+DİĞER
+HUSUsLAR
+
+33
+--- Page 40 ---
+dİğer hususlar
+
+KOMİTELER VE POLİTİKALAR
+Şirket  Yönetim  Kurulu  bünyesinde,  Sermaye  Piyasası  Kurulu’nun  II-17.1  sayılı 
+Kurumsal  Yönetim  Tebliği  ekinde  yer  alan  Kurumsal  Yönetim  İlkeleri’ne  uyum 
+kapsamında Denetimden Sorumlu Komite, Riskin Erken Saptanması Komitesi ve 
+Kurumsal Yönetim Komitesi bulunmaktadır. Komite üyeleri belirlenirken Kurumsal 
+Yönetim  İlkeleri’ne  uyumda  azami  özen  gösterilmiş;  tüm  komite  başkanlarına 
+bağımsız yönetim kurulu üyeleri getirilmiştir.
+İlgili  komiteler  ve  çalışma  esaslarına  Kamuyu  Aydınlatma  Platformu  üzerinden 
+https://www.kap.org.tr/tr/Bildirim/1123167  ve  Şirket’in  resmi  yatırımcı  ilişkileri 
+sayfasından https:// yatirimci.mackolik.com/?page_id=3557 ulaşılabilir. 
+
+AR – GE ÇALIŞMALARI
+Şirket  bünyesinde  netleşen  bir  ar-ge  çalışması  olmamakla  birlikte,  ilerleyen 
+dönemlerde yaşanan gelişmeler kamuoyu ile paylaşılacaktır. 
+
+MEVZUAT  HÜKÜMLERİNE  AYKIRI  UYGULAMALAR  NEDENİYLE  ŞİRKET  VE 
+YÖNETİM  ORGANI  ÜYELERİ  HAKKINDA  UYGULANAN  İDARİ  VEYA  ADLİ 
+CEZALAR
+Yoktur. 
+
+ŞİRKETİN İKTİSAP ETTİĞİ KENDİ PAYLARINA İLİŞKİN BİLGİLER
+Ana Ortaklık Şirket’in 03 Nisan 2025 ve 07 Mayıs 2025 tarihlerinde kamuoyuna 
+açıklamış olduğu “Payların geri alım işlemleri” çerçevesinde, Ana Ortaklık Şirket, 31 
+Aralık  2025  tarihi  itibarıyla  toplam  2.750.000  TL  tutarındaki  nominal  paylarını 
+108.074.936 TL karşılığında iktisap etmiştir. İlgili paylardan elde edilen 2.337.500 
+TL  tutarındaki  kâr  payı  gelirleri,  özkaynaklarda  “Geri  Alınmış  Paylar”  hesap 
+kaleminde raporlanmıştır. Konuyla ilgili detaylı bilgiye
+https://www.kap.org.tr/trBildirim/1448858 linki üzerinden ulaşılabilir.
+
+ŞİRKET ALEYHİNE AÇILAN VE ŞİRKETİN MALİ DURUMUNU VE FAALİYETİNİ 
+ETKİLEYEBİLECEK NİTELİKTEKİ DAVALAR
+Bu nitelikte bir dava yoktur.
+
+BAĞIŞ VE YARDIMLAR
+Şirket,  01.01.2025  –  31.12.2025  dönemi  içerisinde  1.188.429  TL  tutarında  bağış 
+yapmış  olup;  19.02.2025  tarihli  Yönetim  Kurulu  toplantısında,  gerçekleşecek  ilk 
+Genel Kurul’un onayına sunulmak üzere 2026 yılı için bağış üst limiti 3.000.000 TL  
+olarak belirlenmiştir. 
+
+KURUMSAL YÖNETİM VE SÜRDÜRÜLEBİLİRLİK
+Şirket  Kurumsal  Yönetim  Uyum  Raporu,  Kurumsal  Yönetim  Bilgi  Formu  ve 
+Sürdürülebilirlik Uyum Raporu Kamuyu Aydınlatma Platformu üzerinden yayım- 
+lanmış olup; ilgili raporlara https://www.kap.org.tr/tr/Bildirim/1403752 ,
+https://www.kap.org.tr/tr/Bildirim/1403754 ve
+https://www.kap.org.tr/tr/Bildirim/1403750 linkleri üzerinden ulaşılabilir.
+
+BİLANÇO DÖNEMİ SONRASINDA GERÇEKLEŞEN İŞLEMLER
+
+• Üst Düzey Yönetici Ataması
+02.01.2026 tarihinde Sayın Engin Kehale'nin Genel Müdür olarak atanması ned-
+eniyle  boşalan  COO  (Operasyondan  Sorumlu  Genel  Müdür  Yardımcısı)  po-
+zisyonuna  Sayın  Furkan  Nebioğlu  atanmıştır.  Konuyla  ilgili  KAP  bildirimine 
+https://www.kap.org.tr/tr/Bildirim/1532462 linki üzerinden ulaşılabilir.
+
+34
+--- Page 41 ---
+dİğer hususlar
+
+• Bağımsız Yönetim Kurulu Üye İstifası ve Ataması
+Bağımsız Yönetim Kurulu Üyesi Sayın İsmail Selim Akdoğan'ın, 05.09.2022 tari-
+hinden itibaren yürüttüğü Bağımsız Yönetim Kurulu Üyeliği'nden 16.01.2026 tarihi 
+itibarıyla  istifası  kabul  edilmiş  olup;  yerine  görev  süresi  sonuna  kadar  ve 
+gerçekleşecek  ilk  genel  kurulun  onayına  sunulmak  üzere  Sayın  Alise  Lize 
+Karaboğa Kaptan'ın atanmasına karar verilmiştir. . Konuyla ilgili KAP bildirimine 
+https://www.kap.org.tr/tr/Bildirim/1544359 linki üzerinden ulaşılabilir.
+
+DİĞER RİSKLER İLE İLGİLİ TESPİT VE DEĞERLENDİRMELER  
+
+• Şirketin sermayesinin karşılıksız kalma veya Şirketin borca batıklık durumu ya da 
+
+riski bulunmamaktadır. 
+
+• Şirketin gelirlerinin önemli bir kısmının reklam gelirlerinden oluşması nedeniyle 
+reklam  gösterimlerine  yönelik  regülasyonlara  dayalı  operasyonel  riski 
+bulunmaktadır..
+
+tarih  33167 
+
+sayılı  Resmi  Gazete'de  yayımlanan 
+
+• Reklam Gösterimleri
+"Spor 
+13.02.2026 
+Müsabakalarına  Dayalı  Sabit  İhtimalli  ve  Müşterek  Bahis  Oyunları  Uygulama 
+Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik" ile Spor Müsabakalarına 
+Dayalı  Sabit  İhtimalli  ve  Müşterek  Bahis  Oyunları  Uygulama  Yönetmeliği'nin  31. 
+Maddesinin  birinci  fıkrasının  (e)  bendinin  "Sabit  ihtimalli  ve  müşterek  bahis 
+oyunlarına ilişkin pazarlama ve tanıtım gibi faaliyetler 18 yaşından küçükleri oyun 
+oynatmaya  teşvik  amacı  taşımaması,  toplumun  değerlerini  zedelememesi  ve 
+sporla  ilgili  mecralarla  sınırlı  olması  şartı  ile  yasa  dışı  bahisle  mücadeleyi 
+desteklemek,  güvenli  bir  oyun  alanı  sunmak  ve  kamusal  faydayı  arttırmak 
+amacıyla  Teşkilat  tarafından  sanal  ortam  bayilerine  yaptırılabilir."  şeklinde 
+güncellenmesi  üzerine  18.02.2026  tarihi  itibarıyla  Sabit  İhtimalli  ve  Müşterek 
+Bahis  Oyunları'na  ilişkin  reklamların  gösterimi  yeniden  uygulamaya  alınmıştır. 
+Konuyla ilgili KAP bildirimine https://www.kap.org.tr/tr/Bildirim/1558179  linki 
+üzerinden ulaşılabilir.
+
+35

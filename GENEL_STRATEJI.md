@@ -55,7 +55,7 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 
 #### SISE (Şişecam)
 *   **HÜKÜM:** KADEMELİ AL
-*   **GEREKÇE:** 2025/09 finansal sonuçları, yatırım tezini **güçlü bir şekilde teyit etmiştir.** Şirket, küresel yavaşlamaya bağlı olarak net satışları %11 düşmesine rağmen, olağanüstü maliyet kontrolü ve operasyonel verimlilik sayesinde **Brüt Kâr Marjını %23'ten %28'e, FAVÖK Marjını ise %8'den %11'e yükseltmiştir.** Bu performans, Rekabet Kurulu cezasının yarattığı belirsizliği tamamen ortadan kaldırmış ve şirketin bu tek seferlik yükü rahatlıkla yönetebileceğini göstermiştir.
+*   **GEREKÇE:** 2025 Yıl Sonu (12A) sonuçları, "marj devrimi" tezini teyit etmiştir. Reel cirodaki %7,6'lık düşüşe rağmen; Brüt Kârın %12,7, FAVÖK'ün %32 ve Net Kârın %50 artması, olağanüstü bir operasyonel verimliliğe işaret etmektedir. ABD'deki Pacific Soda hisselerinin %100'e çıkarılması ve 2026 başında devreye alınan Macaristan/Bulgaristan tesisleri, büyüme hikayesini desteklemektedir. Nakit pozisyonundaki düşüşe rağmen, stratejik yatırımlar ve operasyonel güç güven vermektedir.
 
 #### ASELS (Aselsan)
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
@@ -74,8 +74,13 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **GEREKÇE:** Spekülatif "yeniden yapılanma" tezi, 2025/09 sonuçlarıyla **güçlenerek teyit edilmiştir.** Holdingin en zayıf halkası olan Malzeme Teknolojileri segmentinde kârlılıktaki sert düşüş durmuş, segmentin ve bankacılığın desteğiyle holding konsolide olarak yeniden net kâra geçmiştir.
 
 #### TUPRS
+<<<<<<< HEAD
 *   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
 *   **GEREKÇE:** 2025 yıl sonu finansal sonuçları, şirketin "Nakit Kraldır" tezini kanıtlar niteliktedir. Net kârın 29.5 Milyar TL'ye yükselmesi ve kasanın 107 Milyar TL nakitle dolu olması, hem güçlü temettü beklentisini hem de stratejik yatırımları (Romanya Güneş Enerjisi alımı gibi) desteklemektedir. Cirodaki düşüşe rağmen kârlılığın artması, operasyonel ve finansal yönetimin başarısıdır.
+=======
+*   **HÜKÜM:** GÜÇLÜ AL / TEMETTÜ PORTFÖYÜ
+*   **GEREKÇE (17.02.2026):** 2025 yılı sonuçları, 7,0 $/varil ile beklentileri aşan rafineri marjı ve toplamda hisse başı ~17,13 TL'lik temettü teklifi ile "Çekirdek Varlık" tezini perçinlemiştir. Nakit yaratma gücü ve stratejik dönüşüm yatırımları, hisseyi portföyün en güvenli limanlarından biri yapmaktadır.
+>>>>>>> eebe099f42ce3eda1c72fd992b4791b1af7e6148
 
 #### KORDS (Kordsa)
 *   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
@@ -103,19 +108,19 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **HÜKÜM:** ALIM İÇİN İZLE / ÇEKİRDEK VARLIK ADAYI
 *   **GEREKÇE:** Operasyonel kârlılığı, pazar liderliği, düşük halka açıklık oranı (%20) ve imtiyazlı hisse bulundurmaması gibi özellikleriyle stratejinin tüm kriterlerine uyan, çok güçlü ve sağlam bir "Çekirdek Varlık" tezi sunmaktadır. Portföye eklenmek üzere yakından izlenmektedir.
 
-#### ENKAI (Enka İnşaat)
-*   **HÜKÜM:** ALIM İÇİN İZLE / GÜÇLÜ ÇEKİRDEK VARLIK ADAYI
-*   **GEREKÇE:** 5.8 Milyar Dolarlık net nakit pozisyonu, kusursuz kurumsal yönetimi ve 8.7 Milyar Dolarlık sipariş bakiyesi ile ideal bir "Çekirdek Varlık" adayıdır. Nakit akışının kral olduğu mevcut konjonktür için en uygun hisselerden biri olarak alım için takip edilmektedir.
-
 #### FORTE (Forte Teknoloji)
 *   **HÜKÜM:** ALINDI (625 Lot) / SPEKÜLATİF
 *   **GEREKÇE:** Şirketin temel verileri (negatif nakit akışı, operasyonel zarar, imtiyazlı paylar) strateji kriterlerini karşılamasa da; **GİB (Gelir İdaresi Başkanlığı) ihalesinin kazanılması beklentisi** nedeniyle kısa vadeli/spekülatif bir pozisyon açılmıştır. Hedef, ihalenin katalizör etkisiyle oluşabilecek x2 getiri potansiyelidir. İhale süreci yakından takip edilecektir.
 
+#### ARDYZ (ARD Grup Bilişim)
+*   **HÜKÜM:** POTANSİYEL AL / YAKIN TAKİP (İntron Birleşmesi Hikayesi)
+*   **GEREKÇE:** 30.12.2025'te tamamlanan İntron Bilişim birleşmesi, şirketin ciro ve kâr hacmini efektif olarak ikiye katlamıştır. Resmi bilançoda (541 Milyon TL Net Kâr) bu etki tam görülmese de, Yönetim'in sunduğu **"Proforma" (Birleşmiş) tablolar 7.56 Milyar TL Ciro ve 1.19 Milyar TL Net Kâr** işaret etmektedir. Bu "gizli değer", hissenin çarpanlarını (Proforma F/K: ~12.3x) teknoloji sektörü için çok cazip hale getirmektedir. Avrupa sanayi riskinden kaçınmak için "Teknoloji" sektörüne geçiş stratejisine (BDY Fonu mantığı) tam uymaktadır. Ancak yüksek ticari alacaklar (2.88 Milyar TL) nedeniyle nakit akışı yakından izlenmelidir.
+
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
-#### BRISA -> ENKAI Rotasyonu (Planlama Aşamasında)
-*   **STRATEJİ:** Portföy kalitesini artırmak amacıyla, "Uydu" listedeki **BRISA** pozisyonunun kapatılarak, buradan elde edilecek fon ile "Güçlü Çekirdek Varlık Adayı" olan **ENKAI** pozisyonunun açılması düşünülmektedir.
-*   **GEREKÇE:** Bu rotasyon, kârlılığı belirsiz ve net zarar açıklayan (BRISA) bir pozisyondan çıkıp, yerine milyarlarca dolarlık net nakde, net bir büyüme hikayesine ve kusursuz kurumsal yönetime sahip (ENKAI) bir şirkete geçişi sağlayacaktır. Bu hamle, "Dinamik Portföy Yönetimi" ilkesiyle uyumludur ve portföyün risk/getiri profilini önemli ölçüde iyileştirme potansiyeli taşımaktadır.
+#### BRISA/KORDSA -> AGESA Rotasyonu (Şarta Bağlı)
+*   **STRATEJİ:** **BRISA** ve **KORDSA**'nın gelecek finansal ve faaliyet raporları beklenmektedir. Eğer bu raporlar beklentilerin altında kalır veya olumsuz bir görünüm sergilerse, bu pozisyonların kapatılarak **AGESA**'ya dönüştürülmesi planlanmaktadır.
+*   **GEREKÇE:** AGESA'nın son finansal sonuçlarıyla teyit edilen olağanüstü performansı, sağlık sigortacılığına girişi ve güçlü nakit akışı, onu portföy için çok daha cazip bir "Çekirdek Varlık" haline getirmiştir. BRISA veya KORDSA'daki olası zayıflıklar, sermayenin daha verimli kullanılacağı AGESA'ya aktarılması için bir fırsat olarak değerlendirilecektir.
 
 ### D) Portföyden Çıkarılan Varlıklar
 
@@ -168,11 +173,27 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
     2.  **Düşük Petrol Ağırlığı:** Diğer rakiplerine (TGE, KIF) kıyasla enerji ve petrol ağırlığının minimize edilmiş olması.
     3.  **ALTIN.S1 Hassasiyeti:** Piyasa fiyatının üzerinde primli işlem gören "Darphane Altın Sertifikası (ALTIN.S1)" yerine, daha likit ve net aktif değerine yakın işlem gören ETF'leri (GLDTR) tercih etmesi.
 
+#### FMG (QNB Portföy Gümüş Serbest Fon)
+*   **HÜKÜM:** AL / PORTFÖYE EKLE
+*   **GEREKÇE:** Portföyün gümüş bacağını güçlendirmek amacıyla 12 gümüş fonunun portföy dağılım raporları ve yönetim ücretleri karşılaştırmalı olarak analiz edilmiş, FMG en uygun fon olarak seçilmiştir. Seçim kriterlerinde belirleyici olan faktörler şunlardır:
+    1.  **En Yüksek Fiziksel Gümüş Oranı:** Portföyünün %51,65'ini fiziksel gram gümüş (GÜMÜŞ-TL ve GÜMÜŞ-TL 9999, toplam ~79.570 gram) olarak tutmasıyla, ETF'ler üzerinden dolaylı yoldan gümüşe yatırım yapan rakiplerinden (GMC %0, GTZ %0, GUK %0) net biçimde ayrışmaktadır. En yakın rakibi GMI (%57,62) daha yüksek fiziksel gümüş taşısa da, yönetim ücreti %2,50 ile belirgin şekilde pahalıdır.
+    2.  **Makul Yönetim Ücreti:** %2,00'lik yıllık yönetim ücreti, fiziksel gümüş taşıyan fonlar arasında en iyi fiyat/performans dengesini sunmaktadır. En düşük ücretli FPG (%1,75) yalnızca %27 fiziksel gümüş taşırken, FMG yarı yarıya fiziksel gümüşle sadece %0,25 daha yüksek ücret almaktadır.
+    3.  **En Yüksek 1 Yıllık Getiri:** %199,69 ile 12 gümüş fonu arasında en yüksek 1 yıllık getiriyi sağlamıştır.
+    4.  **Dengeli Portföy Yapısı:** Fiziksel gümüşün yanı sıra GMSTR BYF (%26,41) ve SLV ETF (%2,09) ile desteklenen çeşitlendirilmiş bir yapıya sahiptir.
+
 ### F) Fon Stratejileri (Hisse Senedi Odaklı)
 
 #### BDY (Ak Portföy BIST 100 Dışı Şirketler Hisse Senedi Fonu)
 *   **HÜKÜM:** ALIM İÇİN İZLE / PORTFÖYE EKLE
 *   **GEREKÇE:** Avrupa pazarına yönelik ihracat ağırlıklı sanayi şirketlerinden kaçınma ve "Hizmet/Teknoloji" sektörüne odaklanma stratejisi doğrultusunda seçilmiştir. GOH gibi rakiplerinin aksine portföyünde Otomotiv veya Çimento gibi sanayi ağırlığı yerine; **MACKO, HTTBT, LOGO, ARDYZ** gibi teknoloji/yazılım ve **LIDER, NTHOL** gibi hizmet sektörü hisselerini barındırması, hedeflenen "sanayi riskinden korunma" temasını en iyi yansıtan özellikleridir.
+
+#### DTL (Deniz Portföy BIST 100 Dışı Şirketler Hisse Senedi Fonu)
+*   **HÜKÜM:** AL / PORTFÖYE EKLE
+*   **GEREKÇE:** 10 adet BIST 100 Dışı hisse senedi fonunun portföy dağılımları, yatırım stratejisiyle uyum skoru, yönetim ücretleri ve sanayi/GYO riski karşılaştırmalı olarak analiz edilmiş; DTL en uygun fon olarak seçilmiştir. Seçim kriterlerinde belirleyici olan faktörler şunlardır:
+    1.  **En Yüksek Net Uyum Skoru (5.8):** Sanayi ve GYO şirketleri negatif kritere dahil edildiğinde, DTL açık ara lider konumdadır (2. sıra BDY: 3.9, 3. sıra ZJL: 2.3). Hedeflenen 7 hisseden 5'ini portföyünde taşımaktadır: **AGESA** (%5,11), **AYGAZ** (%3,05), **KLKIM** (%3,04), **ORGE** (%2,73) ve **LOGO** (%2,56).
+    2.  **En Düşük Yönetim Ücreti (%2,75):** BDY (%3,30), GOH (%3,20) ve YHB (%3,00) gibi rakiplerine kıyasla en ucuz fondur. Skor/ücret oranı (2.11) ile de en iyi fiyat/performans dengesini sunmaktadır.
+    3.  **Düşük Sanayi/GYO Riski:** Sanayi ve GYO maruziyeti sadece OZKGY (%3,10) ile sınırlıdır. YHB'nin BOBET (%8,01), AKSGY (%4,26), OZKGY (%5,46), ZERGY (%2,72) gibi ağır pozisyonlarıyla kıyaslandığında çok daha temiz bir portföy yapısı sunmaktadır.
+*   **RİSK NOTU:** Fonun TRGYO (%4,68) ve TKNSA (%2,92) taşıması izlenmelidir. Ancak bu toplam negatif ağırlık (%7,60), pozitif ağırlığın (%16,49) çok altındadır.
 
 #### MTH (MT Portföy Birinci Hisse Senedi Fonu)
 *   **HÜKÜM:** İZLE / PORTFÖYE EKLEME

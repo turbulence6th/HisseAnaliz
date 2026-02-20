@@ -1,19 +1,38 @@
-# TUPRS – 2025 Yıllık (4Ç) Finansal Rapor Analizi ve Strateji
+# TUPRS – 2025 Yıllık Entegre Faaliyet Raporu Analizi ve Temettü Stratejisi
 
-Bu not, Tüpraş'ın 6 Şubat 2026'da açıklanan 2025 yıl sonu (4Ç) finansal sonuçlarını analiz etmekte ve "POZİSYON GÜÇLENDİR / AL" stratejisini teyit etmektedir.
+**Tarih:** 17 Şubat 2026
+**Rapor:** 2025 Yılı Entegre Faaliyet Raporu (12 Aylık) ve Finansal Sonuçlar
 
-## 2025 Yıllık Rapor Analizi: Güçlü Nakit, Stratejik Dönüşüm ve Artan Net Kâr
-Şirket, cirodaki düşüşe rağmen net kârını artırmayı başarmış ve bilançosunu devasa bir nakit pozisyonuyla güçlendirmiştir. Enflasyon muhasebesi (TMS 29) uygulanmış sonuçlar, şirketin reel büyüme ve değer yaratma kapasitesini koruduğunu göstermektedir.
+Tüpraş'ın 2025 yılı sonuçları, hem finansal başarıyı hem de stratejik dönüşümdeki kararlılığı ortaya koymaktadır. 3. çeyrekte yukarı revize edilen beklentilerin de üzerine çıkan operasyonel performans ve açıklanan **33 Milyar TL'lik temettü teklifi**, şirketin "Çekirdek Varlık" statüsünü perçinlemiştir.
 
-### Öne Çıkanlar
-1.  **NET KÂR BÜYÜMESİ:** 2024 yılında 23.9 Milyar TL olan net dönem kârı, 2025 yılında **29.5 Milyar TL'ye** yükselmiştir (%23 artış). Hasılat düşüşüne rağmen net kârın artması, finansman gelirlerinin ve vergi yönetiminin katkısını göstermektedir.
-2.  **GÜÇLÜ NAKİT POZİSYONU:** Nakit ve nakit benzerleri yıl sonunda **107.2 Milyar TL** seviyesine ulaşmıştır (2024: 96.2 Milyar TL). Net nakit pozisyonu, temettü verimliliği ve yeni yatırımlar için büyük bir güvence oluşturmaktadır.
-3.  **STRATEJİK YATIRIMLAR (Sıfır Karbon):** Romanya'daki güneş enerjisi şirketleri (Eco Sun ve Euromec) satın alınarak "Stratejik Dönüşüm Planı" kapsamında somut adımlar atılmıştır. Bu satın alma, şirketin sadece bir rafineri değil, bir enerji şirketine dönüşümünü hızlandırmaktadır.
-4.  **HASILAT DARALMASI:** Hasılat, petrol fiyatlarındaki değişimler ve kur etkisiyle 1.06 Trilyon TL'den **830.3 Milyar TL'ye** gerilemiştir. Ancak brüt kâr marjı korunmaya çalışılmıştır.
-5.  **FAALİYET NAKİT AKIŞI:** İşletme faaliyetlerinden sağlanan nakit akışı **49.5 Milyar TL** olarak gerçekleşmiş, güçlü nakit yaratma kabiliyeti devam etmiştir.
+## Öne Çıkan Gelişmeler ve Analiz
 
-### Değerlendirme ve Strateji
-Sonuçlar, TUPRS'un nakit zengini, temettü şampiyonu adayı ve dönüşüm hikayesi olan bir "Çekirdek Varlık" olduğunu bir kez daha kanıtlamıştır. Cirodaki düşüş konjonktüreldir, ancak kârlılık ve nakit akışı yapısal gücü yansıtmaktadır. Strateji **"GÜÇLÜ AL"** olarak devam etmektedir.
+### 1. Beklentileri Aşan Rafineri Marjı
+*   **Gerçekleşen:** Şirket, 2025 yılını **7,0 $/varil** net rafineri marjı ile tamamlamıştır.
+*   **Analiz:** 3. çeyrekte 6-6,5 $/varil aralığına yükseltilen beklentinin de üzerinde gelen bu sonuç, operasyonel verimliliğin gücünü göstermektedir.
+
+### 2. Güçlü Temettü (Kâr Payı) Teklifi
+Yönetim Kurulu, toplam 33 Milyar TL nakit temettü dağıtılmasını önermiştir. Ödeme iki taksit halinde yapılacaktır:
+*   **1. Taksit:** ~10,38 TL Brüt (Mart 2026)
+*   **2. Taksit:** ~6,75 TL Brüt (Eylül 2026)
+*   **Toplam:** Hisse başı brüt **~17,13 TL**.
+
+### 3. Finansal Güç ve Nakit Akışı (Enflasyon Muhasebeli)
+*   **Net Kâr:** Ana ortaklık paylarına düşen net kâr, 2024'teki 23,9 Milyar TL'den **29,5 Milyar TL**'ye yükselmiştir (%23 artış).
+*   **Nakit Pozisyonu:** Yıl sonu itibarıyla nakit ve nakit benzerleri **107,2 Milyar TL** seviyesine ulaşarak (2024: 96,2 Milyar TL) bilançoyu devasa bir likidite ile güçlendirmiştir.
+*   **Nakit Akışı:** İşletme faaliyetlerinden sağlanan nakit akışı **49,5 Milyar TL** olarak gerçekleşmiştir.
+*   **Satışlar:** Küresel petrol fiyatlarındaki normalleşme ile hasılat 830,3 Milyar TL'ye gerilese de kârlılık artırılmıştır.
+*   **Kapasite Kullanımı:** %93,6 gibi çok yüksek bir kapasite kullanım oranıyla çalışılmıştır.
+
+### 4. Stratejik Dönüşüm ve Yatırımlar
+Şirket, sadece bir rafineri değil, bir "enerji şirketi" olma yolunda somut adımlar atmaktadır:
+*   **Yenilenebilir Enerji:** Romanya'daki güneş enerjisi şirketleri (Eco Sun ve Euromec) satın alınmış ve Entek'in kurulu gücü 490 MW'a ulaşmıştır.
+*   **SAF (Sürdürülebilir Havacılık Yakıtı):** Üretim için UOP Ecofining teknolojisi lisans anlaşması imzalanmıştır.
+
+## Hüküm ve Strateji (AL / GÜÇLENDİR - Temettü Odaklı)
+Güçlü nakit pozisyonu, beklentileri aşan marjlar ve tatmin edici temettü politikası ile TUPRS, portföyün "Amiral Gemisi"dir.
+1.  **Strateji:** Mevcut pozisyonlar korunacak, temettü verimi ve "boşluk doldurma" beklentisiyle geri çekilmeler **alım fırsatı** olarak değerlendirilecektir.
+2.  **Hedef:** Temettü tarihine kadar hissede pozitif bir fiyatlama ve temettü sonrası "temettü boşluğunu doldurma" rallisi beklenmektedir.
 
 ---
 *Aşağıdaki notlar, geçmiş analizleri ve stratejik evrimi göstermek amacıyla arşivlenmiştir.*
@@ -38,53 +57,3 @@ Raporlar, şirketin sadece cirodaki düşüşe rağmen kârlılığını ve naki
 
 ## Hüküm ve Strateji (POZİSYON GÜÇLENDİR / AL - Güçlü Teyit)
 3Ç 2025 sonuçları, TUPRS'un portföydeki en sağlam "Çekirdek Varlık" statüsünü ve "POZİSYON GÜÇLENDİR / AL" stratejisinin doğruluğunu **tartışmasız bir şekilde teyit etmektedir**. Özellikle yukarı revize edilen marj beklentisi, hisse için önemli bir pozitif katalizör niteliğindedir. Strateji, piyasadaki herhangi bir geri çekilmeyi pozisyonu daha da güçlendirmek için bir alım fırsatı olarak görmeye devam etmektir.
-
----
-*Aşağıdaki notlar, geçmiş analizleri ve stratejik evrimi göstermek amacıyla arşivlenmiştir.*
----
-
-# TUPRS – 2Ç 2025 Faaliyet Raporu Analizi ve Strateji
-
-Bu not, Tüpraş'ın 2Ç 2025 faaliyet raporu sonuçlarını analiz etmekte ve bu veriler ışığında mevcut "MEVCUT POZİSYONU KORU & FIRSAT BEKLE" stratejisinin devamlılığını değerlendirmektedir.
-
-## 2Ç 2025 Faaliyet Raporu Analizi: Makro Baskı Altında Stratejik İlerleme
-Rapor, zayıflayan küresel ürün kârlılıkları ve düşen talep nedeniyle ciro ve operasyonel kârlılıkta bir gerileme yaşandığını, ancak şirketin yıl sonu beklentilerinde hiçbir değişikliğe gitmeyerek yılın ikinci yarısı için güçlü bir güven sinyali verdiğini göstermektedir.
-
-### Pozitifler
-1.  **Yıl Sonu Beklentilerinin Korunması:** En güçlü sinyal budur. İlk yarıda net rafineri marjının beklentinin (5-6 $/v) altında (4,7 $/v) kalmasına rağmen, yönetimin yıl sonu beklentilerini koruması, ikinci yarıda marjlarda toparlanma beklediklerini gösterir.
-2.  **Stratejik Dönüşüm Planı'nda Somut Adımlar:** Sürdürülebilir Havacılık Yakıtı (SAF), yeşil hidrojen ve sıfır karbonlu elektrik yatırımlarında somut ilerlemeler kaydedilmesi, uzun vadeli büyüme hikayesinin devam ettiğini teyit etmektedir.
-3.  **Yüksek Kapasite Kullanımı:** %90,3'lük kapasite kullanımı, rafinerilerin son derece verimli çalıştığını göstermektedir.
-4.  **Artan Net Kâr:** Operasyonel kârdaki düşüşe rağmen, net dönem kârının geçen yıla göre **7,2 Milyar TL'den 9 Milyar TL'ye yükselmesi**, etkin finansal yönetimi göstermektedir.
-
-### Negatifler / Riskler
-1.  **Zayıf Rafineri Marjları:** İlk 6 ayda gerçekleşen **4,7 $/v net rafineri marjı**, mevcut piyasa koşullarının kârlılığı baskıladığının en net göstergesidir.
-2.  **Düşen Net Satışlar ve Hacim:** Toplam satış hacminin **%5** gerilemesi, küresel talep zayıflığını yansıtmaktadır.
-3.  **Düşen Operasyonel Kârlılık (EBITDA):** EBITDA'nın **30,8 Milyar TL'den 25,2 Milyar TL'ye gerilemesi**, şirketin ana operasyonlarından elde ettiği kârın zayıfladığını göstermektedir.
-
-## Hüküm ve Strateji (MEVCUT POZİSYONU KORU & FIRSAT BEKLE)
-Faaliyet raporu, şirketin uzun vadeli stratejik dönüşümünü kararlılıkla sürdürdüğünü ve "Çekirdek Varlık" statüsünü koruduğunu göstermektedir. Ancak ilk yarıdaki zayıf marjlar ve operasyonel kârlılık, "Fırsat Bekle" stratejisinin doğruluğunu teyit etmektedir. Piyasadaki olası bir geri çekilme, ikinci yarı beklentileri güçlü olan bu şirkette pozisyon artırmak için değerlendirilecek bir fırsat olacaktır.
-
-## Potansiyel Katalistler
-
-*   **Ukrayna Savaşının Sona Ermesi:** Savaşın sona ermesi, küresel petrol piyasalarındaki risk primini ve anormallikleri azaltabilir. Bu durum, ham petrol tedarikini ve rafineri marjlarını daha öngörülebilir ve istikrarlı bir zemine oturtabilir. Belirsizliğin azalması, şirketin operasyonel planlaması için pozitif bir gelişmedir.
-
-## Strateji Değerlendirmesi ve Yeni Alım Planı (2 Eylül 2025)
-
-Piyasadaki genel düşüş ve `GENEL_STRATEJI.md`'de belirlenen proaktif "AL" kararı doğrultusunda, TUPRS için belirlenmiş olan derin düzeltme bekleme stratejisi güncellenmiştir. Önceki plan, mevcut fiyatlara göre çok muhafazakar kalmıştır.
-
-Yeni strateji, hissenin zirveye yakın seyrindeki geri çekilmeleri bir alım fırsatı olarak değerlendirmeyi hedefler. Bu, şirketin ikinci yarı beklentilerinin güçlü olması ve temettü verimi potansiyeli ile desteklenmektedir.
-
-### Kademeli Alım Planı (Revize: 19 Eylül 2025)
-- **Hüküm:** KADEMELİ AL
-- **Gerekçe (kısa):** Fiyatın eski alım planı seviyelerinin çok üzerine çıkmasıyla, mevcut güçlü trend içinde yeni giriş noktaları belirlemek amacıyla plan yukarı yönlü revize edilmiştir.
-- **DURUM:** BEKLEMEDE. Fiyatın 1. kademe alım bölgesine gerilemesi beklenmektedir.
-- **Seviyeler:**
-  - **1. Kademe (İlk Alım): 188.00 – 185.00 TL** (Mevcut fiyata yakın ara destek)
-  - **2. Kademe (Ana Alım): 180.00 – 177.00 TL** (Daha güçlü destek bölgesi)
-  - **3. Kademe (Güçlü Alım): 172.00 – 168.00 TL** (Ana trend desteği)
-  - **Risk Yönetimi (Alımı Durdur):** 165.00 TL altında günlük kapanış.
-
-### 10.833 TL (65.000 TL / 6) Bütçe ile Alım Planı
-- **1. Kademe (3.833 TL):** 188.00 – 185.00 TL aralığından alım.
-- **2. Kademe (4.000 TL):** 180.00 – 177.00 TL aralığına gerilerse ek alım.
-- **3. Kademe (3.000 TL):** 172.00 – 168.00 TL aralığına gerilerse son alım.

@@ -2,7 +2,11 @@ import requests
 import time
 import json
 from datetime import datetime
-import winsound  # Ses çalmak için eklendi
+import platform
+import os
+
+if platform.system() == "Windows":
+    import winsound  # Ses çalmak için eklendi
 
 # curl komutundan alınan cookie bilgileri.
 # DİKKAT: Bu çerezlerin bir son kullanma tarihi vardır.
@@ -35,6 +39,8 @@ headers = {
 
 # Daha önce ekrana yazdırılan raporların ID'lerini saklamak için bir set
 seen_disclosure_ids = set()
+# Aynı gün içinde aynı hisse için tekrar bildirim yapmamak için set
+seen_stock_day_reports = set()
 
 def get_financial_reports():
     """
@@ -76,7 +82,6 @@ def check_for_new_reports():
         return
 
     new_reports_found_this_run = False
-    seen_stock_day_reports = set() # Her kontrol döngüsünde sıfırlanır
 
     for report in reversed(disclosures):
         basic_info = report['disclosureBasic']
@@ -102,9 +107,14 @@ def check_for_new_reports():
     if new_reports_found_this_run:
         print("-"*50)
         # Yeni rapor(lar) bulunduğu için bir kez sesli bildirim ver
-        winsound.Beep(600, 200)  # Frekans: 600Hz, Süre: 200ms
-        time.sleep(0.05) # Notalar arası kısa bir duraklama
-        winsound.Beep(800, 250)  # Frekans: 800Hz, Süre: 250ms
+        if platform.system() == "Windows":
+            winsound.Beep(600, 200)  # Frekans: 600Hz, Süre: 200ms
+            time.sleep(0.05) # Notalar arası kısa bir duraklama
+            winsound.Beep(800, 250)  # Frekans: 800Hz, Süre: 250ms
+        elif platform.system() == "Darwin":
+            os.system('afplay /System/Library/Sounds/Glass.aiff')
+        else:
+            print('\a')
     else:
         print("Yeni bir rapor bulunamadı.")
 

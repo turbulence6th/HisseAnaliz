@@ -228,3 +228,4 @@ Betik, takip listesindeki hisseler için yeni bir rapor varsa indirir ve `hisse-
 # Gemini'ye Eklenen Hafıza Kuralları
 
 *   Finansal rapor analizi istendiğinde, raporu `GENEL_STRATEJI.md` belgesine göre değerlendir ve ardından ilgili hissenin `hisse-analiz` klasöründeki `.md` dosyasını güncelle.
+*   Al/sat tavsiyesi verirken güncel fiyattan F/K ve PD/DD oranlarını hesapla ve tavsiyeni bu çarpanlara da dayandır.

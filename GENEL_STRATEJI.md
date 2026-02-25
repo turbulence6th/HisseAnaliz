@@ -74,8 +74,13 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **GEREKÇE:** Spekülatif "yeniden yapılanma" tezi, 2025/09 sonuçlarıyla **güçlenerek teyit edilmiştir.** Holdingin en zayıf halkası olan Malzeme Teknolojileri segmentinde kârlılıktaki sert düşüş durmuş, segmentin ve bankacılığın desteğiyle holding konsolide olarak yeniden net kâra geçmiştir.
 
 #### TUPRS
+<<<<<<< HEAD
+*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
+*   **GEREKÇE:** 2025 yıl sonu finansal sonuçları, şirketin "Nakit Kraldır" tezini kanıtlar niteliktedir. Net kârın 29.5 Milyar TL'ye yükselmesi ve kasanın 107 Milyar TL nakitle dolu olması, hem güçlü temettü beklentisini hem de stratejik yatırımları (Romanya Güneş Enerjisi alımı gibi) desteklemektedir. Cirodaki düşüşe rağmen kârlılığın artması, operasyonel ve finansal yönetimin başarısıdır.
+=======
 *   **HÜKÜM:** GÜÇLÜ AL / TEMETTÜ PORTFÖYÜ
 *   **GEREKÇE (17.02.2026):** 2025 yılı sonuçları, 7,0 $/varil ile beklentileri aşan rafineri marjı ve toplamda hisse başı ~17,13 TL'lik temettü teklifi ile "Çekirdek Varlık" tezini perçinlemiştir. Nakit yaratma gücü ve stratejik dönüşüm yatırımları, hisseyi portföyün en güvenli limanlarından biri yapmaktadır.
+>>>>>>> eebe099f42ce3eda1c72fd992b4791b1af7e6148
 
 #### KORDS (Kordsa)
 *   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK

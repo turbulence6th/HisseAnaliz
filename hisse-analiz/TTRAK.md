@@ -1,33 +1,26 @@
-# TTRAK (Türk Traktör) - Finansal Analiz (27 Ekim 2025)
+# TTRAK (Türk Traktör) - Finansal Analiz (9 Şubat 2026)
 
-Bu analiz, şirketin 27 Ekim 2025 tarihinde KAP'ta yayınlanan 3Ç25 finansal raporunun tamamının incelenmesine ve `GENEL_STRATEJI.md` belgesindeki yatırım felsefesine dayanmaktadır.
+## 1. Yatırım Tezi
 
-## 1. Nihai Analiz ve Değerlendirme
+Türk Traktör, Türkiye traktör pazarındaki tartışmasız liderliği ve güçlü ihracat potansiyeliyle uzun yıllar "temettü şampiyonu" olarak portföylerin vazgeçilmezi olmuştur. Ancak, son dönemde yaşanan daralma, şirketin döngüsel bir krizin ötesinde yapısal zorluklarla karşı karşıya olup olmadığı sorusunu gündeme getirmektedir. Mevcut analiz, şirketin bu zorlu dönemi nasıl yönettiğini ve geleceğe dair sinyalleri değerlendirmeyi amaçlamaktadır.
 
-Raporun tamamı incelendiğinde, ilk bölümde tespit edilen olumsuzlukların daha da derinleştiği ve yapısal bir soruna işaret ettiği görülmektedir.
+## 2. Finansal Analiz (2025/12 Raporu)
 
-*   **Operasyonel Çöküş:**
-    *   **Satış Hacmi (Not 17):** Şirketin toplam traktör satış adetleri 2024'ün ilk 9 ayına göre **%41 oranında çökerek** 35,272 adetten 20,839 adede gerilemiştir. Bu çöküş hem yurt içi (%48 düşüş) hem de ihracat (%25 düşüş) pazarlarında yaşanmıştır. Ciro ve kârlılıktaki erimenin temel nedeni budur.
-    *   **Net Kâr (Gelir Tablosu):** İlk 9 ayda net kâr, geçen yılın aynı dönemine göre **%87 gibi ezici bir oranda azalarak** 6.8 milyar TL'den 916.7 milyon TL'ye düşmüştür.
+9 Şubat 2026 tarihinde açıklanan 2025 Yıl Sonu (Enflasyon Muhasebeli) finansal sonuçları, 3. çeyrekte görülen bozulmanın derinleşerek devam ettiğini teyit etmektedir:
 
-*   **Artan Finansal Risk (Not 24):**
-    *   **Kaldıraç Oranı:** Şirketin finansal sağlığının en önemli göstergelerinden olan **Net Finansal Borç / Toplam Kaynaklar** oranı, 2024 yıl sonunda %15.10 iken, 30 Eylül 2025 itibarıyla **%39.16'ya fırlamıştır.** Bu, şirketin borçluluğunun ve finansal riskinin endişe verici düzeyde arttığını göstermektedir.
-    *   **Finansman Giderleri (Not 20):** Artan borçluluk ve yüksek faiz ortamı, şirketin finansman giderlerini geçen yılın aynı dönemine göre iki kattan fazla artırarak 3.2 milyar TL'den 7.3 milyar TL'ye çıkarmıştır. Bu durum, operasyonel kârın büyük bir kısmının erimesine neden olmaktadır.
-    *   **Zayıflayan Özkaynaklar (Not 16):** Şirket, operasyonların bu kadar kötüye gittiği bir dönemde 5.5 milyar TL gibi devasa bir temettü dağıtarak özkaynaklarını önemli ölçüde zayıflatmıştır. Bu durum, mevcut finansal riskleri daha da artırmıştır.
+### Negatif Gelişmeler ve Riskler
 
-## 2. `GENEL_STRATEJI.md` Çerçevesinde Stratejik Karar
+*   **Satış Hacminde Sert Çöküş:** Traktör satış adetleri, geçen yıla göre **%39 azalarak** 44.490 adetten 27.023 adede gerilemiştir. Yurt içi satışlar %50, yurt dışı satışlar ise %12 oranında daralmıştır. Bu durum, cirodaki %39'luk reel düşüşün (87.6 Milyar TL'den 53.8 Milyar TL'ye) ana nedenidir.
+*   **Net Kârda Erime:** Net dönem kârı, **%94 gibi dramatik bir düşüşle** 7.5 Milyar TL'den 454 Milyon TL'ye gerilemiştir. Hisse başına kazanç 0,75 TL'den 0,04 TL'ye düşmüştür.
+*   **Artan Borçluluk:** Net Finansal Borç / Toplam Kaynaklar oranı %8,82'den **%22,08'e** yükselmiştir. Kısa vadeli finansal borçlar 10.1 Milyar TL'den 12.6 Milyar TL'ye çıkarken, nakit varlıklar 8.6 Milyar TL'den 6.7 Milyar TL'ye düşmüştür. Şirket net borç ödeyicisi konumundan net borçlanıcı konumuna geçmiştir.
+*   **Operasyonel Kârlılıkta Çöküş:** Brüt kâr marjı daralmış, Esas Faaliyet Kârı **%79 düşüşle** 9.9 Milyar TL'den 2.1 Milyar TL'ye inmiştir. Finansman giderleri %44 artarak 6.5 Milyar TL'ye ulaşmış ve faaliyet kârını eritmiştir.
 
-`GENEL_STRATEJI.md` belgesinde ana hatları çizilen yatırım felsefesi, operasyonel olarak zayıflayan, büyüme hikayesi sunamayan ve finansal riskleri artan varlıklardan uzak durmayı gerektirmektedir.
+### Pozitif Gelişmeler
 
-TTRAK, bu olumsuz özelliklerin tamamını bünyesinde barındırmaktadır:
-1.  Satışları ve kârlılığı çökmektedir.
-2.  Büyüme hikayesi sunmamaktadır.
-3.  Borçluluğu ve finansal riski hızla artmaktadır.
+*   Mevcut tabloda, sektördeki genel daralmanın da etkisiyle öne çıkan belirgin bir pozitif gelişme bulunmamaktadır. Şirketin pazar liderliğini koruması tek teselli kaynağıdır.
 
-Bu çerçevede TTRAK, portföy için bir "Çekirdek Varlık" adayı değildir. Hatta "Uydu/İzleme" listesi için dahi zayıf bir profildedir. Şirketin durumu, `GENEL_STRATEJI.md`'de belirtilen "Rotasyon Adayı" tanımına uymaktadır.
+## 3. Strateji
 
-## 3. Sonuç ve Karar
-
-**HÜKÜM: UZAK DUR / KESİNLİKLE ALMA**
-
-**GEREKÇE:** Türk Traktör, satışlarda ve kârlılıkta yaşadığı sert düşüş, hızla artan borçluluğu ve zayıflayan finansal yapısı nedeniyle mevcut konjonktürde portföy için kesinlikle uygun bir yatırım değildir. Şirketin karşılaştığı zorluklar döngüsel bir yavaşlamanın ötesinde, yapısal sorunlara işaret ediyor olabilir. Yatırım kararı almak için operasyonel performansında ve finansal tablolarında net ve kalıcı bir iyileşme görülmesi beklenmelidir. Mevcut durumda hisseye yatırım yapmak, "Dinamik Portföy Yönetimi" ve "Veriye Dayalı Karar" ilkelerine tamamen aykırı olacaktır.
+*   **HÜKÜM:** UZAK DUR / SAT
+*   **GEREKÇE:** TTRAK, 2025 yılı boyunca sergilediği performansla "Çekirdek Varlık" niteliğini kaybetmiştir. Satış hacmindeki %40'a varan daralma, kârlılıktaki %94'lük erime ve hızla artan borçluluk, şirketin finansal sağlığının ciddi şekilde bozulduğunu göstermektedir. Mevcut çarpanlar ve temettü verimi beklentisi, bu riskleri telafi edecek düzeyde değildir. Sektördeki toparlanma emareleri görülmeden ve şirket bilançosunu düzeltmeden yatırım yapmak yüksek risk taşımaktadır.
+*   **EYLEM PLANI:** Mevcut pozisyonlar, tepki yükselişlerinde satış fırsatı olarak değerlendirilerek kapatılmalı veya azaltılmalıdır. Sermaye, daha güçlü nakit akışı ve büyüme hikayesi sunan (örneğin AYGAZ, TCELL) hisselere kaydırılmalıdır.

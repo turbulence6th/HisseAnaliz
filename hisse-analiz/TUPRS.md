@@ -1,34 +1,37 @@
 # TUPRS – 2025 Yıllık Entegre Faaliyet Raporu Analizi ve Temettü Stratejisi
 
 **Tarih:** 17 Şubat 2026
-**Rapor:** 2025 Yılı Entegre Faaliyet Raporu (12 Aylık)
+**Rapor:** 2025 Yılı Entegre Faaliyet Raporu (12 Aylık) ve Finansal Sonuçlar
 
-Tüpraş'ın 2025 yılı sonuçları, 3. çeyrekte yukarı revize edilen beklentilerin de üzerine çıkarak şirketin operasyonel gücünü ve nakit yaratma kabiliyetini bir kez daha kanıtlamıştır. Açıklanan **33 Milyar TL'lik temettü teklifi**, "Çekirdek Varlık" tezimizin en önemli ayağı olan "yüksek nakit paylaşımı" beklentisini fazlasıyla karşılamıştır.
+Tüpraş'ın 2025 yılı sonuçları, hem finansal başarıyı hem de stratejik dönüşümdeki kararlılığı ortaya koymaktadır. 3. çeyrekte yukarı revize edilen beklentilerin de üzerine çıkan operasyonel performans ve açıklanan **33 Milyar TL'lik temettü teklifi**, şirketin "Çekirdek Varlık" statüsünü perçinlemiştir.
 
 ## Öne Çıkan Gelişmeler ve Analiz
 
 ### 1. Beklentileri Aşan Rafineri Marjı
 *   **Gerçekleşen:** Şirket, 2025 yılını **7,0 $/varil** net rafineri marjı ile tamamlamıştır.
-*   **Analiz:** 3. çeyrekte beklenti 6-6,5 $/varil aralığına yükseltilmişti. Yıl sonu gerçekleşmesinin bu aralığın da üzerinde (7,0 $) gelmesi, son çeyrekteki operasyonel verimliliğin ve ürün karlılıklarının tahminlerden güçlü olduğunu göstermektedir. Bu, hisse fiyatı için güçlü bir pozitif katalizördür.
+*   **Analiz:** 3. çeyrekte 6-6,5 $/varil aralığına yükseltilen beklentinin de üzerinde gelen bu sonuç, operasyonel verimliliğin gücünü göstermektedir.
 
 ### 2. Güçlü Temettü (Kâr Payı) Teklifi
-Yönetim Kurulu, genel kurula sunulmak üzere toplam 33 Milyar TL nakit temettü dağıtılmasını önermiştir. Ödeme iki taksit halinde yapılacaktır:
+Yönetim Kurulu, toplam 33 Milyar TL nakit temettü dağıtılmasını önermiştir. Ödeme iki taksit halinde yapılacaktır:
 *   **1. Taksit:** ~10,38 TL Brüt (Mart 2026)
 *   **2. Taksit:** ~6,75 TL Brüt (Eylül 2026)
 *   **Toplam:** Hisse başı brüt **~17,13 TL**.
-*   **Strateji:** Bu nakit akışı, portföydeki diğer fırsatları fonlamak veya TUPRS pozisyonunu bileşik getiri ile büyütmek için kullanılacaktır.
 
-### 3. Finansal Performans (Enflasyon Muhasebeli)
-*   **Net Kâr:** Ana ortaklık paylarına düşen net kâr, geçen yıla göre artarak **29,5 Milyar TL** seviyesinde gerçekleşmiştir (2024: 23,9 Milyar TL).
-*   **Satışlar:** Hasılat, küresel petrol fiyatlarındaki normalleşme ile %22 düşüşle 830 Milyar TL olmuştur. Buna rağmen kârlılığın artması, "marj yönetimi" başarısıdır.
+### 3. Finansal Güç ve Nakit Akışı (Enflasyon Muhasebeli)
+*   **Net Kâr:** Ana ortaklık paylarına düşen net kâr, 2024'teki 23,9 Milyar TL'den **29,5 Milyar TL**'ye yükselmiştir (%23 artış).
+*   **Nakit Pozisyonu:** Yıl sonu itibarıyla nakit ve nakit benzerleri **107,2 Milyar TL** seviyesine ulaşarak (2024: 96,2 Milyar TL) bilançoyu devasa bir likidite ile güçlendirmiştir.
+*   **Nakit Akışı:** İşletme faaliyetlerinden sağlanan nakit akışı **49,5 Milyar TL** olarak gerçekleşmiştir.
+*   **Satışlar:** Küresel petrol fiyatlarındaki normalleşme ile hasılat 830,3 Milyar TL'ye gerilese de kârlılık artırılmıştır.
 *   **Kapasite Kullanımı:** %93,6 gibi çok yüksek bir kapasite kullanım oranıyla çalışılmıştır.
 
-### 4. Stratejik Dönüşüm
-Sürdürülebilir Havacılık Yakıtı (SAF) üretimi için UOP Ecofining teknolojisi lisans anlaşması ve Entek'in yenilenebilir enerji portföyündeki büyüme (490 MW'a ulaşan kurulu güç), şirketin sadece bir petrol rafinerisi değil, bir "enerji şirketi"ne dönüşüm hikayesinin rayında gittiğini teyit etmektedir.
+### 4. Stratejik Dönüşüm ve Yatırımlar
+Şirket, sadece bir rafineri değil, bir "enerji şirketi" olma yolunda somut adımlar atmaktadır:
+*   **Yenilenebilir Enerji:** Romanya'daki güneş enerjisi şirketleri (Eco Sun ve Euromec) satın alınmış ve Entek'in kurulu gücü 490 MW'a ulaşmıştır.
+*   **SAF (Sürdürülebilir Havacılık Yakıtı):** Üretim için UOP Ecofining teknolojisi lisans anlaşması imzalanmıştır.
 
 ## Hüküm ve Strateji (AL / GÜÇLENDİR - Temettü Odaklı)
-2025 yılı raporu, TUPRS'un portföydeki "Amiral Gemisi" statüsünü perçinlemiştir.
-1.  **Strateji:** Mevcut pozisyonlar korunacak ve temettü verimiyle desteklenen bu güçlü yapı, olası piyasa düşüşlerinde **alım fırsatı** olarak değerlendirilmeye devam edilecektir.
+Güçlü nakit pozisyonu, beklentileri aşan marjlar ve tatmin edici temettü politikası ile TUPRS, portföyün "Amiral Gemisi"dir.
+1.  **Strateji:** Mevcut pozisyonlar korunacak, temettü verimi ve "boşluk doldurma" beklentisiyle geri çekilmeler **alım fırsatı** olarak değerlendirilecektir.
 2.  **Hedef:** Temettü tarihine kadar hissede pozitif bir fiyatlama ve temettü sonrası "temettü boşluğunu doldurma" rallisi beklenmektedir.
 
 ---

@@ -1,267 +1,313 @@
 # TKNSA (Teknosa İç ve Dış Ticaret A.Ş.) - Yatırım Analizi
 
-**Son Güncelleme:** 30 Ekim 2025
-**Analiz Edilen Dönem:** 2025/Q3 (30 Eylül 2025)
+**Son Güncelleme:** 24 Şubat 2026
+**Analiz Edilen Dönem:** 2025 Tam Yıl (31 Aralık 2025)
+**Kaynak:** Konsolide Finansal Rapor (24.02.2026) + Faaliyet Raporu (24.02.2026)
 
 ---
 
 ## 1. YATIRIM TEZİ
 
-### Ana Tez: **ÇOK YÜKSEK RİSK - YATIRIM YAPMA**
+### Ana Tez: **YATIRIM YAPMA / ÇOK YÜKSEK RİSK**
 
-Teknosa, Türkiye'nin önde gelen elektronik perakende zincirlerinden biri olmasına rağmen, **ciddi finansal zorluk** yaşamaktadır. Şirket, yapısal kârlılık sorunları, sürekli zarar, hızlı özkaynak erozyonu ve negatif operasyonel nakit akışı ile karşı karşıyadır.
+Teknosa, Türkiye elektronik perakende sektöründe köklü bir oyuncu olmasına rağmen **ağır finansal sıkıntı içindedir.** Şirket; artan net zarar, dramatik özkaynak erozyonu, patlayan kısa vadeli borçlanma ve daralan operasyon ağıyla kritik bir eşiğe yaklaşmaktadır. **Mevcut zarar temposunda özkaynakların 2026 sonunda negatife dönme riski mevcuttur.**
+
+Olumlu gelişmeler yok değil: FAVÖK arttı, işletme nakit akışı yılsonunda pozitife döndü, brüt marj iyileşti. Ancak bu gelişmeler net zararın artmasını engelleyemedi; özkaynak erozyonu dramatik hızda devam etti.
 
 **Temel Sorunlar:**
-- **Özkaynak Erozyonu:** Son 9 ayda özkaynak %45 eriyerek 2.853 milyon TL'den 1.559 milyon TL'ye gerilemiş
-- **Negatif Nakit Akışı:** İşletme faaliyetlerinden (459) milyon TL nakit çıkışı (2024: +3.260 milyon TL pozitif)
-- **Artan Borçlanma:** Kısa vadeli finansal borçlar 490 milyon TL'den 2.011 milyon TL'ye yükselmiş
-- **Likidite Krizi:** Cari oran 0.87 - kısa vadeli yükümlülükler dönen varlıkları aşıyor
-- **Daralan Operasyon:** 175 mağazadan 146'ya gerileme, personel sayısı 2.989'dan 2.495'e düşmüş
-- **Sürekli Zarar:** 9 ayda 1.285 milyon TL net zarar
+- **Özkaynak Çöküşü:** 2024 sonundaki 2.977 milyon TL'den 721 milyon TL'ye eridi (-%75.8)
+- **Aşırı Kaldıraç:** Toplam Yükümlülükler / Özkaynaklar = 29.86 (2024: 6.99)
+- **KV Borçlanma Patlaması:** 4.611 milyon TL (2024: 511 milyon TL → +%801)
+- **Süregelen Net Zarar:** -2.251 milyon TL (2024: -1.858 milyon TL → zarar arttı)
+- **Daralan Ağ:** 175 mağazadan 141'e; 2.989 personelden 2.514'e gerileme
+- **TTK 376 Riski:** Mevcut zarar temposunda 2026 özkaynakları negatife dönebilir
 
-**Mevcut durum:** Şirket bir "değer tuzağı" olarak değerlendirilmelidir. Düşük fiyatlama, temellerdeki ciddi sorunları gizlemektedir.
+**Tek Umut:** Sabancı Holding'in %50 + %50 ortaklığıyla şirkete teorik bir "implisit garanti" sağlaması ve gerektiğinde sermaye enjeksiyonu yapabilecek kapasitede olması.
 
 ---
 
-## 2. FİNANSAL PERFORMANS ANALİZİ (2025/Q3)
+## 2. FİNANSAL PERFORMANS ANALİZİ (2025 Tam Yıl)
 
-### 2.1. Gelir Tablosu Özeti (9 Aylık)
+> **Not:** Tüm finansallar TMS 29 (Finansal Raporlamada Hiperenflasyon) çerçevesinde 31.12.2025 satın alma gücüyle sunulmuştur.
 
-| **Kalem** | **2025/Q3** | **2024/Q3** | **Değişim** |
-|-----------|-------------|-------------|-------------|
-| **Net Satışlar** | 57.703 milyon TL | 63.209 milyon TL | **-8.7%** ❌ |
-| **Satışların Maliyeti** | (49.812) milyon TL | (55.559) milyon TL | -10.3% |
-| **Brüt Kâr** | 7.891 milyon TL | 7.650 milyon TL | +3.2% |
-| **Brüt Kâr Marjı** | **%13.7** | %12.1 | **+1.6 pp** ✅ |
-| **Pazarlama Giderleri** | (5.643) milyon TL | (6.134) milyon TL | -8.0% |
-| **Genel Yönetim Giderleri** | (912) milyon TL | (841) milyon TL | +8.4% ❌ |
-| **FAVÖK** | 2.755 milyon TL | 2.012 milyon TL | +36.9% ✅ |
-| **Finansman Giderleri (Net)** | (3.562) milyon TL | (4.039) milyon TL | -11.8% |
-| **Net Dönem Zararı** | **(1.285) milyon TL** | **(1.455) milyon TL** | Zarar %12 azaldı |
+### 2.1. Gelir Tablosu Özeti
+
+| **Kalem** | **2025 (Tam Yıl)** | **2024 (Tam Yıl)** | **Değişim** |
+|-----------|---------------------|---------------------|-------------|
+| **Hasılat** | 83.519 mln TL | 90.886 mln TL | **-%8.1** ❌ |
+| **Satışların Maliyeti** | (72.278) mln TL | (79.220) mln TL | -%8.8 |
+| **Brüt Kâr** | 11.241 mln TL | 11.667 mln TL | -%3.6 |
+| **Brüt Kâr Marjı** | **%13.5** | %12.8 | **+0.7 pp** ✅ |
+| **Pazarlama Giderleri** | (7.974) mln TL | (8.591) mln TL | -%7.2 ✅ |
+| **Genel Yönetim Giderleri** | (1.323) mln TL | (1.159) mln TL | **+%14.2** ❌ |
+| **Esas Faaliyet Zararı** | **(1.709) mln TL** | **(2.361) mln TL** | Zarar daraldı ✅ |
+| **FAVÖK (Şirket Tanımı)** | **4.208 mln TL** | **3.811 mln TL** | **+%10.4 (reel)** ✅ |
+| **FAVÖK Marjı** | **%5.0** | %4.2 | **+0.8 pp** ✅ |
+| **Finansman Giderleri (Net)** | (5.309) mln TL | (5.821) mln TL | -%8.8 ✅ |
+| **Net Parasal Poz. Kazancı** | +4.290 mln TL | +5.654 mln TL | -%24.1 |
+| **Vergi Öncesi Zarar** | **(2.626) mln TL** | **(2.205) mln TL** | Zarar arttı ❌ |
+| **Net Dönem Zararı** | **(2.251) mln TL** | **(1.858) mln TL** | **Zarar +%21.1** ❌ |
+| **Pay Başına Kayıp** | **-0.1120 TL** | **-0.0925 TL** | Kötüleşti ❌ |
 
 **Değerlendirme:**
-- ✅ Brüt kâr marjı %13.7'ye yükselmiş (fiyatlama gücü iyileşmesi)
-- ✅ FAVÖK artışı var (operasyonel verimlilikte iyileşme)
-- ❌ Satışlar %8.7 düştü (mağaza kapanışları + pazar payı kaybı)
-- ❌ Hala net zarar var, kârlılığa dönüş yok
-- ❌ Yüksek finansman giderleri (3.6 milyar TL) brüt kârı siliyor
+- ✅ Brüt kâr marjı %12.8 → %13.5 (fiyatlama ve maliyet disiplini)
+- ✅ FAVÖK reel %10 artışla 4.2 milyar TL'ye ulaştı, marj %5.0'a yükseldi
+- ✅ Finansman giderleri 512 milyon TL azaldı
+- ❌ Net Parasal Pozisyon Kazancı 1.4 milyar TL azaldı (enflasyon muhasebesinin TMS 29 etkisi)
+- ❌ Net zarar 2024'teki 1.858 mln TL'den 2.251 mln TL'ye çıktı
+- ❌ Hasılat %8.1 düştü; mağaza kapanışları + zor makro ortam
 
-### 2.2. Bilanço Özeti
+### 2.2. Bilanço Özeti (31 Aralık 2025)
 
-| **Varlıklar** | **30 Eyl 2025** | **31 Ara 2024** | **Değişim** |
+| **Varlıklar** | **31 Ara 2025** | **31 Ara 2024** | **Değişim** |
 |---------------|-----------------|-----------------|-------------|
-| **Nakit ve Nakit Benzerleri** | 1.600 milyon TL | 3.207 milyon TL | **-50.1%** ❌ |
-| **Ticari Alacaklar** | 1.929 milyon TL | 1.515 milyon TL | +27.3% |
-| **Stoklar** | 12.770 milyon TL | 13.402 milyon TL | -4.7% ✅ |
-| **Toplam Dönen Varlıklar** | 16.757 milyon TL | 18.318 milyon TL | -8.5% |
-| **Maddi Duran Varlıklar** | 1.203 milyon TL | 1.647 milyon TL | -27.0% |
-| **Kullanım Hakkı Varlıkları** | 1.895 milyon TL | 1.512 milyon TL | +25.3% |
-| **Toplam Varlıklar** | **21.893 milyon TL** | **22.798 milyon TL** | **-4.0%** |
+| **Nakit ve Nakit Benzerleri** | 2.474 mln TL | 3.346 mln TL | **-%26.1** ❌ |
+| **Ticari Alacaklar** | 987 mln TL | 1.437 mln TL | -%31.3 |
+| **Stoklar** | 12.508 mln TL | 13.986 mln TL | -%10.6 ✅ |
+| **Toplam Dönen Varlıklar** | 16.919 mln TL | 19.115 mln TL | -%11.5 |
+| **Kullanım Hakkı Varlıkları** | ~2.000 mln TL | ~1.600 mln TL | tahmini |
+| **Toplam Varlıklar** | **22.280 mln TL** | **23.791 mln TL** | **-%6.3** |
 
-| **Kaynaklar** | **30 Eyl 2025** | **31 Ara 2024** | **Değişim** |
+| **Kaynaklar** | **31 Ara 2025** | **31 Ara 2024** | **Değişim** |
 |---------------|-----------------|-----------------|-------------|
-| **Kısa Vadeli Finansal Borçlar** | 2.011 milyon TL | 490 milyon TL | **+310%** ❌ |
-| **Ticari Borçlar** | 15.703 milyon TL | 17.163 milyon TL | -8.5% ✅ |
-| **Kiralama Yükümlülükleri (Toplam)** | 1.425 milyon TL | 1.041 milyon TL | +36.9% |
-| **Toplam Yükümlülükler** | 20.334 milyon TL | 19.945 milyon TL | +2.0% |
-| **Özkaynak** | **1.559 milyon TL** | **2.853 milyon TL** | **-45.4%** ❌ |
+| **KV Borçlanmalar** | **4.611 mln TL** | **511 mln TL** | **+%801** ❌❌ |
+| &nbsp;&nbsp; - İlişkili taraf KV (SABİL) | 1.728 mln TL | — | Yeni |
+| &nbsp;&nbsp; - Finansman Bonoları | 2.429 mln TL | — | Yeni |
+| &nbsp;&nbsp; - Banka KV | 454 mln TL | 511 mln TL | |
+| **UV Borçlanmalar** | 953 mln TL | 589 mln TL | **+%61.7** ❌ |
+| **Ticari Borçlar** | 13.848 mln TL | 17.910 mln TL | -%22.7 ✅ |
+| **Kira Yükümlülükleri (Toplam)** | ~1.400 mln TL | ~1.200 mln TL | tahmini |
+| **Toplam Yükümlülükler** | 21.558 mln TL | 20.814 mln TL | +%3.6 |
+| **Geçmiş Yıl Zararları** | **(2.070) mln TL** | **(212) mln TL** | Dramatik erozyon |
+| **ÖZKAYNAKLAR** | **721 mln TL** | **2.977 mln TL** | **-%75.8** ❌❌❌ |
 
 **Kritik Gözlemler:**
-- ❌ **Özkaynak Erozyonu:** 9 ayda 1.3 milyar TL eridi
-- ❌ **Nakit Krizi:** Nakit yarı yarıya eridi
-- ❌ **Borçlanma Patlaması:** Kısa vadeli borçlar 4 katına çıktı
-- ✅ Ticari borçlarda azalma (tedarikçi yönetimi)
-- ❌ **Cari Oran:** 0.87 (Sağlıklı seviye 1.5+)
+- ❌❌❌ **Özkaynak Felaketi:** 2 yılda 2.977 → 721 milyon TL; önümüzdeki yıl negatife dönme riski
+- ❌❌ **KV Borç Patlaması:** +%801 — ilişkili taraf kredi + finansman bonoları ile finanse ediliyor
+- ❌ **Kaldıraç Oranı:** Yük/Özkaynak 6.99'dan 29.86'ya fırladı
+- ❌ **Cari Oran:** 0.83 (2024: 0.95) — kritik eşiğin altında
+- ✅ Ticari borçlarda 4.1 milyar TL azalma (tedarikçi ilişkileri sağlıklı gibi görünüyor)
 
-### 2.3. Nakit Akışı Analizi (9 Aylık)
+### 2.3. Nakit Akışı Analizi (Tam Yıl 2025)
 
-| **Faaliyet** | **2025/Q3** | **2024/Q3** |
-|--------------|-------------|-------------|
-| **İşletme Faaliyetlerinden** | **(459) milyon TL** | **+3.260 milyon TL** ❌ |
-| **Yatırım Faaliyetlerinden** | (352) milyon TL | (484) milyon TL |
-| **Finansman Faaliyetlerinden** | (241) milyon TL | (3.719) milyon TL |
-| **Net Nakit Değişimi** | **(1.051) milyon TL** | **(943) milyon TL** |
+| **Faaliyet** | **2025** | **2024** | **Değerlendirme** |
+|--------------|----------|----------|-------------------|
+| **İşletme Faaliyetlerinden** | **+1.533 mln TL** | **+5.519 mln TL** | ✅ Pozitif (Q3'te -459M'den döndü) |
+| **Yatırım Faaliyetlerinden** | (537) mln TL | (564) mln TL | Stabil |
+| **Finansman Faaliyetlerinden** | (1.177) mln TL | (5.381) mln TL | ✅ Çok azaldı |
+| **Net Nakit Değişimi** | **(181) mln TL** | **(426) mln TL** | ✅ İyileşme |
 
-**KRİTİK SORUN:** İşletme faaliyetlerinden nakit yakmaya devam ediyor. Bu, işin operasyonel olarak sürdürülebilir olmadığını gösteriyor.
+**Önemli Not:** Q3'te -459 milyon TL olan işletme nakit akışı, Q4'te güçlü bir toparlanmayla yıl sonunda +1.533 milyon TL'ye yükseldi. Stok azalışı (+1.456 mln TL katkı) ve ticari borçların normalleşmesi bu toparlanmayı sağladı. Ancak işletme nakit akışının +1.533 mln TL'si zararı karşılamaktan uzak.
 
-### 2.4. Temel Rasyolar
+### 2.4. Temel Rasyolar (31 Aralık 2025)
 
-| **Rasyo** | **30 Eyl 2025** | **Değerlendirme** |
-|-----------|-----------------|-------------------|
-| **Cari Oran** | 0.87 | ❌ Çok düşük - Likidite krizi |
-| **Asit-Test Oranı** | 0.21 | ❌ Kritik seviyede düşük |
-| **Borç/Özkaynak** | 13.0 | ❌ Çok yüksek kaldıraç |
-| **Net Borç/FAVÖK** | 0.16 | ✅ Düşük (ama FAVÖK bile zarar örtmüyor) |
-| **Brüt Kâr Marjı** | %13.7 | ⚠️ Sektör için düşük |
-| **Net Kâr Marjı** | **-2.2%** | ❌ Negatif |
-| **Özkaynak Kârlılığı (ROE)** | -82.4% | ❌ Çok kötü |
+| **Rasyo** | **31 Ara 2025** | **31 Ara 2024** | **Değerlendirme** |
+|-----------|-----------------|-----------------|-------------------|
+| **Cari Oran** | **0.83** | 0.95 | ❌ Kritik eşiğin altında |
+| **Likidite Oranı** | **0.22** | 0.26 | ❌ Çok düşük |
+| **Toplam Yük/Özkaynak** | **29.86** | 6.99 | ❌❌ Aşırı kaldıraç |
+| **Toplam Yük/Toplam Aktif** | **0.97** | 0.87 | ❌ Varlıkların %97'si borçla finanse |
+| **Brüt Kâr Marjı** | **%13.5** | %12.8 | ✅ İyileşti |
+| **FAVÖK Marjı** | **%5.0** | %4.2 | ✅ İyileşti |
+| **Net Kâr Marjı** | **-2.7%** | -2.0% | ❌ Kötüleşti |
+| **Pay Başına Kayıp** | **-0.1120 TL** | -0.0925 TL | ❌ Kötüleşti |
 
 ---
 
 ## 3. OPERASYONEL ANALİZ
 
-### 3.1. Satış Kanalları (9 Aylık)
+### 3.1. Mağaza Ağı ve Personel
 
-| **Kanal** | **2025/Q3 Gelir** | **2024/Q3 Gelir** | **Değişim** |
-|-----------|-------------------|-------------------|-------------|
-| **Mağazacılık** | 48.962 milyon TL | 54.121 milyon TL | -9.5% ❌ |
-| **E-ticaret** | 5.720 milyon TL | 5.535 milyon TL | +3.3% ✅ |
-| **Bayi Grubu** | 3.021 milyon TL | 3.554 milyon TL | -15.0% ❌ |
+| **Gösterge** | **31 Ara 2025** | **30 Eyl 2025** | **31 Ara 2024** | **Değişim (YoY)** |
+|--------------|-----------------|-----------------|-----------------|-------------------|
+| **Mağaza Sayısı** | **141** | 146 | 175 | **-34 mağaza ❌** |
+| **Satış Alanı (m²)** | **95.000** | 95.630 | 106.000 | **-%10.4 ❌** |
+| **Personel Sayısı** | **2.514** | 2.495 | 2.989 | **-%15.9 ❌** |
 
-- Mağazacılık daralmaya devam ediyor
-- E-ticaret büyüyor ama toplam ciroyu taşıyamıyor
-- Bayi grubu çöküşte
+**Yorum:** Mağaza ağı daralması devam etti; 34 mağaza kapatıldı. Q4'te 5 ek mağaza kapatımı gerçekleşti. Dijital konsept dönüşümü sürdü: 74 mağaza dijital formata geçirildi, 112 mağazada elektronik etiket sistemi tamamlandı.
 
-### 3.2. Mağaza ve Personel
+### 3.2. E-Ticaret ve Kanallar
 
-- **Mağaza Sayısı:** 146 (31 Aralık 2024: 175) - **29 mağaza kapatılmış** ❌
-- **Satış Alanı:** 95.630 m² (31 Aralık 2024: 106.052 m²)
-- **Personel:** 2.495 (31 Aralık 2024: 2.989) - **494 kişi azalma**
+| **Kanal** | **2025 Tam Yıl** | **Değerlendirme** |
+|-----------|-----------------|-------------------|
+| **E-ticaret GMV** | 15.7 milyar TL | ✅ Güçlü |
+| **E-ticaret Net Satış Payı** | ~%11 | ✅ Arttı |
+| **Mağazacılık** | ~%89 | Azalmaya devam |
 
-**Yorum:** Şirket maliyet kısma operasyonunda ancak satışlar daha hızlı düşüyor.
+E-ticaret büyüyordu ancak toplam ciro düşüşünü engelleyemedi. GMV büyümesi net satış düşüşünü kompanse etmedi.
 
----
+### 3.3. Stratejik Gelişmeler
 
-## 4. POZİTİF KATALİZÖRLER (Çok Zayıf)
+- **SAP ERP Dönüşümü:** 2025'te tamamlandı → uzun vadeli verimlilik katkısı bekleniyor
+- **Dijital Mağaza Konsepti:** 74 mağaza dönüştürüldü; Avrupa'dan referans ziyaretler
+- **JCR Eurasia Kredi Notu:** AAA (tr), görünüm stabil — Sabancı desteği bu notun temel dayanağı
+- **BIST Sürdürülebilirlik Endeksi:** 2025'te ilk kez dahil oldu
+- **CDP İklim Puanı:** A- (Liderlik kategorisi)
+- **Finansman Bonoları:** 3 ihraç, toplam ~2.29 milyar TL; piyasa faizinin altında maliyetle (%40.0-40.5)
 
-1. **Brüt Marj İyileşmesi:**
-   - Brüt kâr marjı %12.1'den %13.7'ye yükselmiş
-   - Fiyatlama gücünde veya maliyet kontrolünde iyileşme sinyali
+### 3.4. Borçlanma Araçları (Vadesi Yaklaşanlar)
 
-2. **Operasyonel Verimlilik Çabası:**
-   - Mağaza kapanışları ile sabit giderler azalıyor
-   - FAVÖK artışı var (+37%)
+| **Tutar** | **İhraç Tarihi** | **İtfa Tarihi** | **Faiz (Yıllık Basit)** |
+|-----------|-----------------|-----------------|-------------------------|
+| 600 mln TL | 18.09.2025 | **17.03.2026** | %40.50 |
+| 650 mln TL | 10.11.2025 | **06.05.2026** | %40.25 |
+| 1.040 mln TL | 04.12.2025 | **03.06.2026** | %40.00 |
 
-3. **Stok Yönetimi:**
-   - Stoklar kontrollü bir şekilde azaltılmış
-   - Çalışma sermayesi ihtiyacı hafifletilmiş
-
-4. **Dijital Kanal Büyüyor:**
-   - E-ticaret %3.3 büyümüş
-   - Gelecekte bu kanal genişleyebilir
-
----
-
-## 5. RİSKLER VE OLUMSUZLUKLAR
-
-### 5.1. Kritik Riskler ❌
-
-1. **Sürdürülebilirlik Sorunu:**
-   - Sürekli zarar eden bir model
-   - İşletme faaliyetlerinden negatif nakit akışı
-   - Özkaynak hızla eriyor
-
-2. **Likidite Krizi:**
-   - Cari oran 0.87 - Kısa vadeli borç ödeme kapasitesi yok
-   - Nakit %50 eridi
-   - Borçlanma 4 katına çıktı
-
-3. **Yapısal Sorunlar:**
-   - Yüksek sabit giderler (kira, personel)
-   - Yoğun rekabet (e-ticaret oyuncuları, büyük zincirler)
-   - Marj baskısı
-
-4. **Borç Yükü:**
-   - Finansman giderleri (3.6 milyar TL) brüt kârı siliyor
-   - Artan borçlanma maliyetleri
-
-5. **Pazar Payı Kaybı:**
-   - Satışlar %8.7 düştü
-   - Rakipler büyüyor
-
-### 5.2. Diğer Riskler
-
-- **Sermaye Artırımı İhtiyacı:** Özkaynak erozyonu devam ederse sermaye artırımı gerekebilir (seyreltme riski)
-- **Tedarikçi Riskleri:** Borç ödeme zorluğu yaşanırsa tedarikçi ilişkileri bozulabilir
-- **Makroekonomik Risk:** Enflasyon ve faiz ortamı olumsuz
+⚠️ **2.290 milyon TL tutarındaki finansman bonosu 2026 H1'de itfa edilecek.** Refinansman başarısız olursa likidite krizi derinleşir. Sabancı grubunun ilişkili taraf kredisi (1.728 mln TL SABİL) bu riski kısmen hafifletiyor.
 
 ---
 
-## 6. SEKTÖREL KONUMLANDIRMA
+## 4. ORTAKLIK VE YÖNETİM
 
-**Teknoloji Perakendeciliği Sektörü:**
-- Yoğun rekabet var (Vatan Bilgisayar, MediaMarkt, Amazon, Trendyol, Hepsiburada)
-- E-ticaret büyüyor, fiziksel mağazalar daralıyor
-- Marjlar baskı altında
+### 4.1. Ortaklık Yapısı
+
+| **Ortak** | **Pay (Nominal TL)** | **Oran** |
+|-----------|---------------------|----------|
+| Sabancı Holding A.Ş. (SAHOL) | 100.500.001 TL | %50.0 |
+| Hacı Ömer Sabancı Holding A.Ş. | 100.499.999 TL | %50.0 |
+| **Halka Açık** | **~0** | **~0%** |
+| **Toplam** | **201.000.000 TL** | **%100** |
+
+**Kritik Not:** TKNSA BIST'te işlem görmekte olup Sabancı grubu iki farklı tüzel kişilik aracılığıyla nominal sermayenin tamamını kontrol etmektedir. Fiili halka açıklık oranı sıfıra yakın veya sıfırdır.
+
+Bu durum iki açıdan önemlidir:
+1. **Negatif:** Fiilen halka açık şirket gibi işlem görmemesi likiditeyi zayıflatır; bireysel yatırımcı için çıkış zorlaşır.
+2. **Pozitif (tartışmalı):** Sabancı'nın implisit desteği mevcut. Gerektiğinde sermaye artırımı yapabilecek kapasitesi var.
+
+### 4.2. Oy Hakları ve İmtiyaz
+
+Esas sözleşmeye göre **her pay için bir oy hakkı** mevcuttur; oy hakkında herhangi bir imtiyaz bulunmamaktadır. Bu, GENEL_STRATEJİ açısından nötrdür (olumsuz değil; ama halka açıklık sıfıra yakın zaten anlamsız kılar).
+
+---
+
+## 5. POZİTİF KATALİZÖRLER
+
+1. **FAVÖK İyileşmesi:** Reel %10 artış ve %5.0 marj; operasyonel verimlilik çalışmaları somut sonuç veriyor.
+2. **İşletme Nakit Akışının Pozitife Dönmesi:** Q3'te -459M TL iken yıl sonu +1.533 mln TL pozitif.
+3. **Brüt Marj Güçleniyor:** %12.8 → %13.5; ürün karması ve fiyatlama yönetimi iyileşiyor.
+4. **Finansman Giderleri Azaldı:** Bono ihraçlarıyla piyasa faizinin altında finansman sağlandı.
+5. **SAP Dönüşümü Tamamlandı:** Uzun vadeli verimlilik ve veri kalitesi kazanımları bekleniyor.
+6. **Sabancı Desteği:** Grup şirketi olması, refinansman ve acil sermaye enjeksiyonu imkânı sağlıyor.
+7. **Stok Yönetimi:** 1.5 milyar TL stok azalışı; işletme sermayesi daha etkin kullanılıyor.
+
+---
+
+## 6. RİSKLER VE OLUMSUZLUKLAR
+
+### 6.1. Kritik Riskler ❌❌
+
+1. **Özkaynak Negatife Dönme Riski (TTK 376):**
+   - Özkaynaklar: 721 milyon TL
+   - 2025 net zararı: 2.251 milyon TL
+   - 2026 benzer zarar olursa: 721 - 2.251 = **-1.530 milyon TL** → borca batıklık
+   - TTK 376 uyarınca Yönetim Kurulu genel kurulu toplantıya davet etmek zorunda kalır
+
+2. **KV Borç Refinansman Riski:**
+   - 2026 H1'de 2.290 milyon TL bono itfa olacak
+   - 1.728 milyon TL ilişkili taraf kredisi var
+   - Toplam KV borç: 4.611 milyon TL (mevcut nakit: sadece 2.474 milyon TL)
+   - Refinansman başarısız olursa ciddi likidite krizi
+
+3. **Yapısal Kârlılık Yokluğu:**
+   - 5 yıldır sistematik net zarar
+   - Operasyonel kaldıraç olumsuz: sabit giderler yüksek, satışlar düşüyor
+   - Esas faaliyet zararı sürüyor (-1.709 mln TL)
+
+4. **Aşırı Kaldıraç:**
+   - Borç/Özkaynak oranı: 29.86 (2024: 6.99)
+   - Toplam varlıkların %97'si borçla finanse
+   - Özkaynak tampon neredeyse yok
+
+### 6.2. Orta Vadeli Riskler
+
+- **E-Ticaret Baskısı:** Hepsiburada, Trendyol, Amazon → fiziksel perakende aleyhine yapısal kayma
+- **Personel ve Mağaza Kaybı:** Küçülme müşteri hizmetini olumsuz etkiler
+- **Makroekonomik Riskler:** Faizler yüksek → finansman giderleri baskılı kalmaya devam edebilir
+- **Seyreltme Riski:** Olası sermaye artırımı mevcut hissedarları seyreltirir
+
+---
+
+## 7. SEKTÖREL KONUMLANDIRMA
+
+**Tüketici Elektroniği Perakendeciliği:**
+- Fiziksel mağaza kanalı yapisal olarak daralıyor; e-ticaret büyüyor
+- Yoğun rekabet: Vatan Bilgisayar, MediaMarkt, Hepsiburada, Trendyol, Amazon
 
 **Teknosa'nın Pozisyonu:**
-- Eski bir oyuncu ama rekabette geride kalıyor
-- Mağaza trafiği düşüyor
-- E-ticaret yeterince hızlı büyümüyor
+- Köklü marka (25+ yıl), fiziksel ağ avantajı kısmen sürüyor
+- Dijital dönüşüm ve e-ticaret büyümesi var ama yeterince hızlı değil
+- Sabancı markası ve JCR AAA (tr) notu tedarikçi ve finansman ilişkilerini destekliyor
+- Net Sıfır/ESG taahhütleri uzun vadeli kurumsal imajı destekliyor
 
 ---
 
-## 7. DEĞERLEME
+## 8. DEĞERLEME
 
-### 7.1. Temel Çarpanlar (Olumsuz)
+### 8.1. Temel Çarpanlar
 
-- **F/K:** Hesaplanamaz (zarar var)
-- **PD/DD:** Piyasa değeri / 1.559 milyon TL özkaynak
-- **Piyasa Değeri/Satış:** Düşük olabilir ama zarar ediyor
+- **F/K:** Hesaplanamaz — net zarar var
+- **PD/DD:** Özkaynak 721 mln TL; piyasa değerine göre PD/DD hesaplanabilir ama zarar devam ediyor
+- **FD/FAVÖK:** FAVÖK 4.208 mln TL; ancak bu rakam UFRS 16 kira amortismanlarını da kapsayan şirket tanımı
+- **Net Borç:** (4.611 + 953 + kira yük.) - 2.474 = **pozitif net borç (yüksek)**
 
-**Değerlendirme:**
-Şirket ucuz görünebilir ama bu bir **değer tuzağı**. Zarar eden, nakit yakan ve özkaynak erozyonu yaşayan bir şirket, düşük çarpanla işlem görse bile yatırım için çekici değildir.
+### 8.2. Değerleme Sonucu
 
-### 7.2. Karşılaştırma
+Şirket **değer tuzağıdır.** Düşük piyasa değeri olsa bile:
+- Net zarar her yıl artıyor
+- Özkaynaklar eriyor
+- KV borçlanma artıyor
+- Kârlılığa dönüş belirsiz
 
-- SAHOL portföyünde yer alıyor (Sabancı Holding bağlı ortaklığı)
-- Holdingin bu varlığı tasfiye etme veya birleştirme ihtimali var
+Sabancı grubunun bu varlığı stratejik olarak tasfiye etmesi, bir başka holding şirketiyle birleştirmesi veya sermaye enjeksiyonu yapması fiyat katalizörü olabilir; ancak bu senaryolar spekülatif.
 
 ---
 
-## 8. STRATEJİ ÖNERİSİ
+## 9. STRATEJİ ÖNERİSİ
 
 ### **HÜKÜM: YATIRIM YAPMA / ÇOK YÜKSEK RİSK**
 
 **Gerekçe:**
 
-Teknosa, **yapısal kârlılık sorunu** yaşayan bir şirkettir. Temel sorunlar:
+| Kriter | Değerlendirme |
+|--------|---------------|
+| İmtiyazlı Pay | Yok (oy eşitliği); halka açıklık ~0% → likidite yok |
+| Halka Açıklık | ~0% → pratik olarak işlem göremiyor |
+| Net Kârlılık | ❌ Zarar artıyor; 2025 → -2.251 mln TL |
+| Özkaynak Sağlığı | ❌❌ 721 mln TL; negatife dönme riski |
+| Nakit Akışı | ⚠️ İşletme +1.533 mln TL (iyileşme); ama zarar karşılanamıyor |
+| Temettü | ❌ Yok, yakın vadede beklenti yok |
+| Borç Yapısı | ❌❌ KV borç patlıyor; 2026 H1'de büyük itfalar |
+| Rekabet Avantajı | ⚠️ Marka var ama yapısal baskı altında |
 
-1. ❌ **Sürekli Zarar:** Net zarar devam ediyor
-2. ❌ **Negatif Nakit Akışı:** İşten nakit yakmaya devam ediyor
-3. ❌ **Hızlı Özkaynak Erozyonu:** 9 ayda %45 eridi
-4. ❌ **Likidite Krizi:** Cari oran 0.87
-5. ❌ **Artan Borçlanma:** Kısa vadeli borçlar patladı
-6. ❌ **Daralan Operasyon:** Mağaza sayısı ve satışlar düşüyor
-7. ❌ **Yüksek Borç/Özkaynak:** 13.0 - aşırı kaldıraçlı
+**Portföy Uyumu:** "Dinamik Portföy Yönetimi" stratejisi gereği, sermaye zayıf halkalardan güçlü temellere taşınmalıdır. TKNSA mevcut haliyle portföy için uygun değildir.
 
-**Olumlu noktalar** (brüt marj iyileşmesi, FAVÖK artışı) **yetersiz** kalıyor. Şirketin **kârlılığa dönmesi** ve **pozitif nakit akışı** yaratması için köklü bir yeniden yapılandırma gerekiyor.
+### Yatırım Yaklaşımı:
 
-### **Yatırım Yaklaşımı:**
-
-- **Mevcut Pozisyonu Olanlar:** Zarar durdur. Pozisyondan çık. Sermaye daha güçlü şirketlere yönlendirilmeli.
-- **Yeni Pozisyon Düşünenler:** YATIRIM YAPMA. Bu bir "değer tuzağı".
-- **İzleme Listesi:** Şirket, sermaye artırımı, büyük bir satış/birleşme veya köklü yeniden yapılandırma duyurumadıkça uzak durun.
-
-### **Alternatif Öneri:**
-
-Eğer **elektronik perakende** sektörüne yatırım yapmak istiyorsanız:
-- E-ticaret platformlarını (HEKTS gibi) değerlendirin
-- Ya da güçlü bilançolu, kârlı perakendecileri tercih edin
+- **Mevcut Pozisyon Olanlar:** Pozisyondan çık. Sermayeyi daha güçlü şirketlere yönlendir.
+- **Yeni Pozisyon Düşünenler:** YATIRIM YAPMA. Değer tuzağı riski yüksek.
+- **İzleme Listesi:** Sabancı'nın stratejik kararı (sermaye artırımı / birleşme / tasfiye) veya 2 ardışık net kârlı çeyrek olmadan uzak durulmalı.
 
 ---
 
-## 9. İZLENMESİ GEREKEN GELİŞMELER
+## 10. İZLENMESİ GEREKEN GELİŞMELER
 
-### Yakından Takip Edilmesi Gerekenler:
-
-1. **Sermaye Artırımı Duyurusu:** Özkaynak güçlendirilecek mi?
-2. **Holdingin Stratejisi:** Sabancı Holding bu varlığı tasfiye edecek mi, birleştirecek mi?
-3. **Kârlılığa Dönüş Sinyalleri:** Net kâra dönüş olacak mı?
-4. **Nakit Akışı İyileşmesi:** İşletme faaliyetlerinden pozitif nakit akışı sağlanacak mı?
-5. **Borç Yeniden Yapılandırması:** Finansman giderleri azaltılacak mı?
-6. **Mağaza Ağı Stratejisi:** Kapanışlar devam edecek mi, stabilizasyon olacak mı?
+1. **TTK 376 / Sermaye Artırımı:** 2026'da özkaynaklar negatife dönerse zorunlu hale gelir.
+2. **2026 H1 Bono İtfaları:** 2.290 milyon TL'nin refinansmanı başarılı olacak mı?
+3. **Sabancı Stratejik Kararı:** Holding bu varlığı koruyacak mı, satacak mı, birleştirecek mi?
+4. **Net Kâra Dönüş:** Operasyonel iyileşme yeterli hıza ulaşabilecek mi?
+5. **E-ticaret Atılımı:** GMV ve net satış payı artışı mağaza kayıplarını karşılayabilecek mi?
+6. **Mağaza Sayısı Stabilizasyonu:** 2026'da kapanışlar durdu mu, yoksa devam mı ediyor?
 
 ---
 
-## 10. SONUÇ
+## 11. SONUÇ
 
-**TKNSA (Teknosa),** mevcut haliyle **yüksek risk taşıyan**, **sürdürülebilir kârlılık gösteremeyen** ve **ciddi finansal zorluklarla karşı karşıya** olan bir şirkettir.
+**TKNSA (Teknosa),** 2025 tam yıl sonuçlarıyla operasyonel yönde **kısmi iyileşme sinyalleri** vermiştir: FAVÖK reel %10 arttı, işletme nakit akışı pozitife döndü, finansman giderleri azaldı. Ancak bu gelişmeler **net zararın artmasını engelleyemedi** ve özkaynak erozyonu dramatik bir hız kazandı.
 
-**Portföy için uygun değil.** "Dinamik Portföy Yönetimi" stratejisi gereği, zayıf halkaların portföyden temizlenmesi prensibi uyarınca, bu hisse **YATIRIM YAPMA** kategorisinde değerlendirilmelidir.
+Şirketin **2026 yılındaki en kritik riski** kısa vadeli borcun refinansmanı ve özkaynakların negatife dönüp dönmeyeceğidir. Sabancı grubu bu ikisi konusunda da belirleyici olacaktır.
 
-**Risk/Getiri Profili:** Çok düşük getiri potansiyeli, çok yüksek risk.
+**Risk/Getiri Profili:** Çok düşük getiri potansiyeli, çok yüksek risk. Spekülatif senaryolar (Sabancı desteği, birleşme) dışında yatırım gerekçesi yoktur.
 
 ---
 
-**Son Not:** Bu analiz, 30 Eylül 2025 tarihli finansal raporlar esas alınarak hazırlanmıştır. Şirketin durumu hızla değişebilir. Yatırım kararı vermeden önce en güncel bilgileri takip edin ve profesyonel danışmanlık alın.
+**Son Not:** Bu analiz, 31 Aralık 2025 tarihli konsolide finansal rapor ve faaliyet raporu esas alınarak 24 Şubat 2026'da hazırlanmıştır. Tüm rakamlar TMS 29 (hiperenflasyon muhasebesi) çerçevesinde sunulmaktadır.

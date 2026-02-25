@@ -1,110 +1,200 @@
-# KCHOL (Koç Holding) - Yatırım Analizi
+# KCHOL (Koç Holding) Analizi
 
-**Tarih:** 11 Şubat 2026
-**Rapor:** 2025/12 Yıllık Konsolide Finansal Rapor (TMS 29 Enflasyon Muhasebesi Uygulanmış)
+**Son Güncelleme:** 24 Şubat 2026
+**Kaynak:** 2025/12 Finansal Rapor (11.02.2026) + 2025 Faaliyet Raporu (24.02.2026)
 
-## 1. Yatırım Tezi Özeti
+---
 
-Koç Holding, Türkiye'nin en büyük sanayi ve hizmet grubu olarak portföy çeşitliliği ile defansif bir yapı sunsa da, 2025 yıl sonu sonuçları "büyüme" ve "nakit yaratma" kriterleri açısından ciddi soru işaretleri barındırmaktadır. Holding, enflasyon muhasebesinin yarattığı parasal pozisyon kazanç/kayıp dengesiyle net kârını kağıt üzerinde artırmış görünse de, nakit akışındaki ağır bozulma, cirodaki reel daralma ve özkaynakların erimesi yatırım tezini zayıflatmaktadır.
+## HÜKÜM: İZLE — Nakit akışı sorunu, Dayanıklı Tüketim zararı ve A Grubu imtiyaz baskısı devam ediyor
 
-## 2. Finansal Analiz (2025/12 Raporu)
+---
 
-`GENEL_STRATEJI.md` kriterlerine göre yapılan değerlendirme:
+## 1. GENEL_STRATEJİ Kriter Değerlendirmesi
 
-### 2.1. Gelir Tablosu Özeti (Milyon TL)
+| Kriter | Durum | Değerlendirme |
+|---|---|---|
+| **İmtiyazlı Pay** | **A Grubu = 2 OY HAKKI** (her A grubu pay, B grubunun 2 katı oy kullanır) | ⚠️ Negatif — Koç Ailesi hakimiyeti kilitli |
+| **Halka Açıklık Oranı** | **%26,9** (teyit edildi) | ✅ Çok iyi (%30 altı) |
+| **Rekabet Avantajı (Moat)** | Türkiye GSYH'nin ~%7'si, 10 halka açık şirket, Ford+Tüpraş+Arçelik+YKB | ✅ Güçlü |
+| **Fiyat Koyma Gücü** | Kombine gelir -%3 (reel), enerji fiyat düşüşü baskısı | ⚠️ Zayıf |
+| **Tedarikçi Çeşitliliği** | Enerji, Otomotiv, Dayanıklı Tüketim, Finans, Diğer | ✅ |
+| **Avrupa Bağımlılığı** | Arçelik Avrupa'da zarar (Beko, Whirlpool EMEA), ciddi risk | ❌ Aktif risk |
+| **Ortak Kalitesi** | Koç Ailesi + Ford + Stellantis + LG + Kingfisher + UniCredit (YKB) | ✅ Güçlü |
 
-| Kalem | 2025 | 2024 | Değişim |
+> **İmtiyaz Notu:** Finansal tablo dipnotlarında ve kâr dağıtım tablosunda açıkça "A Grubu pay sahipleri her bir pay için 2 oy hakkına sahiptir" ifadesi yer almaktadır. Koç Ailesi (şirketler %45,14 + bireyler %18,33) + VKV (%7,29) = ~**%70,76** ekonomik pay, ancak oy hakları nedeniyle fiili kontrol çok daha güçlüdür. **Kâr dağıtımında imtiyaz bulunmamaktadır** (kâr payı oranları A ve B için eşit).
+
+---
+
+## 2. Finansal Analiz (2025 Tam Yıl)
+
+### 2.1. Gelir Tablosu Özeti (Milyon TL, TMS 29 Uygulanmış)
+
+| Kalem | 2025 | 2024* | Değişim |
 |---|---|---|---|
-| Toplam Hasılat | 2.757.295 | 3.033.955 | **-%9,1** |
+| **Toplam Hasılat** | **2.757.295** | 3.033.955 | **-%9,1** |
 | - Ticari Faaliyetler Hasılatı | 1.838.618 | 2.109.310 | -%12,8 |
 | - Finans Sektörü Hasılatı | 918.677 | 924.645 | -%0,6 |
-| Brüt Kâr | 469.354 | 429.110 | **+%9,4** |
-| - Ticari Brüt Kâr | 299.396 | 294.516 | +%1,7 |
-| - Finans Brüt Kâr | 169.958 | 134.594 | **+%26,3** |
-| Esas Faaliyet Kârı | 117.608 | 114.356 | +%2,8 |
-| FAVÖK (Esas Faal. Kârı + Amortisman) | ~192.000 | ~190.624 | +%0,7 |
-| Net Parasal Pozisyon Kaybı | (2.867) | (50.127) | Dramatik azalma |
-| Vergi Öncesi Kâr | 87.714 | 34.964 | +%150,8 |
-| Ana Ortaklık Net Kârı | 22.001 | 1.709 | +%1.187 |
+| **Brüt Kâr** | **469.354** | 429.110 | **+%9,4** |
+| **Esas Faaliyet Kârı** | **117.608** | 114.356 | +%2,8 |
+| FAVÖK (tahmini) | ~192.000 | ~190.624 | +%0,7 |
+| Net Parasal Pozisyon Kaybı | (2.867) | (50.127) | Dramatik azalma ⚠️ |
+| **Vergi Öncesi Kâr** | **87.714** | 34.964 | **+%151** |
+| **Ana Ortaklık Net Kârı** | **22.001** | 1.709 | **+%1.187** |
+| Pay Başına Kazanç | 8,679 Kr | 0,674 Kr | +%1.188 |
 
-### 2.2. Kritik Negatif Sinyaller
+*2024 rakamları 31.12.2025 satın alma gücüyle yeniden düzenlenmiştir (TMS 29)*
 
-1.  **Nakit Akışında Çöküş (Kırmızı Bayrak):** Holdingin **İşletme Faaliyetlerinden Nakit Akışı**, önceki yıl +152,2 Milyar TL pozitif iken, 2025 yılında **-102,0 Milyar TL negatif** seviyesine gerilemiştir. "Nakit akışı kraldır" ilkesi net bir şekilde ihlal edilmiştir.
-    *   **Temel Neden - İşletme Sermayesi:** İşletme sermayesindeki değişim **(- 272,0 Milyar TL)**, önceki yıla göre (-112,7 Milyar TL) yaklaşık 2,4 kat kötüleşmiştir.
-    *   **Detay:** Bu çıkışın ana kaynağı, finans sektörü alacaklarındaki (kredi portföyü) büyümedir. Kısa vadeli finans sektörü alacakları 1.318 → 1.441 Milyar TL'ye (+122,7 Milyar), uzun vadeli alacaklar 440 → 522,6 Milyar TL'ye (+82,6 Milyar) yükselmiştir. Toplam **~205 Milyar TL'lik kredi portföyü büyümesi**, nakit akışındaki bozulmanın birincil sebebidir.
-    *   Ticari stoklar ise 217,6 → 195,1 Milyar TL'ye gerileyerek olumlu bir sinyal vermiştir.
-2.  **Reel Ciro Daralması:** Konsolide hasılat, enflasyondan arındırılmış bazda **%9,1 oranında daralarak** 3,03 Trilyon TL'den 2,76 Trilyon TL'ye gerilemiştir. Ticari faaliyetlerdeki daralma ise **%12,8** ile daha da serttir.
-3.  **Ağır Borçlanma İhtiyacı:** Nakit açığını finanse etmek için **finansman faaliyetlerinden 281,9 Milyar TL** net nakit girişi sağlanmıştır (2024: 12,6 Milyar TL). Borçlanma girişleri 856,6 Milyar TL'ye ulaşmıştır (2024: 739,3 Milyar TL).
-4.  **Özkaynaklar Eriyor:** Toplam özkaynaklar 1.123,9 → 1.092,6 Milyar TL'ye **(%2,8)**, ana ortaklık özkaynakları ise 691,9 → 677,3 Milyar TL'ye **(%2,1)** gerilemiştir. Kâr açıklanmasına rağmen özkaynakların erimesi, diğer kapsamlı gelir kalemlerindeki 23,9 Milyar TL'lik kayıptan kaynaklanmaktadır.
-5.  **Dayanıklı Tüketim Segmentinde Zarar:** Ana ortaklık bazında dayanıklı tüketim segmenti 880 Milyon TL kârdan **-4.443 Milyon TL zarara** dönmüştür.
-
-### 2.3. Nötr / Pozitif Görünen Gelişmeler
-
-*   **Net Kârda Yanıltıcı Artış:** Ana ortaklık net dönem kârı 1,7 Milyar TL'den **22,0 Milyar TL'ye** yükselmiştir. Ancak bu artışın birincil sebebi operasyonel performans değil, geçen yıl **-50,1 Milyar TL** olan net parasal pozisyon kaybının bu yıl **-2,9 Milyar TL'ye** düşmesidir (TMS 29 etkisi). Bu **~47 Milyar TL'lik olumlu fark**, kâr artışının büyük bölümünü açıklamaktadır. "Kalitesiz" bir kâr artışıdır.
-*   **Brüt Kâr Marjında İyileşme:** Toplam brüt kâr marjı **%14,1'den %17,0'a** yükselmiştir. Ticari faaliyetlerde ise marj %14,0'dan %16,3'e çıkmıştır. Ciro düşüşüne rağmen maliyet yönetiminin etkin yapıldığını göstermektedir.
-*   **Finans Segmentinde Toparlanma:** Finans sektörü brüt kârı **%26,3 artarak** 169,9 Milyar TL'ye ulaşmıştır. Yapı Kredi'nin (YKB) katkısıyla finans segmenti esas faaliyet kârı **%50,4 artarak** 37,9 Milyar TL'ye çıkmıştır. Segment vergi öncesi kârda ise 2024'teki -22,6 Milyar TL zarardan +21,8 Milyar TL kâra geçiş sağlanmıştır. **Bu, enflasyon muhasebesinin finans sektörü üzerindeki olumsuz etkisinin normalize olmaya başladığını göstermektedir.**
-*   **Otomotiv Segmentinde Operasyonel İyileşme:** Kombine esas faaliyet kârı **%21,2 artarak** 52,7 Milyar TL'ye ulaşmıştır. Ancak ciro artışına rağmen ana ortaklık bazında net kâr %5,3 gerilemiştir (17,7 vs 18,8 Milyar TL).
-
-### 2.4. Segment Analizi - Kombine Bazda (Milyon TL)
-
-| Segment | Gelir 2025 | Gelir 2024 | Δ | EFK 2025 | EFK 2024 | Δ |
-|---|---|---|---|---|---|---|
-| Enerji | 1.419.042 | 1.691.087 | **-%16,1** | 49.495 | 50.560 | -%2,1 |
-| Otomotiv | 1.444.986 | 1.271.711 | **+%13,6** | 52.735 | 43.502 | **+%21,2** |
-| Dayanıklı Tüketim | 597.907 | 635.365 | -%5,9 | 13.113 | 13.217 | -%0,8 |
-| Finans | 923.792 | 929.906 | -%0,7 | 37.862 | 25.168 | **+%50,4** |
-| Diğer | 217.750 | 217.706 | Yatay | (1.010) | (333) | Kötüleşme |
-| **Kombine Toplam** | **4.603.477** | **4.745.775** | **-%3,0** | **152.195** | **132.114** | **+%15,2** |
-
-*EFK: Esas Faaliyet Kârı*
-
-**Segment Net Kâr (Ana Ortaklık Payı, Milyon TL):**
-
-| Segment | 2025 | 2024 | Yorum |
-|---|---|---|---|
-| Enerji | 13.441 | 9.219 | +%45,8 (TMS 29 normalize) |
-| Otomotiv | 17.747 | 18.750 | -%5,3 (finansman giderleri baskısı) |
-| Dayanıklı Tüketim | **(4.443)** | 880 | **Kâr → Zarar (Kırmızı Bayrak)** |
-| Finans | (589) | (20.487) | Kayıp dramatik azaldı |
-| Diğer | (4.155) | (6.653) | Kayıp azaldı |
-
-### 2.5. Bilanço Özeti (Milyon TL)
+### 2.2. Bilanço Özeti (Milyon TL)
 
 | Kalem | 2025 | 2024 | Değişim |
 |---|---|---|---|
 | Toplam Varlıklar | 5.317.600 | 5.115.459 | +%3,9 |
 | Toplam Yükümlülükler | 4.225.027 | 3.991.538 | +%5,9 |
-| Toplam Özkaynaklar | 1.092.573 | 1.123.921 | -%2,8 |
+| **Toplam Özkaynaklar** | **1.092.573** | 1.123.921 | **-%2,8** |
 | Ana Ortaklık Özkaynakları | 677.349 | 691.939 | -%2,1 |
 | Nakit ve Nakit Benzerleri | 358.830 | 402.064 | -%10,8 |
-| Finansal Borçlar (Kısa + Uzun) | ~1.355.268 | ~1.150.965 | +%17,8 |
-| Stoklar | 195.089 | 217.577 | -%10,3 |
+| Finansal Borçlar (kısa+uzun) | ~1.355.268 | ~1.150.965 | +%17,8 |
 
-**Borçluluk Notu:** Toplam finansal borçlar (kısa vadeli borçlanmalar 233,7 + UV kısa vadeli kısımlar 520,0 + uzun vadeli borçlanmalar 601,5) yaklaşık **1.355 Milyar TL** olup, yıl içinde **%17,8 artmıştır**. Yükümlülükler varlıklardan daha hızlı büyümektedir.
+**Borçluluk Notu:** Kâr açıklanmasına rağmen özkaynakların erimesi dikkat çekicidir. Yükümlülükler varlıklardan daha hızlı büyümektedir.
 
-### 2.6. Nakit Akış Tablosu Özeti (Milyon TL)
+### 2.3. Nakit Akış Tablosu (Milyon TL) — Kırmızı Bayrak
 
 | Kalem | 2025 | 2024 |
 |---|---|---|
-| İşletme Faaliyetlerinden Nakit Akışı | **(101.956)** | 152.242 |
+| **İşletme Faaliyetlerinden Nakit Akışı** | **(101.956)** | **+152.242** |
 | Yatırım Faaliyetlerinden Nakit Akışı | (190.683) | (158.866) |
 | Finansman Faaliyetlerinden Nakit Akışı | 281.903 | 12.560 |
 | Dönem Sonu Nakit | 580.763 | 659.511 |
 
-## 3. Stratejik Değerlendirme (`GENEL_STRATEJI.md` Işığında)
+> **Kritik Not:** İşletme nakit akışındaki -%167B çöküşün büyük bölümü YKB kredi portföyü büyümesinden (~205B TL) kaynaklanmaktadır. Sanayi tarafının nakit yaratma kapasitesi ayrı değerlendirilmeli olsa da, holdingin konsolide nakit pozisyonu bozulmuştur.
 
-1.  **Nakit Yakma Sorunu:** `GENEL_STRATEJI.md`, enflasyonist ortamda nakit yaratan şirketleri öncelemektedir. KCHOL'ün 102 Milyar TL'yi aşan operasyonel nakit açığı ciddi bir uyarı sinyalidir. Ancak bu açığın büyük bölümünün finans sektörü kredi portföyü büyümesinden (~205 Milyar TL) kaynaklandığı not edilmelidir. Bu, bankacılık segmentinin büyüme stratejisinin bir sonucu olup sanayi tarafının nakit yaratma kapasitesinden bağımsızdır. Yine de holdingin konsolide nakit pozisyonunu olumsuz etkilemektedir.
-2.  **Büyüme Hikayesi Eksikliği:** Enerji segmentindeki **%16,1'lik** sert gelir düşüşü (küresel enerji fiyatları etkisi) ve Dayanıklı Tüketim'deki **%5,9'luk** daralma, cirodaki reel küçülmenin ana kaynaklarıdır. `GENEL_STRATEJI.md`'deki "Avrupa Pazarı Daralması" riski, Dayanıklı Tüketim segmentinin zarar yazmasıyla teyit edilmiştir.
-3.  **Dayanıklı Tüketim Riski:** Arçelik'in Whirlpool EMEA/MENA entegrasyonu devam etmekte olup, segment net bazda **4,4 Milyar TL zarar** açıklamıştır. 2024'te 6,7 Milyar TL'lik pazarlıklı satın alım kazancı ve yeniden yapılandırma giderleri gibi tek seferlik kalemler normalize edilse bile, segmentin kârlılık görünümü zayıftır.
-4.  **Değerleme Tuzağı:** Net kârdaki ~12x artış, F/K çarpanını optik olarak cazip gösterebilir. Ancak kâr artışının **~47 Milyar TL'lik** kısmı TMS 29 parasal pozisyon etkisinden kaynaklanmaktadır. FD/FAVÖK, Nakit Akışı/Fiyat gibi kaliteli çarpanlarda tablo bozulmuştur.
-5.  **Olumlu Gelişme - Finans Segmenti:** Yapı Kredi'nin performansı sayesinde finans segmentinin dramatik iyileşmesi takdire değerdir. Bu trend sürdürülebilirse, holdingin genel kârlılık tablosu orta vadede iyileşebilir.
+### 2.4. Segment Analizi — 2025 Tam Yıl
 
-## 4. Sonuç ve Strateji
+**Kombine Bazda (Milyon TL):**
 
-*   **HÜKÜM:** **İZLE / NEGATİF** (Mevcut pozisyon varsa azalt, yeni alım yapma)
-*   **GEREKÇE:** Koç Holding, 2025 yılını nakit akışı açısından son derece zayıf kapatmıştır. Operasyonel kârlılığın yatay seyretmesi (+%2,8), FAVÖK'ün yerinde sayması (+%0,7) ve cironun reel olarak **%9** küçülmesi, şirketi bir "büyüme hissesi" olmaktan çıkarmıştır. Net kârdaki artış ağırlıklı olarak TMS 29 parasal pozisyon etkisi kaynaklıdır ve nakit karşılığı zayıftır. İşletme sermayesindeki 272 Milyar TL'lik delik (büyük ölçüde kredi portföyü büyümesi) ve artan borçluluk (+%17,8), holdingin finansman maliyetlerini artıracak bir risk taşımaktadır. Finans segmentindeki toparlanma olumlu olmakla birlikte, Enerji'deki gelir düşüşü ve Dayanıklı Tüketim'deki zarar, holdingin çeşitlendirilmiş yapısının her zaman avantaj sağlamadığını göstermiştir. "Çekirdek Varlık" statüsüne alınması için nakit akışında düzelme, ciroda reel büyüme ve Dayanıklı Tüketim segmentinde kârlılığa geçiş görülmesi gerekmektedir.
-*   **İZLENECEK KRİTERLER (2026/1Ç):**
-    *   İşletme faaliyetlerinden nakit akışının pozitife dönüp dönmediği.
-    *   Enerji segmenti gelirlerinde toparlanma (küresel enerji fiyatlarına bağlı).
-    *   Dayanıklı Tüketim segmentinin (Arçelik-Whirlpool entegrasyonu) zarar daraltıp daraltamadığı.
-    *   Finans segmenti iyileşme trendinin sürdürülebilirliği.
+| Segment | Gelir 2025 | Δ | Kom. EFK 2025 | Δ |
+|---|---|---|---|---|
+| Enerji | 1.419.042 | -%16,1 | 49.495 | -%2,1 |
+| Otomotiv | 1.444.986 | +%13,6 | 52.735 | +%21,2 |
+| Dayanıklı Tüketim | 597.907 | -%5,9 | 13.113 | -%0,8 |
+| Finans | 923.792 | -%0,7 | 37.862 | +%50,4 |
+| Diğer | 217.750 | Yatay | (1.010) | Kötüleşme |
+| **Kombine Toplam** | **4.603.477** | **-%3,0** | **152.195** | **+%15,2** |
+
+**Konsolide Net Kâr/Zarar — Ana Ortaklık Payı (Milyon TL):**
+
+| Segment | 2025 | 2024 | Yorum |
+|---|---|---|---|
+| Enerji | **+13.441** | 9.219 | +%45,8 (TMS 29 normalize) ✅ |
+| Otomotiv | **+17.747** | 18.750 | -%5,3 (finansman giderleri baskısı) ⚠️ |
+| Dayanıklı Tüketim | **(4.443)** | 880 | **Kâr → Zarar ❌** |
+| Finans | **(589)** | (20.487) | Kayıp dramatik azaldı ⚠️ |
+| Diğer | **(4.155)** | (6.653) | Kayıp azaldı |
+
+> **Dayanıklı Tüketim Notu:** 2025 yılı, Whirlpool entegrasyonu kapsamında yapılandırma süreciydi. Organizasyonel uyumlaştırma, satış portföyü sadeleştirme ve operasyonel verimlilik ön planda tutuldu. 2026'da zararın azalması bekleniyor ancak görünürlük düşük.
+
+---
+
+## 3. Temettü ve Ortaklık
+
+### 3.1. 2025 Kâr Dağıtım Teklifi
+
+| | Detay |
+|---|---|
+| **2025 Kârından Nakit Temettü** | **17.320.183.681,50 TL** (toplam ortaklara) |
+| **Hisse Başına Brüt Temettü** | **6,83 TL** |
+| **Hisse Başına Net Temettü** (bireysel) | 5,8055 TL (%15 stopaj) |
+| **Dağıtım Oranı** | **%72,25** (net dağıtılabilir kârın) |
+| **Ödeme Tarihi** | **25 Mart 2026** |
+| Kâr Dağıtımında İmtiyaz | **YOK** ✅ |
+| Önceki Yıl (2024 kârından) | 17.440 Milyon TL nakit (Nisan 2025) |
+
+> Temettü dağıtım tutarlılığı güçlü. Net kâr 22B TL iken 17,3B TL dağıtıyor (%79 nakit dönüşümü üzerinde). Temettü gelir arayan yatırımcılar açısından önemli bir artı faktör.
+
+### 3.2. Ortaklık Yapısı
+
+| Pay Grubu | Sahip | Oran |
+|---|---|---|
+| A + B Grubu | Koç Ailesi şirketleri | %45,14 |
+| A + B Grubu | Koç Ailesi bireyleri | %18,33 |
+| B Grubu | Vehbi Koç Vakfı (VKV) | %7,29 |
+| **B Grubu** | **Halka Açık** | **%26,9** |
+
+**A Grubu İmtiyaz:** Her A grubu pay için **2 oy hakkı** (kâr payı imtiyazı YOK)
+
+---
+
+## 4. Net Aktif Değer (NAD)
+
+| | 2025 | 2024 |
+|---|---|---|
+| **Net Aktif Değer** | **17,8 Milyar USD** | 18,9 Milyar USD |
+| Piyasa Değeri | ~10 Milyar USD (428 Milyar TL) | ~12,4 Milyar USD |
+| **NAD'a İskonto** | **~%44** | ~%34 |
+| Yatırımlar (Kombine) | 3,7 Milyar USD | 4,4 Milyar USD |
+
+> **NAD İskontosu Notu:** NAV yaklaşık %44 iskontolu işlem görüyor. Bu holding iskontosu tarihsel olarak %30-40 aralığında seyrederken şu an iski derinleşmiş durumda. NAD içinde halka açık şirketlerin payı ~%90 olup şeffaf ve izlenebilir. Bu iskonto, potansiyel değer açılımı için zemin oluşturuyor, ancak operasyonel sorunlar çözülmeden kataliz olmayabilir.
+
+---
+
+## 5. Pozitif Katalizörler
+
+1. **Temettü güçlü ve tutarlı:** 6,83 TL hisse başı brüt temettü (25 Mart 2026). Kârın %72'si dağıtılıyor. Temettü verimi hesaplanabilmesi için güncel hisse fiyatına ihtiyaç var.
+
+2. **Finans segmenti toparlanıyor:** Yapı Kredi katkısıyla finans esas faaliyet kârı +%50 artışla 37,9 Milyar TL. YKB'nin net zarar tutarı -%0,6B'ye inerek dramatik düzelme.
+
+3. **Otomotiv güçlü:** Ford Otosan + Tofaş faaliyet kârı +%15, iç pazar rekor (1,4 milyon araç). Tofaş K9 projesi (256M EUR, 2026 Q3) ihracat kapasitesi artırıyor.
+
+4. **NAD iskontosu %44:** Halka açık iştirakler (TUPRS, FROTO, ARCLK, YKBNK) piyasa değeri üzerinden takip ediliyor. İskonto tarihsel ortalamanın üzerinde.
+
+5. **Sürdürülebilirlik ve itibar:** Fortune Global 500'de tek Türk şirketi, 191. sıraya yükseldi. CDP A- skoru. ESG fonu ilgisi için zemin mevcut.
+
+---
+
+## 6. Riskler ve Ana Sorunlar
+
+1. **Nakit akışı çöküşü — Ana Sorun:** İşletme nakit akışı +152B'den **-102B'ye** düştü. Büyük bölümü YKB kredi büyümesi olsa da konsolide tablo bozulmuş.
+
+2. **A Grubu 2 oy imtiyazı:** GENEL_STRATEJİ kriterleri açısından kırmızı. Koç Ailesi'nin yönetim kararları üzerindeki hakimiyeti kilitli, azınlık hissedarların etki alanı zayıf.
+
+3. **Dayanıklı Tüketim zararı (-4,4B TL):** Arçelik-Whirlpool EMEA entegrasyonu sürmekte. Avrupa'da Çin rekabeti baskısı ciddi. Yönetim 2025'i "yapılandırma yılı" olarak tanımladı ama 2026 görünümü belirsiz.
+
+4. **Net Aktif Değer geriledi:** 18,9 → 17,8 Milyar USD (-%5,8). Yatırım harcamaları da düşüyor (4,4 → 3,7 Milyar USD).
+
+5. **Reel ciro daralması:** Konsolide ciro -%9,1, ticari faaliyetler -%12,8. Türkiye'de sıkı para politikası iç talebi baskılamayı sürdürüyor.
+
+6. **Enerji segmenti fiyat riski:** Tüpraş'ın geliri petrol/enerji fiyatlarına bağlı. Brent 76,5 → 62,6 USD/varil düşüşü 2025 gelirini olumsuz etkiledi.
+
+---
+
+## 7. Strateji ve Karar
+
+**HÜKÜM: İZLE — Görüş değişmedi**
+
+**GEREKÇE:**
+
+Faaliyet raporu, finansal rapordaki tespitleri teyit etti ve birkaç ek bulgu ortaya koydu:
+
+- **Temettü olumlu:** 6,83 TL nakit temettü (25 Mart 2026) → kâr dağıtım tutarlılığı güçlü ✅
+- **Ancak nakit akışı sorunu yapısal:** -102B TL işletme nakit akışı; büyük bölümü YKB kredi büyümesi ⚠️
+- **A Grubu oy imtiyazı:** 2 oy hakkı = azınlık hissedarların etki alanı kısıtlı ❌
+- **Dayanıklı Tüketim zarar devam:** -4,4B TL zarar yazıldı; Whirlpool entegrasyonu uzun süreç ❌
+- **NAD iskontosu derinleşti:** %44 — değer var ama katalizör belirsiz ⚠️
+- **Net kâr artışı yanıltıcı:** +%1.187'nin büyük bölümü TMS 29 parasal pozisyon normalizasyonundan ⚠️
+
+Holding, iç piyasada birden fazla sektörde dominant konumunu koruyor ve temettü geliri sunuyor. Ancak "Çekirdek Portföy" statüsü için gereken: (a) nakit akışı pozitife dönmeli, (b) Dayanıklı Tüketim zarar azaltmalı, (c) reel ciro büyümeli.
+
+**İzlenecek tetikleyiciler:**
+- 2026/Q1 nakit akışı: YKB kredi büyümesi yavaşlıyor mu?
+- Arçelik 2026 ilk yarı kârlılık sinyali
+- Brent petrol fiyatı toparlanması → Tüpraş ve Enerji segmenti
+- KCHOL hisse başına temettü verimine göre giriş seviyeleri değerlendirmesi
+
+---
+
+## 8. Tarihsel Analiz Geçmişi
+
+| Dönem | Güncelleme | Hüküm | Özet |
+|---|---|---|---|
+| 2025/12 (Tam Yıl) | 11 Şubat 2026 | İZLE / NEGATİF | Finansal rapor: Nakit akışı -102B TL, reel ciro -%9, Dayanıklı Tüketim -4,4B zarar, TMS 29 yanıltıcı net kâr artışı |
+| 2025/12 (Tam Yıl) | 24 Şubat 2026 | **İZLE** | Faaliyet raporu: Temettü 6,83 TL (25 Mart 2026), A Grubu 2 oy imtiyazı teyit, NAD 17,8B USD (%44 iskonto), segmentler teyit |

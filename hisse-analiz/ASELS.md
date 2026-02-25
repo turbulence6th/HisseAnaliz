@@ -1,82 +1,206 @@
 # ASELSAN (ASELS) - Yatırım Tezi ve Strateji
 
-## Tez (Neden?)
+**Son Güncelleme:** 24 Şubat 2026
+**Kaynak:** 2025/12 Konsolide Finansal Rapor (24.02.2026) + 2025 Faaliyet Raporu (24.02.2026)
+**Fiyat (24.02.2026):** 309 TL
 
-ASELSAN, Türkiye'nin teknoloji ve savunma sanayisindeki liderliği, güçlü ve öngörülebilir sipariş akışı, sağlam bilançosu ve yapısal rekabet avantajları nedeniyle portföyün ana direklerinden biridir. Yatırım tezi, şirketin bu dominant konumunu sürdürerek enflasyon üzerinde reel büyüme ve kârlılık yaratmaya devam edeceği beklentisine dayanmaktadır.
+---
 
-*   **Teknolojik Dominasyon ve Stratejik Önem:** Kendi sektöründe rakipsiz bir teknolojik yetkinliğe sahiptir ve ülkenin stratejik hedefleri için vazgeçilmez bir konumdadır. Bu durum, sürdürülebilir bir sipariş akışını garanti altına almaktadır.
-*   **Enflasyon ve Kur Koruması:** Gelirlerinin önemli bir kısmının döviz bazlı veya dövize endeksli olması, yüksek enflasyon ve kur dalgalanmalarına karşı doğal bir koruma sağlamaktadır. Bu, şirketin reel olarak büyümesini ve kârlılığını korumasını sağlar.
-*   **Yapısal Vergi Avantajı:** Yoğun Ar-Ge faaliyetleri sayesinde elde ettiği vergi indirimleri, net kârlılığını kalıcı olarak destekleyen önemli bir rekabet avantajıdır.
-*   **Sağlam Finansal Yapı:** Çok düşük borçluluk oranı ve devasa özkaynak yapısı, şirkete hem büyük projeleri rahatça yönetme esnekliği hem de ekonomik belirsizliklere karşı yüksek bir dayanıklılık kazandırmaktadır.
+## HÜKÜM: ÇEKİRDEK PORTFÖY — TUT VE FIRSATLARDA EKLE
 
-## Katalistler
+---
 
-*   Beklentilerin üzerinde yeni ve büyük ölçekli yurt dışı satış sözleşmeleri.
-*   Geliştirdiği yeni ve stratejik bir teknolojinin (örn: hava savunma, sivil teknoloji) başarılı bir şekilde ürüne dönüşmesi ve büyük siparişler alması.
-*   Tahsilat süreçlerinin hızlanması ve çalışma sermayesi pozisyonunda belirgin bir iyileşme yaşanması.
+## 1. Temel Yatırım Tezi (Neden?)
 
-## Riskler
+ASELSAN, Türkiye'nin teknoloji ve savunma sanayisindeki liderliği, güçlü ve öngörülebilir sipariş akışı, sağlam bilançosu ve yapısal rekabet avantajları nedeniyle portföyün ana direklerinden biridir.
 
-*   **Çalışma Sermayesi Baskısı:** Özellikle kamu kurumlarından olan alacakların tahsilat sürelerinin uzun olması, şirketin nakit akışı ve çalışma sermayesi üzerinde baskı oluşturmaktadır.
-*   **Jeopolitik Riskler:** Uluslararası ilişkilerdeki gerginlikler, potansiyel tedarik zinciri sorunları veya ihracat kısıtlamaları riski taşımaktadır.
-*   **Enflasyon Muhasebesi Etkisi (TMS 29):** Yüksek enflasyon ortamında, şirketin net parasal varlık pozisyonu nedeniyle kâğıt üzerinde "Parasal Kayıp" yazması, net kâr rakamının şirketin gerçek operasyonel performansını yansıtmasını engelleyerek kafa karışıklığı yaratabilir.
+- **Teknolojik Dominasyon ve Stratejik Önem:** Kendi sektöründe rakipsiz teknolojik yetkinlik; devletin savunma hedefleri için vazgeçilmez konum. Sipariş akışı yapısal olarak güvence altında.
+- **Enflasyon ve Kur Koruması:** Gelirlerin önemli kısmı döviz bazlı veya dövize endeksli (ihracat + uluslararası projeler). Yüksek enflasyon ve kur dalgalanmalarına karşı doğal koruma.
+- **Yapısal Vergi Avantajı:** Yoğun Ar-Ge faaliyetleri sayesinde kalıcı vergi teşvikleri (gelir vergisi stopajı, SGK prim desteği, Ar-Ge indirimi). Net kârlılığı doğrudan destekler.
+- **Devasa Bakiye Sipariş:** 20.4 Milyar USD rekor sipariş stoku — yıllarca öngörülebilir gelir garantisi.
+- **Büyüyen Küresel Savunma Pazarı:** 2024 küresel savunma harcamaları 2.7 Trilyon USD'a ulaştı (+%9.4, 15 yılın en yüksek artışı). Türkiye 17. sıraya yükseldi.
 
-## Faaliyet Raporu Değerlendirmesi (2025/09)
+---
 
-2025 yılı 9 aylık sonuçlar, şirketin ana yatırım tezini (reel büyüme, güçlü operasyonel kârlılık ve sağlam bilanço) teyit ederek güçlendirmiştir.
+## 2. GENEL_STRATEJİ Kriter Değerlendirmesi
 
-### Pozitif Gözlemler
-1.  **Reel Büyüme Sürüyor:** Hasılat, geçen yılın aynı dönemine göre **%12 artarak 90.9 Milyar TL'ye** ulaşmıştır. Bu büyüme, şirketin >%10 olan kendi yıl sonu hedefini desteklemekte ve enflasyon üzerinde reel büyüme kapasitesini göstermektedir.
-2.  **Güçlü FAVÖK Kârlılığı:** FAVÖK marjı, %24.9 seviyesinde gerçekleşerek şirketin **>%23 olan hedefini aşmış** ve geçen yılki seviyesini korumuştur. Bu, operasyonel kârlılığın ve verimliliğin ana stratejinin odaklandığı şekilde güçlü kaldığını teyit etmektedir.
-3.  **Rekor Bakiye Sipariş:** Bakiye sipariş tutarı **18 Milyar ABD Doları** gibi devasa bir seviyededir. Bu rekor seviye, şirketin gelecek yıllardaki gelirleri için olağanüstü bir öngörülebilirlik ve güvence sağlamaktadır.
-4.  **Daha da Sağlamlaşan Bilanço:** Toplam finansal borcun toplam aktiflere oranı %13.4'ten **%11.8'e gerilemiştir**. Şirketin zaten çok düşük olan borçluluk seviyesi daha da iyileşerek finansal riskini minimuma indirmiştir.
-5.  **Artan Özsermaye Kârlılığı:** Özsermaye kârlılığı (ROE), %11.3'ten **%12.7'ye yükselmiştir**. Bu, şirketin hissedarları için yarattığı değeri artırdığının bir göstergesidir.
+| Kriter | Durum | Değerlendirme |
+|---|---|---|
+| **İmtiyazlı Pay** | **VAR — A Grubu** (6/9 YK üyesi seçim imtiyazı) | ⚠️ İstisna — aşağıya bkz. |
+| **Halka Açıklık Oranı** | **%25.8** (TSKGV %74.2) | ✅ Çok iyi (%30 altı) |
+| **Rekabet Avantajı (Moat)** | Savunma teknolojisi monopolü, 50+ yıl birikimli knowhow | ✅ Olağanüstü güçlü |
+| **Fiyat Koyma Gücü** | Döviz ve enflasyona endeksli sözleşmeler, alternatifsizlik | ✅ Çok yüksek |
+| **Tedarikçi Çeşitliliği** | 6 ana sektör (HBT, MEOS, AGS, REHİS, SST, UGES) | ✅ Geniş |
+| **Avrupa Bağımlılığı** | Türkiye iç pazarı + çeşitlendirilmiş ihracat | ✅ Risk minimal |
+| **Ortak Kalitesi** | TSKGV (devlet vakfı, kurucu) | ✅ Stratejik uyum |
 
-### Negatif Gözlemler / Dikkat Edilmesi Gerekenler
-1.  **Faaliyet Kâr Marjındaki Sınırlı Gerileme:** Faaliyet kâr marjı (EBIT) %22.4'ten %20.8'e düşmüştür. Ancak, FAVÖK marjının korunuyor olması bu gerilemenin etkisini sınırlamakta ve ana operasyonel kârlılıkta bir bozulma olmadığını göstermektedir.
-2.  **Çalışma Sermayesi Yönetimi:** Likidite oranının 0.75 seviyesinde olması, riskler bölümünde de belirtilen çalışma sermayesi ve alacak yönetimi konusunun yakından izlenmeye devam edilmesi gerektiğini göstermektedir.
+### İmtiyazlı Pay İstisnası — Neden Kural İhlali Sayılmıyor?
 
-## Faaliyet Raporu Değerlendirmesi (2025/06)
+GENEL_STRATEJİ'deki imtiyazlı pay kırmızı çizgisinin amacı, kurucuların/büyük hissedarların küçük azınlık hissedarları aleyhine hareket etme riskini (vekâlet sorunu) engellemektir. ASELS'de bu risk profili temelden farklıdır:
 
-2025 ilk yarı raporu, enflasyon muhasebesinin yarattığı karmaşıklığa rağmen, şirketin temel işleyişinin ne kadar sağlam olduğunu net bir şekilde ortaya koymaktadır.
+1. İmtiyazlı pay sahibi TSKGV, kurumun kurucusu ve Türkiye savunmasının stratejik güvencesi
+2. TSKGV'nin çıkarları ile azınlık hissedarların çıkarları büyük ölçüde örtüşüyor (büyüme = hem savunma gücü hem yatırımcı getirisi)
+3. Kâr payı imtiyazı yoktur; temettüler tüm paylara eşit dağıtılır
+4. Şirketin "stratejik savunma varlığı" niteliği devlet kontrolünü zorunlu kılar — bu risk faktörü değil, öngörülebilirlik garantisidir
 
-### Pozitif Gözlemler
-1.  **Güçlü Reel Büyüme:** Hasılatın yıllık bazda (enflasyona göre düzeltilmiş) **%11 artması**, şirketin reel olarak büyümeye devam ettiğini kanıtlamaktadır.
-2.  **Olağanüstü Faaliyet Kârlılığı:** Reel cirodaki %11'lik artışa karşın, **Esas Faaliyet Kârı'nın %39 artarak 17.4 milyar TL'ye ulaşması**, şirketin muazzam operasyonel verimliliğini ve kâr marjlarını artırma becerisini göstermektedir.
-3.  **Kaya Gibi Sağlam Bilanço:** **170 milyar TL'lik özkaynağa** karşılık sadece **~37 milyar TL'lik finansal borç**, şirketin finansal riskinin çok düşük olduğunun bir göstergesidir.
-4.  **Yapısal Vergi Avantajı:** Yoğun Ar-Ge faaliyetleri sayesinde bilançoda **8.8 milyar TL'lik "Vergi Geliri"** kaydedilmesi, şirketin net kârlılığını doğrudan ve kalıcı olarak destekleyen önemli bir avantajdır.
-5.  **Güçlü Gelecek Görünümü:** Rapor sonrası açıklanan **286 milyon ABD dolarlık** yeni sözleşme, iş akışının ve gelecekteki hasılatın gücünü teyit etmektedir.
+**Sonuç:** İmtiyazlı pay EBEBK benzeri kurumsal ele geçirme/azınlık sömürme riski taşımıyor. GENEL_STRATEJİ'nin ruhuna aykırı değil.
 
-### Negatif Gözlemler / Dikkat Edilmesi Gerekenler
-1.  **Muhasebesel Parasal Kayıp:** Gelir tablosundaki **14 milyar TL'lik "Parasal Kayıp"**, operasyonel bir zayıflık değil, enflasyon muhasebesinin (TMS 29) bir sonucudur. Şirketin gerçek performansını analiz ederken, bu kalemin yanıltıcı etkisine karşı dikkatli olunmalı ve **Esas Faaliyet Kârı'na** odaklanılmalıdır.
-2.  **Yatırım Odaklı Nakit Akışı:** Şirket, kazandığı nakdi geleceğine (Ar-Ge, yeni tesisler) yatırmaya devam etmektedir. Bu, uzun vade için pozitif olsa da kısa vadede serbest nakit akışını sınırlar.
+---
 
-## Değerleme (14 Kasım 2025)
+## 3. Finansal Analiz — 2025 Tam Yıl (TMS 29 Uygulanmış)
 
-*   **F/K Oranı: 34.96**
-*   **PD/DD Oranı: 4.25**
+### 3.1 Ana Finansal Göstergeler
 
-**Not:** Enflasyon muhasebesi (TMS 29) uygulaması nedeniyle, özellikle Net Kâr rakamı üzerinden hesaplanan F/K (Fiyat/Kazanç) oranı yanıltıcı olabilir. Şirketin net parasal varlık pozisyonu, kâr üzerinde muhasebesel "Parasal Kayıp" baskısı yaratmakta ve bu da F/K oranını yapay olarak şişirmektedir. Benzer şekilde, özsermayenin enflasyona göre düzeltilmesi PD/DD (Piyasa Değeri/Defter Değeri) oranını etkiler. Bu nedenle, değerleme yaparken bu çarpanlardan ziyade şirketin Esas Faaliyet Kârı (EFK), FAVÖK ve Bakiye Siparişleri gibi operasyonel metriklerine odaklanmak daha sağlıklı bir yaklaşım sunar. Mevcut çarpanlar, şirketin operasyonel gücünü tam olarak yansıtmayıp, tarihsel ortalamalarına göre yüksek görünmektedir.
+| Kalem | 2025 (Bin TL) | 2024 (Bin TL) | Değişim |
+|---|---|---|---|
+| **Hasılat** | **180.444.938** | 157.339.507 | **+%14.7** |
+| **Brüt Kâr** | **57.427.030** | 49.946.020 | **+%15.0** |
+| **Esas Faaliyet Kârı (EBIT)** | **49.145.855** | 35.753.980 | **+%37.4** |
+| Vergi Öncesi Kâr | 26.390.612 | 10.819.340 | +%144 |
+| **Net Dönem Kârı** | **29.917.727** | 19.925.321 | **+%50.2** |
+| Ar-Ge Giderleri | 6.252.189 | 4.343.337 | **+%44.0** |
+| **İşletme Nakit Akışı** | **48.901.969** | 28.033.716 | **+%74.4** |
+| **Özkaynaklar (Ana Ortaklık)** | **250.430.356** | 183.640.090 | **+%36.3** |
+| Toplam Aktifler | 431.587.329 | 317.802.518 | +%35.8 |
 
-## Strateji ve Sonuç
+> Not: Tüm tutarlar 31 Aralık 2025 satın alma gücü cinsinden (TMS 29 endekslenmiş).
 
-ASELSAN, operasyonel gücü, stratejik konumu ve sağlam finansallarıyla portföydeki **"Çekirdek Varlık"** [[memory:5993342]] statüsünü fazlasıyla hak etmektedir. Kısa vadeli muhasebesel etkilerden ziyade, şirketin ana faaliyetlerindeki ezici güce ve reel büyüme kapasitesine odaklanmak esastır.
+### 3.2 Kârlılık ve Faaliyet Rasyoları
 
-**HÜKÜM: TUT VE FIRSATLARDA EKLE**
+| Rasyo | 2025 | 2024 | Yorum |
+|---|---|---|---|
+| **Brüt Kâr Marjı** | **%31.8** | %31.7 | Kararlı/güçlü |
+| **EBIT Marjı** | **%23.2** | %22.4 | İyileşme ✅ |
+| **FAVÖK Marjı (Düzeltilmiş)** | **%26.2** | %25.2 | Hedef (%>25) aşıldı! ✅ |
+| **Net Kâr Marjı** | **%16.6** | %12.7 | Büyük iyileşme ✅ |
+| **ROE** | **%13.7** | %11.3 | Artıyor ✅ |
+| Aktif Kârlılığı | %8.0 | %6.6 | Artıyor ✅ |
+| Toplam Fin. Borç / Aktifler | **%10.0** | %13.4 | Çok düşük borç ✅ |
+| Cari Oran | 1.39 | 1.52 | Makul |
+| Likidite Oranı | 0.80 | 0.90 | İzleme altında ⚠️ |
+| Net İşletme Sermayesi / Hasılat | %27.0 | %30.2 | İyileşme (alacak yönetimi) ✅ |
+| 100 Pay Başına Kazanç | 656.79 TL | 439.14 TL | +%49.6 ✅ |
 
-Strateji, mevcut pozisyonu korumak ve piyasa düşüşlerini, bu kaliteli varlıktaki payı artırmak için bir alım fırsatı olarak değerlendirmek üzerine kuruludur.
+### 3.3 TMS 29 Etkileri
 
-## Strateji Değerlendirmesi ve Yeni Alım Planı (14 Kasım 2025)
+| Kalem | 2025 | 2024 | Yorum |
+|---|---|---|---|
+| **Parasal Kazanç/(Kayıp)** | **(13.552.013)** | **(18.153.970)** | Zarar azaldı ✅ |
+| Ertelenmiş Vergi Geliri | 5.902.067 | 9.176.757 | Azaldı (normal) |
 
-Hissenin 19 Eylül'deki zirvesinden (196.6 TL) bu yana %11'den fazla değer kaybederek 174.2 TL'ye gerilemesi, önceki alım planını geçersiz kılmıştır. Mevcut düşüş trendi içinde, daha düşük ve daha güvenli görünen destek seviyelerinde yeni bir kademeli alım stratejisi oluşturulmuştur.
+> Net kâr analizinde Esas Faaliyet Kârı'na odaklanmak gerekir. Parasal kayıp, şirketin net parasal varlık pozisyonu nedeniyle muhasebel bir TMS 29 etkisidir — operasyonel zayıflık değildir. 2025'te bu etki belirgin şekilde azaldı.
 
-### Teknik Alım Planı (Revize: 14 Kasım 2025)
-- **HÜKÜM:** POZİSYON GÜÇLENDİR / AL (Kademeli)
-- **Gerekçe (kısa):** Fiyatın önceki planın "Alımı Durdur" seviyesinin altına inmesiyle, mevcut düşüş trendi içinde yeni ve daha güvenli destek noktaları belirlenerek kademeli alım planı aşağı yönlü revize edilmiştir.
-- **DURUM:** Yeni plan, mevcut pozisyonu korurken, nakit rezervlerini daha stratejik seviyelerden alım yapmak için kullanmayı hedefler.
-- **Seviyeler:**
-  - **1. Kademe (Ana Alım): 172.00 – 169.00 TL** (Psikolojik ve teknik destek bölgesi)
-  - **2. Kademe (Güçlü Alım): 165.00 – 162.00 TL** (Ana destek ve potansiyel dip bölgesi)
-  - **3. Kademe (Fırsat Alımı): 155.00 TL ve altı** (Piyasa genelinde sert bir satış olması durumunda değerlendirilecek fırsat seviyesi)
-- **Bütçe Yönetimi (Yüzdesel):** Yeni alımlar için ayrılan bütçenin sırasıyla **%40**, **%40** ve **%20**'si bu kademelerde kullanılır.
-- **Risk Yönetimi (Alımı Durdur):** 150.00 TL altında haftalık kapanış.
+---
+
+## 4. Operasyonel Göstergeler
+
+| Metrik | 2025 | 2024 (9M) | Yorum |
+|---|---|---|---|
+| **Bakiye Sipariş** | **20.4 Milyar USD** | 18.0 Milyar USD | Rekor kırıldı! ✅ |
+| **İhracat / Hasılat** | **%15.3** | — | Hedef artırım yolunda |
+| Bilanço Sonrası Yeni Sözleşme | 521 Milyon USD | — | Momentum devam ediyor |
+| Personel (İşe Alınan/2025) | 2.322 | — | Güçlü büyüme kapasitesi |
+
+---
+
+## 5. Ortaklık ve Kurumsal Yapı
+
+| Pay Sahibi | Oran | Pay Grubu |
+|---|---|---|
+| Türk Silahlı Kuvvetlerini Güçlendirme Vakfı (TSKGV) | **%74.2** | A Grubu (İmtiyazlı) |
+| Halka Açık (BİST) | **%25.8** | B Grubu |
+
+**YK Yapısı:** 9 üye (6 A Grubu imtiyazından, 3 SPK bağımsız)
+**Temettü:** 2024 kârından brüt 1.07 Milyar TL → 25.11.2025'te dağıtıldı (1 TL nominal pay başına 23.46 kuruş brüt)
+**Temettü Politikası:** Net kârın en az %10'u hedeflenmekte; Ar-Ge ve büyüme yatırımları öncelikli
+
+---
+
+## 6. Stratejik Gelişmeler (2025)
+
+1. **1.5 Milyar USD Oğulbey Yatırımı:** Cumhuriyet tarihinin en büyük tek seferlik savunma yatırımı temelleri atıldı. ÇELİKKUBBE (hava savunma sistemi) ve diğer kritik teknolojilerin seri üretim kapasitesi ikiye katlanıyor. Cumhurbaşkanı katılımı devlet desteğinin sembolik teyidi.
+
+2. **Bakiye Sipariş Rekor:** 20.4 Milyar USD — önceki 18 Milyar rekorunu kırdı. Bu stok, önümüzdeki 4-5 yıllık geliri önemli ölçüde öngörülebilir kılıyor.
+
+3. **Küresel Savunma Ekolojisi Güçleniyor:** Türkiye yıllık savunma harcaması 25 Milyar USD ile dünyada 22. sıradan 17. sıraya yükseldi. ASELS bu büyümenin ana motoru.
+
+4. **Ar-Ge Yatırımı +%44:** 6.25 Milyar TL — şirketin teknolojik üstünlüğünü genişletme kararlılığının somut göstergesi.
+
+5. **İşletme Nakit Akışı Patlaması:** 48.9 Milyar TL (2024: 28.0B TL, +%74.4) — alacak tahsilat yönetiminde belirgin iyileşme sinyali.
+
+---
+
+## 7. Riskler
+
+1. **Çalışma Sermayesi Baskısı:** Likidite oranı 0.80 — kamu kurumlarından alacakların tahsilat süresi uzun. İşletme nakit akışındaki +%74 iyileşme bu riski hafifletmeye başlıyor.
+
+2. **Parasal Kayıp (TMS 29):** Net parasal varlık pozisyonu nedeniyle gelir tablosunda muhasebel "Parasal Kayıp" oluşuyor. Bu operasyonel bir zayıflık değil; ancak net kâr rakamlarda kafa karışıklığı yaratabilir. 2025'te bu etki azaldı (-18.2B→-13.6B TL).
+
+3. **İhracat Konsantrasyonu:** İhracat / hasılat oranı %15.3 — uluslararası büyüme hedefleri açısından hâlâ geliştirme potansiyeli var.
+
+4. **Jeopolitik Riskler:** Uluslararası ilişkilerdeki gerginlikler, tedarik zinciri sorunları veya ihracat kısıtlamaları. NATO üyeliği ve Türkiye'nin stratejik konumu riski azaltıyor.
+
+5. **Düşük Temettü Verimi:** Payout oranı düşük tutuluyor. Büyüme yatırımları öncelikli; bu uzun vade için pozitif ancak temettü arayan yatırımcı için cazip değil.
+
+---
+
+## 8. Strateji ve Karar
+
+**HÜKÜM: ÇEKİRDEK PORTFÖY — TUT VE FIRSATLARDA EKLE**
+
+**GEREKÇE:**
+
+2025 tam yıl sonuçları, ASELS'in yatırım tezini her alanda güçlendirdi:
+- Tüm kârlılık metrikleri iyileşti; FAVÖK marjı (%26.2) ve EBIT marjı (%23.2) hedeflerin üzerinde
+- Net kâr +%50.2 — güçlü operasyonel moment
+- Bakiye sipariş 20.4 Milyar USD ile rekor kırdı → önümüzdeki yıllar için güçlü öngörülebilirlik
+- İşletme nakit akışı +%74.4 → çalışma sermayesi sorununda iyileşme başladı
+- 1.5 Milyar USD Oğulbey yatırımı → kapasite ikiye katlanıyor
+- Parasal kayıp azaldı → net kâr baskısı hafifliyor
+
+**Teknik Alım Planı (Revize Gerekiyor — Mevcut Piyasa Fiyatına Göre Güncellenecek):**
+Önceki alım seviyeleri (155-172 TL bölgesi) muhtemelen geride kaldı. Güncel fiyata göre yeni kademeli alım seviyeleri belirlenmelidir. Temel yaklaşım değişmedi: piyasa düşüşlerini, bu kaliteli varlıktaki payı artırmak için fırsat olarak değerlendir.
+
+---
+
+## 9. Değerleme (309 TL — 24 Şubat 2026)
+
+> Tüm çarpanlar 2025 tam yıl konsolide finansallarına göre hesaplanmıştır (TMS 29 endekslenmiş).
+
+| Metrik | Değer | Not |
+|---|---|---|
+| **Piyasa Değeri** | **1.409 Milyar TL** | 4.56 Milyar hisse × 309 TL |
+| **Firma Değeri (FD/EV)** | **1.423 Milyar TL** | PD + Net Borç (13.97B TL) |
+| Net Borç | 13.97 Milyar TL | Fin. borç 43.1B − Nakit 29.1B |
+
+| Çarpan | 2025 (309 TL) | Kasım 2025 (not) | Yorum |
+|---|---|---|---|
+| **F/K (Net Kâr)** | **47.0x** | 34.96x | ⚠️ Yüksek; TMS 29 etkisiyle yanıltıcı |
+| **F/K (Esas Faaliyet Kârı)** | **28.7x** | — | Daha gerçekçi; TMS 29 arındırılmış |
+| **PD/DD** | **5.63x** | 4.25x | Pahalı; büyüme primini yansıtıyor |
+| **FD/FAVÖK** | **30.1x** | — | Savunma sektörü için yüksek ancak sipariş stoku güvenceli |
+| **FD/Hasılat** | **7.89x** | — | — |
+
+| Hisse Başına | Değer |
+|---|---|
+| **EPS (Net Kâr)** | **6.57 TL** |
+| **EPS (Esas Faaliyet Kârı — tercih edilen)** | **10.78 TL** |
+| Defter Değeri / Hisse | 54.92 TL |
+
+### Değerleme Yorumu
+
+**F/K (Net Kâr) 47x görünüyor ancak yanıltıcıdır.** Net kârı TMS 29 parasal kayıp (13.6B TL) deprese ediyor. Esas Faaliyet Kârı bazlı F/K **28.7x** daha anlamlı bir gösterge.
+
+PD/DD 5.63x ve FD/FAVÖK 30.1x tarihsel ortalamalara kıyasla premium seviyelerde. Bu premium iki şeyle destekleniyor: (1) **20.4 Milyar USD bakiye sipariş** — piyasa değerinin yarısına yakın güvenceli gelir akışı, (2) savunma sektörünün küresel ölçekte yeniden değerlendirilmesi (NATO harcama artışı, Türkiye savunma yatırımları).
+
+Hisse fiyatı Kasım 2025 referansına göre (174 TL bölgesi) ciddi ölçüde değerlendi; PD/DD 4.25x'ten 5.63x'e yükseldi. Yeni alımlar için mevcut seviye cazip değil; bekle ve geri çekilmelerde ekle stratejisi geçerliliğini koruyor.
+
+---
+
+## 10. Tarihsel Analiz Geçmişi
+
+| Dönem | Güncelleme | Hüküm | Özet |
+|---|---|---|---|
+| 2025/06 (6 Aylık) | Temmuz 2025 | Çekirdek / TUT | EBIT +%39, özkaynaklar 170B TL, güçlü momentum |
+| 2025/09 (9 Aylık) | Kasım 2025 | Çekirdek / TUT & Ekle | Hasılat 90.9B TL (+%12), FAVÖK %24.9, bakiye sipariş 18B USD |
+| 2025/12 (Tam Yıl) | 24 Şubat 2026 | **Çekirdek / TUT & Ekle** | Hasılat 180.4B TL (+%15), EBIT %23.2, FAVÖK %26.2, net kâr +%50, bakiye sipariş rekor 20.4B USD, 1.5B USD Oğulbey yatırımı, nakit akışı +%74 |

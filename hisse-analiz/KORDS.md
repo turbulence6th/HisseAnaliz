@@ -1,57 +1,139 @@
-# KORDS (Kordsa Teknik Tekstil) Yatırım Tezi ve Analizi (27 Ekim 2025)
+# KORDS (Kordsa Teknik Tekstil) Yatırım Tezi ve Analizi (26 Şubat 2026)
 
 ## 1. Ana Yatırım Tezi
 
 Kordsa, geleneksel ve kârlı olan lastik güçlendirme pazarındaki global liderliğinin yanı sıra, ana yatırım tezini **ileri kompozit teknolojilerine** yönelik stratejik dönüşümü üzerine kurmuştur. Şirket, bu alanda (özellikle havacılık ve lüks otomotiv sektörleri için) inorganik büyümelerle pazar payını ve teknolojik yetkinliğini artırmaktadır.
 
-Tez, şirketin bu yüksek katma değerli segmentte global bir oyuncu haline gelerek kârlılık marjlarını ve ciro içindeki payını artırması beklentisine dayanmaktadır. Sabancı Holding'in şirkete olan desteği (sermaye artırımı kararı) ve stratejik odaklanmayı netleştiren adımlar (inşaat segmentinin satışı), bu tezi güçlendiren en önemli unsurlardır.
+Tez, şirketin bu yüksek katma değerli segmentte global bir oyuncu haline gelerek kârlılık marjlarını ve ciro içindeki payını artırması beklentisine dayanmaktadır. Sabancı Holding'in şirkete olan desteği (sermaye artırımı kararı ve 2 Milyar TL'nin üzerinde sermaye avansı) ve stratejik odaklanmayı netleştiren adımlar (Kratos/inşaat segmentinin satışı), bu tezi güçlendiren en önemli unsurlardır. **Bununla birlikte, 2025 tam yıl sonuçları göstermiştir ki tezin olgunlaşması için zamana ihtiyaç var; Çin rekabeti ve küresel ticaret rüzgarları Lastik Güçlendirme segmentini sıkıştırmaya devam etmektedir.**
 
-## 2. 2025/09 Finansal Rapor Notları (Faaliyet Raporu Detayları)
+---
 
-27 Ekim 2025 tarihli faaliyet raporu, 3. çeyrek sonuçlarına dair daha derin bir bakış sunarak ana yatırım tezini güçlendiren önemli detaylar içermektedir. Analiz, TL yerine daha anlamlı olan USD bazlı rakamlar üzerinden yapılmıştır.
+## 2. Tam Yıl 2025 Finansal Rapor Analizi (26 Şubat 2026)
 
-*   **Ana Rakamlar (3Ç 2025):**
-    *   **Ciro:** Yıllık %15.9 düşüşle 198 Milyon USD.
-    *   **FAVÖK:** 11.6 Milyon USD.
-    *   **Net Zarar:** 10.4 Milyon USD.
+*Analiz, şirketin fonksiyonel para birimi olan USD üzerinden yapılmıştır. USDTRY yıl sonu kuru: 42.85 | Ortalama kur: 39.26*
 
-*   **Segment Performansı (Tezin Doğrulanması):**
-    *   **Lastik Güçlendirme:** Ciro, yıllık %19 düşüşle 145 Milyon USD'ye geriledi. Bu düşüşün temel nedenleri, Endonezya'daki sel sonrası üretimin yavaş toparlanması ve Çin kaynaklı yoğun fiyat rekabetidir. Kısa vadeli olumsuzluk burada yoğunlaşmıştır.
-    *   **Kompozit Teknolojileri:** Ciro, zorlu piyasa koşullarına rağmen yıllık **%4 artışla 50 Milyon USD**'ye ulaştı. Bu büyüme, şirketin stratejik olarak odaklandığı katma değerli alanda pazar payı kazanmaya devam ettiğini göstererek **ana yatırım tezini doğrulamaktadır.**
+### 2a. Ana Gelir Tablosu Rakamları (FY2025 vs FY2024)
 
-*   **Tek Seferlik Etkilerin Analizi:** Çeyrek sonuçları, tek seferlik ve operasyonel olmayan gelişmelerden önemli ölçüde etkilenmiştir:
-    *   **Endonezya Sel Felaketi:** Rapor, selin net etkisini bu çeyrek için **-5.1 Milyon USD** olarak rakamsallaştırmıştır (26.1 Milyon USD'lik stok/varlık değer düşüklüğüne karşılık, 20 Milyon USD sigorta geliri ve 1 Milyon USD hurda satışı).
-    *   **Düzeltilmiş Kârlılık:** Sel felaketinin tek seferlik etkisi hariç bırakıldığında, 3. çeyrek FAVÖK rakamı **22.9 Milyon USD** gibi çok daha sağlıklı bir seviyede olacaktı. Bu durum, altta yatan operasyonel performansın göründüğünden daha güçlü olduğunu kanıtlamaktadır.
+| Kalem | FY2025 (USD) | FY2024 (USD) | Değişim |
+|---|---|---|---|
+| **Hasılat** | $790.8M | ~$920M (tahmin) | -%14 |
+| **Brüt Kâr** | $102.4M | — | Marj: **%13.0** |
+| **FAVÖK** | ~$43.2M | — | EBIT + D&A |
+| **EBIT** | -$1.6M | — | Neredeyse başabaş |
+| **Finansman Giderleri (net)** | -$52.0M | — | Ağır faiz yükü |
+| **Net Zarar (ana ortaklık)** | **-$38.0M** | -$26.1M | Zarar arttı |
+| **Net Zarar (TL)** | -1,491M TL | — | — |
 
-*   **Finansal Sağlık:**
-    *   **Nakit Yaratma ve Borçluluk:** Raporlanan zarara rağmen, etkin işletme sermayesi yönetimi sayesinde **net borç, bir önceki çeyreğe göre 19 Milyon USD azalarak 376 Milyon USD'ye gerilemiştir.** Bu, şirketin güçlü nakit yaratma kapasitesini teyit eden en önemli verilerden biridir.
+*D&A: TL bazında 1,757,593,867 TL / ortalama kur ($44.8M USD)*
 
-## 3. Stratejik Gelişmeler (Rapor Sonrası)
+**Kritik Tespitler:**
+- **FAVÖK ($43.2M)** son derece sıkışık; brüt kâr marjı %13 ile tarihsel ortalamanın altında.
+- Net zarar, yüksek net finansman giderleri ($52M) tarafından tamamen yutulmaktadır. Operasyonel kâr (EBIT) neredeyse sıfır olmakla birlikte, faiz giderleri sonucu zorlamaktadır.
+- Zarar, 2024'e kıyasla artmıştır (-$26.1M → -$38.0M). Ciro ise ciddi biçimde daralmıştır.
 
-*   **Sermaye Artırımı:** Şirket yönetimi, özkaynakları güçlendirmek amacıyla tamamı nakden karşılanacak şekilde **290 Milyon TL'lik bir sermaye artırımı** kararı almıştır. Ana ortak Sabancı Holding, bu sürece 2 Milyar TL'nin üzerinde bir sermaye avansı ödeyerek şimdiden destek vermiştir. Bu, şirketin büyüme stratejisine olan inancı ve finansal yapıyı güçlendirme niyetini göstermektedir.
-*   **Odaklanma (Kratos Satışı):** Şirket, ana faaliyet alanları dışında kalan İnşaat Güçlendirme (Kratos) iş kolunu 10 Milyon USD bedelle Afyon Çimento'ya satma kararı almıştır. Bu, kaynakların ve yönetimin tamamen lastik ve kompozit teknolojilerine odaklanmasını sağlayacak pozitif bir adımdır.
+### 2b. Bilanço ve Finansal Sağlık (31 Aralık 2025)
 
-## 4. Potansiyel Riskler ve Katalizörler
+| Kalem | Değer |
+|---|---|
+| **Net Borç** | $332.2M USD |
+| **Ana Ortaklık Özkaynakları** | 17,354,168,365 TL (~$405M USD) |
+| **Hisse Başına Defter Değeri** | 89.21 TL |
+| **Ödenmiş Sermaye** | 194,529,076 TL (194.5M pay, 1 TL nominal) |
+| **Sabancı Sermaye Avansı** | 2,060,570,002 TL (henüz tescilli sermayeye eklenmedi) |
+
+*Not: Net borç Q3 2025'te $376M iken $332M'a geriledi — olumlu trend.*
+
+### 2c. Nakit Akışı — En Güçlü Veri Noktası
+
+| Kalem | FY2025 (USD) |
+|---|---|
+| **İşletme Faaliyetlerinden Nakit Akışı** | **+$150.0M** |
+| Yatırım Faaliyetlerinden Nakit Akışı | — |
+| Finansman Faaliyetlerinden Nakit Akışı | — |
+
+**Kritik Tespit:** P&L'de $38M zarar görünmesine karşın, şirket işletme faaliyetlerinden $150M nakit üretmektedir. Bu, muhasebe zararının yanıltıcı olduğunu ve altta yatan nakit üretim kapasitesinin sağlam kaldığını kanıtlar. Net borcun Q3 2025'ten bu yana $44M azalmış olması bunu teyit etmektedir.
+
+### 2d. Segment Performansı
+
+- **Lastik Güçlendirme (~%78 ciro payı):** Çin kaynaklı yoğun fiyat rekabeti ve genel ticaret kısıtlamaları segmenti baskılamaya devam etmektedir. Ciro yıllık çift haneli düşüş kaydetmiştir.
+- **Kompozit Teknolojileri (~%22 ciro payı):** Zorlu koşullara rağmen büyümesini sürdürmektedir. Havacılık ve lüks otomotiv sektörleri için yüksek katma değerli ürünler üretimine devam edilmektedir.
+
+### 2e. Yapısal Gelişmeler
+
+- **Kratos (İnşaat Güçlendirme) Satışı:** Afyon Çimento'ya 10M USD'ye satılan bu iş kolu, 2025 yılında $957K USD zarar etkisi yaratarak (durdurulan faaliyetler) kapatılmıştır. Çekirdek olmayan varlıktan çıkış tamamlandı — odaklanma artıyor.
+- **Personel Optimizasyonu:** Çalışan sayısı 4,613'ten **3,903'e (%15.4 azalma)** indirilmiştir. Bu, maliyet yapısını iyileştirecek önemli bir operasyonel adımdır.
+- **Sabancı Desteği:** Ana ortak Sabancı Holding, Ekim 2025'te 2,060,570,002 TL (~$48M USD) sermaye avansı ödemiştir. Bu güçlü niyet beyanı, şirketin finansal esnekliğini artırmaktadır.
+
+---
+
+## 3. Değerleme (@ 51.55 TL — 26 Şubat 2026)
+
+*Pay sayısı: 194,529,076 adet (1 TL nominal)*
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| **Piyasa Değeri** | 10,027M TL / ~$234M USD | — |
+| **Net Borç** | $332.2M USD | Yüksek |
+| **Firma Değeri (EV)** | ~$566M USD | — |
+| **F/DD (Fiyat/Defter)** | **0.578x** | Defter değerinin %42 iskontosuyla işlem görüyor |
+| **EV/FAVÖK** | **13.1x** | Yüksek kaldıraç nedeniyle şişirilmiş |
+| **Net Borç / FAVÖK** | **7.7x** | Yüksek — en kritik risk |
+| **EV/Hasılat** | **0.72x** | Makul |
+| **F/K** | N/A | Net zarar nedeniyle hesaplanamaz |
+| **Hisse Başına Defter Değeri** | 89.21 TL | Hisse fiyatı ($51.55) defter değerinin %42 altında |
+
+**Değerleme Özeti:** Hisse, defter değerinin çok altında işlem görmektedir. Ancak yüksek kaldıraç oranı (Net Borç/FAVÖK: 7.7x) EV/FAVÖK'ü şişirmekte ve hissenin "ucuz" görünümünü yanıltıcı kılmaktadır. Net borç ödendikçe ve/veya FAVÖK arttıkça bu oran hızla düzelecektir. Sabancı'nın sermaye avansı, bu denklemi değiştirme potansiyeline sahiptir.
+
+---
+
+## 4. Riskler ve Katalizörler
 
 ### Riskler
 
-*   **Makroekonomik Yavaşlama:** Otomotiv ve havacılık sektörlerindeki küresel bir yavaşlama, şirketin satış hacimlerini olumsuz etkileyebilir.
-*   **Hammadde Fiyatları:** Petrol türevi hammaddelerdeki fiyat artışları, kâr marjları üzerinde baskı yaratabilir.
-*   **Rekabet:** Özellikle kompozit alanında rekabet yoğundur.
+- **Yüksek Kaldıraç (En Kritik):** Net Borç/FAVÖK 7.7x. Faiz giderleri ($52M/yıl) FAVÖK'ü ($43.2M) aşmaktadır. Bu oran düşürülmeden kârlılığa dönüş mümkün değildir.
+- **Çin Rekabeti:** Lastik güçlendirme segmentinde Çinli rakiplerin agresif fiyatlandırması, marjlar ve hacimler üzerinde baskıyı sürdürmektedir.
+- **Makroekonomik Yavaşlama:** Küresel otomotiv ve havacılık sektörlerindeki yavaşlama, ciroyu olumsuz etkiler.
+- **Hammadde Fiyatları:** Petrol türevi hammaddelerdeki artış, dar olan kâr marjlarını daha da sıkıştırabilir.
+- **Döviz Kuru:** TL'nin değer kaybı, TL cinsinden gider yaratan ve döviz cinsinden borç taşıyan şirket için ikili etki yaratabilir.
 
 ### Katalizörler
 
-*   **Stratejik Dönüşüm:** Kompozit segmentinin ciro ve kârlılık içindeki payının artmaya devam etmesi.
-*   **Yeni Anlaşmalar:** Havacılık ve uzay sanayinde kazanılacak yeni uzun vadeli kontratlar.
-*   **Finansal Toparlanma:** Sel felaketinin tek seferlik etkilerinin ortadan kalkmasıyla 2026'da kârlılığın hızla toparlanması potansiyeli.
-*   **Güçlü Bilanço:** Yapılacak sermaye artırımı ile borçluluğun azalması ve yatırım kapasitesinin artması.
+- **Net Borç Azalımı:** İşletme nakit akışı ($150M/yıl) güçlüdür. Mevcut hızda net borç 2-3 yılda önemli ölçüde azalabilir; bu EV/FAVÖK'ü hızla cazip seviyelere taşır.
+- **Sabancı Sermaye Artışı:** 2.06B TL'lik sermaye avansının tescili ve olası ek katkılar, bilançoyu güçlendirir ve yatırım kapasitesini artırır.
+- **Personel & Maliyet Tasarrufları:** 700+ kişilik istihdam azaltımının 2026'daki tam etkisi FAVÖK'ü olumlu etkileyecektir.
+- **Kompozit Büyümesi:** Havacılık ve lüks otomotivdeki yeni kontratlar, yüksek marjlı segmentin payını artırır.
+- **Lastik Güçlendirme Toparlanması:** Çin rekabetinin azalması veya global otomotiv talebinin güçlenmesi, hasılat ve marjları yukarı çeker.
 
-## 5. Strateji ve Hüküm
+---
 
-*   **Değerleme (27 Ekim 2025):**
-    *   **PD/DD:** **0.72**. Hisse, defter değerinin altında işlem görerek potansiyel bir iskonto sunmaktadır.
-    *   **Net Borç/FAVÖK:** Manşet oran 6.9x ile yüksek görünse de, sel etkisinden arındırılmış FAVÖK ile hesaplandığında **4.8x** gibi daha makul bir seviyeye inmektedir. Bu, borçluluğun yönetilebilir olduğunu göstermektedir.
-    *   **F/K:** Tek seferlik zarar nedeniyle hesaplanamamaktadır (N/A).
+## 5. Önceki Analiz Notları (3Ç 2025 — 27 Ekim 2025)
 
-*   **HÜKÜM:** POZİSYON AL / İZLE
-*   **GEREKÇE:** Kordsa, yüzeydeki net zarar rakamının aksine, operasyonel olarak güçlü nakit üreten ve stratejik olarak doğru adımlar atan bir şirkettir. Piyasanın, tek seferlik zarara odaklanarak hisseyi olumsuz fiyatlaması, ana yatırım tezinin potansiyelini iskontolu bir fiyattan değerlendirmek için bir **alım fırsatı** sunabilir. Hisse, bu gerekçelerle "Uydu / İzleme Listesi"ne eklenmiştir. Strateji, mevcut piyasa koşullarında hisse fiyatını izlemek ve olası geri çekilmelerde kademeli olarak pozisyon oluşturmaktır.
+*Bu bölüm, önceki çeyrek analizini referans olarak saklamaktadır.*
+
+- **3Ç 2025 Ciro:** $198M USD (yıllık -%15.9)
+- **3Ç 2025 FAVÖK:** $11.6M USD (sel etkisiz: $22.9M)
+- **Endonezya Sel Etkisi:** Net -$5.1M (26.1M zarar - 20M sigorta - 1M hurda)
+- **3Ç 2025 Net Zarar:** -$10.4M
+- **Q3 Net Borç:** $376M (FY2025 sonunda $332M'a geriledi ✓)
+
+---
+
+## 6. Strateji ve Hüküm
+
+- **Fiyat:** 51.55 TL (26 Şubat 2026)
+- **Hisse Başına Defter Değeri:** 89.21 TL
+- **F/DD:** 0.578x
+
+### **HÜKÜM: 🟡 İZLE / KADEMELİ AL (Yüksek Riskli)**
+
+### Gerekçe
+
+Kordsa'nın yatırım tezi hâlâ geçerliliğini korumaktadır: stratejik dönüşüm (kompozit teknolojileri), güçlü ana ortak desteği (Sabancı) ve sağlam nakit üretim kapasitesi (+$150M işletme nakit akışı) olumlu unsurlardır. Hissenin defter değerinin %42 altında işlem görmesi belirgin bir güvenlik marjı sunmaktadır.
+
+Ancak **yüksek kaldıraç (Net Borç/FAVÖK: 7.7x) en kritik risktir.** Mevcut faiz giderleri ($52M/yıl) FAVÖK'ü ($43.2M/yıl) aşmakta; bu yüzden net zarar kaçınılmaz hale gelmektedir. Kaldıraç kontrole girmeden ve FAVÖK büyümesi olmadan yatırım tezi tam anlamıyla olgunlaşamaz.
+
+**Strateji:**
+- Mevcut pozisyon varsa **tutun** — kademeli borç azalımı ve Sabancı sermaye desteği uzun vadeli temeli sağlar.
+- **Yeni alım için** kaldıraç verilerinin iyileşme sinyali vermesini bekleyin: Net Borç/FAVÖK'ün 6x altına inmesi veya Sabancı'nın ek sermaye taahhüdü somutlaşması güçlü alım sinyali olacaktır.
+- **Pozisyon boyutu:** Portföyün maksimum %5-7'si. Spekülatif değil, uzun vadeli stratejik bir bahis olarak değerlendirilmeli.
+- **İzlenecek göstergeler:** Çeyreklik FAVÖK trendi, net borç seyri, Kompozit segmenti büyüme hızı, Sabancı sermaye takvimi.

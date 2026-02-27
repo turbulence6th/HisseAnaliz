@@ -1,4 +1,4 @@
-# Portföy Genel Strateji Belgesi (7 Kasım 2025 İtibarıyla)
+# Portföy Genel Strateji Belgesi (27 Şubat 2026 İtibarıyla)
 
 Bu belge, mevcut piyasa koşulları ve son gelen faaliyet raporları ışığında, portföydeki her bir varlık için belirlenen ana stratejiyi ve yatırım felsefesini özetlemektedir.
 
@@ -38,12 +38,19 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
     *   **Alternatif Odak:** İhracatını ABD veya Orta Doğu gibi büyüyen pazarlara yapan veya cirosunu güçlü iç taleple (gıda perakendeciliği, telekom) destekleyen şirketlere ağırlık verilecektir.
     *   **Negatif İzleme Listesi:** VESTL (Talep daralması teyitli), EREGL (Kota riski), YUNSA (Lüks tüketim daralması), TTRAK (İhracat düşüşü).
 
-## 2. Mevcut Piyasa Durumu ve Strateji (7 Kasım 2025)
+## 2. Mevcut Piyasa Durumu ve Strateji (27 Şubat 2026)
 
-*   **DURUM:** 3. çeyrek bilanço dönemi sona erdi. Piyasa, genel olarak beklentileri karşılayan şirket sonuçlarını büyük ölçüde fiyatladı ve bir miktar yorgunluk belirtisi göstererek yatay bir seyre geçti.
-*   **POZİTİF GELİŞME:** Enflasyon muhasebesinin kaldırılması sonrası odak noktası haline gelen "nakit akışı" ve "operasyonel kârlılık" temalarının, bilançosu güçlü gelen şirketlerde (TCELL, KORDS, SISE) teyit edilmesi, bu hisselere olan güveni artırdı.
-*   **İZLENECEK RİSK:** Bilanço dönemi sonrası piyasanın yeni bir hikaye bulmakta zorlanması. Kâr realizasyonları ve yabancı yatırımcı akışının seyri, kısa vadeli yönü belirleyecektir.
-*   **GENEL STRATEJİ:** Ana strateji, **"kârını koru ve seçici ol"** olarak devam etmektedir. Yeni alımlar için, ya bilançosu güçlü gelmesine rağmen henüz fiyatlanmamış (geride kalmış) şirketler ya da ana trend desteklerine geri çekilen "Çekirdek Varlıklar" hedeflenmelidir. Panik alımlarından kaçınılacaktır.
+*   **DURUM:** FY2025 (12 aylık tam yıl) bilanço dönemi büyük ölçüde tamamlandı. SISE, TUPRS, ORGE, AGESA, TURSG başta olmak üzere portföydeki çekirdek varlıkların FY2025 raporları alındı ve md dosyaları güncellendi. Genel tablo: TMS 29 enflasyon muhasebesinin yarattığı reel baz etkisine rağmen kârlılıkta kayda değer iyileşme.
+*   **TAMAMLANAN ROTASYON:** KORDS → AGESA rotasyonu gerçekleştirildi. KORDS portföyden çıktı; AGESA çekirdek varlık olarak alındı.
+*   **POZİTİF GELİŞMELER:**
+    *   SISE: EBIT zarardan kâra döndü, FAVÖK +%32, Ana Ortaklık Net Kâr +%50. "Marj devrimi" tezi teyit edildi.
+    *   TUPRS: Rafineri marjı 7,0 $/varil (beklenti üzeri), hisse başı brüt temettü 17,13 TL (1. taksit Mart 2026).
+    *   AGESA: Net kâr +%93, ROE %71.5, F/K 7.58x — KORDS'a kıyasla belirgin üstünlük.
+*   **İZLENECEK RİSKLER:**
+    *   SISE Eurobond itfası (700M USD — 14 Mart 2026): Yönetilebilir ama nakit akışı takipte.
+    *   TUPRS: 216 TL seviyesi yeni alım için pahalı; 190-200 TL bölgesi ideal.
+    *   THYAO, YKBNK, SAHOL: Hâlâ 3Ç2025 bazlı analiz — FY2025 raporları henüz işlenmedi.
+*   **GENEL STRATEJİ:** Çekirdek varlıklarda (TCELL, SISE, TUPRS, AGESA) pozisyonu korumak ve seçici biçimde güçlendirmek. Yeni pozisyon için kriter yüksek tutulacak; spekülatif varlıklarda (FORTE, ARDYZ) katalizör beklenmekte.
 
 ## 3. Hisse Bazlı Stratejiler
 
@@ -54,37 +61,35 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **GEREKÇE:** Portföydeki en güçlü temel hikayelerden biri. 2025/09 sonuçları, yatırım tezini **beklentilerin üzerinde** teyit etmiştir. Şirket, esas faaliyetlerinden elde ettiği net kârı %32 artırmış, abone kazanımında ve ARPU büyümesinde pazar liderliğini sürdürmüştür. En önemlisi, yönetim bu güçlü sonuçlarla 2025 yılı ciro ve FAVÖK marjı hedeflerini **yukarı yönlü revize ederek** şirketin gidişatına olan güvenini net bir şekilde ortaya koymuştur. 5G ihalesinin uygun koşullarla kazanılmasıyla uzun vadeli teknolojik liderlik ve büyüme potansiyeli güvence altına alınmıştır.
 
 #### SISE (Şişecam)
-*   **HÜKÜM:** KADEMELİ AL
-*   **GEREKÇE:** 2025 Yıl Sonu (12A) sonuçları, "marj devrimi" tezini teyit etmiştir. Reel cirodaki %7,6'lık düşüşe rağmen; Brüt Kârın %12,7, FAVÖK'ün %32 ve Net Kârın %50 artması, olağanüstü bir operasyonel verimliliğe işaret etmektedir. ABD'deki Pacific Soda hisselerinin %100'e çıkarılması ve 2026 başında devreye alınan Macaristan/Bulgaristan tesisleri, büyüme hikayesini desteklemektedir. Nakit pozisyonundaki düşüşe rağmen, stratejik yatırımlar ve operasyonel güç güven vermektedir.
+*   **HÜKÜM:** 🟢 KADEMELİ AL (@ 46.04 TL — 27.02.2026)
+*   **GEREKÇE (FY2025 Tam Yıl):** "Marj devrimi" tezi güçlü biçimde teyit edildi. Reel ciro -%7.6'ya rağmen: Brüt Kâr +%12.7, FAVÖK +%32, Ana Ortaklık Net Kâr +%50. EBIT, geçen yılın -2.6B TL zararından +4.7B TL kâra döndü. EPS 3.535 TL. @ 46.04 TL: F/K 13.0x, PD/DD 0.53x (defterin yarısında), EV/FAVÖK ~11.4x. ABD Pacific Soda tam konsolidasyon + Macaristan/Bulgaristan yeni kapasiteler 2026'da ciroya katkı başladı. **Risk:** 700M USD Eurobond itfası 14 Mart 2026 — nakit (38.1B TL) + refinansman ile yönetilebilir. Detay: `hisse-analiz/SISE.md`
 
 #### ASELS (Aselsan)
-*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
-*   **GEREKÇE:** Operasyonel güç ve reel büyüme kapasitesiyle net bir Çekirdek Varlıktır. Son dönemdeki prim sonrası beklenen geri çekilme fırsatı, mevcut piyasa düşüşüyle gelmiştir. Strateji, bu düşüşü maliyet düşürmek ve pozisyonu güçlendirmek için bir **alım fırsatı** olarak kullanmaktır.
+*   **HÜKÜM:** 🟡 TUT / FIRSATLARDA EKLE (@ 309.25 TL — 27.02.2026)
+*   **GEREKÇE (FY2025 Tam Yıl):** Hasılat +%14.7 → 180.4B TL; EBIT +%37.4 → 49.1B TL; FAVÖK marjı %26.2 (hedef aşıldı); Net Kâr +%50.2 → 29.9B TL; Bakiye Sipariş rekor **20.4 Milyar USD**; İşletme Nakit Akışı +%74.4. 1.5B USD Oğulbey yatırımı devam ediyor. F/K (EAK) 28.7x — premium fiyatlama, ancak sipariş stoku ve savunma sektörü büyümesiyle meşrulaştırılmış. Mevcut seviyede yeni alım cazip değil. Detay: `hisse-analiz/ASELS.md`
+*   **ALIM SEVİYELERİ:** 🟡 280-295 TL → Küçük lot ekle | 🟢 255-275 TL → Ağırlıklı alım | 🟢🟢 <240 TL → Agresif ekle
 
 #### THYAO (Türk Hava Yolları)
-*   **HÜKÜM:** TUT
-*   **GEREKÇE:** 2025/09 sonuçları, şirketin operasyonel olarak güçlü büyümesini teyit etse de, kârlılıkta ciddi bir baskı olduğunu ortaya koymuştur. Dolar bazında net kâr marjının %15.9'dan %11.4'e gerilemesi, akaryakıt dışı giderlerdeki artışın kârlılığı erittiğini göstermektedir. Strateji, operasyonel güç nedeniyle pozisyonu korumak, ancak kârlılıkta bir dengeleme görülene kadar yeni alım yapmaktan kaçınarak 'TUT' olarak güncellenmiştir.
+*   **HÜKÜM:** TUT ⚠️ *(FY2025 raporu henüz işlenmedi — 3Ç2025 bazlı)*
+*   **GEREKÇE:** 2025/09 sonuçları, şirketin operasyonel olarak güçlü büyümesini teyit etse de, kârlılıkta ciddi bir baskı olduğunu ortaya koymuştur. Dolar bazında net kâr marjının %15.9'dan %11.4'e gerilemesi, akaryakıt dışı giderlerdeki artışın kârlılığı erittiğini göstermektedir. Strateji, operasyonel güç nedeniyle pozisyonu korumak, ancak kârlılıkta bir dengeleme görülene kadar yeni alım yapmaktan kaçınarak 'TUT' olarak güncellenmiştir. FY2025 raporu geldiğinde yeniden değerlendirilecek.
 
 #### YKBNK (Yapı Kredi Bankası)
-*   **HÜKÜM:** POZİSYON ARTIRILDI / AL
-*   **GEREKÇE:** Bankacılık sektörüne gelen genel satışlar, temelleri sağlam olan YKBNK'da bir alım fırsatı yaratmıştır. Sektördeki bu olumlu görüş, AKBNK'nın 23 Ekim'de açıkladığı beklentileri aşan 3Ç25 kârı ile de teyit edilmiştir.
+*   **HÜKÜM:** 🟢 TUT / SEÇİCİ EKLE (@ 43.92 TL — 27.02.2026)
+*   **GEREKÇE (FY2025 Tam Yıl):** Net Kâr +%62.3 → 47.09B TL; Net Faiz Geliri +%90.5 → 144.6B TL; ROE ~%21; SYR %18.09 (sektörün en güçlü tamponlarından biri). F/K ~7.9x, PD/DD ~1.45x — büyüme hızına göre makul fiyatlanmış. Koç Grubu sahipliği ile kurumsal yönetim kalitesi yüksek. Ana risk: TGA artışı (45B → ~76B TL brüt) ve FY2025'e ait temettü kararı henüz açıklanmadı. Detay: `hisse-analiz/YKBNK.md`
+*   **ALM SEVİYELERİ:** 🟡 39-41 TL → Küçük lot ekle | 🟢 35-38 TL → Ağırlıklı alım | 🟢🟢 <33 TL → Agresif ekle
 
 #### SAHOL (Sabancı Holding)
-*   **HÜKÜM:** AL / POZİSYON ARTIR
-*   **GEREKÇE:** Spekülatif "yeniden yapılanma" tezi, 2025/09 sonuçlarıyla **güçlenerek teyit edilmiştir.** Holdingin en zayıf halkası olan Malzeme Teknolojileri segmentinde kârlılıktaki sert düşüş durmuş, segmentin ve bankacılığın desteğiyle holding konsolide olarak yeniden net kâra geçmiştir.
+*   **HÜKÜM:** TUT / İZLE ⚠️ *(FY2025 raporu henüz işlenmedi — 3Ç2025 bazlı)*
+*   **GEREKÇE:** "Yeniden yapılanma" tezi, 2025/09 sonuçlarıyla teyit edilmişti. Malzeme Teknolojileri segmentindeki düşüş durmuş, bankacılığın desteğiyle holding net kâra geçmişti. FY2025 sonuçları değerlendirildiğinde holding iskontosu ve çekirdek varlık dağılımı yeniden analiz edilecek; hüküm güncellenecek.
 
 #### TUPRS
-<<<<<<< HEAD
-*   **HÜKÜM:** POZİSYON GÜÇLENDİR / AL
-*   **GEREKÇE:** 2025 yıl sonu finansal sonuçları, şirketin "Nakit Kraldır" tezini kanıtlar niteliktedir. Net kârın 29.5 Milyar TL'ye yükselmesi ve kasanın 107 Milyar TL nakitle dolu olması, hem güçlü temettü beklentisini hem de stratejik yatırımları (Romanya Güneş Enerjisi alımı gibi) desteklemektedir. Cirodaki düşüşe rağmen kârlılığın artması, operasyonel ve finansal yönetimin başarısıdır.
-=======
-*   **HÜKÜM:** GÜÇLÜ AL / TEMETTÜ PORTFÖYÜ
-*   **GEREKÇE (17.02.2026):** 2025 yılı sonuçları, 7,0 $/varil ile beklentileri aşan rafineri marjı ve toplamda hisse başı ~17,13 TL'lik temettü teklifi ile "Çekirdek Varlık" tezini perçinlemiştir. Nakit yaratma gücü ve stratejik dönüşüm yatırımları, hisseyi portföyün en güvenli limanlarından biri yapmaktadır.
->>>>>>> eebe099f42ce3eda1c72fd992b4791b1af7e6148
+*   **HÜKÜM:** 🟢 GÜÇLÜ TUT / TEMETTÜ ÖNCESİ EKLE (@ 216.20 TL — 27.02.2026)
+*   **GEREKÇE (FY2025 Tam Yıl):** Ana Ortaklık Net Kâr +%23.1 → 29.52B TL; EPS 15.32 TL. Net Nakit +57.0B TL (Net Nakit/Hisse: 29.57 TL). EV/FAVÖK 4.35x — çarpan bazında son derece ucuz. Brüt temettü: 17.13 TL/hisse (1. taksit ~10.38 TL Mart 2026, 2. taksit ~6.75 TL Eylül 2026). Temettü verimi %7.92 (brüt). **Mevcut seviye (216 TL) yeni alım için sınırda; ideal giriş 190-200 TL bölgesi.** Detay: `hisse-analiz/TUPRS.md`
 
-#### KORDS (Kordsa)
-*   **HÜKÜM:** POZİSYON ALINDI / ÇEKİRDEK VARLIK
-*   **GEREKÇE:** VAKKO ve ALARK'taki pozisyonların kapatılmasıyla serbest kalan fonun bir bölümü, bu pozisyona yönlendirilmiştir. Şirketin tek seferlik zarara rağmen olağanüstü güçlü nakit akışı yaratması ve bilançosunu güçlendirme adımları, hisseyi "İzleme Listesi"nden "Çekirdek Portföy"e taşımıştır.
+#### AGESA (AgeSA Hayat ve Emeklilik)
+*   **HÜKÜM:** 🟢 ALINDI / ÇEKİRDEK VARLIK (KORDS Rotasyonu Tamamlandı — @ ~234 TL, 27.02.2026)
+*   **GEREKÇE (FY2025 Tam Yıl):** Net kâr +%93 → 5.555B TL; teknik kârlılık +%429 (yapısal iyileşme); ROE %71.5. F/K 7.58x — bu büyüme hızına göre belirgin iskonto. Sağlık sigortası büyüme katalizörü henüz fiyatlanmamış. Sabancı + Ageas sahipliği azınlık hissedar çıkarlarıyla hizalı. Halka açıklık %20, imtiyazlı pay yok. Detay: `hisse-analiz/AGESA.md`
+
 
 #### ECILC (Eczacıbaşı İlaç)
 *   **HÜKÜM:** AL / POZİSYON GÜÇLENDİR
@@ -104,10 +109,6 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **HÜKÜM:** TEKRAR DEĞERLENDİR / İZLE
 *   **GEREKÇE:** Şirketin daha önce "sınırlı büyüme potansiyeli" gerekçesiyle portföyden çıkarılma kararı, 2025/09 faaliyet raporu ile geçersiz kalmıştır. Rapor, şirketin %36'lık "Baz Alınan Net Kâr" artışı yakaladığını göstermiştir. Kurumsal yönetim yapısının yatırım ilkeleriyle tam uyumlu olması, şirketi tekrar "Çekirdek Varlık" adayı yapmaktadır.
 
-#### AGESA (AgeSA Hayat ve Emeklilik)
-*   **HÜKÜM:** ALIM İÇİN İZLE / ÇEKİRDEK VARLIK ADAYI
-*   **GEREKÇE:** Operasyonel kârlılığı, pazar liderliği, düşük halka açıklık oranı (%20) ve imtiyazlı hisse bulundurmaması gibi özellikleriyle stratejinin tüm kriterlerine uyan, çok güçlü ve sağlam bir "Çekirdek Varlık" tezi sunmaktadır. Portföye eklenmek üzere yakından izlenmektedir.
-
 #### FORTE (Forte Teknoloji)
 *   **HÜKÜM:** ALINDI (625 Lot) / SPEKÜLATİF
 *   **GEREKÇE:** Şirketin temel verileri (negatif nakit akışı, operasyonel zarar, imtiyazlı paylar) strateji kriterlerini karşılamasa da; **GİB (Gelir İdaresi Başkanlığı) ihalesinin kazanılması beklentisi** nedeniyle kısa vadeli/spekülatif bir pozisyon açılmıştır. Hedef, ihalenin katalizör etkisiyle oluşabilecek x2 getiri potansiyelidir. İhale süreci yakından takip edilecektir.
@@ -118,11 +119,15 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 
 ### C) Rotasyon Adayları (Satış Stratejisi)
 
-#### BRISA/KORDSA -> AGESA Rotasyonu (Şarta Bağlı)
-*   **STRATEJİ:** **BRISA** ve **KORDSA**'nın gelecek finansal ve faaliyet raporları beklenmektedir. Eğer bu raporlar beklentilerin altında kalır veya olumsuz bir görünüm sergilerse, bu pozisyonların kapatılarak **AGESA**'ya dönüştürülmesi planlanmaktadır.
-*   **GEREKÇE:** AGESA'nın son finansal sonuçlarıyla teyit edilen olağanüstü performansı, sağlık sigortacılığına girişi ve güçlü nakit akışı, onu portföy için çok daha cazip bir "Çekirdek Varlık" haline getirmiştir. BRISA veya KORDSA'daki olası zayıflıklar, sermayenin daha verimli kullanılacağı AGESA'ya aktarılması için bir fırsat olarak değerlendirilecektir.
+#### KORDS → AGESA Rotasyonu ✅ TAMAMLANDI (27.02.2026)
+*   **DURUM:** Rotasyon gerçekleştirildi. KORDS satıldı, gelir AGESA'ya yönlendirildi. AGESA artık A bölümünde Çekirdek Varlık olarak yer almaktadır.
+*   **BRISA:** Pozisyon daha önce kapatılmıştı.
 
 ### D) Portföyden Çıkarılan Varlıklar
+
+#### KORDS (Kordsa)
+*   **HÜKÜM:** POZİSYON KAPATILDI — AGESA'YA ROTASYON (27.02.2026)
+*   **GEREKÇE (FY2025 Tam Yıl):** Net Borç/FAVÖK 7.7x — faiz giderleri ($52M) FAVÖK'ü ($43.2M) aşıyor; net zarar büyüdü (-$38M). Deleveraging için 2-3 yıl gereken bu yapı, sermayenin daha verimli kullanılabileceği AGESA'ya rotasyon kararını aktive etti. Detay: `hisse-analiz/KORDS.md`
 
 #### ANSGR (Anadolu Sigorta)
 *   **HÜKÜM:** POZİSYON KAPATILDI / ROTASYON
@@ -137,8 +142,8 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **GEREKÇE:** Portföydeki hisse sayısını azaltmak ve havacılık sektöründeki yoğunlaşmayı düşürmek amacıyla pozisyon kapatılmıştır.
 
 #### TURSG (Türkiye Sigorta)
-*   **HÜKÜM:** POZİSYON KAPATILDI
-*   **GEREKÇE:** Daha güçlü operasyonel kârlılığa sahip olan ANSGR'ye rotasyon yapmak amacıyla pozisyon kapatılmıştır.
+*   **HÜKÜM:** 🟡 DİKKATLİ AL / UYDU POZİSYON (@ 12.42 TL — 26.02.2026)
+*   **GEREKÇE (FY2025 Tam Yıl):** Net kâr +%52.8 → 19.53B TL. Teknik Bölüm Dengesi (22.7B TL) net kârı aşıyor — şirket özünde sigortacılık yaparak para kazanıyor. F/K 6.37x ile ROE %50.5 kombinasyonu belirgin değer iskontosu sunuyor. Kritik risk: Ana ortak TVF (Türkiye Varlık Fonu, %81.10 pay) — azınlık hissedar koruması belirsiz; 2025'te %100 sermaye artırımı yapıldı. AGESA ile portföyde birlikte tutulabilir: farklı iş modeli (hayat dışı sigorta) ve farklı grup (TVF≠Sabancı) çeşitlendirme sağlar. Portföy payı maks %3-5. Detay: `hisse-analiz/TURSG.md`
 
 #### EREGL (Ereğli Demir Çelik)
 *   **HÜKÜM:** POZİSYON KAPATILDI
@@ -163,6 +168,14 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 #### YYLGD (Yayla Agro Gıda)
 *   **HÜKÜM:** POZİSYON ALIMINDAN VAZGEÇİLDİ
 *   **GEREKÇE:** Stratejik önceliklerin değişmesi ve portföyde daha cazip bulunan ENKAI ve AGESA gibi adaylara odaklanılması nedeniyle pozisyon almaktan vazgeçilmiştir.
+
+#### AKFIS (Akfen İnşaat Turizm ve Ticaret A.Ş.)
+*   **HÜKÜM:** 🟢 AL — DİKKATLİ / KADEMELİ (@ 25,58 TL — 26.02.2026)
+*   **GEREKÇE:** KÖİ (kamu-özel işbirliği) modeli ile işletilen Sağlık Bakanlığı hastanelerinin operatörü. Ocak 2025'te halka arz edildi, IPO fiyatından -%45 düşmüş durumda. F/DD 0,51x ile özkaynak değerinin yarısına işlem görüyor; imtiyaz varlıklarının gerçeğe uygun değeriyle ölçülen özkaynak kalitesi yüksek. EV/Düzeltilmiş FAVÖK 7,35x. Ana risk: Düşük halka açıklık (%10,5) ve 2026 sonunda sona eren KÖİ sözleşmelerinin yenilenmesi. Detay: `hisse-analiz/AKFIS.md`
+
+#### PATEK (Pasifik Teknoloji A.Ş.)
+*   **HÜKÜM:** 🔴 UZAK DUR (@ 18,18 TL — 26.02.2026)
+*   **GEREKÇE:** "Teknoloji şirketi" görünümünde bir finansal holding. 2025 kârının tamamı (1,165 milyar TL), PP4-Pardus Girişim Sermayesi Fonu + PASEU hisselerinin gerçekleşmemiş GUD artışından kaynaklanmaktadır. Asıl işletme FAVÖK negatif (–218 milyon TL), brüt marj yalnızca %3. F/DD 2,57x; şerefiye ve intangibles hariç F/DD 4,37x — adil değer 7–9 TL. PP4-Pardus illiquid özel girişim sermayesi fonu olduğundan değerleme belirsizliği yüksek. Detay: `hisse-analiz/PATEK.md`
 
 ### E) Fon Stratejileri (Emtia Odaklı)
 

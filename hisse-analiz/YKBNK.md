@@ -1,61 +1,146 @@
-# YKBNK – 2Ç 2025 Faaliyet Raporu Analizi ve Strateji
+# YKBNK – FY2025 Yıl Sonu Analizi ve Strateji
 
-Bu not, Yapı ve Kredi Bankası'nın 2Ç 2025 faaliyet raporu sonuçlarını analiz etmekte ve bu veriler ışığında mevcut "Düşüşleri Alım Fırsatı Olarak Değerlendir" stratejisinin devamlılığını değerlendirmektedir.
+Bu not, Yapı ve Kredi Bankası'nın 31 Aralık 2025 tarihli konsolide olmayan finansal tablolarını analiz etmekte ve mevcut stratejiyi güncellemektedir.
 
-## 2. 2025/09 Finansal Rapor Analizi (31 Ekim 2025)
+---
 
-30 Eylül 2025 itibarıyla açıklanan 9 aylık konsolide olmayan finansal sonuçlar, bankanın yatırım tezini ve `GENEL_STRATEJI.md` dosyasında belirtilen "AL" stratejisini güçlü bir şekilde teyit etmektedir. Banka, tüm temel metriklerde olağanüstü bir performans sergilemiştir.
+## 1. Şirket Profili
 
-### Olumlu Gelişmeler
+*   **Tam Unvan:** Yapı ve Kredi Bankası A.Ş.
+*   **Sektör:** Bankacılık
+*   **Kayıt Tarihi:** 5 Şubat 2026 (FY2025 Raporu)
+*   **Raporlama Standardı:** BDDK Muhasebe ve Finansal Raporlama Mevzuatı / TFRS
 
-*   **Olağanüstü Kârlılık Artışı:** Bankanın 9 aylık **net dönem kârı**, geçen yılın aynı dönemine göre **%69 artarak 22.4 milyar TL'den 37.8 milyar TL'ye** fırlamıştır. Bu, operasyonel verimliliğin ve gelir artışının güçlü bir göstergesidir. CEO mesajında belirtilen **%23,6'lık Ortalama Maddi Özkaynak Kârlılığı (ROATE)**, bankanın enflasyonist ortamda dahi hissedarlarına reel getiri sağlama kapasitesini ortaya koymaktadır.
+### Ortaklık Yapısı (31 Aralık 2025)
 
-*   **Çekirdek Gelirlerde Patlama:**
-    *   **Net Faiz Gelirleri:** Yıllık bazda **%80 artarak** 53.8 milyar TL'den 97.2 milyar TL'ye çıkmıştır. Bu, bankanın ana faaliyet alanı olan kredi ve mevduat yönetimindeki üstün başarısını ve faiz marjlarındaki iyileşmeyi göstermektedir.
-    *   **Net Ücret ve Komisyon Gelirleri:** Yıllık bazda **%51 artarak** 52.6 milyar TL'den 79.7 milyar TL'ye yükselmiştir. Bu, bankanın sadece faize bağımlı kalmadığını ve hizmet gelirlerini de güçlü bir şekilde artırdığını teyit etmektedir.
+| Ortak | Pay Oranı | Not |
+|---|---|---|
+| Koç Finansal Hizmetler A.Ş. (KFH) | %40.95 | Koç Grubu + UCG ortak girişimi |
+| Koç Holding A.Ş. | %20.22 | Doğrudan pay |
+| Halka Açık | **%38.83** | BIST'te işlem görüyor |
 
-*   **Güçlü ve Kontrollü Bilanço Büyümesi:**
-    *   **Krediler:** 2024 sonuna göre **%32 artışla** 1.25 trilyon TL'den 1.65 trilyon TL'ye ulaşarak piyasa payı kazanımının devam ettiğini göstermektedir.
-    *   **Mevduatlar:** 2024 sonuna göre **%28.5 artışla** 1.27 trilyon TL'den 1.63 trilyon TL'ye yükselerek kredi büyümesini sağlıklı ve istikrarlı bir şekilde fonlamıştır.
+*   **Değerlendirme:** Halka açıklık oranı %38.83 ile "duruma göre değerlendir" bandında. Koç Grubu fiili kontrol sahibi; azınlık hissedar çıkarları ile hizalı kurumsal yönetim. İmtiyazlı pay bulunmamaktadır.
+*   **Ödenmiş Sermaye:** 8,447,051 Bin TL (nominal 1 TL/pay → 8.447 Milyar hisse)
 
-*   **Kaya Gibi Sağlam Likidite ve Sermaye Yapısı:**
-    *   **Likidite:** Raporun detaylarında görülen **%124'lük Likidite Karşılama Oranı (LKO)** ve **%123'lük Net İstikrarlı Fonlama Oranı (NİFO)**, yasal limitlerin çok üzerinde olup bankanın olası şoklara karşı ne kadar dayanıklı olduğunun en net kanıtıdır.
-    *   **Sermaye:** **%15,1'lik Sermaye Yeterlilik Rasyosu (SYR)**, bankanın gelecekteki büyümeyi destekleyecek güçlü bir sermaye tamponuna sahip olduğunu göstermektedir.
-    *   **Aktif Kalitesi:** Kredilerdeki hızlı büyümeye rağmen, takipteki krediler için ayrılan karşılıkların toplam kredilere oranı %3.78'den %3.66'ya hafifçe gerilemiştir. Bu durum, büyümenin agresif ancak risk yönetimi disiplininden kopmadan, kontrollü bir şekilde sağlandığına işaret etmektedir.
+---
 
-### Dikkat Edilmesi Gerekenler
+## 2. FY2025 9 Aylık Sonuçlar (Referans — 30 Eylül 2025)
 
-*   **Faaliyetlerden Gelen Nakit Akışında Azalma:** Bankacılık faaliyetlerinden kaynaklanan net nakit akışı, geçen yılın aynı dönemine göre 45.7 milyar TL'den 19.5 milyar TL'ye gerilemiştir. Ancak bu durum, operasyonel bir zayıflıktan ziyade, bilançodaki **kredi büyümesine (414 milyar TL'lik net artış)** harcanan nakitten kaynaklanmaktadır. Bu, gelecekteki faiz gelirleri için yapılan bir yatırım olduğundan negatif bir gösterge olarak değerlendirilmemektedir.
+Önceki analizden özet:
+*   9A2025 Net Kâr: **37.8 Milyar TL** (+%69 YoY)
+*   ROATE: %23.6
+*   SYR: %15.1
 
-## 3. 2025 Yıl Sonu Finansal Rapor Analizi (5 Şubat 2026)
+---
 
-31 Aralık 2025 tarihli yıl sonu finansal sonuçları, YKBNK'nın "Çekirdek Varlık" tezini perçinleyen ve operasyonel mükemmelliğini kanıtlayan veriler sunmaktadır. Banka, zorlu makroekonomik koşullara rağmen kârlılığını ve pazar payını artırmayı başarmıştır.
+## 3. FY2025 Yıl Sonu Finansal Rapor Analizi (31 Aralık 2025)
 
-### Öne Çıkan Finansal Veriler (Konsolide Olmayan)
+> **Kaynak:** YKBNK_Finansal_Rapor_05-02-2026.pdf — Konsolide Olmayan, BDDK formatı, Bin TL
 
-*   **Net Kârda Sıçrama:** 2025 yılı net dönem kârı, bir önceki yıla göre **%62 artışla 29 milyar TL'den 47.1 milyar TL'ye** yükselmiştir. Bu artış, bankanın gelir yaratma kapasitesinin ne kadar güçlü olduğunu göstermektedir.
-*   **Çekirdek Gelirlerde Muazzam Büyüme:**
-    *   **Net Faiz Gelirleri:** Yıllık bazda **%90 gibi olağanüstü bir artışla** 75.9 milyar TL'den 144.6 milyar TL'ye ulaşmıştır. Bu, faiz marjı yönetimindeki başarının en net göstergesidir.
-    *   **Net Ücret ve Komisyonlar:** Yıllık bazda **%51 artışla** 73.1 milyar TL'den 110.3 milyar TL'ye yükselmiş, gelir çeşitliliği korunmuştur.
-*   **Bilanço Büyümesi:**
-    *   **Krediler:** Toplam nakdi krediler yıllık **%43 artışla** 1.25 trilyon TL'den 1.78 trilyon TL'ye ulaşmıştır.
-    *   **Mevduat:** Toplam mevduat yıllık **%40 artışla** 1.27 trilyon TL'den 1.78 trilyon TL'ye yükselerek kredi büyümesini fonlamıştır.
-*   **Sermaye ve Likidite:**
-    *   **Sermaye Yeterliliği:** Sermaye Yeterlilik Rasyosu (SYR) **%18,09** seviyesinde gerçekleşerek yasal sınırların ve sektör ortalamalarının oldukça üzerinde, çok güçlü bir sermaye tamponuna işaret etmektedir.
-    *   **Likidite:** Son üç aylık ortalama Likidite Karşılama Oranı **%123** seviyesindedir.
+### 3.1 Gelir Tablosu
 
-### Değerlendirme
+| Kalem | FY2025 (Bin TL) | FY2024 (Bin TL) | YoY |
+|---|---|---|---|
+| Faiz Gelirleri | 576,963,778 | 453,007,546 | +%27.4 |
+| Faiz Giderleri | 432,336,705 | 377,093,989 | +%14.6 |
+| **Net Faiz Geliri** | **144,627,073** | **75,913,557** | **+%90.5** |
+| Net Ücret & Komisyon | 110,296,732 | 73,097,483 | +%50.9 |
+| Ticari Kar/Zarar | (63,087,389) | (46,430,572) | — |
+| Faaliyet Brüt Kârı | 212,910,069 | 131,101,203 | +%62.4 |
+| Beklenen Zarar Karşılıkları | (50,200,415) | (35,695,075) | +%40.6 |
+| Personel Giderleri | (40,248,684) | (27,530,139) | +%46.2 |
+| Diğer Faaliyet Giderleri | (77,634,777) | (49,855,150) | +%55.7 |
+| Net Faaliyet Kârı | 44,707,488 | 17,962,230 | +%149.0 |
+| Vergi Öncesi Kâr | 59,976,431 | 29,727,083 | +%101.8 |
+| Vergi Karşılığı | (12,886,280) | (710,260) | — |
+| **Dönem Net Kârı** | **47,090,151** | **29,016,823** | **+%62.3** |
 
-Banka, enflasyon muhasebesinin uygulanmadığı 2025 yılında nominal olarak çok güçlü sonuçlar açıklamıştır. Net faiz gelirlerindeki %90'lık artış, ana bankacılık faaliyetlerindeki kârlılığın sürdürülebilirliğini kanıtlar niteliktedir. Takipteki krediler (NPL) tutarındaki nominal artış (45 milyar TL -> 76 milyar TL) dikkat çekici olsa da, ayrılan güçlü karşılıklar (71.5 milyar TL) bu riski minimize etmektedir.
+*   **EPS (BDDK dipnot):** 0.0557 TL (844.705 Milyar ağırlıklı ort. hisse üzerinden hesaplanmış — rapor formatına özgü birim farkı)
+*   **Net Faiz Marjı yönü:** Net faiz gelirinin faiz gelirlerine oranı: %25.1 (FY2024: %16.8) — belirgin marj genişlemesi.
+*   **Verimlilik (Cost-to-Income):** İşletme giderleri / Faaliyet Brüt Kârı ≈ %55.5
 
-## 4. Hüküm ve Strateji
+### 3.2 Bilanço Ana Kalemleri (31/12/2025)
 
-*   **HÜKÜM:** AL / POZİSYON ARTIR
-*   **GEREKÇE:** Son finansal sonuçlar, mevcut "AL" stratejisini ve YKBNK'nın portföydeki "Çekirdek Varlık" konumunu **olağanüstü bir şekilde doğrulamaktadır.** Banka, hem kârlılık hem de büyüme tarafında muazzam bir performans sergilemektedir. Özellikle güçlü likidite ve sermaye oranları, bankayı sektördeki diğer oyunculardan pozitif ayrıştırmaktadır. Piyasadaki genel satışlar, bu güçlü temellere sahip hisseyi iskontolu bir fiyattan almak için bir fırsat sunmaya devam etmektedir. Mevcut alım planı geçerliliğini korumaktadır.
+| Kalem | FY2025 (Bin TL) | FY2024 (Bin TL) | YoY |
+|---|---|---|---|
+| **Toplam Nakdi Krediler** | **1,783,460,450** | **~1,249,000,000** | **+%43** |
+| Toplam Mevduat | ~1,749,480,581 | ~1,270,000,000 | +%38 |
+| **Özkaynaklar** | **255,605,021** | **192,804,048** | **+%32.6** |
+| Ödenmiş Sermaye | 8,447,051 | 8,447,051 | değişmedi |
 
-### Kademeli Alım Planı (19 Eylül 2025 Revizyonu)
-- **DURUM:** Mevcut pozisyon üzerine ekleme yapmak için yeni kademeler beklenmektedir.
-- **Seviyeler:**
-  - **1. Kademe (Ara Alım): 33.50 – 32.50 TL**
-  - **2. Kademe (Ana Alım): 31.50 – 30.50 TL**
-  - **Risk Yönetimi (Alımı Durdur):** 29.00 TL altında günlük kapanış.
+### 3.3 Sermaye ve Likidite
+
+*   **Sermaye Yeterlilik Rasyosu (SYR):** **%18.09** (yasal minimum %12) — güçlü tampon
+*   **Likidite Karşılama Oranı (LKO):** ~**%123** (son 3 aylık ortalama, yasal min %100)
+*   **Takipteki Krediler (TGA):** Brüt ~75-76 Milyar TL (FY2024: ~45 Milyar TL); beklenen zarar karşılığı artışıyla yönetilmekte.
+
+### 3.4 Temettü
+
+*   Genel Kurul toplantısı henüz yapılmamış; Yönetim Kurulu'nun 2025 yılına ait kâr dağıtım önerisi **henüz hazırlanmamıştır.**
+*   FY2024 için de temettü dağıtılmamış (tüm kâr yedeklere aktarılmıştı).
+*   **Beklenti:** 47.09B TL net kâr ile güçlü bir temettü kapasitesi oluştu; Genel Kurul kararı bekleniyor.
+
+---
+
+## 4. Değerleme (@ 43.92 TL — 27 Şubat 2026)
+
+| Metrik | Değer | Not |
+|---|---|---|
+| Hisse Sayısı | 8.447 Milyar | Ödenmiş Sermaye / 1 TL nominal |
+| Net Kâr (FY2025) | 47.09 Milyar TL | +%62.3 YoY |
+| **EPS** | **~5.57 TL/hisse** | 47.09B ÷ 8.447B |
+| Defter Değeri/Hisse | ~30.26 TL | Özkaynaklar ÷ 8.447B |
+| Piyasa Değeri | ~370.9 Milyar TL | 8.447B × 43.92 TL |
+| **F/K** | **~7.9x** | 43.92 ÷ 5.57 |
+| **PD/DD** | **~1.45x** | 370.9B ÷ 255.6B |
+| **ROE** | **~21%** | Net Kâr / Ort. Özkaynak |
+
+### Karşılaştırmalı Değerlendirme
+
+*   **F/K 7.9x** → Türk bankacılık sektörü için makul; yüksek büyüme (+%62 net kâr) ile destekleniyor.
+*   **PD/DD 1.45x** → Defterin üzerinde ama sektör ROE'si (%21) ile meşrulaştırılabilir. (Haklı PD/DD = ROE / sermaye maliyeti ≈ 21% / ~15% = 1.4x) ✓
+*   **ROE %21** → Hissedar için reel değer yaratan güçlü getiri; SYR %18.09 ile sürdürülebilir büyüme kapasitesi korunuyor.
+
+---
+
+## 5. Temel Analiz: Güçlü ve Zayıf Yönler
+
+### Olumlu Faktörler
+
+*   **Net Faiz Geliri +%90.5:** Ana bankacılık marjı makro faiz ortamının olumlu etkisiyle belirgin iyileşti.
+*   **Net Ücret & Komisyon +%50.9:** Faiz dışı gelir tabanının güçlenmesi sürdürülebilir kârlılığa işaret eder.
+*   **SYR %18.09:** Sektörde en güçlü sermaye tamponlarından biri; düzenleyici risk minimumdadır.
+*   **Kredi büyümesi +%43:** Pazar payı artışı; mevduat büyümesi (+%38) paralel seyrediyor — sağlıklı fonlama.
+*   **ROE %21:** Enflasyonist ortamda hissedarlar için reel getiri yaratan güçlü bir performans.
+*   **Koç Grubu yönetimi:** Azınlık hissedar çıkarlarıyla uyumlu, kurumsal yönetim kalitesi yüksek.
+
+### Dikkat Edilecek Riskler
+
+*   **TGA artışı:** Brüt takipteki krediler ~45B'den ~76B'ye yükseldi (+%69). Karşılık politikası güçlü görünse de ekonomik yavaşlamada kötüleşme riski izlenecek.
+*   **Yüksek faiz gider baskısı:** Faiz giderlerindeki artış (%14.6), faiz geliri artışının (%27.4) altında kalmış — bu aralık korunduğu sürece iyi, ancak politika faizi indiriminde yeniden fiyatlama riski.
+*   **Ticari zarar (-63.1B TL):** Kur/türev kaynaklı ticari zarar büyüdü; kalıcılaşırsa marj baskısı yaratabilir.
+*   **Temettü belirsizliği:** Genel Kurul kararı bilinmiyor. FY2024'te temettü dağıtılmamış.
+
+---
+
+## 6. Hüküm ve Strateji
+
+*   **HÜKÜM:** 🟢 **TUT / SEÇİCİ EKLE** (@ 43.92 TL — 27.02.2026)
+*   **GEREKÇE:** FY2025 sonuçları "Çekirdek Varlık" tezini güçlü biçimde teyit etti. Net kâr +%62.3, Net Faiz Geliri +%90.5, ROE %21 ve SYR %18.09 kombinasyonu portföyde tutunmayı meşrulaştıran güçlü temeller sunuyor. F/K 7.9x, büyüme hızına göre ucuz; PD/DD 1.45x ise kazanma gücüyle (ROE) örtüşüyor.
+
+### Seviye Analizi (@ 43.92 TL)
+
+| Seviye | Yorum | Aksiyon |
+|---|---|---|
+| **43.92 TL (şu an)** | Mevcut poziyon için makul; F/K ~8x | Tut |
+| **39-41 TL** | Olası geri çekilme bölgesi | Küçük lot ekle |
+| **35-38 TL** | Net temettü & kâr realizasyonu sonrası boşluk | Ağırlıklı alım |
+| **< 33 TL** | Önceki alım seviyelerinin altı; stres senaryosu | Agresif ekle |
+
+> **Not:** Önceki alım planı (32-33.50 TL seviyeleri) artık piyasanın altında kalmıştır. Mevcut 43.92 TL seviyesi yeni büyük pozisyon açmak için ideal değil; ancak güçlü temeller TUT kararını destekliyor. Olası geri çekilmelerde ekleme değerlendirilecek.
+
+### Katalizörler
+
+*   **Genel Kurul Temettü Kararı:** 47.09B TL net kârla anlamlı bir temettü kararı hisse üzerinde olumlu etki yaratabilir.
+*   **Politika Faizi İndirimi:** TCMB faiz indirim sürecine girmesi halinde net faiz marjı daralabilir, ancak kredi büyümesi ivmelenebilir — banka net olarak yönetilebilir.
+*   **Makroekonomik Normalleşme:** Türkiye'de enflasyon gerilemesi ve istikrar YKBNK hissesinin uluslararası yatırımcı ilgisini artırabilir.

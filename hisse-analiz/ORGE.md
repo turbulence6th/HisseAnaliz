@@ -1,75 +1,149 @@
 # ORGE Enerji Elektrik Taahhüt A.Ş. - Analiz ve Strateji
 
-## 2025 Yıl Sonu (12A) Faaliyet Raporu ve Finansal Analiz
+## FY2025 (12A) Analizi — Güncelleme: 27 Şubat 2026
 
-Bu analiz, ORGE'nin 1 Ocak – 31 Aralık 2025 dönemine ait Konsolide Faaliyet Raporu ve Finansal Tabloları ışığında güncellenmiştir.
+Bu analiz, ORGE'nin 1 Ocak – 31 Aralık 2025 dönemine ait Konsolide Finansal Tablolar ve Yıllık Faaliyet Raporu ışığında güncellenmiştir.
 
-### Özet: "Geçmiş Zayıf, Gelecek Dolu"
-2025 yılı sonuçları, finansal tablolar (P&L) ile bilanço/beklentiler arasında keskin bir zıtlık barındırmaktadır. Enflasyon muhasebesi (TMS 29) etkisiyle şirket, 2024'e göre reel olarak küçülmüş görünse de; **tarihinin en yüksek iş yüküne (backlog)** ulaşmış ve 2026'ya çok hızlı bir giriş yapmıştır.
+---
 
-#### 1. Finansal Görünüm (Geriye Dönük Zayıflık)
-*   **Reel Daralma:** Hasılat reel olarak **%22**, Net Kâr **%34** düşmüştür. 2025, operasyonel olarak "duraklama" yılı olmuştur.
-*   **Marj Baskısı:** Brüt Kâr Marjı %58'den %53'e gerilemiştir. Maliyet artışları kârlılığı törpülemiştir.
+## 1. Yatırım Tezi — Özet
 
-#### 2. Faaliyet Raporundan Öne Çıkanlar (Geleceğe Dönük Güç)
-Raporun derinlemesine incelenmesi, finansal tablolardaki negatifliğin aksine, şirketin operasyonel kaslarının güçlendiğini ortaya koymaktadır:
+**"Duraklayan Geçmiş, Dolup Taşan Gelecek"**
 
-*   **Rekor İş Yükü (Backlog):** Bilançodaki "Devam Eden İnşaat Sözleşme Varlıkları" kalemi **3.84 Milyar TL'den 4.63 Milyar TL'ye** (+%20) yükselmiştir. Bu kalem, önümüzdeki dönemlerde ciroya dönüşecek kesinleşmiş işleri gösterir ve 2026 cirosu için çok güçlü bir öncü göstergedir.
-*   **2026'ya Hızlı Giriş (Yeni Sözleşmeler):** Raporlama dönemi bittikten sonra (Ocak-Şubat 2026) açıklanan yeni işler, büyümenin tekrar başladığını teyit etmektedir:
-    *   **Altunizade Metro Projesi:** 8.3 Milyon Euro + KDV
-    *   **THY İstanbul Havalimanı Hangarı:** 230 Milyon TL + KDV
-    *   **DenizKoru Sarıyer:** 230 Milyon TL + KDV
-*   **Stratejik Dönüşüm:** Şirket sadece bir "elektrik taahhüt" firması olmaktan çıkıp, "Teknoloji ve Yeşil Dönüşüm" şirketine evrilmektedir.
-    *   **E-Mobilite:** Kendi markasıyla ürettiği AC tipi "Round" model elektrikli araç şarj cihazları piyasaya sürülmüştür.
-    *   **Yazılım:** Lixhium girişimi ile "Super-App" geliştirme çalışmaları devam etmektedir.
-*   **Kurumsal Yönetim:** Şirkette **imtiyazlı pay yoktur**. Halka açıklık oranı ~%52 seviyesindedir (Kabul edilebilir sınır).
+2025, ORGE için bir "mola" yılı olmuştur. Enflasyon muhasebesi (TMS 29) etkisiyle gelir ve kâr rakamları reel olarak ciddi biçimde gerilemiştir. Ancak şirketin geleceğini taşıyacak olan **backlog (iş yükü)**, tarihin en yüksek seviyesine (4.63 Milyar TL) ulaşmıştır. Bilanço borçsuz ve nakitten güçlüdür. Yönetim kalitesi temiz sicillidir ve imtiyazlı pay yoktur. 2025 finansalları geriye bakar; yatırım kararını ise bu **backlog ve bilanço sağlığı** belirlemelidir.
 
-#### 3. Bilanço Sağlığı
-*   **Net Nakit:** Şirket net nakit pozisyonundadır (267 Milyon TL Nakit vs 63 Milyon TL Finansal Borç). Yüksek faiz ortamında borçsuzluk büyük avantajdır.
+---
 
-#### 4. Değerleme Çarpanları (Güncel)
-*   **Fiyat:** 69.55 TL (19 Şubat 2026 itibarıyla)
-*   **Piyasa Değeri:** 5.56 Milyar TL
-*   **F/K (Fiyat/Kazanç):** 9.38x
-*   **PD/DD (Piyasa Değeri/Defter Değeri):** 1.40x
-*   **Yorum:** 9.38x F/K ve özellikle **1.40x PD/DD** oranları, şirketin temel verilerine göre oldukça **iskontolu** işlem gördüğünü kanıtlamaktadır. Şirket neredeyse defter değerine yakın fiyatlanmaktadır ki bu, böylesine yüksek backlog'a sahip bir şirket için nadir görülen bir "değer" fırsatıdır.
+## 2. Finansal Analiz (FY2025 — 31 Aralık 2025)
 
-#### 5. Yönetim Kalitesi ve Vizyon Analizi (Niteliksel)
-*   **Liderlik:** CEO Nevhan Gündüz (Kurucu Ortak), sektörde 25 yılı aşkın deneyime sahiptir. Yapılan araştırmalarda (Google/Haber Taraması), şahsı veya şirket yönetimi hakkında herhangi bir **manipülasyon, SPK cezası veya yolsuzluk haberine rastlanmamıştır.** Temiz bir sicile sahiptir.
-*   **Şeffaflık:** Yönetim, 2025'teki duraklamayı ve 2026 beklentilerini (Kur artışı beklentisi, yeni işler) yatırımcıyla açık bir dille paylaşmaktadır. Hedeflerin (örneğin %50 büyüme) somut verilere dayandırılması güven vermektedir.
-*   **Vizyoner Adımlar (Lixhium & E-Mobilite):** Şirket yönetimi, sadece bir "inşaat taahhüt" firması olarak kalmayıp, katma değeri yüksek teknoloji alanlarına yönelmektedir:
-    *   **Lixhium Yatırımı:** Elektrikli araç ekosistemi için geliştirilen "Super-App" girişimine yapılan %15'lik stratejik yatırım, şirketin vizyonunun "kablo çekmenin" ötesinde olduğunu kanıtlamaktadır.
-    *   **Round Şarj Cihazları:** Kendi markasıyla ürettiği şarj cihazları, şirketin Ar-Ge yeteneğini ve üretim vizyonunu göstermektedir.
-*   **Sonuç:** Yönetim kalitesi, yatırımcı dostu (imtiyazsız paylar) ve inovatif (Ar-Ge odaklı) yapısıyla "Çekirdek Portföy" kriterlerini fazlasıyla karşılamaktadır.
+> **Not:** Tüm rakamlar TMS 29 enflasyon muhasebesine göre "31 Aralık 2025 tarihli satın alma gücü esasına" göre yeniden ifade edilmiştir. Gerçek nakdi büyüme bu rakamlardan yüksek olmakla birlikte; reel kıyaslama yapabilmek için aynı metodoloji kullanılmaktadır.
 
-### Hüküm ve Strateji
+### 2.1 Gelir Tablosu
 
-ORGE, 2025 finansallarına bakarak "satılacak", ancak faaliyet raporuna, backlog'una ve **güvenilir yönetimine** bakarak "alınacak" bir hissedir. `GENEL_STRATEJI.md` prensipleri gereği, **gelecek beklentisi, bilanço sağlığı ve yönetim kalitesi**, geçmiş P&L performansından daha önceliklidir. 4.6 Milyar TL'lik backlog ve 2026 başındaki güçlü ihale kazanımları, 2025'teki duraklamanın geçici olduğunu işaret etmektedir.
+| Kalem | FY2025 | FY2024 (Reel) | Değişim |
+|---|---|---|---|
+| **Hasılat** | 3.496 Milyar TL | 4.488 Milyar TL | **-22.1%** |
+| **Brüt Kâr** | 1.855 Milyar TL | 2.600 Milyar TL | -28.6% |
+| **Brüt Kâr Marjı** | **%53.1** | **%57.9** | -4.8 puan |
+| **Esas Faaliyet Kârı (EBIT)** | 1.699 Milyar TL | 2.459 Milyar TL | **-30.9%** |
+| **Net Dönem Kârı** | **593.3 Milyon TL** | **904.7 Milyon TL** | **-34.4%** |
+| **EPS** | **7.416 TL/hisse** | **11.309 TL/hisse** | -34.4% |
 
-*   **Mevcut Yatırımcı İçin Strateji:** `TUT / EKLE`. Düşen kâr rakamları nedeniyle hisse fiyatında oluşabilecek baskı, **alım fırsatı** olarak değerlendirilmelidir. Şirketin "büyüme hikayesi" bitmemiş, sadece bir yıl mola vermiştir.
-*   **Yeni Yatırımcı İçin Strateji:** `KADEMELİ AL`. Bilanço çok sağlam (Net Nakit), iş yükü rekor seviyede, yönetim temiz. Fiyatın 2025 finansallarını negatif fiyatladığı noktalar, 2026 hikayesine ortak olmak için güvenli giriş seviyeleridir.
+**Yorum:** Görünürde sert bir daralma var. Ancak bu; "şirket küçüldü" değil, "enflasyon muhasebesinin baz etkisi büyüdü" demektir. 2024'teki rekor ihaleler 2025'te ciroya dönmüş olsa da enflasyon muhasebesi bunları aşındırmıştır. Kritik olan: brüt marjın %53'te tutunması — değer tahrip olmamıştır.
 
-## 3Ç 2025 Faaliyet Raporu Değerlendirmesi
+### 2.2 Bilanço
 
-Bu analiz, ORGE'nin 1 Ocak – 30 Eylül 2025 dönemine ait finansal raporu üzerine yapılmıştır.
+| Kalem | FY2025 | FY2024 | Değişim |
+|---|---|---|---|
+| **Nakit ve Nakit Benzerleri** | 266.8 Milyon TL | — | — |
+| **Devam Eden İnşaat Sözleşme Varlıkları (Backlog)** | **4.630 Milyar TL** | **3.843 Milyar TL** | **+%20.5** |
+| **Toplam Varlıklar** | 5.958 Milyar TL | — | — |
+| **Özkaynaklar** | 3.965 Milyar TL | 3.316 Milyar TL | **+%19.6** |
+| **Finansal Borç (UFRS 16 Kira)** | ~63 Milyon TL | — | Banka kredisi: SIFIR |
+| **Net Nakit Pozisyonu** | **+204 Milyon TL** | — | — |
 
-### Özet
-2025 üçüncü çeyrek sonuçları, şirketin büyüme momentumunda belirgin bir yavaşlamaya işaret etmektedir. Enflasyon muhasebesi uygulanmış (resmi) rakamlar, geçen yılın aynı dönemine göre ciro ve kârlılıkta **reel bir daralma** yaşandığını göstermektedir. Yönetimin yıl sonu beklentilerini aşağı yönlü revize etmesi bu görünümü teyit etmektedir. Şirketin bilançosu hala çok güçlü olsa da, yatırım tezi olan "büyüme" hikayesi bu çeyrekte yara almıştır.
+**Bilanço Yorumu:**
+- Şirketin finansal borcu tamamen UFRS 16 kira yükümlülüğünden kaynaklanmaktadır; banka kredisi **sıfırdır**. Bu, yüksek faiz ortamında son derece avantajlı bir pozisyondur.
+- **4.63 Milyar TL'lik backlog**, 2025 yıllık hasılatının (~3.5 Milyar TL) **1.32 katıdır**. Yani şirket elinde zaten bir yılı aşan kesinleşmiş iş taşımaktadır.
+- Özkaynaklar reel bazda %19.6 büyümüştür — kâr azalsa da şirket değer birikiyor.
 
-#### Negatifler
-1.  **Reel Daralma:** Enflasyon muhasebesi uygulanmış rakamlara göre, 9 aylık dönemde geçen yılın aynı dönemine kıyasla **hasılat %16**, **esas faaliyet kârı %19** ve **net dönem kârı %38** gibi önemli oranlarda gerilemiştir.
-2.  **Düşürülen Beklentiler:** Şirket yönetimi, 2. çeyrek sonunda %40 olarak açıkladığı yıl sonu ciro ve faaliyet kârı büyüme beklentisini, bu raporla birlikte **%30'a indirmiştir**. Bu, yavaşlamanın önümüzdeki çeyrekte de devam edebileceğine dair bir işarettir.
-3.  **Büyüme Tezinin Zayıflaması:** Şirketin ana yatırım tezi olan istikrarlı ve güçlü büyüme, bu finansal sonuçlarla birlikte kesintiye uğramıştır.
+### 2.3 Değerleme (@ 69.55 TL — 19 Şubat 2026 itibarıyla)
 
-#### Pozitifler
-1.  **Kaya Gibi Bilanço:** Tüm operasyonel yavaşlamaya rağmen şirketin bilançosu son derece sağlamdır. Toplam finansal borçların özkaynaklara oranı sadece **%4** seviyesindedir. Bu durum, şirkete sarsıntılara karşı olağanüstü bir dayanıklılık sağlamaktadır.
-2.  **Temiz Kurumsal Yönetim:** Şirketin imtiyazlı hissesi bulunmamaktadır ve yönetim yapısı şeffaftır. Bu, `GENEL_STRATEJI.md` kriterleri ile tam uyumludur.
-3.  **İş Sürekliliği:** Raporlama dönemi sonrası (Kasım 2025'te) yaklaşık 590 bin EUR + 46 milyon TL'lik yeni bir proje sözleşmesi imzalanması, iş akışının devam ettiğini göstermektedir.
+| Metrik | Değer | Yorum |
+|---|---|---|
+| **Pay Sayısı** | 80.000.000 adet (1 TL nominal) | — |
+| **Piyasa Değeri** | **5.564 Milyar TL** | — |
+| **EPS** | **7.416 TL/hisse** | FY2025 gerçekleşen |
+| **F/K** | **9.38x** | Düşük bir yılın kârına göre — yanıltıcı olabilir |
+| **PD/DD** | **1.40x** | Backlog'u olan bir taahhüt şirketi için son derece ucuz |
+| **Defter Değeri/Hisse** | 49.56 TL | — |
 
-### Hüküm ve Strateji
+**Değerleme Yorumu:** F/K (9.38x), "duraklama" yılı kârına göre hesaplanmıştır; 2026 kârı normalize ederse bu çarpan hızla düşecektir. Asıl önemli nokta: **PD/DD 1.40x**, neredeyse defter değerine yakın işlem gören, net nakit pozisyonlu ve rekor iş yüküne sahip bir şirket. Bu, bir "değer tuzağı" mı yoksa gerçek bir fırsat mı sorusunu sormayı gerektiriyor — bilanço ve backlog ikincisine işaret ediyor.
 
-ORGE, finansal olarak çok sağlam bir şirket olmaya devam etse de, 3Ç 2025 sonuçları büyüme hikayesinde ciddi bir duraksamaya işaret etmektedir. `GENEL_STRATEJI.md`'de belirtilen "Dinamik Portföy Yönetimi" felsefesi, tezi zayıflayan varlıklarda pozisyonların yeniden değerlendirilmesini gerektirir. Büyüme beklentilerinin aşağı revize edilmesi ve reel kârlılıktaki sert düşüş, şirketi "Çekirdek Varlık" kategorisinden ziyade, performansı bir süre daha izlenmesi gereken bir konuma getirmektedir.
+---
 
-*   **Mevcut Yatırımcı İçin Strateji:** `İZLE`. Pozisyonu olan yatırımcıların, şirketin bir sonraki çeyrek performansını görmeden pozisyon artırmaması ve `GENEL_STRATEJI.md`'de belirtilen ENKAI gibi daha güçlü bir teze sahip rotasyon adaylarını değerlendirmesi önerilir.
-*   **Yeni Yatırımcı İçin Strateji:** `YENİ ALIM ÖNERİLMEZ`. Şirketin tekrar reel büyüme patikasına girdiğini gösteren net finansal kanıtlar görülene kadar yeni pozisyon açmak için acele edilmemelidir. Mevcut "Kademeli Alım" stratejisi, bu raporla birlikte geçerliliğini yitirmiştir.
+## 3. Faaliyet Raporu Öne Çıkanlar
 
+### 3.1 Backlog ve Yeni İhale Kazanımları
+
+- **Devam Eden İnşaat Sözleşme Varlıkları** (kesinleşmiş, önümüzdeki dönemde ciroya dönecek işler): 4.630 Milyar TL — **tarihinin en yüksek seviyesi**.
+- **Dönem Sonrası Yeni İşler (Ocak-Şubat 2026):**
+  - **Altunizade Metro Projesi:** 8.3 Milyon Euro + KDV ✅ (teyit edildi)
+  - **THY İstanbul Havalimanı Hangarı (Widect):** 230 Milyon TL + KDV ✅ (teyit edildi)
+  - ~~**DenizKoru Sarıyer:** 230 Milyon TL~~ ❌ **İPTAL** — "ticari şartlarda anlaşma sağlanamaması sebebiyle olumsuz sonuçlanmıştır" (Faaliyet Raporu)
+
+> **Kritik Güncelleme:** Önceki analizlerde pozitif bir katalizör olarak gösterilen DenizKoru Sarıyer projesi gerçekleşmemiştir. Bu kayıp, THY Havalimanı projesiyle kısmen telafi edilmiş durumda.
+
+### 3.2 Stratejik Dönüşüm: Teknoloji ve Yeşil
+
+- **E-Mobilite:** Kendi markası "Round" ile AC tipi elektrikli araç şarj cihazları piyasaya sürüldü.
+- **Lixhium:** Elektrikli araç ekosistemi için "Super-App" girişimine %15 stratejik yatırım. Şirketin "kablo çekmenin ötesine geçme" vizyonunun somut göstergesi.
+- Bu adımlar henüz anlamlı ciro üretmiyor; orta-uzun vadeli seçenek değeri olarak takip edilmeli.
+
+### 3.3 Temettü ve Sermaye
+
+- **FY2024 Temettüsü: DAĞITILMADI.** Gerekçe: TFRS'ye göre kâr var (~691M TL) ancak VUK (yasal muhasebe) bazında 257M TL zarar göründüğünden yasal dağıtım koşulu oluşmamıştır.
+- **FY2025 için de benzer durum geçerli olabilir** — temettü beklentisi taşınmamalı.
+- **Kayıtlı Sermaye Tavanı:** 250M TL'den 1 Milyar TL'ye artırıldı. Gelecekteki sermaye artırımına kapı açıyor.
+- **Geri Alınan Paylar:** 664,590 TL nominal değerinde hisse geri alındı (küçük ama olumlu sinyal).
+
+### 3.4 2026 Yönetim Beklentileri
+
+- Şirket yönetimi, FY2025 raporuyla birlikte **"tutarsal ve oransal büyüme hedefleri ilan etmeye son vereceğini"** açıklamıştır.
+- Bu önemli bir değişiklik: Önceki yıllarda "%40 büyüme bekliyoruz" gibi somut rehberlik veriliyordu; artık verilmeyecek.
+- Yorum: Yönetim daha temkinli bir iletişim stratejisi benimsedi — geçmişteki aşağı revizeler (3Ç2025: %40→%30) sonrası güven yönetimi açısından mantıklı. Ancak yatırımcı açısından belirsizliği artırıyor.
+
+---
+
+## 4. Ortaklık Yapısı
+
+| Ortak | Pay Oranı (Dönem Sonu) |
+|---|---|
+| Orhan Gündüz | %30.65 |
+| Nevhan Gündüz (CEO) | %17.07 |
+| **Halka Açık (Diğer)** | **%52.28** |
+| **TOPLAM** | **%100** |
+
+- **İmtiyazlı pay bulunmamaktadır.** ✅
+- **Halka açıklık %52.28** — sektörde güçlü bir likidite oranı; azınlık yatırımcısı anlamlı bir blok oluşturuyor.
+- Gündüz ailesi toplam %47.72 ile fiili kontrolü elinde tutuyor — ancak bu aile kurucular olup şirketle özdeşleşmiş durumda (skin in the game ✅).
+- Yönetim Kurulu Başkanı ve CEO: **Nevhan Gündüz** (25+ yıl sektör deneyimi, temiz sicil).
+
+---
+
+## 5. Yönetim Kalitesi Değerlendirmesi
+
+| Kriter | Durum |
+|---|---|
+| SPK/KAP cezası veya yolsuzluk haberi | **YOK** ✅ |
+| İmtiyazlı pay | **YOK** ✅ |
+| Şeffaflık | **YÜKSEK** — faaliyet raporu detaylı ve dürüst ✅ |
+| Banka kredisi (yüksek faiz riski) | **SIFIR** ✅ |
+| Aile hâkimiyeti | **Var** — ama kurucu aile, manipülasyon geçmişi yok ✅ |
+| 2026 beklenti rehberliği | **Kaldırıldı** ⚠️ (daha temkinli ama belirsizliği artırıyor) |
+| Temettü geçmişi | **FY2024: Dağıtılmadı** ⚠️ (VUK-TFRS farkı) |
+
+---
+
+## 6. Hüküm ve Strateji
+
+**HÜKÜM: 🟢 TUT / KADEMELİ EKLE**
+
+**Temel Gerekçe:**
+ORGE, 2025 finansallarına bakarak "satılacak" bir hisse gibi görünse de; faaliyet raporuna, backlog'una ve bilanço sağlığına bakıldığında yatırım tezi sağlamdır. `GENEL_STRATEJI.md` prensipleri gereği, **gelecek beklentisi, bilanço sağlığı ve yönetim kalitesi**, geçmiş P&L performansından daha önceliklidir.
+
+- **4.63 Milyar TL backlog** (rekor) → 2026 hasılatı güçlü bir zemine oturuyor.
+- **Net Nakit +204M TL**, borçsuz bilanço → faiz ortamı ne olursa olsun dayanıklı.
+- **PD/DD 1.40x** → böylesine yüksek backlog ve güçlü bilanço için oldukça iskontolu.
+- DenizKoru Sarıyer iptal: Negatif ama sınırlı etki; THY projesiyle kısmen telafi edildi.
+- Sayısal hedeflerin kaldırılması belirsizlik yaratıyor ama panik nedeni değil.
+
+**Mevcut Yatırımcı İçin:** `TUT / EKLE`. Düşük 2025 kâr rakamları nedeniyle fiyatta oluşan baskı, **alım fırsatı** olarak değerlendirilmelidir.
+
+**Yeni Yatırımcı İçin:** `KADEMELİ AL`. PD/DD 1.40x ile defter değerine yakın, borçsuz, rekor iş yüküne sahip bir şirkete girmek için seviyelerin beklenmesi mantıklı. 2026'nın ilk çeyrek sonuçları (Mayıs 2026) önemli bir onay noktası olacak.
+
+**İzlenecek Riskler:**
+- 2026 ilk çeyrek hasılat ve marj verisi: Backlog'un ciroya dönüşümü başladı mı?
+- VUK kârının pozitife dönmesi: Temettü dağıtılabilmesi için gerekli.
+- Yeni ihale kazanımları: Sayısal hedef verilmediği için organik takip şart.
+- Lixhium ve Round şarj cihazlarının nakit tüketimi: Henüz küçük ölçekli ama izlenmeli.

@@ -1,8 +1,8 @@
 # ASELSAN (ASELS) - Yatırım Tezi ve Strateji
 
-**Son Güncelleme:** 24 Şubat 2026
+**Son Güncelleme:** 27 Şubat 2026
 **Kaynak:** 2025/12 Konsolide Finansal Rapor (24.02.2026) + 2025 Faaliyet Raporu (24.02.2026)
-**Fiyat (24.02.2026):** 309 TL
+**Fiyat (27.02.2026):** 309.25 TL
 
 ---
 
@@ -158,12 +158,20 @@ GENEL_STRATEJİ'deki imtiyazlı pay kırmızı çizgisinin amacı, kurucuların/
 - 1.5 Milyar USD Oğulbey yatırımı → kapasite ikiye katlanıyor
 - Parasal kayıp azaldı → net kâr baskısı hafifliyor
 
-**Teknik Alım Planı (Revize Gerekiyor — Mevcut Piyasa Fiyatına Göre Güncellenecek):**
-Önceki alım seviyeleri (155-172 TL bölgesi) muhtemelen geride kaldı. Güncel fiyata göre yeni kademeli alım seviyeleri belirlenmelidir. Temel yaklaşım değişmedi: piyasa düşüşlerini, bu kaliteli varlıktaki payı artırmak için fırsat olarak değerlendir.
+**Kademeli Alım Planı (309.25 TL — 27 Şubat 2026 Revizyonu):**
+
+| Seviye | F/K (EAK bazlı) | Yorum | Aksiyon |
+|---|---|---|---|
+| **309 TL (şu an)** | ~28.7x | Yüksek premium; mevcut için TUT | Yeni alım yok |
+| **🟡 280-295 TL** | ~26-27x | 1. Geri çekilme bölgesi | Küçük lot ekle |
+| **🟢 255-275 TL** | ~24-25x | İdeal giriş bölgesi | Ağırlıklı alım |
+| **🟢🟢 < 240 TL** | < 23x | Güçlü alım fırsatı | Agresif ekle |
+
+> **Mantık:** EAS bazlı F/K 25x, 20.4B USD sipariş stoku ve %26 FAVÖK marjıyla savunma sektörü için "adil değer" olarak kabul edilebilir. 28.7x mevcut çarpan premium fiyatlama. Her ~5-10%'lik geri çekilme pozisyon ekleme fırsatı sunar. Likidite oranının 0.80 seviyesinde olması ve TMS 29 parasal kayıp etkisi gözetilerek agresif alım için < 240 TL bekleniyor.
 
 ---
 
-## 9. Değerleme (309 TL — 24 Şubat 2026)
+## 9. Değerleme (309.25 TL — 27 Şubat 2026)
 
 > Tüm çarpanlar 2025 tam yıl konsolide finansallarına göre hesaplanmıştır (TMS 29 endekslenmiş).
 

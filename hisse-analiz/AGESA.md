@@ -48,6 +48,23 @@
 | Net Kâr / Toplam Aktifler | %1.19 | %1.07 | Artıyor |
 | Özkaynaklar / Toplam Aktifler | %2.16 | %2.03 | Stabil |
 
+### 2.2b Değerleme (@ 234 TL — 26 Şubat 2026)
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| **Pay Sayısı** | 180,000,000 adet | — |
+| **Piyasa Değeri** | 42.12 Milyar TL | — |
+| **F/K** | **7.58x** | Büyümesine göre ucuz |
+| **PD/DD** | **4.17x** | Defter değeri üzeri prim |
+| **Hisse Başına Defter Değeri** | 56.06 TL | (Özsermaye 10.09B TL / 180M pay) |
+| **EPS (Hisse Başına Net Kâr)** | **30.86 TL** | — |
+| **ROE** | **%71.5** | Olağanüstü, artıyor |
+| **Brüt Temettü Verimi** | **%2.97** | (6.94 TL / 234 TL) |
+
+**Yorum:** F/K 7.58x görünürde TURSG'e (6.37x) yakın olsa da AGESA'nın ROE'si (%71.5 vs %50.5) ve büyüme hızı (%93 kâr artışı) belirgin üstünlük sağlamaktadır. Teknik kârlılıktaki devrim (+%429) ve sağlık sigortası büyüme katalizörü dikkate alındığında, 7.58x F/K hâlâ iskontolu bir fiyatlamayı işaret ediyor.
+
+---
+
 ### 2.3 Temettü (2025 Yılı Kârından)
 
 | | Tutar |

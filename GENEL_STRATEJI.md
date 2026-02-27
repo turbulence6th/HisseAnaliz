@@ -91,129 +91,24 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **GEREKÇE (FY2025 Tam Yıl):** Net kâr +%93 → 5.555B TL; teknik kârlılık +%429 (yapısal iyileşme); ROE %71.5. F/K 7.58x — bu büyüme hızına göre belirgin iskonto. Sağlık sigortası büyüme katalizörü henüz fiyatlanmamış. Sabancı + Ageas sahipliği azınlık hissedar çıkarlarıyla hizalı. Halka açıklık %20, imtiyazlı pay yok. Detay: `hisse-analiz/AGESA.md`
 
 
+#### ORGE (Orge Enerji)
+*   **HÜKÜM:** 🟢 TUT / KADEMELİ EKLE (@ 69.55 TL — 19.02.2026)
+*   **GEREKÇE (FY2025 Tam Yıl):** 2025 bir "mola yılı": Hasılat -22.1% → 3.496B TL, Net Kâr -34.4% → 593.3M TL, EPS 7.416 TL. Ancak önemli olan bunlar değil: **Backlog 4.630B TL (rekor, +%20.5)** — yıllık hasılatın 1.32 katı kesinleşmiş iş yükü 2026'yı besleyecek. Net Nakit +204M TL, borçsuz bilanço. @ 69.55 TL: F/K 9.38x (düşük kâr yılına göre), PD/DD 1.40x — bu backlog ve bilanço sağlığı için iskontolu. İmtiyazlı pay yok, Orhan Gündüz %30.65. DenizKoru Sarıyer projesi iptal edildi. Detay: `hisse-analiz/ORGE.md`
+*   **ALIM SEVİYELERİ:** 🟢 Mevcut seviye (69-70 TL) makul giriş | 1Ç2026 sonuçları (Mayıs 2026) önemli onay noktası
+
 #### ECILC (Eczacıbaşı İlaç)
 *   **HÜKÜM:** AL / POZİSYON GÜÇLENDİR
 *   **GEREKÇE:** Piyasanın şirketin stratejik dönüşümünü (verimsiz birimleri kapatıp fason üretime odaklanma) yanlış fiyatlayarak yaratacağı alım fırsatı, hissede yaşanan sert satışlarla ortaya çıkmıştır. Operasyonel kârdaki düşüşün geçici ve planlı olduğu, şirketin ise 5 Milyar TL'lik net nakit pozisyonu ve geleceğe yönelik yatırımlarıyla temelinin sağlam olduğu görüşümüz devam etmektedir.
 
-### B) Uydu / İzleme Listesi Varlıkları
-
-#### DARDL (Dardanel)
-*   **HÜKÜM:** İZLE
-*   **GEREKÇE:** Şirket, net zarar, yüksek borçluluk ve likidite riski gibi ciddi finansal zorluklarla karşı karşıyadır. Ancak yönetimin sermaye artırımı ve borç yapılandırması gibi adımları bulunmaktadır. Yeniden yapılandırma sürecinin finansallara olumlu yansıması beklenecektir.
+### B) Uydu / Spekülatif Varlıklar
 
 #### BRISA
 *   **HÜKÜM:** TUT VE İZLE
 *   **GEREKÇE:** Şirket, 2025/09'da 903 Milyon TL net zarar açıklamıştır. Ancak, 3 Milyar TL'lik güçlü faaliyet nakit akışı yaratması, operasyonel verimliliğini koruduğuna işaret etmektedir. Bu nakit akışı, şirketi "İzleme Listesi"nde tutmak için ana gerekçedir.
 
-#### ENJSA (Enerjisa Enerji)
-*   **HÜKÜM:** TEKRAR DEĞERLENDİR / İZLE
-*   **GEREKÇE:** Şirketin daha önce "sınırlı büyüme potansiyeli" gerekçesiyle portföyden çıkarılma kararı, 2025/09 faaliyet raporu ile geçersiz kalmıştır. Rapor, şirketin %36'lık "Baz Alınan Net Kâr" artışı yakaladığını göstermiştir. Kurumsal yönetim yapısının yatırım ilkeleriyle tam uyumlu olması, şirketi tekrar "Çekirdek Varlık" adayı yapmaktadır.
-
 #### FORTE (Forte Teknoloji)
 *   **HÜKÜM:** ALINDI (625 Lot) / SPEKÜLATİF
 *   **GEREKÇE:** Şirketin temel verileri (negatif nakit akışı, operasyonel zarar, imtiyazlı paylar) strateji kriterlerini karşılamasa da; **GİB (Gelir İdaresi Başkanlığı) ihalesinin kazanılması beklentisi** nedeniyle kısa vadeli/spekülatif bir pozisyon açılmıştır. Hedef, ihalenin katalizör etkisiyle oluşabilecek x2 getiri potansiyelidir. İhale süreci yakından takip edilecektir.
-
-#### ARDYZ (ARD Grup Bilişim)
-*   **HÜKÜM:** POTANSİYEL AL / YAKIN TAKİP (İntron Birleşmesi Hikayesi)
-*   **GEREKÇE:** 30.12.2025'te tamamlanan İntron Bilişim birleşmesi, şirketin ciro ve kâr hacmini efektif olarak ikiye katlamıştır. Resmi bilançoda (541 Milyon TL Net Kâr) bu etki tam görülmese de, Yönetim'in sunduğu **"Proforma" (Birleşmiş) tablolar 7.56 Milyar TL Ciro ve 1.19 Milyar TL Net Kâr** işaret etmektedir. Bu "gizli değer", hissenin çarpanlarını (Proforma F/K: ~12.3x) teknoloji sektörü için çok cazip hale getirmektedir. Avrupa sanayi riskinden kaçınmak için "Teknoloji" sektörüne geçiş stratejisine (BDY Fonu mantığı) tam uymaktadır. Ancak yüksek ticari alacaklar (2.88 Milyar TL) nedeniyle nakit akışı yakından izlenmelidir.
-
-### C) Rotasyon Adayları (Satış Stratejisi)
-
-#### KORDS → AGESA Rotasyonu ✅ TAMAMLANDI (27.02.2026)
-*   **DURUM:** Rotasyon gerçekleştirildi. KORDS satıldı, gelir AGESA'ya yönlendirildi. AGESA artık A bölümünde Çekirdek Varlık olarak yer almaktadır.
-*   **BRISA:** Pozisyon daha önce kapatılmıştı.
-
-### D) Portföyden Çıkarılan Varlıklar
-
-#### KORDS (Kordsa)
-*   **HÜKÜM:** POZİSYON KAPATILDI — AGESA'YA ROTASYON (27.02.2026)
-*   **GEREKÇE (FY2025 Tam Yıl):** Net Borç/FAVÖK 7.7x — faiz giderleri ($52M) FAVÖK'ü ($43.2M) aşıyor; net zarar büyüdü (-$38M). Deleveraging için 2-3 yıl gereken bu yapı, sermayenin daha verimli kullanılabileceği AGESA'ya rotasyon kararını aktive etti. Detay: `hisse-analiz/KORDS.md`
-
-#### ANSGR (Anadolu Sigorta)
-*   **HÜKÜM:** POZİSYON KAPATILDI / ROTASYON
-*   **GEREKÇE:** Kârlılığının ana sigortacılık faaliyetlerinden değil, tamamen yüksek faiz ortamından elde edilen yatırım gelirlerinden kaynaklandığı tespit edilmiştir. Faiz indirimlerinin beklendiği bir ortamda riskin artmasıyla pozisyon kapatılmıştır.
-
-#### VKGYO (Vakıf GYO)
-*   **HÜKÜM:** POZİSYON KAPATILDI / SAT
-*   **GEREKÇE:** Şirketin A Grubu hisselerine tanınan 15 kat imtiyazlı oy hakkı, temel yatırım ilkelerini doğrudan ihlal ettiği için pozisyon kapatılmıştır.
-
-#### TAVHL (TAV Havalimanları Holding)
-*   **HÜKÜM:** POZİSYON KAPATILDI
-*   **GEREKÇE:** Portföydeki hisse sayısını azaltmak ve havacılık sektöründeki yoğunlaşmayı düşürmek amacıyla pozisyon kapatılmıştır.
-
-#### TURSG (Türkiye Sigorta)
-*   **HÜKÜM:** 🟡 DİKKATLİ AL / UYDU POZİSYON (@ 12.42 TL — 26.02.2026)
-*   **GEREKÇE (FY2025 Tam Yıl):** Net kâr +%52.8 → 19.53B TL. Teknik Bölüm Dengesi (22.7B TL) net kârı aşıyor — şirket özünde sigortacılık yaparak para kazanıyor. F/K 6.37x ile ROE %50.5 kombinasyonu belirgin değer iskontosu sunuyor. Kritik risk: Ana ortak TVF (Türkiye Varlık Fonu, %81.10 pay) — azınlık hissedar koruması belirsiz; 2025'te %100 sermaye artırımı yapıldı. AGESA ile portföyde birlikte tutulabilir: farklı iş modeli (hayat dışı sigorta) ve farklı grup (TVF≠Sabancı) çeşitlendirme sağlar. Portföy payı maks %3-5. Detay: `hisse-analiz/TURSG.md`
-
-#### EREGL (Ereğli Demir Çelik)
-*   **HÜKÜM:** POZİSYON KAPATILDI
-*   **GEREKÇE:** Faaliyet raporuyla teyit edilen kârlılık, üretim ve marjlardaki sert çöküş, hisseyi portföydeki en yüksek "fırsat maliyetine" sahip varlık haline getirmiştir.
-
-#### AGHOL (Anadolu Grubu Holding) & AEFES (Anadolu Efes)
-*   **HÜKÜM:** POZİSYONLAR KAPATILDI
-*   **GEREKÇE:** Her iki şirket de kendi `.md` dosyalarında detaylandırılan temel zayıflıklar nedeniyle portföyden çıkarılmıştır.
-
-#### VAKKO & ALARK (Alarko Holding)
-*   **HÜKÜM:** POZİSYONLAR KAPATILDI
-*   **GEREKÇE:** Zayıf operasyonel performans ve yüksek risk içeren yatırım tezleri nedeniyle rotasyon yapılmıştır.
-
-#### ISGSY (İş Girişim Sermayesi)
-*   **HÜKÜM:** POZİSYON KAPATILDI
-*   **GEREKÇE:** Rekor kâra rağmen esas faaliyetlerinden ciddi nakit yaktığı, kârın spekülatif değerleme artışlarına dayandığı ve borçluluğunun arttığı tespit edilmiştir.
-
-#### GARFA (Garanti Faktoring)
-*   **HÜKÜM:** ALIMDAN VAZGEÇİLDİ
-*   **GEREKÇE:** Finans sektöründeki mevcut yoğunlaşma riskini artırmamak amacıyla pozisyon almaktan vazgeçilmiştir.
-
-#### YYLGD (Yayla Agro Gıda)
-*   **HÜKÜM:** POZİSYON ALIMINDAN VAZGEÇİLDİ
-*   **GEREKÇE:** Stratejik önceliklerin değişmesi ve portföyde daha cazip bulunan ENKAI ve AGESA gibi adaylara odaklanılması nedeniyle pozisyon almaktan vazgeçilmiştir.
-
-#### AKFIS (Akfen İnşaat Turizm ve Ticaret A.Ş.)
-*   **HÜKÜM:** 🟢 AL — DİKKATLİ / KADEMELİ (@ 25,58 TL — 26.02.2026)
-*   **GEREKÇE:** KÖİ (kamu-özel işbirliği) modeli ile işletilen Sağlık Bakanlığı hastanelerinin operatörü. Ocak 2025'te halka arz edildi, IPO fiyatından -%45 düşmüş durumda. F/DD 0,51x ile özkaynak değerinin yarısına işlem görüyor; imtiyaz varlıklarının gerçeğe uygun değeriyle ölçülen özkaynak kalitesi yüksek. EV/Düzeltilmiş FAVÖK 7,35x. Ana risk: Düşük halka açıklık (%10,5) ve 2026 sonunda sona eren KÖİ sözleşmelerinin yenilenmesi. Detay: `hisse-analiz/AKFIS.md`
-
-#### PATEK (Pasifik Teknoloji A.Ş.)
-*   **HÜKÜM:** 🔴 UZAK DUR (@ 18,18 TL — 26.02.2026)
-*   **GEREKÇE:** "Teknoloji şirketi" görünümünde bir finansal holding. 2025 kârının tamamı (1,165 milyar TL), PP4-Pardus Girişim Sermayesi Fonu + PASEU hisselerinin gerçekleşmemiş GUD artışından kaynaklanmaktadır. Asıl işletme FAVÖK negatif (–218 milyon TL), brüt marj yalnızca %3. F/DD 2,57x; şerefiye ve intangibles hariç F/DD 4,37x — adil değer 7–9 TL. PP4-Pardus illiquid özel girişim sermayesi fonu olduğundan değerleme belirsizliği yüksek. Detay: `hisse-analiz/PATEK.md`
-
-### E) Fon Stratejileri (Emtia Odaklı)
-
-#### GBZ (Azimut Portföy Emtia Fon Sepeti Fonu)
-*   **HÜKÜM:** AL / PORTFÖYE EKLE
-*   **GEREKÇE:** Portföyün emtia bacağını güçlendirmek amacıyla yapılan analizler sonucunda seçilmiştir. Seçim kriterlerinde belirleyici olan faktörler şunlardır:
-    1.  **Bakır Odaklılık:** Portföyünde hem fiziksel Bakır (WisdomTree Copper) hem de Bakır Madenciliği Şirketleri (Global X Copper Miners ETF) taşımasıyla, bakır fiyatlarındaki artış potansiyelini en iyi yansıtan fon olması.
-    2.  **Düşük Petrol Ağırlığı:** Diğer rakiplerine (TGE, KIF) kıyasla enerji ve petrol ağırlığının minimize edilmiş olması.
-    3.  **ALTIN.S1 Hassasiyeti:** Piyasa fiyatının üzerinde primli işlem gören "Darphane Altın Sertifikası (ALTIN.S1)" yerine, daha likit ve net aktif değerine yakın işlem gören ETF'leri (GLDTR) tercih etmesi.
-
-#### FMG (QNB Portföy Gümüş Serbest Fon)
-*   **HÜKÜM:** AL / PORTFÖYE EKLE
-*   **GEREKÇE:** Portföyün gümüş bacağını güçlendirmek amacıyla 12 gümüş fonunun portföy dağılım raporları ve yönetim ücretleri karşılaştırmalı olarak analiz edilmiş, FMG en uygun fon olarak seçilmiştir. Seçim kriterlerinde belirleyici olan faktörler şunlardır:
-    1.  **En Yüksek Fiziksel Gümüş Oranı:** Portföyünün %51,65'ini fiziksel gram gümüş (GÜMÜŞ-TL ve GÜMÜŞ-TL 9999, toplam ~79.570 gram) olarak tutmasıyla, ETF'ler üzerinden dolaylı yoldan gümüşe yatırım yapan rakiplerinden (GMC %0, GTZ %0, GUK %0) net biçimde ayrışmaktadır. En yakın rakibi GMI (%57,62) daha yüksek fiziksel gümüş taşısa da, yönetim ücreti %2,50 ile belirgin şekilde pahalıdır.
-    2.  **Makul Yönetim Ücreti:** %2,00'lik yıllık yönetim ücreti, fiziksel gümüş taşıyan fonlar arasında en iyi fiyat/performans dengesini sunmaktadır. En düşük ücretli FPG (%1,75) yalnızca %27 fiziksel gümüş taşırken, FMG yarı yarıya fiziksel gümüşle sadece %0,25 daha yüksek ücret almaktadır.
-    3.  **En Yüksek 1 Yıllık Getiri:** %199,69 ile 12 gümüş fonu arasında en yüksek 1 yıllık getiriyi sağlamıştır.
-    4.  **Dengeli Portföy Yapısı:** Fiziksel gümüşün yanı sıra GMSTR BYF (%26,41) ve SLV ETF (%2,09) ile desteklenen çeşitlendirilmiş bir yapıya sahiptir.
-
-### F) Fon Stratejileri (Hisse Senedi Odaklı)
-
-#### BDY (Ak Portföy BIST 100 Dışı Şirketler Hisse Senedi Fonu)
-*   **HÜKÜM:** ALIM İÇİN İZLE / PORTFÖYE EKLE
-*   **GEREKÇE:** Avrupa pazarına yönelik ihracat ağırlıklı sanayi şirketlerinden kaçınma ve "Hizmet/Teknoloji" sektörüne odaklanma stratejisi doğrultusunda seçilmiştir. GOH gibi rakiplerinin aksine portföyünde Otomotiv veya Çimento gibi sanayi ağırlığı yerine; **MACKO, HTTBT, LOGO, ARDYZ** gibi teknoloji/yazılım ve **LIDER, NTHOL** gibi hizmet sektörü hisselerini barındırması, hedeflenen "sanayi riskinden korunma" temasını en iyi yansıtan özellikleridir.
-
-#### DTL (Deniz Portföy BIST 100 Dışı Şirketler Hisse Senedi Fonu)
-*   **HÜKÜM:** AL / PORTFÖYE EKLE
-*   **GEREKÇE:** 10 adet BIST 100 Dışı hisse senedi fonunun portföy dağılımları, yatırım stratejisiyle uyum skoru, yönetim ücretleri ve sanayi/GYO riski karşılaştırmalı olarak analiz edilmiş; DTL en uygun fon olarak seçilmiştir. Seçim kriterlerinde belirleyici olan faktörler şunlardır:
-    1.  **En Yüksek Net Uyum Skoru (5.8):** Sanayi ve GYO şirketleri negatif kritere dahil edildiğinde, DTL açık ara lider konumdadır (2. sıra BDY: 3.9, 3. sıra ZJL: 2.3). Hedeflenen 7 hisseden 5'ini portföyünde taşımaktadır: **AGESA** (%5,11), **AYGAZ** (%3,05), **KLKIM** (%3,04), **ORGE** (%2,73) ve **LOGO** (%2,56).
-    2.  **En Düşük Yönetim Ücreti (%2,75):** BDY (%3,30), GOH (%3,20) ve YHB (%3,00) gibi rakiplerine kıyasla en ucuz fondur. Skor/ücret oranı (2.11) ile de en iyi fiyat/performans dengesini sunmaktadır.
-    3.  **Düşük Sanayi/GYO Riski:** Sanayi ve GYO maruziyeti sadece OZKGY (%3,10) ile sınırlıdır. YHB'nin BOBET (%8,01), AKSGY (%4,26), OZKGY (%5,46), ZERGY (%2,72) gibi ağır pozisyonlarıyla kıyaslandığında çok daha temiz bir portföy yapısı sunmaktadır.
-*   **RİSK NOTU:** Fonun TRGYO (%4,68) ve TKNSA (%2,92) taşıması izlenmelidir. Ancak bu toplam negatif ağırlık (%7,60), pozitif ağırlığın (%16,49) çok altındadır.
-
-#### MTH (MT Portföy Birinci Hisse Senedi Fonu)
-*   **HÜKÜM:** İZLE / PORTFÖYE EKLEME
-*   **GEREKÇE:** Fonun başarısı takdir edilmekle birlikte, mevcut yatırım stratejisiyle uyumsuzluklar tespit edilmiştir:
-    1.  **Strateji Uyumsuzluğu:** Fonun yoğun VİOP (kaldıraçlı) kullanımı ve yüksek işlem hacmi (trade odaklı), "temel analize dayalı uzun vadeli yatırım" felsefesiyle örtüşmemektedir.
-    2.  **Yüksek Maliyet:** %2,73'lük yıllık yönetim ücreti, pasif bir yatırıma göre yüksek bulunmuştur.
-    3.  **Portföy Çakışması:** Fonun en büyük pozisyonları (MGROS, ASTOR, Bankalar), bireysel portföyde zaten bulunan veya stratejik olarak azaltılan sektörlerle (Havacılık) büyük ölçüde örtüşmektedir. Bu durum çeşitlendirme sağlamamakta, aksine konsantrasyon riskini artırmaktadır.
 
 ## 4. Araçlar ve Yardımcı Notlar
 
@@ -228,4 +123,74 @@ Proje ana dizininde bulunan `hisse_proxy.py` scripti, bir hissenin son 1 yıllı
 *   **Örnek:**
     ```bash
     python hisse_proxy.py SISE
+    ```
+
+### KAP Rapor İndirme
+
+`kap_rapor_indir.py` scripti, KAP ve TEFAS üzerinden rapor indirme, fon ücreti sorgulama ve fon listeleme işlemlerini yapar.
+
+*   **Finansal rapor indir** (bilanço, gelir tablosu, nakit akışı):
+    ```bash
+    python kap_rapor_indir.py rapor <HİSSE_KODU>
+    ```
+    Raporu `finansal-raporlar/{YIL}{ÇEYREK}/` dizinine kaydeder.
+
+*   **Faaliyet raporu indir** (yönetim yorumu, segment detayları, operasyonel veriler):
+    ```bash
+    python kap_rapor_indir.py faaliyet-raporu <HİSSE_KODU>
+    ```
+    Raporu `faaliyet-raporlari/{YIL}{ÇEYREK}/` dizinine kaydeder.
+
+*   **Fon yönetim ücreti öğren:**
+    ```bash
+    python kap_rapor_indir.py fon-ucret <FON_KODU>
+    ```
+
+*   **Fon portföy dağılım raporu indir:**
+    ```bash
+    python kap_rapor_indir.py fon-rapor <FON_KODU_1> <FON_KODU_2>
+    ```
+    Raporları `fon-raporlari/{YIL}-{AY}/` dizinine kaydeder.
+
+*   **Varlık grubuna göre fon listele:**
+    ```bash
+    python kap_rapor_indir.py fon-liste "Hisse Senedi"
+    ```
+
+### Çarpan Analizi
+
+`carpan_hesapla.py` scripti, faaliyet raporundan alınan finansal verilerle F/K, PD/DD, EV/FAVÖK gibi standart değerleme çarpanlarını hesaplar. Tüm tutarlar **Milyon TL**, hisse sayısı **Milyon adet**, fiyat **TL** cinsindendir.
+
+*   **Kullanım:**
+    ```bash
+    python carpan_hesapla.py --hisse <KOD> --fiyat <TL> --hisse-sayisi <MLN> \
+        --net-kar <MLN_TL> --ebit <MLN_TL> --favok <MLN_TL> --hasılat <MLN_TL> \
+        --ozkaynaklar <MLN_TL> --fin-borc <MLN_TL> --nakit <MLN_TL>
+    ```
+
+*   **TMS 29 parasal kayıp varsa** (`--parasal-kayip` ile düzeltilmiş net kâr kullanılır):
+    ```bash
+    python carpan_hesapla.py --hisse ASELS --fiyat 309.25 --hisse-sayisi 4560 \
+        --net-kar 29917 --ebit 49145 --favok 47500 --hasılat 180444 \
+        --ozkaynaklar 250430 --fin-borc 43100 --nakit 29100 \
+        --parasal-kayip 13552
+    ```
+
+### PDF Metin Çıkarma
+
+`extract_pdf_text.py` scripti, KAP'tan indirilen finansal raporların metnini çıkarır. İlk çalıştırmada `{pdf_yolu}.txt` olarak önbelleğe alır; sonraki çağrılar önbellekten anında okur.
+
+*   **Tüm sayfa:**
+    ```bash
+    python extract_pdf_text.py <PDF_YOLU>
+    ```
+
+*   **Belirli sayfa aralığı:**
+    ```bash
+    python extract_pdf_text.py <PDF_YOLU> --pages 5-10
+    ```
+
+*   **Örnek:**
+    ```bash
+    python extract_pdf_text.py finansal-raporlar/202512/SISE_Finansal_Rapor_2026.pdf --pages 1-20
     ```

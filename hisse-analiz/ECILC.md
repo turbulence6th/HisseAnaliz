@@ -1,3 +1,103 @@
+# ECILC – EİS Eczacıbaşı İlaç, Sınaî ve Finansal Yatırımlar A.Ş.
+
+---
+
+## FY2025 ANALİZİ (03.03.2026 — Son Güncelleme)
+
+**Hisse Fiyatı:** 112.20 TL | **52H:** 37.92 – 132.60 TL | **1Y Getiri:** ~+%160
+
+### Şirket Yapısı — Holding Kimliği Öne Çıkıyor
+
+ECILC tek bir ilaç şirketi değil; 4 ana varlık katmanından oluşan bir "alt holding":
+
+| Varlık | Bilanço Değeri | Not |
+|---|---|---|
+| **Eczacıbaşı Holding A.Ş. %37 payı** | **34,707 M TL** | Ana varlık — GUD ile kayıtlı |
+| **Yatırım amaçlı gayrimenkuller** (Kanyon) | **21,600 M TL** | GYO portföyü, kira geliri |
+| İlaç operasyonu (EİP + Gensenta) | ~9,000 M TL | Operasyonel varlıklar |
+| Nakit ve diğer | ~9,100 M TL | Net nakit pozisyonu dahil |
+
+### FY2025 Finansal Özeti (TMS 29 — 31.12.2025 alım gücü, Bin TL)
+
+| Kalem | FY2025 | FY2024 | Değişim |
+|---|---|---|---|
+| Hasılat | 9,871 M TL | 11,476 M TL | -%14.0 |
+| Brüt Kâr | 3,293 M TL | 3,898 M TL | -%15.5 |
+| **Brüt Marj** | **%33.4** | **%34.0** | Stabil |
+| EBIT (Faaliyet Kârı) | 709 M TL | 917 M TL | -%22.7 |
+| **Yatırım Faaliyetlerinden Gelir** | **4,750 M TL** | **1,853 M TL** | **+%156** |
+| TMS 29 Parasal Zarar | -878 M TL | +728 M TL | Zayara döndü |
+| **Net Kâr** | **2,088 M TL** | **1,340 M TL** | **+%56** |
+| EPS | **3.05 TL** | 1.96 TL | +%56 |
+| FAVÖK | ~1,642 M TL | ~1,893 M TL | -%13.2 |
+
+> **⚠️ Kritik Not:** Net kâr artışı operasyonel iyileşmeden değil, **4.75 Milyar TL'lik yatırım faaliyetlerinden gelirden** kaynaklanıyor. Bu; GYO değer artışları ve finansal yatırım satışlarını içeriyor. Sürdürülebilirliği sorgulanmalı.
+
+### Bilanço (31.12.2025)
+
+| Kalem | Tutar |
+|---|---|
+| Nakit | 4,525 M TL |
+| Toplam Varlıklar | 75,002 M TL |
+| Toplam Finansal Borç | 3,162 M TL |
+| **Net Nakit** | **+1,363 M TL** |
+| Toplam Özkaynaklar (NAV) | **61,044 M TL** |
+
+### Değerleme Çarpanları (112.20 TL, 685 M hisse → PD: 76.9 Milyar TL)
+
+| Çarpan | Değer | Yorum |
+|---|---|---|
+| F/K | 36.8x | Pahalı — ama yatırım şirketinde anlamsız |
+| **PD/DD (PD/NAV)** | **1.26x** | Ana metrik — NAV üzerinde prim |
+| EV/FAVÖK | 46.0x | Operasyonel baz için çok pahalı |
+| EV/Hasılat | 7.65x | — |
+| Temettü Verimi | ~%1.8 | Düşük |
+| ROE | %3.4 | Büyük özkaynak tabanına göre düşük |
+| Net Borç/FAVÖK | -0.83x (net nakit) | ✅ |
+
+> **NAV analizi:** ECILC piyasada 76.9 Milyar TL'den işlem görüyor, NAV 61.0 Milyar TL → **1.26x prim.** Holding şirketler tipik olarak iskontolu işlem görür; bu hisse prim veriyor.
+
+### Nakit Akışı (FY2025)
+
+| Kalem | Tutar |
+|---|---|
+| İşletme CFO | +1,443 M TL |
+| Yatırım CFO | +4,264 M TL (sat. dahil) |
+| - Finansal yatırım satışları | +3,494 M TL |
+| - Temettü alındı | +810 M TL |
+| - CAPEX | -331 M TL (düşük) |
+| Finansman CFO | -2,274 M TL |
+| - Ödenen temettü | -1,365 M TL |
+| - Net borç geri ödeme | -750 M TL |
+
+### Hüküm: 🟡 TUT / GERİ ÇEKİLMEDE GÜÇLENDIR
+
+**Mevcut seviyede (112 TL, PD/NAV 1.26x) yeni pozisyon açmak cazip değil.**
+
+**Artılar:**
+- Eczacıbaşı Holding %37 payı (34.7 Milyar TL) — dev, kaliteli varlık; TL değer kaybına karşı doğal hedge
+- Kanyon GYO portföyü (21.6 Milyar TL) — yüksek doluluk, istikrarlı kira geliri; enflasyon hedge'i
+- Net nakit pozisyonu (+1.4 Milyar TL), güçlü bilanço
+- CMO (fason ilaç) dönüşümü uzun vadede değer katabilir (~32M € yatırım)
+
+**Eksiler:**
+- PD/NAV 1.26x — holding şirketler için prim makul değil
+- Operasyonel taraf (hasılat -14%, EBIT -22%) zayıflıyor
+- Net kâr artışı tek seferlik yatırım gelirlerine yaslanıyor
+- 1Y +%160 getiri — piyasa zaten iyimser
+
+**Alım seviyeleri (yeniden değerlendirme):**
+- PD/NAV ~1.0x → 85-90 TL aralığı → Pozisyon güçlendir
+- PD/NAV ~0.85x → 72-78 TL aralığı → Agresif alım
+
+**Satış tetikleyicisi:**
+- Eczacıbaşı Holding pay satışı veya yapısal değer kaybı
+- GYO portföyünde değer erozyonu
+
+---
+
+## Önceki Analizler ve Geçmiş Karar Geçmişi
+
 # ECILC – Basit Plan + 6 Aylık Teknik Alım
 
 Bu not sade, uygulanabilir bir “topla ve tut + teknik seviyede ekleme” planıdır.

@@ -1,8 +1,14 @@
 # ANHYT (Anadolu Hayat Emeklilik) Analizi
 
+**Son Güncelleme:** 28 Şubat 2026 | **Kaynak:** FY2025 Finansal Rapor (28.01.2026) + Entegre Faaliyet Raporu (27.02.2026)
+
+---
+
 ## 1. Yatırım Tezi
 
 Anadolu Hayat Emeklilik, Türkiye'nin köklü BES ve hayat sigortası şirketlerinden biridir. İş Bankası Grubu'nun %84.92 hakimiyetiyle özel sektör kontrolündedir. AGESA (AgeSA) ile aynı segmentte (BES + Hayat Sigortası) faaliyet göstermekte; bu nedenle her ikisi birlikte değerlendirilmelidir.
+
+**Özel şirketler arasında lider:** Gönüllü BES'te katılımcı sayısında ve OKS'de toplam fon büyüklüğünde liderliğini 2025 yılında da sürdürdü.
 
 ---
 
@@ -12,49 +18,73 @@ Anadolu Hayat Emeklilik, Türkiye'nin köklü BES ve hayat sigortası şirketler
 
 | Kalem | FY2025 | FY2024 | Değişim |
 |---|---|---|---|
-| **Hayat Teknik Bölüm Dengesi** | 2.913 Milyar TL | 1.632 Milyar TL | **+%78.5** |
-| **Emeklilik Teknik Bölüm Dengesi** | 651.7 Milyon TL | 501.3 Milyon TL | **+%30.0** |
-| **Genel Teknik Bölüm Dengesi** | 3.564 Milyar TL | 2.132 Milyar TL | **+%67.2** |
-| Yatırım Gelirleri | 4.601 Milyar TL | 3.979 Milyar TL | +%15.6 |
-| **Konsolide Net Kâr** | **5.994 Milyar TL** | **4.306 Milyar TL** | **+%39.2** |
+| **Hayat Teknik Bölüm Dengesi** | 2.913 Milyar TL | 1.632 Milyar TL | **+%78,5** |
+| **Emeklilik Teknik Bölüm Dengesi** | 652 Milyon TL | 501 Milyon TL | **+%30,0** |
+| **Genel Teknik Bölüm Dengesi** | 3.564 Milyar TL | 2.132 Milyar TL | **+%67,2** |
+| Brüt Kâr | 7.750 Milyar TL | — | — |
+| **Konsolide Net Kâr** | **5.994 Milyar TL** | **4.306 Milyar TL** | **+%39,2** |
 
-**Yorum:** Teknik kârlılık güçlü büyüdü (+%67.2). Asıl işinden para kazanan bir şirket. Ancak büyüme hızı AGESA'nın yaşadığı "teknik devrim" (+%429) ile kıyaslanamaz. Yatırım gelirlerindeki sınırlı büyüme (+%15.6) olumlu — faiz gelirine bağımlılık azalıyor.
+**Yorum:** Teknik kârlılık güçlü büyüdü (+%67.2). Asıl işinden para kazanan bir şirket. Ancak büyüme hızı AGESA'nın yaşadığı "teknik devrim" (+%429) ile kıyaslanamaz.
 
 ### 2.2 Bilanço
 
 | Kalem | FY2025 | FY2024 | Değişim |
 |---|---|---|---|
-| **Özsermaye** | 13.657 Milyar TL | 10.072 Milyar TL | **+%35.6** |
-| Toplam Aktif | 443.7 Milyar TL | 260.3 Milyar TL | +%70.4 |
+| **Özsermaye** | 13.657 Milyar TL | 10.072 Milyar TL | **+%35,6** |
+| Toplam Aktif | 442.9 Milyar TL | 260.3 Milyar TL | +%70.1 |
+| Matematik Karşılıklar | 43.1 Milyar TL | — | — |
 | Ödenmiş Sermaye | 430 Milyon TL | 430 Milyon TL | Sabit |
 
-### 2.3 Değerleme (@ 115 TL — 26 Şubat 2026)
+### 2.3 Değerleme (@ 112,2 TL — 28 Şubat 2026)
 
 | Metrik | Değer | Yorum |
 |---|---|---|
 | **Pay Sayısı** | 430.000.000 adet (1 TL nominal) | — |
-| **Piyasa Değeri** | **49.45 Milyar TL** | — |
+| **Piyasa Değeri** | **48.246 Milyar TL** | — |
 | **EPS** | **13.94 TL/hisse** | — |
-| **F/K** | **8.25x** | AGESA'ya (7.58x) göre daha pahalı |
-| **PD/DD** | **3.62x** | AGESA'ya (4.17x) göre daha ucuz |
+| **F/K** | **8.05x** | AGESA'ya göre daha pahalı, büyüme düşük |
+| **PD/DD** | **3.53x** | AGESA'ya (4.2x) göre daha ucuz |
 | **Defter Değeri/Hisse** | 31.76 TL | — |
-| **ROE** | **%43.9** | AGESA'ya (%71.5) göre belirgin zayıf |
-| **PEG (F/K ÷ Büyüme)** | **0.21x** | AGESA (0.08x) ve TURSG (0.12x)'e göre yüksek |
+| **ROE** | **%43.9** | AGESA'ya (%71+) göre belirgin zayıf |
+| **52H Aralığı** | 68.05 TL – 125.7 TL | Fiyat 52H zirvesinin %10.7 altında |
 
-### 2.4 Sektör Karşılaştırması
+### 2.4 Operasyonel Göstergeler (FY2025)
 
-| Metrik | **AGESA** | **ANHYT** | **TURSG** |
-|---|---|---|---|
-| Fiyat | 234 TL | 115 TL | 12.42 TL |
-| F/K | **7.58x** | 8.25x | 6.37x |
-| PD/DD | 4.17x | 3.62x | 2.50x |
-| ROE | **%71.5** | %43.9 | %50.5 |
-| Net Kâr Büyümesi | **+%93** | +%39.2 | +%52.8 |
-| PEG | **0.08x** | 0.21x | 0.12x |
-| Ana Ortak | Sabancı+Ageas ✅ | İşbank Grubu ✅ | TVF (Devlet) ⚠️ |
-| Halka Açık | %20 | %15.08 | %18.90 |
-| İmtiyazlı Pay | Yok ✅ | Aday gösterme* | Yok ✅ |
-| Sektör | BES + Hayat | BES + Hayat | Hayat Dışı |
+| Gösterge | Değer |
+|---|---|
+| Hayat + Emeklilik Toplam Fon Büyüklüğü | **420.7 Milyar TL** |
+| Gönüllü BES Fon Büyüklüğü | 377.5 Milyar TL |
+| OKS Fon Büyüklüğü | 18.2 Milyar TL |
+| Hayat Sigortası Prim Üretimi | 20.7 Milyar TL |
+| Gönüllü BES Katılımcı Sayısı | 3.4 Milyon kişi |
+| OKS Katılımcı Sayısı | 1.6 Milyon kişi |
+| BES'ten Emekli Olan | 383 Bin kişi |
+| 18 Yaş Altı Fon Büyüklüğü | 20.0 Milyar TL (**lider**) |
+| Çalışan Sayısı | 1.113 kişi |
+
+### 2.5 Temettü Geçmişi
+
+| Dönem | Ödenen Temettü | Hisse Başına |
+|---|---|---|
+| FY2024 kârından (2025'te ödendi) | **2.500.000.000 TL** | **~5.81 TL** brüt |
+| FY2023 kârından (2024'te ödendi) | ~1.725.409.370 TL | ~4.01 TL brüt |
+
+**Not:** ANHYT düzenli ve güçlü temettü ödeyen bir şirket. FY2025 kârından (2026'da ödenecek) da benzer düzeyde dağıtım beklentisi makul; %30-40 dağıtım oranı varsayımıyla ~1.8–2.4B TL nakit temettü → ~4.2–5.6 TL/hisse.
+
+### 2.6 Sektör Karşılaştırması
+
+| Metrik | **AGESA** | **ANHYT** |
+|---|---|---|
+| Fiyat | — | 112.2 TL |
+| F/K | ~7.x | **8.05x** |
+| PD/DD | ~4.x | **3.53x** |
+| ROE | **%71+** | %43.9 |
+| Net Kâr Büyümesi | **+%93+** | +%39.2 |
+| Temettü | Güçlü | **Güçlü (2.5B TL)** |
+| Ana Ortak | Sabancı+Ageas ✅ | İşbank Grubu ✅ |
+| Halka Açık | %20 | %15.08 ⚠️ |
+| İmtiyazlı Pay | Yok ✅ | Aday gösterme* |
+| Sektör | BES + Hayat | BES + Hayat |
 
 *A Grubu paylar yalnızca yönetim kurulu aday gösterme imtiyazına sahip; finansal imtiyaz yok.
 
@@ -67,25 +97,26 @@ Anadolu Hayat Emeklilik, Türkiye'nin köklü BES ve hayat sigortası şirketler
 | Türkiye İş Bankası A.Ş. | %63.92 |
 | Anadolu Anonim Türk Sigorta Şirketi (ANSGR) | %20.00 |
 | Milli Reasürans T.A.Ş. | %1.00 |
-| **Halka Açık** | **%15.08** |
+| **Halka Açık** | **%15.08** ⚠️ |
 
 **Değerlendirme:**
 - İş Bankası Grubu %84.92 ile fiili kontrol sahibi — tamamen özel sektör, TVF/devlet riski yok. ✅
-- Halka açıklık %15.08 çok düşük; AGESA (%20) ile benzer kısıtlı likidite riski.
-- A Grubu hisseler yönetim kurulunda 7/11 aday gösterme imtiyazına sahip; ancak finansal imtiyaz yok. B Grubu (halka açık) 4/11 kurula katılım sağlıyor. Bu yapı AGESA'daki imtiyazsız yapıya göre hafif negatif ama azınlık koruması görece sağlam.
+- Halka açıklık %15.08 düşük; likidite sınırlı.
+- A Grubu hisseler yönetim kurulunda 7/11 aday gösterme imtiyazına sahip; ancak finansal imtiyaz yok.
 
 ---
 
 ## 4. Karar ve Strateji
 
-*   **HÜKÜM:** 🟡 İZLE / AGESA'YA GÖRE İKİNCİL ÖNCELİK (@ 115 TL — 26.02.2026)
+**HÜKÜM:** 🟡 İZLE / AGESA'YA GÖRE İKİNCİL ÖNCELİK (@ 112.2 TL — 28.02.2026)
 
-*   **GEREKÇE:** ANHYT sağlam bir şirket; teknik kârlılığı büyüyor (+%67.2), özel sektör kontrolünde, TVF riski yok. Ancak AGESA ile **aynı segmentte** faaliyet gösteriyor (BES + Hayat) ve **tüm kritik metriklerde** AGESA gerisinde kalıyor:
-    - F/K daha yüksek (8.25x vs 7.58x): daha pahalı, daha az büyüyen şirket için.
-    - ROE dramatik biçimde düşük (%43.9 vs %71.5): sermaye verimliliği çok zayıf.
-    - Net kâr büyümesi yarı hızında (+%39.2 vs +%93).
-    - PEG (0.21x vs 0.08x): büyümesine göre AGESA çok daha ucuz.
+**GEREKÇE:** ANHYT sağlam bir şirket; teknik kârlılığı güçlü büyüyor (+%67.2), özel sektör kontrolünde, TVF riski yok, düzenli güçlü temettü ödüyor (5.81 TL/hisse brüt). Özel şirketler arasında BES ve OKS liderliği korunuyor.
 
-*   **ESKI GEREKÇE (Güncellendi):** Önceki md dosyasında ANSGR portföyde olduğu için ANHYT'den kaçınılıyordu (aynı gruba konsantrasyon). ANSGR portföyden çıkarıldığından bu engel ortadan kalktı. Ancak AGESA ile gereksiz segment örtüşmesi hâlâ geçerli.
+Ancak AGESA ile **aynı segmentte** faaliyet gösteriyor (BES + Hayat) ve **kritik metriklerde** AGESA gerisinde kalıyor:
+- F/K daha yüksek (8.05x vs AGESA): daha pahalı, daha az büyüyen şirket için.
+- ROE dramatik biçimde düşük (%43.9 vs AGESA %71+): sermaye verimliliği zayıf.
+- Net kâr büyümesi yarı hızında (+%39.2 vs AGESA +%93+).
 
-*   **NE ZAMAN GİRİLİR?** Ancak AGESA portföyden çıkarılırsa veya AGESA beklentilerin altında gelirse alternatif değerlendirilir. Ya da ANHYT, AGESA ile arasındaki F/K farkı kapanır ve ROE avantajı azalırsa ikincil bir BES/Hayat pozisyonu olarak düşünülebilir. Mevcut durumda para AGESA'da daha verimli çalışıyor.
+**Avantajı:** Daha ucuz PD/DD (3.53x) ve daha güçlü mutlak temettü geçmişi AGESA'ya kıyasla cazip. Eğer BES sektörüne özgü bir risk (mevzuat değişikliği vs.) AGESA'yı daha çok etkilese ya da AGESA portföyden çıkarılsa, ANHYT iyi bir alternatiftir.
+
+**NE ZAMAN GİRİLİR?** AGESA portföyden çıkarılırsa veya AGESA beklentilerin altında gelirse. Ya da fiyat 90-95 TL bandına gerilerse F/K ~6.5x'e inerek değerleme daha cazip olur.

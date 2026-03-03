@@ -1,75 +1,159 @@
-# Karel Elektronik Sanayi ve Ticaret A.Ş. - Dönüşüm Hikayesi Analizi
+# KAREL – Karel Elektronik Sanayi ve Ticaret A.Ş.
 
-## Genel Değerlendirme ve Stratejik Analiz
-
-Bu analiz, Karel'in geleneksel telekomünikasyon iş kolundan, Doğan Holding ortaklığı ile başlattığı yüksek teknolojili savunma ve otomotiv elektroniği alanlarına geçiş sürecini ve bu stratejik dönüşümün yatırımcılar için ne anlama geldiğini incelemektedir.
-
-### Dönüşümün Arkasındaki Mantık: Neden Zarar Ediyor?
-
-Karel'in mevcut finansallarında görülen zarar, şirketin kötü yönetilmesinden ziyade, bilinçli bir stratejik yatırım ve dönüşüm sürecinin doğal bir sonucudur.
-
-1.  **Doğan Holding'in Vizyonu:** Doğan Holding, Karel'e ortak olurken şirketin mevcut kârlılığını değil, gelecekteki büyüme potansiyelini satın aldı. Amaç, Karel'in düşük kâr marjlı geleneksel işlerini bırakıp, Togg, Ford gibi büyük otomotiv projeleri ve savunma sanayii için yüksek katma değerli elektronik sistemler üreten bir teknoloji şirketine dönüşmesini sağlamaktır.
-2.  **Yatırım Harcamaları (CAPEX) ve Ar-Ge:** Bu dönüşüm; yeni üretim hatları, yüksek mühendislik maliyetleri ve yoğun Ar-Ge faaliyetleri gerektirmektedir. Mevcut zararlar, büyük ölçüde bu geleceğe yönelik yatırımların bir sonucudur. Şirket, gelecekteki büyük kârlar için bugünden yatırım yapmaktadır.
-
-### Pozitifler ve Potansiyel
-
-1.  **Devasa Pazar Potansiyeli:** Otomotiv elektroniği ve savunma sanayii, Türkiye'nin stratejik olarak büyümeyi hedeflediği ve yüksek kâr marjlarına sahip alanlardır.
-2.  **Güçlü Stratejik Ortak:** Doğan Holding gibi büyük bir gücün arkasında olması, Karel'e hem finansal destek hem de stratejik vizyon sağlamaktadır.
-3.  **Somut Projeler:** Ford ve Togg ile yapılan anlaşmalar, bu dönüşüm hikayesinin sadece bir hayal olmadığını, somut adımlarla ilerlediğini göstermektedir.
-4.  **Makul Değerleme:** PD/DD oranı, geçmişteki 15x gibi aşırı beklenti seviyelerinden 4.38x gibi daha "gerçekçi" bir spekülatif seviyeye gerilemiştir. Bu durum, ilk heyecan dalgasının köpüğünün alındığını göstermektedir.
-
-### Negatifler ve Riskler
-
-1.  **ÇOK YÜKSEK İCRA RİSKİ (EXECUTION RISK):** Bu, en kritik risktir. Strateji ne kadar parlak olursa olsun, yönetimin bu planı başarılı bir şekilde hayata geçirememesi ihtimali bulunmaktadır. Üretimde yaşanacak aksaklıklar, projelerde gecikmeler veya kaliteden taviz verilmesi, tüm hikayeyi bitirebilir.
-2.  **Uzun ve Sancılı Süreç:** Bu dönüşümün bilançoya pozitif yansıması 1-3 yıl sürebilir. Bu süreçte piyasa sabrını yitirebilir ve hisse üzerinde baskı devam edebilir.
-3.  **Finansal Kırılganlık:** Şirketin borçluluğu ve özellikle döviz açık pozisyonu, kur şoklarına karşı hisseyi savunmasız bırakmaktadır. Yatırımlar kâra dönene kadar şirketin finansal sağlığı baskı altında kalacaktır.
-4.  **İkili Sonuç (Binary Outcome):** Bu yatırımın sonucu büyük ihtimalle ya "çok başarılı" ya da "tam bir hayal kırıklığı" olacaktır. Ortası pek mümkün görünmemektedir.
-
-### 2025/09 Finansal Değerlendirmesi (Strateji Değişikliği)
-
-3 Kasım 2025'te açıklanan 9 aylık finansal rapor, şirketin yatırım tezini temelden değiştiren kritik bilgiler içermektedir.
-
-1.  **Pozitif Sinyal (Nakit Akışı):** Şirket, ana ortaklığa ait 1.45 Milyar TL'lik rekor zarara rağmen, **işletme faaliyetlerinden 2.6 Milyar TL gibi olağanüstü güçlü bir nakit akışı** yaratmayı başarmıştır. Bu durum, "nakit akışına odaklanma" stratejisi doğrultusunda son derece pozitif bir gelişmedir ve şirketin operasyonel olarak nakit üretebildiğini göstermektedir.
-2.  **Negatif Sinyal (Yüksek Zarar):** Yüksek finansman giderleri nedeniyle net zarar artmaya devam etmektedir.
-  **KIRMIZI BAYRAK (İmtiyazlı Hisse Teyidi):** 2025/Q3 Faaliyet Raporu'nun 7. sayfasında yer alan "Sermaye ve Ortaklık Yapısı" bölümü, bu kritik uyumsuzluğu net bir şekilde teyit etmiştir. Raporda, **"A ve B pay grupları oy kullanmada imtiyaz sahibi olup, A ve B Grubu payların her birinin 2 (iki) oy hakkı vardır"** ifadesi yer almaktadır. Bu durum, `GENEL_STRATEJI.md` belgesinde belirtilen ve daha önce VKGYO pozisyonunun kapatılmasına neden olan "imtiyazlı hisselerden uzak durma" ilkesini **doğrudan ve kesin olarak ihlal etmektedir.**
-
-### Hüküm ve Strateji
-
-Her ne kadar dönüşüm hikayesi ve yaratılan güçlü nakit akışı tezi desteklese de, imtiyazlı hisse yapısının varlığı, temel yatırım ilkeleriyle mutlak bir çelişki yaratmaktadır. Kurumsal yönetim yapısındaki bu uyumsuzluk, diğer tüm pozitif beklentileri geçersiz kılan bir "anlaşma bozucu" niteliğindedir.
-
-*   **HÜKÜM:** `ROTASYON ADAYI / SAT`
-*   **STRATEJİ:** "Dinamik Portföy Yönetimi" ilkesi gereğince, temel yatırım ilkelerine uymayan bu pozisyonun kapatılarak, serbest kalacak sermayenin stratejiye tam uyumlu, daha güçlü bir "Çekirdek Varlık" adayına yönlendirilmesi kararı alınmıştır. Şirket, bu temel ihlal nedeniyle "İzleme Listesi"nden çıkarılmıştır.
+**Son Güncelleme:** 03.03.2026
+**Rapor Dönemi:** FY2025 (01.01.2025 – 31.12.2025) — Konsolide
+**Hisse Fiyatı (03.03.2026):** 9.30 TL
+**52H Aralık:** 7.51 – 11.09 TL | **1Y Getiri:** ~+%14 (8.17 → 9.30)
+**Halka Açıklık:** %39.98 ✅
 
 ---
 
-## Hipotetik Değerlendirme: İmtiyazlı Hisse Olmasaydı (2025/09 Finansallarına Göre)
+## HÜKÜM: 🔴 ALMA / UZAK DUR
 
-Bu bölümde, şirketin kurumsal yönetim zafiyeti olan imtiyazlı hisse yapısı göz ardı edilerek, sadece finansal ve operasyonel performansa dayalı bir analiz yapılmaktadır.
+**Ana gerekçeler:**
+1. İki yıl üst üste büyük net zarar: FY2025 -1,427 M TL, FY2024 -1,949 M TL
+2. Aşırı yüksek finansal kaldıraç: Net Borç/FAVÖK **4.83x** — borç yükü altında eziliyor
+3. Finansman giderleri **2,953 M TL** → hasılatın %16.4'ü faize gidiyor
+4. Esas faaliyet kârı hâlâ negatif: EBIT **-108 M TL**
+5. PD/DD **4.15x** — zarar eden ve eridi özkaynaklar üzerinden yüksek prim
+6. ROE **-%79** — özkaynak hızla eriyor
 
-### Analiz: İyi, Kötü ve Çirkin
+---
 
-#### İYİ: Olağanüstü Nakit Akışı ve Doğrulanan Dönüşüm
-Finansal raporun en çarpıcı ve pozitif yönü nakit akış tablosudur.
-1.  **Nakit Üretim Gücü:** Şirket, 9 aylık dönemde **1.45 Milyar TL net zarar** açıklamasına rağmen, aynı dönemde **işletme faaliyetlerinden 2.66 Milyar TL nakit** yaratmayı başarmıştır. Bu, kâğıt üzerindeki zararın büyük ölçüde finansman giderleri ve amortisman gibi nakit çıkışı gerektirmeyen kalemlerden kaynaklandığını, şirketin esas faaliyetlerinin ise güçlü bir şekilde nakit ürettiğini göstermektedir. Bu, yatırım tezinin en güçlü dayanağıdır.
-2.  **Dönüşümün Rakamlarla Teyidi:** Segment raporlaması, stratejinin doğruluğunu kanıtlar niteliktedir. Otomotiv (21% brüt kar marjı) ve Savunma (22% brüt kar marjı) gibi yeni teknoloji alanları kârlı iken, brüt kârı eksiye düşüren ana kalem **Elektronik Kart Üretimi** (%-29 brüt kar marjı) segmentidir. Bu, yönetimin kârsız geleneksel işlerden çıkıp yüksek katma değerli alanlara yönelme stratejisinin ne kadar isabetli olduğunu göstermektedir.
+## Şirket Profili
 
-#### KÖTÜ: Ezici Borç ve Ağır Finansal Riskler
-Nakit akışındaki pozitif tabloya rağmen, bilanço ciddi riskler barındırmaktadır.
-1.  **Ağır Borç Yükü:** Toplamda 6 Milyar TL'yi aşan finansal borç, şirketin en büyük kamburudur. 9 ayda yaratılan güçlü nakit akışına rağmen, aynı dönemde ödenen **2.2 Milyar TL'lik finansman gideri**, tüm operasyonel başarıyı silip süpürmekte ve şirketi zarara itmektedir.
-2.  **Devasa Kur Riski:** Raporun 39. sayfasında belirtildiği üzere, şirketin **-4.58 Milyar TL net yabancı para pozisyonu açığı** bulunmaktadır. Bu, kurdaki potansiyel bir artışa karşı şirketi aşırı kırılgan hale getiren, kabul edilemez derecede yüksek bir risktir.
-3.  **Likidite Riski:** Kısa vadeli yükümlülüklerin (11 Milyar TL), dönen varlıklardan (8.5 Milyar TL) daha yüksek olması (Cari Oran < 1), şirketin kısa vadeli borç çevirme kabiliyetine yönelik bir risk oluşturmaktadır.
+Karel Elektronik; telekomünikasyon, kurumsal iletişim (IP-PBX, UC), otomasyon ve elektronik çözümleri alanında faaliyet gösteren bir Türk teknoloji şirketi. Bağlı ortaklıkları: Karel İletişim, Daiichi Elektronik (çok uluslu, Çin/Hindistan/İtalya), Globalpbx, Karel İleri Teknolojiler, Karel Europe.
 
-#### ÇİRKİN: Eriyen Özkaynaklar
-Şirket, zamana karşı bir yarış içindedir. 9 ayda edilen **1.45 Milyar TL'lik zarar**, şirketin özkaynaklarının 2.63 Milyar TL'den 1.79 Milyar TL'ye gerilemesine neden olmuştur. Bu hızla devam eden bir erime, şirketin tüm sermayesini kaybetme riski doğurur.
+**Ortaklık:**
+- Ana şirket + yönetim kontrolü (yaklaşık %60)
+- **Halka açık: %39.98** ✅
 
-### Hipotetik Hüküm ve Strateji
+**Bağlı Ortaklıklar:**
+| Şirket | Oran | Faaliyet |
+|---|---|---|
+| Karel İletişim | %52.6 | Telekomünikasyon hizmetleri |
+| Daiichi Elektronik (Türkiye + 7 yurt dışı) | %54 (2025) | Otomotiv elektroniği, infotainment |
+| Globalpbx | %55 | Bulut tabanlı iletişim |
+| Karel İleri Teknolojiler | %70 | İleri teknoloji ürünleri |
+| Karel Europe | %100 | Avrupa satış |
 
-İmtiyazlı hisse yapısı olmasaydı, Karel tam bir "ikili sonuç" (binary outcome) yatırım senaryosu sunardı:
+---
 
-*   **Boğa Senaryosu:** Güçlü operasyonel nakit akışı, şirketin borçlarını yönetmesine ve hayatta kalmasına olanak tanır. Yeni kârlı segmentler büyüdükçe ve kârsız segmentler küçüldükçe, şirket borçlarını azaltmaya (deleveraging) başlar. Finansman giderlerinin düşmesiyle birlikte, kâğıt üzerindeki zarar hızla kâra döner ve hisse değeri katlanır.
-*   **Ayı Senaryosu:** Yaşanacak bir kur şoku, devasa açık pozisyon nedeniyle bilançoyu havaya uçurur. Veya yüksek faiz ortamının devam etmesi, operasyonel nakit akışının borç faizini çevirmeye yetmemesine ve özkaynakların tamamen erimesine neden olur.
+## FY2025 Finansal Özeti (TMS 29 — 31.12.2025 alım gücü)
 
-Bu finansal riskler (borç, kur, likidite) nedeniyle şirket, "Çekirdek Varlık" olamaz. Ancak, arkasındaki dönüşüm hikayesi ve olağanüstü nakit yaratma potansiyeli, onu görmezden gelmeyi de imkansız kılar.
+| Kalem | FY2025 | FY2024 | Değişim |
+|---|---|---|---|
+| Hasılat | 18,002 M TL | 18,097 M TL | -%0.5 (stabil) |
+| Satışların Maliyeti | 16,038 M TL | 17,281 M TL | -%7.2 |
+| **Brüt Kâr** | **1,964 M TL** | **817 M TL** | **+%140** |
+| **Brüt Marj** | **%10.9** | **%4.5** | Güçlü iyileşme ✅ |
+| EBIT (Esas Faaliyet) | **-108 M TL** | **-1,160 M TL** | Büyük iyileşme ✅ |
+| Finansman Giderleri (net) | -2,314 M TL | -1,853 M TL | Kötüleşti |
+| TMS 29 Parasal Kazanç | +1,004 M TL | +952 M TL | — |
+| **Net Zarar** | **-1,427 M TL** | **-1,949 M TL** | Azaldı ama hâlâ büyük |
+| EPS (Zarar) | -1.876 TL | -2.478 TL | — |
 
-*   **HİPOTETİK HÜKÜM:** `YÜKSEK RİSK / İZLE`
-*   **HİPOTETİK STRATEJİ:** Şirket, bu haliyle ancak "Uydu / İzleme Listesi"nde yer alabilirdi. Yatırım kararı için, yönetimin borç ve özellikle kur riskini azaltmaya yönelik somut adımlar attığının (örneğin, sermaye artırımı, varlık satışı veya kârlı bir ortaklık) ve bilançoda belirgin bir iyileşmenin görülmesi beklenirdi.
+### Olumlu Trend: Brüt Marj Toparlanıyor
+Brüt marj %4.5'ten **%10.9'a** çıkmış — bu çok önemli bir iyileşme. Satışların maliyetindeki düşüş (-%7.2) ürün miks değişikliğinden ya da operasyonel verimlilik artışından kaynaklanıyor.
+
+### Ana Sorun: Finansman Yükü Kârlılığı Yiyor
+Brüt kárın iyileşmesine rağmen net zarar devam ediyor çünkü:
+- **Finansman giderleri: 2,953 M TL** — hasılatın tam %16.4'ü!
+- Faiz + kur farkı yükü, operasyonel iyileşmeyi sıfırlıyor
+
+---
+
+## Bilanço (31.12.2025)
+
+| Kalem | Tutar |
+|---|---|
+| Nakit | 882.9 M TL |
+| Ticari Alacaklar | 4,398 M TL |
+| Stoklar | 3,178 M TL |
+| **Toplam Varlıklar** | **15,268 M TL** |
+| Kısa vadeli finansal borç | 5,450 M TL |
+| UV finansal borç (kredi+kiralama) | 453 M TL |
+| UV sermaye avansı (ilişkili) | 660 M TL |
+| Ticari Borçlar | 4,345 M TL |
+| **Toplam Özkaynaklar** | **1,807 M TL** |
+| — Ana ortaklığa ait | **1,269 M TL** |
+
+> ⚠️ **Özkaynak erimesi:** FY2024 sonunda ana ortaklık özkaynakları 2,473 M TL iken FY2025 sonunda **1,269 M TL'ye düştü** (-%49). Zarar özkaynak tabanını yakıyor.
+
+---
+
+## Değerleme Çarpanları (9.30 TL, 805.89 M hisse → PD: 7.5 Milyar TL)
+
+| Çarpan | Değer | Yorum |
+|---|---|---|
+| F/K | Yok (zarar) | — |
+| **PD/DD** | **4.15x** | Çok pahalı — özkaynak eridiği için yükseliyor |
+| **EV/FAVÖK** | **11.42x** | Teknoloji şirketi için orta — ama FAVÖK %6 marjda |
+| EV/Hasılat | 0.72x | Düşük ciro marjını yansıtıyor |
+| FAVÖK Marjı | %6.3 | Düşük |
+| **Net Borç/FAVÖK** | **4.83x** | 🔴 Kritik — aşırı kaldıraç |
+| ROE | -%79 | Negatif, özkaynak eriyor |
+
+---
+
+## Nakit Akışı (FY2025)
+
+| Kalem | Tutar |
+|---|---|
+| İşletme CFO | **+4,627 M TL** |
+| Yatırım CFO | -907 M TL |
+| — CAPEX | -1,656 M TL |
+| — Maddi duran varlık | -1,024 M TL |
+| — Maddi olmayan (yazılım/IP) | -632 M TL |
+| Finansman CFO | -3,122 M TL |
+| — Ödenen faiz | -1,616 M TL |
+| Net nakit artışı | +508 M TL |
+
+> **Dikkat:** İşletme CFO'nun 4,627 M TL gibi çok yüksek görünmesi, büyük ölçüde çalışma sermayesi dinamiklerinden (ticari borçlar +963 M TL artışı) kaynaklanıyor. Gerçek serbest nakit akışı çok daha düşük: ~4,627 - 1,656 = ~2,971 M TL. Bunun büyük kısmı faiz ödemesine (1,616 M TL) gidiyor.
+
+---
+
+## Borç Detayı ve Kaldıraç
+
+| Borç Kalemi | Tutar |
+|---|---|
+| KV Banka Kredileri | 4,554 M TL |
+| KV Tahvil | 516 M TL |
+| KV Diğer Finansal Yük. | 240 M TL |
+| UV Banka Kredileri (kısa vade dahil) | 683 M TL |
+| KV+UV Kiralama | 376 M TL |
+| **Toplam Finansal Borç** | **~6,370 M TL** |
+| Nakit | 882.9 M TL |
+| **Net Borç** | **~5,487 M TL** |
+
+> Yıllık ödenecek faiz 1,616 M TL — FAVÖK'ün (1,137 M TL) **%142'si**. Yani FAVÖK faizi bile karşılamıyor.
+
+---
+
+## Dönüşüm Tezi ve Riskler
+
+**Potansiyel uzun vadeli hikaye:**
+- Daiichi bağlı ortaklığı üzerinden otomotiv elektroniği (infotainment, akustik) — küresel tedarikçi konumlanması
+- Karel İleri Teknolojiler — savunma/kritik altyapı elektronik çözümleri
+- Ar-Ge yatırımı 2025'te 365 M TL'ye çıkmış (2024: 175 M TL) — ürün geliştirme devam ediyor
+
+**Riskler:**
+1. **Borç sürdürülemezliği:** FAVÖK faiz yükünü karşılamıyor; ek borçlanma veya özkaynak artırımı gerekebilir
+2. **Özkaynak erimesi:** 3. yıl da zarar edilirse özkaynaklar kritik seviyelere iner
+3. **Daiichi kaldıraç etkisi:** Yurt dışı bağlı ortaklıklar kur riski ve yabancı para borçları yaratıyor (çevrim farkları bilançoyu etkiliyor)
+4. **Ar-Ge harcaması yükü:** 2025'te Ar-Ge 365 M TL (+%108) — uzun vadeli yatırım ama kısa vadede nakit çıkışı
+5. **Piyasa değerlemesi:** PD/DD 4.15x — yatırımcı "dönüşüm hikayes" için prim ödüyor ama temel veriler henüz desteklemiyor
+
+---
+
+## Sonuç ve İzleme Kriterleri
+
+KAREL, Daiichi aracılığıyla otomotiv elektroniği ve Karel İleri Teknolojiler üzerinden savunma elektroniğine geçiş hikayesi anlatıyor. Uzun vadeli potansiyel var; ancak bu potansiyelin gerçeğe dönmesi için **en az 2-3 yıl** ve özellikle **borç yapısının iyileşmesi** şart.
+
+**Alım için ön koşullar:**
+- Net Borç/FAVÖK'ün **<3x** seviyesine inmesi
+- Esas faaliyet kârının (EBIT) pozitife dönmesi
+- Brüt marjın **%15+** kalıcı olarak tutunması (bu yıl %10.9 — iyileşiyor ama yetersiz)
+- Net kâr veya en azından break-even görünümü
+
+**İzleme:** 9A2026 sonuçları kritik — borç azalıyor mu, brüt marj tutuluyor mu?

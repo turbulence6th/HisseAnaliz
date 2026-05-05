@@ -1,11 +1,11 @@
 # TURSG – Türkiye Sigorta A.Ş. Hisse Analiz Raporu
 
-**Son Güncelleme:** 26 Şubat 2026
-**Rapor Dönemi:** 2025/12 Tam Yıl (Konsolide)
+**Son Güncelleme:** 20 Nisan 2026
+**Rapor Dönemi:** 2026/03 — Q1 2026 (Konsolide, Bağımsız Denetimden Geçmemiş)
 
 ---
 
-## HÜKÜM: 🟡 DİKKATLİ AL / UYDU POZİSYON
+## HÜKÜM: 🟡 TUT / GERİ ÇEKİLMEDE EKLE (@ 14.60 TL — 20.04.2026)
 
 ---
 
@@ -17,7 +17,45 @@ Türkiye Sigorta, %14 pazar payı ile Türkiye hayat dışı sigorta sektörün�
 
 ---
 
-## 2. Tam Yıl 2025 Finansal Analiz (FY2025)
+## 2. Q1 2026 Finansal Analiz (1 Ocak – 31 Mart 2026)
+
+### 2.1 Ana Sonuçlar
+
+| Kalem | Q1 2026 | Q1 2025 | Büyüme |
+|---|---|---|---|
+| **Brüt Yazılan Prim** | **53.81 milyar TL** | 41.40 milyar TL | **+%30.0** |
+| Net Yazılan Prim | 22.65 milyar TL | 19.06 milyar TL | +%18.8 |
+| Brüt Ödenen Tazminat | 14.51 milyar TL | 10.28 milyar TL | +%41.1 ⚠️ |
+| **Teknik Bölüm Dengesi** | **6.89 milyar TL** | 5.32 milyar TL | **+%29.5** |
+| Yatırım Gelirleri | 8.02 milyar TL | 6.97 milyar TL | +%15.1 |
+| Dönem Karı (Vergi Öncesi) | 6.98 milyar TL | 5.65 milyar TL | +%23.5 |
+| **Dönem Net Karı** | **6.45 milyar TL** | 4.54 milyar TL | **+%42.3** |
+| Özsermaye | 54.75 milyar TL | — | +%10.3 (YTD) |
+
+### 2.2 Kalite Değerlendirmesi
+
+**Olumlu:**
+- Teknik bölüm dengesi (+%29.5) yatırım gelirleri büyümesini (+%15.1) aşıyor — sigortacılık öz kârlılığı güçlü
+- Yıllıklaştırılmış teknik denge ~27.6 milyar TL → FY2025 tam yılı 22.7 milyar TL'nin üzerinde seyir
+- Net kar yıllıklaştırılınca ~25.8 milyar TL → FY2025'in (19.5 milyar TL) %32 üzerinde
+
+**⚠️ Dikkat edilmesi gerekenler:**
+1. **Tazminat büyümesi prim büyümesini aştı:** Brüt hasar +%41.1 vs brüt prim +%30.0. Hasar/prim oranı %24.8 → %27.0'ye geriledi. Bir çeyrek trendi kırmak için yetersiz, süreklilik gösterirse marj baskısı oluşur.
+2. **Reasürans oranı yükseldi:** %53.4 → %57.4. Şirket daha fazla risk devrediyor; net prim büyümesi bu yüzden brüt büyümenin gerisinde (%18.8 vs %30.0).
+3. **Efektif vergi oranı çarpıcı şekilde düştü: %19.8 → %7.6.** Net karı ~870M TL şişirdi. Normalize edilirse dönem net karı ~5.6 milyar TL olurdu (+%23 YoY). Sürdürülebilirliği belirsiz — bir sonraki çeyrekte normalleşme riski var.
+
+### 2.3 Bilanço (31 Mart 2026)
+
+| Kalem | 31.03.2026 | 31.12.2025 | Değişim |
+|---|---|---|---|
+| Toplam Aktifler | ~169.0 milyar TL | 154.7 milyar TL | +%9.2 |
+| **Özsermaye** | **54.75 milyar TL** | 49.65 milyar TL | **+%10.3** |
+| Nakit ve Nakit Benzerleri | 13.59 milyar TL | 11.16 milyar TL | +%21.7 |
+| Finansal Varlıklar | 92.47 milyar TL | 86.51 milyar TL | +%6.9 |
+
+---
+
+## 3. Tam Yıl 2025 Finansal Analiz (FY2025)
 
 ### 2.1 Ana Gelir Tablosu
 
@@ -56,24 +94,28 @@ Türkiye Sigorta, %14 pazar payı ile Türkiye hayat dışı sigorta sektörün�
 
 ---
 
-## 3. Değerleme (@ 12.42 TL — 26 Şubat 2026)
+## 4. Değerleme (@ 14.60 TL — 20 Nisan 2026)
 
-| Metrik | Değer | Yorum |
+| Metrik | Değer | Not |
 |---|---|---|
 | **Pay Sayısı** | 10,000,000,000 adet (1 TL nominal) | — |
-| **Piyasa Değeri** | 124.2 Milyar TL | Büyük şirket |
-| **F/K** | **6.37x** | Çok ucuz |
-| **PD/DD** | **2.50x** | Defter değeri üzeri prim |
-| **Hisse Başına Defter Değeri** | 4.96 TL | — |
-| **ROE** | **%50.5** | Olağanüstü |
-| **Hisse Başına Net Kâr (EPS)** | 1.95 TL | (raporda teyit) |
-| Temettü (2024 kârından) | 0.20 TL/hisse | Düşük (%1.6 verim) |
+| **Piyasa Değeri** | **146 Milyar TL** | — |
+| **EPS (Q1 annualized)** | ~2.58 TL | Vergi avantajı dahil |
+| **EPS (normalize vergi ~%20)** | ~2.23 TL | Daha gerçekçi baz |
+| **F/K (annualized Q1)** | **5.7x** | Ucuz |
+| **F/K (normalize vergi)** | **~6.5x** | Hâlâ ucuz |
+| **PD/DD** | **2.67x** | Prim var, ROE bunu destekliyor |
+| **Hisse Başına Defter Değeri** | 5.48 TL | FY2025: 4.96 TL |
+| **ROE (annualized Q1)** | **%47** | Güçlü |
+| **52H Fiyat Aralığı** | 7.73 – 14.71 TL | Neredeyse zirvede |
+| **MA50** | 12.82 TL | Fiyat üzerinde ✅ |
+| **MA200** | 11.33 TL | Fiyat çok üzerinde ✅ |
 
-**F/K 6.37x ile ROE %50.5** kombinasyonu olağandışı derecede ucuz görünüyor. Piyasa, TVF bağlantısından kaynaklanan "devlet şirketi iskontosu" uyguluyor.
+**Değerleme notu:** Hisse 52H zirvesi olan 14.71 TL'nin hemen altında (14.60 TL). İyi Q1 sonuçları büyük ölçüde fiyatlanmış görünüyor. F/K 5.7-6.5x ve %47 ROE kombinasyonu hâlâ cazip; ancak kısa vadede 12.8-13.5 TL düzeltmesi olmadan yeni alım açmak risk/ödül açısından zayıf.
 
 ---
 
-## 4. GENEL_STRATEJİ Kriter Değerlendirmesi
+## 5. GENEL_STRATEJİ Kriter Değerlendirmesi
 
 | Kriter | Durum | Not |
 |---|---|---|
@@ -87,7 +129,7 @@ Türkiye Sigorta, %14 pazar payı ile Türkiye hayat dışı sigorta sektörün�
 
 ---
 
-## 5. Riskler
+## 6. Riskler
 
 1. **TVF / Devlet Bağlantısı:** Ana ortak Türkiye Varlık Fonu. Yönetim kararları, temettü politikası ve sermaye kullanımı, azınlık hissedarların çıkarlarından ziyade devletin önceliklerine göre şekillenebilir. Bu en kritik risk.
 
@@ -99,11 +141,15 @@ Türkiye Sigorta, %14 pazar payı ile Türkiye hayat dışı sigorta sektörün�
 
 5. **Sağlık Sigortası Yönetmeliği:** Ocak 2026'dan itibaren "Ömür Boyu Yenileme Garantisi" zorunluluğu sağlık branşı marjlarını baskılayabilir.
 
+6. **Hasar/Prim Trendi Bozuluyor (Q1 2026):** Brüt tazminat artışı (+%41.1) prim artışını (+%30.0) aştı. Q2-Q3'te de devam ederse teknik marj gerilerken net kâr görünümü kötüleşir.
+
+7. **Vergi Normalleşme Riski:** Q1'deki %7.6 efektif vergi oranı sürdürülebilir değil. Normalize olursa yıllık net kâr tahminleri aşağı revize edilebilir.
+
 6. **Düşük Temettü:** Dağıtım oranı yaklaşık %10-16. 19.5B TL kâr için 2B TL dağıtılmış. ROE'nin yüksekliğine kıyasla temettü verimi (%1.6) düşük.
 
 ---
 
-## 6. Katalizörler
+## 7. Katalizörler
 
 1. **Piyasa Payı Liderliği:** %14 pazar payı ve her yıl büyüyen primler doğal bir büyüme motoru sağlar.
 2. **Kasko Branşı Genişlemesi:** Motorlu araç sayısının artması ve zorunlu kasko penetrasyonu.
@@ -112,47 +158,54 @@ Türkiye Sigorta, %14 pazar payı ile Türkiye hayat dışı sigorta sektörün�
 
 ---
 
-## 7. Strateji ve Karar
+## 8. Strateji ve Karar
 
-**HÜKÜM: 🟡 DİKKATLİ AL / UYDU POZİSYON (@ 12.42 TL — 26.02.2026)**
+**HÜKÜM: 🟡 TUT / GERİ ÇEKİLMEDE EKLE (@ 14.60 TL — 20.04.2026)**
 
-**Neden "Al":** F/K 6.37x ile ROE %50.5 kombinasyonu istisnai bir değer sunuyor. Teknik kârlılık güçlü ve büyüyor; prim üretimi sektörün üzerinde büyüyor. AGESA'dan farklı bir iş modeli (hayat dışı sigorta) portföye gerçek çeşitlendirme sağlıyor.
+**Q1 sonuçları tezi güçlendirdi:** Net kâr +%42.3, teknik denge +%29.5, yatırım gelirleri +%15.1 — tüm kalemler büyüdü. Yıllıklaştırılmış kâr ~25.8 milyar TL ile F/K ~5.7x, ROE ~%47.
 
-**Neden "Dikkatli":** TVF bağlantısı, "Çekirdek Varlık" statüsü için yeterli kurumsal yönetim güvencesi sunmuyor. Azınlık hissedarlar yönetim kararları üzerinde sınırlı etkiye sahip. Sermaye artırımı geçmişi tedirginlik yaratıyor.
+**Pozisyon durumu:** 12.42 TL'den alınan pozisyon +%17.6 kazanda. Hisse 52H zirvesinde — iyi sonuçlar fiyatlanmış. Yeni alım açmak için çekilme beklenmeli.
 
-**Pratik Strateji:**
-- Portföyde AGESA varsa (veya alınacaksa), TURSG "küçük / uydu" pozisyon olarak tutulabilir — iki şirket farklı iş modelleriyle birbirini tamamlar.
-- **Portföy payı: Maksimum %3-5.** Bu, riski sınırlarken sektörel çeşitlendirmeden yararlanmanızı sağlar.
-- Hisse başına 1.95 TL kâra karşılık 12.42 TL fiyat, aşağı yönlü risk sınırlı görünüyor.
-- **İzlenecek:** 2025 kârından ne kadar temettü dağıtılacağı (büyük sermaye artırımı sonrası beklenti artmış olabilir), TVF'nin gelecek sermaye planları.
+**Alım seviyeleri:**
+- 🟡 13.0–13.5 TL (MA50 yakını) → Ekle
+- 🟢 11.5–12.5 TL (MA200 yakını) → Ağırlıklı ekle
+- 🛑 10.5 TL altı → Tezi sorgula (hasar oranı kötüleşiyor mu?)
+
+**İzlenecek (Q2 2026 için):**
+- Efektif vergi oranı: %7.6'dan normalleşiyor mu?
+- Hasar/prim oranı trendi: %27'den daha da kötüleşiyor mu?
+- Temettü açıklaması: FY2025 kârından (19.5B TL) ne kadar dağıtılacak?
+- Yeni sermaye artırımı sinyali var mı?
+
+**Portföy payı: Maksimum %3-5 (uydu pozisyon).** TVF bağlantısı çekirdek varlık statüsünü engelliyor.
 
 ---
 
-## 8. Karşılaştırma — AGESA vs TURSG
+## 9. Karşılaştırma — AGESA vs TURSG
 
-| Metrik | AGESA (234 TL) | TURSG (12.42 TL) |
+| Metrik | AGESA (~223 TL) | TURSG (14.60 TL) |
 |---|---|---|
-| **F/K** | **7.58x** | **6.37x** |
-| **PD/DD** | 4.17x | 2.50x |
-| **EPS** | 30.86 TL | 1.95 TL |
-| **ROE** | %71.5 | %50.5 |
+| **F/K** | **~7.2x** | **~5.7x (ann. Q1)** |
+| **PD/DD** | ~4.0x | 2.67x |
+| **ROE** | %71.5 | %47 (ann. Q1) |
 | **Halka Açık** | %20 | %18.90 |
 | **İmtiyazlı Pay** | Yok ✅ | Yok (görünürde) ✅ |
 | **Ana Ortak** | Sabancı + Ageas (özel) ✅ | TVF (devlet) ⚠️ |
 | **Sektör** | BES + Hayat Sigortası | Hayat Dışı Sigorta |
-| **Büyüme Hikayesi** | Sağlık sigortası giriş | Pazar payı liderliği |
-| **Temettü Verimi** | ~2.97% | ~1.6% |
-| **Çeşitlendirme** | Sabancı grubu | Farklı grup ✅ |
+| **Büyüme** | +%93 net kâr (FY2025) | +%42.3 (Q1 2026) |
+| **Hasar Trendi** | — | Kötüleşiyor ⚠️ |
+| **Fiyat Seviyesi** | MA50 yakını | 52H zirvesinde ⚠️ |
 
-*AGESA: PD = 180M pay × 234 TL = 42.12B TL; Net Kâr = 5.555B TL → F/K = 7.58x. TURSG: PD = 10.000M pay × 12.42 TL = 124.2B TL; Net Kâr = 19.53B TL → F/K = 6.37x.*
+*Sonuç: AGESA kurumsal yönetim ve ROE üstünlüğü ile çekirdek varlık. TURSG ucuz ama 52H zirvesinde ve hasar oranı baskı altında — uydu pozisyon olarak tutmak yeterli.*
 
 ---
 
-## 9. Tarihsel Analiz Geçmişi
+## 10. Tarihsel Analiz Geçmişi
 
 | Dönem | Güncelleme | Hüküm | Özet |
 |---|---|---|---|
 | İlk alım | — | ALINDI | İlk portföy pozisyonu |
 | 2025 öncesi | — | KAPATILDI | ANSGR'ye rotasyon yapıldı |
 | 2025/09 (9 Aylık) | Aralık 2025 | İZLEME LİSTESİ | Teknik kâr patladı, geri dönüş sinyali |
-| 2025/12 (Tam Yıl) | 26 Şubat 2026 | **🟡 DİKKATLİ AL** | Net kâr +%52.8, F/K 6.37x, TVF riski var |
+| 2025/12 (Tam Yıl) | 26 Şubat 2026 | **🟡 DİKKATLİ AL @ 12.42 TL** | Net kâr +%52.8, F/K 6.37x, TVF riski var |
+| 2026/03 (Q1 2026) | 20 Nisan 2026 | **🟡 TUT / GERİ ÇEKİLMEDE EKLE @ 14.60 TL** | Net kâr +%42.3 (6.45B TL), teknik denge +%29.5; hasar/prim kötüleşiyor ⚠️, vergi avantajı sürdürülebilir değil ⚠️; hisse 52H zirvesinde |

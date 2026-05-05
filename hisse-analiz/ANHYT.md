@@ -1,6 +1,6 @@
 # ANHYT (Anadolu Hayat Emeklilik) Analizi
 
-**Son Güncelleme:** 28 Şubat 2026 | **Kaynak:** FY2025 Finansal Rapor (28.01.2026) + Entegre Faaliyet Raporu (27.02.2026)
+**Son Güncelleme:** 27 Nisan 2026 | **Kaynak:** Q1 2026 Finansal Rapor (27.04.2026) + FY2025 Entegre Faaliyet Raporu
 
 ---
 
@@ -12,43 +12,64 @@ Anadolu Hayat Emeklilik, Türkiye'nin köklü BES ve hayat sigortası şirketler
 
 ---
 
-## 2. Finansal Analiz (FY2025 — 31 Aralık 2025)
+## 2. Finansal Analiz
 
-### 2.1 Gelir Tablosu — Teknik Kârlılık
+### 2.1 Q1 2026 Gelir Tablosu — Teknik Kârlılık
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| Hayat Teknik Bölüm Dengesi | 827 Milyon TL | 621 Milyon TL | **+%33.1** |
+| Emeklilik Teknik Bölüm Dengesi | 185 Milyon TL | 182 Milyon TL | +%1.9 |
+| Hayat Dışı Teknik Bölüm Dengesi | (1.5) Milyon TL | (3.4) Milyon TL | — |
+| **Genel Teknik Bölüm Dengesi** | **1.011 Milyar TL** | **800 Milyon TL** | **+%26.4** |
+| **Konsolide Net Kâr** | **1.612 Milyar TL** | **1.107 Milyar TL** | **+%45.6** |
+| **Hisse Başına Kazanç (EPS)** | **3.75 TL** | 2.57 TL | **+%45.9** |
+
+**Yorum:** Q1 büyümesi güçlü bir ivme gösteriyor (+%45.6). Hayat teknik dengesi sürücü konumunda. Emeklilik teknik dengesi yatay seyrediyor; bilanço büyümesinden gelen yatırım gelirleri net kârı destekliyor.
+
+### 2.2 FY2025 Yıllık Özet (Karşılaştırma Referansı)
 
 | Kalem | FY2025 | FY2024 | Değişim |
 |---|---|---|---|
-| **Hayat Teknik Bölüm Dengesi** | 2.913 Milyar TL | 1.632 Milyar TL | **+%78,5** |
-| **Emeklilik Teknik Bölüm Dengesi** | 652 Milyon TL | 501 Milyon TL | **+%30,0** |
-| **Genel Teknik Bölüm Dengesi** | 3.564 Milyar TL | 2.132 Milyar TL | **+%67,2** |
-| Brüt Kâr | 7.750 Milyar TL | — | — |
-| **Konsolide Net Kâr** | **5.994 Milyar TL** | **4.306 Milyar TL** | **+%39,2** |
+| **Genel Teknik Bölüm Dengesi** | 3.564 Milyar TL | 2.132 Milyar TL | **+%67.2** |
+| **Konsolide Net Kâr** | **5.994 Milyar TL** | **4.306 Milyar TL** | **+%39.2** |
+| Özsermaye | 13.657 Milyar TL | 10.072 Milyar TL | +%35.6 |
 
-**Yorum:** Teknik kârlılık güçlü büyüdü (+%67.2). Asıl işinden para kazanan bir şirket. Ancak büyüme hızı AGESA'nın yaşadığı "teknik devrim" (+%429) ile kıyaslanamaz.
+### 2.3 Bilanço (31 Mart 2026)
 
-### 2.2 Bilanço
-
-| Kalem | FY2025 | FY2024 | Değişim |
+| Kalem | 31.03.2026 | 31.12.2025 | Değişim |
 |---|---|---|---|
-| **Özsermaye** | 13.657 Milyar TL | 10.072 Milyar TL | **+%35,6** |
-| Toplam Aktif | 442.9 Milyar TL | 260.3 Milyar TL | +%70.1 |
-| Matematik Karşılıklar | 43.1 Milyar TL | — | — |
+| **Özsermaye** | **11.343 Milyar TL** | 13.657 Milyar TL | -2.314 M TL* |
+| **Toplam Aktif** | **467.843 Milyar TL** | 443.673 Milyar TL | **+%5.4** |
 | Ödenmiş Sermaye | 430 Milyon TL | 430 Milyon TL | Sabit |
 
-### 2.3 Değerleme (@ 112,2 TL — 28 Şubat 2026)
+*Özsermaye düşüşü, 2025 kârından 2026'da dağıtılan 3.5 milyar TL temettüden kaynaklanmaktadır. Net etkiyle özsermaye daraldı; Q1 net kârı (+1.612 milyar) kısmen telafi etti.
+
+### 2.4 Temettü Geçmişi ve 2026 Ödemesi
+
+| Dönem | Ödenen Temettü | Hisse Başına (Brüt) |
+|---|---|---|
+| FY2025 kârından (2026'da ödendi) | **3.500.000.000 TL** ✨ | **8.14 TL** |
+| FY2024 kârından (2025'te ödendi) | 2.500.000.000 TL | 5.81 TL |
+| FY2023 kârından (2024'te ödendi) | ~1.725.409.370 TL | ~4.01 TL |
+
+**Kritik Not:** FY2025 temettüsü 3.5 milyar TL olarak gerçekleşti — önceki beklentimin (1.8–2.4 milyar) **çok üzerinde**. Dağıtım oranı %58.4 (FY2025 net kârının). Hisse başı 8.14 TL brüt temettü bugünkü fiyata göre **~%7.3 brüt temettü verimi** demek.
+
+### 2.5 Değerleme (@ 111.1 TL — 27 Nisan 2026)
 
 | Metrik | Değer | Yorum |
 |---|---|---|
-| **Pay Sayısı** | 430.000.000 adet (1 TL nominal) | — |
-| **Piyasa Değeri** | **48.246 Milyar TL** | — |
-| **EPS** | **13.94 TL/hisse** | — |
-| **F/K** | **8.05x** | AGESA'ya göre daha pahalı, büyüme düşük |
-| **PD/DD** | **3.53x** | AGESA'ya (4.2x) göre daha ucuz |
-| **Defter Değeri/Hisse** | 31.76 TL | — |
-| **ROE** | **%43.9** | AGESA'ya (%71+) göre belirgin zayıf |
-| **52H Aralığı** | 68.05 TL – 125.7 TL | Fiyat 52H zirvesinin %10.7 altında |
+| **Pay Sayısı** | 430.000.000 adet | — |
+| **Piyasa Değeri** | **47.773 Milyar TL** | — |
+| **Annualized EPS** (Q1×4) | **~15.0 TL/hisse** | Muhafazakâr tahmin |
+| **F/K** (annualized) | **~7.4x** | Makul |
+| **PD/DD** | **4.21x** | Temettü sonrası özsermaye azaldı |
+| **Defter Değeri/Hisse** | 26.38 TL | Temettü sonrası |
+| **ROE** (annualized) | **~%51.6** | FY2025'teki %43.9'dan belirgin iyileşme |
+| **Temettü Verimi** (2026 ödendi) | **%7.3 brüt** | Çok cazip |
+| **52H Aralığı** | 68.05 TL – 125.7 TL | Zirvenin %11.7 altında |
 
-### 2.4 Operasyonel Göstergeler (FY2025)
+### 2.6 Operasyonel Göstergeler (FY2025)
 
 | Gösterge | Değer |
 |---|---|
@@ -57,30 +78,18 @@ Anadolu Hayat Emeklilik, Türkiye'nin köklü BES ve hayat sigortası şirketler
 | OKS Fon Büyüklüğü | 18.2 Milyar TL |
 | Hayat Sigortası Prim Üretimi | 20.7 Milyar TL |
 | Gönüllü BES Katılımcı Sayısı | 3.4 Milyon kişi |
-| OKS Katılımcı Sayısı | 1.6 Milyon kişi |
-| BES'ten Emekli Olan | 383 Bin kişi |
 | 18 Yaş Altı Fon Büyüklüğü | 20.0 Milyar TL (**lider**) |
-| Çalışan Sayısı | 1.113 kişi |
 
-### 2.5 Temettü Geçmişi
-
-| Dönem | Ödenen Temettü | Hisse Başına |
-|---|---|---|
-| FY2024 kârından (2025'te ödendi) | **2.500.000.000 TL** | **~5.81 TL** brüt |
-| FY2023 kârından (2024'te ödendi) | ~1.725.409.370 TL | ~4.01 TL brüt |
-
-**Not:** ANHYT düzenli ve güçlü temettü ödeyen bir şirket. FY2025 kârından (2026'da ödenecek) da benzer düzeyde dağıtım beklentisi makul; %30-40 dağıtım oranı varsayımıyla ~1.8–2.4B TL nakit temettü → ~4.2–5.6 TL/hisse.
-
-### 2.6 Sektör Karşılaştırması
+### 2.7 Sektör Karşılaştırması
 
 | Metrik | **AGESA** | **ANHYT** |
 |---|---|---|
-| Fiyat | — | 112.2 TL |
-| F/K | ~7.x | **8.05x** |
-| PD/DD | ~4.x | **3.53x** |
-| ROE | **%71+** | %43.9 |
-| Net Kâr Büyümesi | **+%93+** | +%39.2 |
-| Temettü | Güçlü | **Güçlü (2.5B TL)** |
+| Fiyat | — | 111.1 TL |
+| F/K (annualized) | — | **~7.4x** |
+| PD/DD | — | **4.21x** |
+| ROE (annualized) | — | **~%51.6** ⬆️ |
+| Net Kâr Büyümesi (Q1 yoy) | — | **+%45.6** |
+| Temettü (2026) | — | **8.14 TL / %7.3 brüt** ✨ |
 | Ana Ortak | Sabancı+Ageas ✅ | İşbank Grubu ✅ |
 | Halka Açık | %20 | %15.08 ⚠️ |
 | İmtiyazlı Pay | Yok ✅ | Aday gösterme* |
@@ -108,15 +117,26 @@ Anadolu Hayat Emeklilik, Türkiye'nin köklü BES ve hayat sigortası şirketler
 
 ## 4. Karar ve Strateji
 
-**HÜKÜM:** 🟡 İZLE / AGESA'YA GÖRE İKİNCİL ÖNCELİK (@ 112.2 TL — 28.02.2026)
+**HÜKÜM:** 🟡 İZLE / TEMETTÜ ODAKLI PORTFÖY İÇİN AL (@ 111.1 TL — 27.04.2026)
 
-**GEREKÇE:** ANHYT sağlam bir şirket; teknik kârlılığı güçlü büyüyor (+%67.2), özel sektör kontrolünde, TVF riski yok, düzenli güçlü temettü ödüyor (5.81 TL/hisse brüt). Özel şirketler arasında BES ve OKS liderliği korunuyor.
+**Q1 2026 Sonrası Güncelleme:**
 
-Ancak AGESA ile **aynı segmentte** faaliyet gösteriyor (BES + Hayat) ve **kritik metriklerde** AGESA gerisinde kalıyor:
-- F/K daha yüksek (8.05x vs AGESA): daha pahalı, daha az büyüyen şirket için.
-- ROE dramatik biçimde düşük (%43.9 vs AGESA %71+): sermaye verimliliği zayıf.
-- Net kâr büyümesi yarı hızında (+%39.2 vs AGESA +%93+).
+Q1 2026 sonuçları iki önemli sürpriz içeriyor:
 
-**Avantajı:** Daha ucuz PD/DD (3.53x) ve daha güçlü mutlak temettü geçmişi AGESA'ya kıyasla cazip. Eğer BES sektörüne özgü bir risk (mevzuat değişikliği vs.) AGESA'yı daha çok etkilese ya da AGESA portföyden çıkarılsa, ANHYT iyi bir alternatiftir.
+**1. Temettü büyük pozitif sürpriz:** FY2025 kârından 3.5 milyar TL dağıtım yapıldı (önceki beklentim 1.8–2.4 milyar TL idi). Hisse başına 8.14 TL brüt temettü, bugünkü fiyata göre %7.3 brüt verim demek. Temettü büyümesi yoy +%40.1. Bu, şirketin nakit yaratma gücüne ve pay sahiplerine değer aktarma istekliliğine dair güçlü bir sinyal.
 
-**NE ZAMAN GİRİLİR?** AGESA portföyden çıkarılırsa veya AGESA beklentilerin altında gelirse. Ya da fiyat 90-95 TL bandına gerilerse F/K ~6.5x'e inerek değerleme daha cazip olur.
+**2. Net kâr ivmesi hızlandı:** Q1 büyümesi +%45.6 ile FY2025'in yıllık büyümesini (+%39.2) aştı. Annualized bazda ~6 milyar TL net kâr görünümü var.
+
+**Önceki kaygıların durumu:**
+- ROE ~%51.6'ya çıktı (temettü sonrası özsermaye küçüldü, kâr büyüdü) — önemli iyileşme.
+- F/K ~7.4x ile hâlâ makul.
+- PD/DD 4.21x'e yükseldi (temettü sonrası özsermaye azaldığı için) — pahalılaşma değil, yapısal.
+
+**AGESA ile karşılaştırma:** ANHYT'nin büyüme hızı AGESA'nın büyüme hızından muhtemelen hâlâ düşük, ancak temettü verimi (~%7.3) bu farkı önemli ölçüde telafi ediyor. Temettü odaklı bir portföy için ANHYT giderek daha cazip bir konum almaktadır.
+
+**Portföy Stratejisi:**
+- AGESA portföyde kalıyorsa: ANHYT ikincil öncelik; izlemeye devam.
+- AGESA portföyden çıkarılırsa veya BES sektöründe ikinci bir pozisyon açılmak istenirse: ANHYT %7.3+ temettü verimi ile ciddi bir alternatif.
+- Temettü odaklı birikim için mevcut seviyelerde (110–115 TL bandı) kısmi giriş değerlendirilebilir.
+
+**Takip Edilecek:** Q2 2026 büyümesi +%40+'ın üzerinde kalabilirse ve temettü politikası devam ederse değerlendirme "AL"a yükseltilecek.

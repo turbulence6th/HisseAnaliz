@@ -123,17 +123,32 @@ Tüpraş tutarlı ve büyüyen temettü politikasını sürdürüyor. Bu güveni
 
 ## 5. Ortaklık Yapısı
 
-| Ortak | Pay Oranı |
-|---|---|
-| **Enerji Yatırımları A.Ş.** (Koç-OYAK JV) | **%46.40** |
-| **Koç Holding A.Ş.** | **%6.35** |
-| Koç Ailesi Üyeleri ve Şirketleri | **%0.48** |
-| **Halka Açık** | **%46.77** |
+| Ortak | Pay Oranı (Önceki) | Pay Oranı (Sonraki) |
+|---|---|---|
+| **Enerji Yatırımları A.Ş.** (Koç-OYAK JV) | **%46.40** | **%46.40** (değişmedi) |
+| **Koç Holding A.Ş.** | **%6.35** | **~%4.80** ← satış sonrası |
+| Koç Ailesi Üyeleri ve Şirketleri | **%0.48** | **%0.48** |
+| **Halka Açık** | **%46.77** | **~%48.30** |
 
-- **Koç Grubu Toplam:** ~%53.23 — kontrol net ve kurumsal.
+- **Koç Grubu Toplam kontrolü:** %51.2 — Enerji Yatırımları kanalıyla tam kontrol korunuyor.
 - Enerji Yatırımları A.Ş., Koç Holding (%51) ve OYAK (%49) ortaklığıdır. OYAK devlet bağlantılı ama piyasa odaklı; TVF gibi siyasi direktif riski yok.
 - İmtiyazlı pay durumu: Raporda belirtilmemiş; standart yapı.
 - **Kamu riski:** Düşük — Koç yönetimli, ABD-AB ilişkileri olan kurumsal bir şirket.
+
+### ⚠️ Koç Holding Hisse Satışı (26 Mart 2026)
+
+**Kaynak:** Gazete Oksijen / KAP bildirimi, 25-26 Mart 2026
+
+- Koç Holding, elindeki A Grubu paylardan nominal **30 milyon TL** (~%1.6 sermaye payı) satışa çıkarıyor.
+- Yöntem: Yerli ve yabancı kurumsal yatırımcılara **hızlandırılmış kitap yapımı (accelerated bookbuilding)**.
+- Koordinatörler: Citigroup, Merrill Lynch International, ÜNLÜ Menkul.
+- Takvim: Başvuru 26 Mart, işlem 27 Mart, takas 31 Mart 2026.
+- Satış fiyatı talep toplama sonrası belirlenecek; tipik iskonto piyasaya göre %3-5.
+- **90 gün satış yasağı** (lock-up) işlem sonrasında uygulanacak.
+- Gerekçe: "Portföy optimizasyonu"
+
+**Piyasa Etkisi Değerlendirmesi:**
+Kısa vadede olumsuz baskı kaçınılmaz: bookbuilding iskontosu (~228-233 TL clearing fiyat tahmini) ve piyasa yapıcı hedging baskısı fiyatı aşağı iter. Ancak fundamentaller değişmedi; kontrol yapısı bozulmadı; 90 günlük lock-up sonrasında yeni bir satış yok. Orta vadede bu satış piyasaya ek likidite sağlayacak ve float artışı kurumsal ilgiyi artırabilir.
 
 ---
 
@@ -148,24 +163,26 @@ Tüpraş tutarlı ve büyüyen temettü politikasını sürdürüyor. Bu güveni
 
 ## 7. Hüküm ve Strateji
 
-**HÜKÜM: 🟢 GÜÇLÜ TUT / TEMETTÜ ÖNCESİ EKLE — AMİRAL GEMİSİ**
+**HÜKÜM: 🟢 GÜÇLÜ TUT — AMİRAL GEMİSİ**
+
+**Güncelleme: 26 Mart 2026 — Koç Holding satış haberi sonrası revizyon**
 
 **Gerekçe:**
 
-TUPRS, portföyün en sağlam varlığıdır. %7.92 brüt temettü verimi (1. taksit Mart 2026'da yaklaşıyor), EV/FAVÖK 4.35x, +57 Milyar TL net nakit ve %23 büyüyen EPS bu kararın temel dayanaklarıdır.
+TUPRS portföyün en sağlam varlığı olmaya devam ediyor. Koç Holding'in %1.6 paket satışı kontrol yapısını etkilemiyor; fundamentaller değişmedi. 1. temettü taksiti (~10.38 TL brüt) Mart 2026 sonunda ödeniyor; bu satışı zaten beklenen ex-temettü baskısıyla birleşince fiyatın kısa vadede 225-235 TL bandına gerilemesi olağan karşılanmalıdır.
 
-Bugünkü 216.20 TL fiyatı, F/K 14.1x ile gerçek anlamda ucuz değil; ama **EV/FAVÖK 4.35x** ve **net nakit iskontosunu** görmezden gelen bir fiyat bu kadar basit bir çarpanla değerlendirilemez. Gerçek kazanım, **temettü + büyüme + nakit güvenliği** kombinasyonunda.
-
-**Strateji:**
-- Mevcut pozisyon: **GÜÇLÜ TUT** — temettü geliri için kesinlikle satılmamalı.
-- Piyasa geri çekilmelerinde (210 TL altı): **KADEMELİ EKLE**.
-- Temettü sonrası "boşluk doldurma" rallisi için hazırlık yap.
+**Strateji (@ 240.10 TL — 26 Mart 2026):**
+- Mevcut pozisyon: **GÜÇLÜ TUT** — satma.
+- **Koç bookbuilding sonrası geri çekilme** (228-235 TL): İlk kademeli alım başlangıcı.
+- **Temettü boşluğu + Koç baskısı birleşirse** (220-228 TL): Ağırlıklı ekle.
+- **<215 TL:** Agresif ekle — bu seviye değer bölgesi.
 
 **İzleme Takvimi:**
-- **Mart 2026:** 1. Temettü taksiti (~10.38 TL brüt) — baz tarih ve ödeme tarihi takip et.
+- **27 Mart 2026:** Koç bookbuilding kapanış fiyatı — bu fiyat kısa vadeli taban sinyali verecek.
+- **Mart sonu 2026:** 1. Temettü taksiti (~10.38 TL brüt) ödeme tarihi.
 - **Eylül 2026:** 2. Temettü taksiti (~6.75 TL brüt).
-- **2026 1. Çeyrek Sonuçları (Nisan/Mayıs 2026):** Rafineri marjı ve kapasite verisi.
-- **Entek / Yenilenebilir:** Yeni proje haberleri ile "enerji şirketi" yeniden değerleme potansiyeli.
+- **2026 1Ç Sonuçları (Nisan/Mayıs 2026):** Rafineri marjı ve kapasite verisi.
+- **90 gün lock-up sonu (Haziran 2026):** Koç yeni satış yapabilir mi izle.
 
 ---
 

@@ -1,4 +1,110 @@
-# KORDS (Kordsa Teknik Tekstil) Yatırım Tezi ve Analizi (26 Şubat 2026)
+# KORDS (Kordsa Teknik Tekstil) Yatırım Tezi ve Analizi
+
+---
+
+## Q1 2026 Finansal Rapor Analizi (29 Nisan 2026)
+
+*Analiz, şirketin fonksiyonel para birimi olan USD üzerinden yapılmıştır. Q1 2026 ortalama kur: ~43.56 TL/USD*
+
+### Q1 2026 Gelir Tablosu (USD — Q1 2026 vs Q1 2025)
+
+| Kalem | Q1 2026 (USD) | Q1 2025 (USD) | Değişim |
+|---|---|---|---|
+| **Hasılat** | $200.8M | $217.2M | **-%7.5** |
+| **Brüt Kâr** | $31.4M | $30.3M | **+%3.7** |
+| **Brüt Kâr Marjı** | **%15.6** | **%13.9** | **+1.7 puan** ✅ |
+| **Esas Faaliyet Kârı (EBIT)** | **$14.1M** | **$4.6M** | **+%203** ✅✅✅ |
+| **Finansman Öncesi Kâr** | $15.8M | $7.4M | **+%113** |
+| **Net Finansman Giderleri** | -$16.3M | -$22.1M | **-%26.3** ✅✅ |
+| **Vergi Öncesi Kâr/(Zarar)** | **+$5.0M** | **-$6.8M** | **KÂRA GEÇİŞ** ✅✅ |
+| **Ana Ortaklık Dönem Kârı/(Zararı)** | **+$757K / +33,032K TL** | **-$9.4M / -338,649K TL** | **KÂRA GEÇİŞ** ✅✅ |
+
+**Kritik Tespitler:**
+- Ciro -%7.5 düşerken brüt kâr marjı 1.7 puan genişledi: maliyet disiplini ve ürün karması iyileşmesi işe yarıyor.
+- Esas faaliyet kârı **+%203 artarak** $14.1M'a çıktı — FY2025'te yıllık bazda yalnızca -$1.6M EBIT yaratılabiliyordu. Bu dramatik bir dönüm noktasıdır.
+- Finansman giderleri $22.1M → $16.3M'a geriledi (%26 düşüş). Kur farkı gideri 161M TL → 37M TL, türev zararı 109M TL → 10M TL (TL'nin görece istikrarı ve aktif hedge yönetimi).
+- Şirket **tek çeyreklik faaliyet kârıyla** tüm FY2025 yıllık EBIT negatifliğini sildi.
+
+### Tek Seferlik Kalemler (Q1 2026 Esas Faaliyet Diğer Gelirler: ~$11.9M toplam)
+
+| Kalem | Tutar (TL) | Tutar (USD) | Nitelik |
+|---|---|---|---|
+| Sigorta hasar gelirleri | 222.5M TL | ~$5.1M | Tek seferlik (Endonezya sel tazminatı — devam ediyor) |
+| Ticari alacak kur farkı geliri | 121.4M TL | ~$2.8M | Piyasa koşullarına bağlı |
+| Yurtiçi üretim teşvik geliri | 77.1M TL | ~$1.8M | Yapısal/tekrarlayan |
+| Diğer | ~150M TL | ~$3.4M | Karma |
+
+**Not:** Sigorta tazminatı tek seferlik olmakla birlikte, Q1 2025'te de benzer büyüklükte ($5.1M) tahsil edilmişti. Normalleştirilmiş EBIT yaklaşık ~$9M olarak tahmin edilebilir — yine de FY2025 yıllık -$1.6M ile kıyaslanınca çarpıcı iyileşme.
+
+### Q1 2026 Bilanço (USD, 31 Mart 2026)
+
+| Kalem | Q1 2026 | FY2025 (31.12.2025) | Değişim |
+|---|---|---|---|
+| **Toplam Varlıklar** | $1,171.2M | — | — |
+| **Ana Ortaklık Özkaynakları** | **$361.9M** | **$405M** | -$43M (FY2025 zararı yansıdı) |
+| **Net Borç** | **~$322.8M** | **$332.2M** | **-$9.4M** ✅ |
+| **Sabancı Sermaye Avansı** | **0 TL** | 2,060,570,002 TL | Özsermayeye dönüştürüldü ✅ |
+
+**Bilanço Notu:** Sabancı Holding'in 2.06B TL sermaye avansı Q1 2026'da özsermayeye aktarıldı. Bu, bilançonun yapısal sağlamlığını artıran önemli bir adımdır. Geçmiş yıllar karları negatife döndü (FY2025 zararı absorbe edildi), ancak avansın dönüşümü dengeledi.
+
+### Q1 2026 FAVÖK ve Kaldıraç
+
+| Metrik | Q1 2026 | FY2025 (Yıllık) | Değişim |
+|---|---|---|---|
+| **EBIT** | $14.1M | -$1.6M (yıllık) | Dramatik iyileşme |
+| **D&A (çeyreklik tahmini)** | ~$11.0M | $44.8M/yıl | Stabil |
+| **FAVÖK (Q1 2026)** | **~$25.1M** | **$43.2M/yıl** | — |
+| **FAVÖK (yıllıklandırılmış)** | **~$100M** | $43.2M | **+%131** ✅✅✅ |
+| **Net Borç / FAVÖK** | **~3.2x** (yıllıkl.) | **7.7x** | **Dramatik iyileşme** ✅✅✅ |
+
+*Uyarı: Q1 tek çeyreklik veri; yıllıklandırma gerçek FY performansını abartıyor olabilir. Tek seferlik sigorta geliri (~$5.1M) çıkarılırsa FAVÖK ~$20M, yıllıklandırılmış ~$80M → Net Borç/FAVÖK ~4.0x — yine de FY2025'e göre büyük iyileşme.*
+
+### Q1 2026 Nakit Akışı
+
+| Kalem | Q1 2026 (USD) | Q1 2025 (USD) | Değişim |
+|---|---|---|---|
+| **İşletme Nakit Akışı** | **+$21.5M** | **+$41.8M** | **-%48.5** ⚠️ |
+| Yatırım Nakit Akışı | — | — | — |
+| Finansman Nakit Akışı | — | — | — |
+
+**Önemli Uyarı:** İşletme nakit akışı Q1 2025'e kıyasla yarıya indi. Bunun başlıca nedeni çalışma sermayesi artışı (envanter ve alacaklar birikimi). Bu, Endonezya tesisinin toparlanma sürecine ve mevsimsel etkiye bağlanabilir. Net borcun yalnızca $9.4M azalmış olması da bunu yansıtmaktadır. İzlenmesi gereken önemli bir nokta: nakit üretiminin Q2-Q3'te toparlanıp toparlanmadığı.
+
+### Q1 2026 Değerleme (@ 64.35 TL — 29 Nisan 2026)
+
+*Pay sayısı: 194,529,076 adet (1 TL nominal)*
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| **Piyasa Değeri** | ~12,514M TL / **~$282M USD** | — |
+| **Net Borç** | ~$322.8M USD | Azalma trendinde ✅ |
+| **Firma Değeri (EV)** | **~$604.8M USD** | — |
+| **F/DD** | **0.78x** | Defter değerinin %22 iskontosuyla (FY2025: 0.578x) |
+| **EV/FAVÖK (yıllıkl.)** | **~6.0x** | Cazip seviyeye geriledi ✅✅ |
+| **Net Borç / FAVÖK** | **~3.2x** (yıllıkl.) | FY2025: 7.7x → dramatik iyileşme ✅✅✅ |
+| **Hisse Başına Defter Değeri** | ~$361.9M/194.5M hisse × 43.56 = **~81 TL** (tahmini) | Hisse fiyatı defter değerinin altında |
+
+**Değerleme Özeti:** Kaldıraç kökenli değerleme baskısı hızla gevşiyor. EV/FAVÖK 13.1x'ten ~6.0x'e geriledi — 1 çeyrekte. Faiz giderlerinin ($16.3M Q1 vs $22.1M Q1 geçen yıl) düşmeye devam etmesi ve hasılat hacminin toparlanması halinde bu oran daha da iyileşecektir.
+
+### Q1 2026 Hükmü
+
+**Fiyat:** 64.35 TL (29 Nisan 2026)
+
+### **HÜKÜM: 🟢 KADEMELİ AL — DÖNÜŞÜM TEYİT EDİLDİ**
+
+**Gerekçe:** FY2025 analizinde "Net Borç/FAVÖK'ün 6x altına inmesi güçlü alım sinyali olacaktır" olarak tanımladığımız eşik, Q1 2026 sonuçlarıyla dramatik biçimde aşıldı. Esas faaliyet kârı +%203 artarak $14.1M'a çıktı; şirket bir çeyrekte kâra geçti; net borç düşmeye devam ediyor; Sabancı sermaye avansı özsermayeye dönüşerek bilançoyu güçlendirdi; finansman giderleri %26 geriledi.
+
+**Riskler devam ediyor:** Hasılat hacmi -%7.5 düşüşte (Çin rekabeti etkisi sürüyor). İşletme nakit akışı Q1'de zayıfladı (çalışma sermayesi birikimi). EBIT'in yaklaşık $5.1M'ı tek seferlik sigorta gelirinden oluşuyor. Tek çeyreklik veri yıllıklandırma yanılgısı riski taşıyor.
+
+**Strateji:**
+- **Mevcut pozisyon:** TUT ve kademeli olarak artırın.
+- **Yeni alım:** 60-65 TL bandında pozisyon başlatılabilir. 57-58 TL desteklerine geri çekilme güçlü alım fırsatı sunar.
+- **Pozisyon boyutu:** Portföyün %5-8'i. Dönüşümün hız kazanmasıyla üst banda çıkılabilir.
+- **Hedef fiyat (12-18 ay):** EV/FAVÖK 8x senaryosunda (~$800M FV) net borç $280M varsayımıyla PD ~$520M → ~116 TL. Muhafazakâr senaryo: ~90-95 TL.
+- **İzlenecek göstergeler:** Çeyreklik FAVÖK trendi (tek seferlik kalemlerin normalleşmesi), net borç azalım hızı (Q2 2026 kritik), işletme nakit akışı toparlanması, hasılat hacimleri (Çin rekabet dinamiği), Kompozit segmenti büyüme hızı.
+
+---
+
+# Önceki Analiz: Tam Yıl 2025 (26 Şubat 2026)
 
 ## 1. Ana Yatırım Tezi
 

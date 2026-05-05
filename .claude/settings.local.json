@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for f in FMG GMC YZG IOG DMG GUM GTZ MJG KGM GMI FPG GUK)",
+      "Bash(do python3 /Users/turbu/Projeler/HisseAnaliz/kap_rapor_indir.py fon-ucret $f)",
+      "Bash(done)",
+      "Bash(python3:*)",
+      "Bash(curl:*)"
+    ]
+  }
+}

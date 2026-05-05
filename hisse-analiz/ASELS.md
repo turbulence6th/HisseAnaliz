@@ -1,12 +1,12 @@
 # ASELSAN (ASELS) - Yatırım Tezi ve Strateji
 
-**Son Güncelleme:** 27 Şubat 2026
-**Kaynak:** 2025/12 Konsolide Finansal Rapor (24.02.2026) + 2025 Faaliyet Raporu (24.02.2026)
-**Fiyat (27.02.2026):** 309.25 TL
+**Son Güncelleme:** 28 Nisan 2026
+**Kaynak:** Q1 2026 Finansal Rapor (28.04.2026) + 2025/12 Tam Yıl Raporu (24.02.2026)
+**Fiyat (28.04.2026):** 414.5 TL | **(27.02.2026):** 309.25 TL
 
 ---
 
-## HÜKÜM: ÇEKİRDEK PORTFÖY — TUT VE FIRSATLARDA EKLE
+## HÜKÜM: ÇEKİRDEK PORTFÖY — TUT / YENİ ALIM YOK
 
 ---
 
@@ -47,9 +47,65 @@ GENEL_STRATEJİ'deki imtiyazlı pay kırmızı çizgisinin amacı, kurucuların/
 
 ---
 
-## 3. Finansal Analiz — 2025 Tam Yıl (TMS 29 Uygulanmış)
+## 3. Finansal Analiz — Q1 2026 (31 Mart 2026, TMS 29 Uygulanmış)
 
-### 3.1 Ana Finansal Göstergeler
+> Not: Tüm tutarlar bin TL, 31 Mart 2026 satın alma gücü cinsinden.
+
+### 3.1 Q1 2026 Gelir Tablosu
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| **Hasılat** | **34.305.800** | **29.825.146** | **+%15.0** ✅ |
+| Satışların Maliyeti | (23.768.573) | (20.898.356) | +%13.7 |
+| **Brüt Kâr** | **10.537.227** | **8.926.790** | **+%18.0** ✅ |
+| **Brüt Kâr Marjı** | **%30.7** | %29.9 | iyileşti ✅ |
+| Genel Yönetim Giderleri | (1.804.360) | (1.854.389) | -%2.7 ✅ |
+| Pazarlama Giderleri | (865.714) | (772.439) | +%12.1 |
+| Ar-Ge Giderleri | (1.129.074) | (1.102.973) | +%2.4 |
+| Esas Faaliyet Diğer Gelir (net) | 1.811.689 | 4.495.500 | azaldı ⚠️ |
+| **Esas Faaliyet Kârı (EBIT)** | **8.549.768** | **9.692.489** | **-%11.8** ⚠️* |
+| **EBIT Marjı** | **%24.9** | %32.5 | *Normalleşme etkisi |
+| Yatırım Geliri | 1.059.244 | 44.877 | +2.261% ✅ |
+| Finansman Gideri Öncesi Faaliyet Kârı | 9.481.950 | 9.605.459 | -%1.3 (yatay) |
+| Finansman Gelirleri | 1.026.234 | 1.105.485 | — |
+| **Finansman Giderleri** | **(2.671.275)** | **(4.311.200)** | **-%38.0** ✅✅ |
+| **Parasal Kayıp (TMS 29)** | **(5.711.778)** | **(9.194.407)** | **-%37.9** ✅✅ |
+| **Vergi Öncesi Kâr** | **2.125.131** | **(2.794.663)** | **Zarar→Kâr** ✅✅ |
+| Vergi (Ertelenmiş dahil) | 3.424.322 | 5.586.656 | — |
+| **Net Dönem Kârı (Toplam)** | **5.549.453** | **2.791.993** | **+%98.8** ✅✅ |
+| **Ana Ortaklık Payı** | **5.539.312** | **2.976.938** | **+%86.1** |
+| **100 Pay Başına Kazanç** | **121.48 kuruş** | **65.28 kuruş** | **+%86.1** |
+
+*EBIT'teki düşüş gerçek bir operasyonel bozulma değil; Q1 2025'te "Esas Faaliyetlerden Diğer Gelirler" 13.4 milyar TL (olağandışı yüksek) iken Q1 2026'da 8.2 milyar TL'ye normalleşti. Brüt kâr düzeyinde (+%18) büyüme güçlü.
+
+### 3.2 Kritik Düzelmeler — Finansman ve TMS 29 Etkileri
+
+| Kalem | Q1 2026 | Q1 2025 | Yorum |
+|---|---|---|---|
+| **Finansman Giderleri** | **(2.671.275)** | **(4.311.200)** | **-%38** — borcun azalması ve/veya kur etkisi ✅ |
+| **Parasal Kayıp** | **(5.711.778)** | **(9.194.407)** | **-%38** — TMS 29 etkisi düşüyor ✅ |
+| Toplam bu iki yük | (8.383.053) | (13.505.607) | **-%37.9** — yılda 5.1 milyar TL hafiflik |
+
+Bu iki kalemdeki dramatik iyileşme, net kârın +%98.8 artmasının temel sebebidir. Şirketin operasyonel motoru zaten güçlüydü; finansman yükü hafiflediğinde aşağı geçiş hızlanıyor.
+
+### 3.3 Bilanço (31 Mart 2026)
+
+| Kalem | 31.03.2026 | 31.12.2025 | Değişim |
+|---|---|---|---|
+| **Ana Ortaklığa Ait Özkaynaklar** | **281.073.867** | **275.573.564** | **+%2.0** |
+
+### 3.4 İhracat
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| **İhracat** | **4.702.528 bin TL** | **3.600.715 bin TL** | **+%30.6** ✅ |
+| İhracat / Hasılat | **%13.7** | %12.1 | iyileşme eğilimi |
+
+---
+
+## 4. FY2025 Tam Yıl (Karşılaştırma Referansı)
+
+### 4.1 Ana Finansal Göstergeler
 
 | Kalem | 2025 (Bin TL) | 2024 (Bin TL) | Değişim |
 |---|---|---|---|
@@ -65,7 +121,7 @@ GENEL_STRATEJİ'deki imtiyazlı pay kırmızı çizgisinin amacı, kurucuların/
 
 > Not: Tüm tutarlar 31 Aralık 2025 satın alma gücü cinsinden (TMS 29 endekslenmiş).
 
-### 3.2 Kârlılık ve Faaliyet Rasyoları
+### 4.2 Kârlılık ve Faaliyet Rasyoları
 
 | Rasyo | 2025 | 2024 | Yorum |
 |---|---|---|---|
@@ -81,7 +137,7 @@ GENEL_STRATEJİ'deki imtiyazlı pay kırmızı çizgisinin amacı, kurucuların/
 | Net İşletme Sermayesi / Hasılat | %27.0 | %30.2 | İyileşme (alacak yönetimi) ✅ |
 | 100 Pay Başına Kazanç | 656.79 TL | 439.14 TL | +%49.6 ✅ |
 
-### 3.3 TMS 29 Etkileri
+### 4.3 TMS 29 Etkileri (FY2025)
 
 | Kalem | 2025 | 2024 | Yorum |
 |---|---|---|---|
@@ -146,62 +202,65 @@ GENEL_STRATEJİ'deki imtiyazlı pay kırmızı çizgisinin amacı, kurucuların/
 
 ## 8. Strateji ve Karar
 
-**HÜKÜM: ÇEKİRDEK PORTFÖY — TUT VE FIRSATLARDA EKLE**
+**HÜKÜM: ÇEKİRDEK PORTFÖY — TUT / YENİ ALIM YOK (@ 414.5 TL — 28.04.2026)**
 
-**GEREKÇE:**
+**Q1 2026 Sonrası Değerlendirme:**
 
-2025 tam yıl sonuçları, ASELS'in yatırım tezini her alanda güçlendirdi:
-- Tüm kârlılık metrikleri iyileşti; FAVÖK marjı (%26.2) ve EBIT marjı (%23.2) hedeflerin üzerinde
-- Net kâr +%50.2 — güçlü operasyonel moment
-- Bakiye sipariş 20.4 Milyar USD ile rekor kırdı → önümüzdeki yıllar için güçlü öngörülebilirlik
-- İşletme nakit akışı +%74.4 → çalışma sermayesi sorununda iyileşme başladı
-- 1.5 Milyar USD Oğulbey yatırımı → kapasite ikiye katlanıyor
-- Parasal kayıp azaldı → net kâr baskısı hafifliyor
+Q1 2026 sonuçları operasyonel açıdan oldukça güçlü:
+- Net kâr +%98.8 → yatırım tezi doğrulandı
+- Finansman giderleri -%38, TMS 29 parasal kayıp -%38 → net kâr üzerindeki baskı azalıyor
+- Brüt kâr marjı %30.7 → korunuyor
+- İhracat +%30.6 → uluslararası büyüme ivmeleniyor
+- EBIT'teki görünür gerileme (-%11.8) gerçek değil; Q1 2025 "Diğer Gelirler" kalemi normalleşti
 
-**Kademeli Alım Planı (309.25 TL — 27 Şubat 2026 Revizyonu):**
+**Neden yeni alım yok?**
 
-| Seviye | F/K (EAK bazlı) | Yorum | Aksiyon |
+Şubat 2026'daki 309 TL analizinde F/K (EBIT) 28.7x idi ve "premium fiyatlama" olarak değerlendiriliyordu. Fiyat o günden bu yana **+%34 yükseldi**, EBIT bazlı F/K **~55x**'e ulaştı, PD/DD **6.7x**'e çıktı. Bu seviyeler savunma sektörü için bile çok yüksek bir premium.
+
+Yatırım tezi bozulmadı; şirket mükemmel çalışıyor. Ancak **fiyat değerlemenin çok önüne geçti**.
+
+**Güncellenmiş Kademeli Alım Planı (414.5 TL — 28 Nisan 2026):**
+
+| Seviye | EBIT F/K (tahmini) | Yorum | Aksiyon |
 |---|---|---|---|
-| **309 TL (şu an)** | ~28.7x | Yüksek premium; mevcut için TUT | Yeni alım yok |
-| **🟡 280-295 TL** | ~26-27x | 1. Geri çekilme bölgesi | Küçük lot ekle |
-| **🟢 255-275 TL** | ~24-25x | İdeal giriş bölgesi | Ağırlıklı alım |
-| **🟢🟢 < 240 TL** | < 23x | Güçlü alım fırsatı | Agresif ekle |
-
-> **Mantık:** EAS bazlı F/K 25x, 20.4B USD sipariş stoku ve %26 FAVÖK marjıyla savunma sektörü için "adil değer" olarak kabul edilebilir. 28.7x mevcut çarpan premium fiyatlama. Her ~5-10%'lik geri çekilme pozisyon ekleme fırsatı sunar. Likidite oranının 0.80 seviyesinde olması ve TMS 29 parasal kayıp etkisi gözetilerek agresif alım için < 240 TL bekleniyor.
+| **414.5 TL (şu an)** | ~55x | Çok yüksek premium | Kesinlikle yeni alım yok |
+| **🟡 380-395 TL** | ~50x | 1. Geri çekilme bölgesi | Küçük lot (mevcut için) |
+| **🟢 345-370 TL** | ~45x | Makul geri çekilme | Kademeli ekle |
+| **🟢🟢 < 320 TL** | ~40x | İdeal giriş bölgesi | Ağırlıklı alım |
 
 ---
 
-## 9. Değerleme (309.25 TL — 27 Şubat 2026)
+## 9. Değerleme (414.5 TL — 28 Nisan 2026)
 
-> Tüm çarpanlar 2025 tam yıl konsolide finansallarına göre hesaplanmıştır (TMS 29 endekslenmiş).
+> Q1 2026 verileri ve 414.5 TL fiyat baz alınmıştır.
 
-| Metrik | Değer | Not |
-|---|---|---|
-| **Piyasa Değeri** | **1.409 Milyar TL** | 4.56 Milyar hisse × 309 TL |
-| **Firma Değeri (FD/EV)** | **1.423 Milyar TL** | PD + Net Borç (13.97B TL) |
-| Net Borç | 13.97 Milyar TL | Fin. borç 43.1B − Nakit 29.1B |
-
-| Çarpan | 2025 (309 TL) | Kasım 2025 (not) | Yorum |
+| Metrik | Değer (414.5 TL) | Değer (309.25 TL — Şubat) | Değişim |
 |---|---|---|---|
-| **F/K (Net Kâr)** | **47.0x** | 34.96x | ⚠️ Yüksek; TMS 29 etkisiyle yanıltıcı |
-| **F/K (Esas Faaliyet Kârı)** | **28.7x** | — | Daha gerçekçi; TMS 29 arındırılmış |
-| **PD/DD** | **5.63x** | 4.25x | Pahalı; büyüme primini yansıtıyor |
-| **FD/FAVÖK** | **30.1x** | — | Savunma sektörü için yüksek ancak sipariş stoku güvenceli |
-| **FD/Hasılat** | **7.89x** | — | — |
+| **Piyasa Değeri** | **~1.890 Milyar TL** | 1.409 Milyar TL | +%34 |
+| **Defter Değeri / Hisse** | **61.6 TL** | 54.92 TL | +%12 |
+| **PD/DD** | **6.73x** | 5.63x | ⬆️ pahalılaştı |
+
+| Çarpan | Değer | Yorum |
+|---|---|---|
+| **F/K (Net Kâr, annualized Q1×4)** | **~85x** | TMS 29 etkisiyle yanıltıcı |
+| **F/K (EBIT, FY2025 bazlı)** | **~38.5x** | Tercih edilen; hâlâ yüksek |
+| **F/K (EBIT, annualized Q1 2026)** | **~55x** | ⚠️ Çok premium |
+| **PD/DD** | **6.73x** | Büyüme primi yansıyor; yüksek |
 
 | Hisse Başına | Değer |
 |---|---|
-| **EPS (Net Kâr)** | **6.57 TL** |
-| **EPS (Esas Faaliyet Kârı — tercih edilen)** | **10.78 TL** |
-| Defter Değeri / Hisse | 54.92 TL |
+| **EPS (Q1 2026 × 4, annualized)** | **~4.86 TL** |
+| **EPS (EBIT Q1 2026 × 4, annualized)** | **~7.50 TL** |
+| **FY2025 EPS (EBIT bazlı)** | **10.78 TL** |
+| **Defter Değeri** | **61.6 TL** |
 
 ### Değerleme Yorumu
 
-**F/K (Net Kâr) 47x görünüyor ancak yanıltıcıdır.** Net kârı TMS 29 parasal kayıp (13.6B TL) deprese ediyor. Esas Faaliyet Kârı bazlı F/K **28.7x** daha anlamlı bir gösterge.
+Operasyonel tablo güçlü; ancak fiyat bir yılda 126.9 TL'den 414.5 TL'ye (+%227) yükseldi. Bu anlamda şirketin "haberini" fiyat çoktan almış görünüyor.
 
-PD/DD 5.63x ve FD/FAVÖK 30.1x tarihsel ortalamalara kıyasla premium seviyelerde. Bu premium iki şeyle destekleniyor: (1) **20.4 Milyar USD bakiye sipariş** — piyasa değerinin yarısına yakın güvenceli gelir akışı, (2) savunma sektörünün küresel ölçekte yeniden değerlendirilmesi (NATO harcama artışı, Türkiye savunma yatırımları).
+EBIT bazlı F/K 55x düzeyinde kalmak, hisse için kalıcı ve hızlı büyüme beklentisini zorunlu kılıyor. 20.4 milyar USD bakiye sipariş bu büyümeyi desteklese de, 55x çarpan çok geniş bir güvenlik marjı bırakmıyor.
 
-Hisse fiyatı Kasım 2025 referansına göre (174 TL bölgesi) ciddi ölçüde değerlendi; PD/DD 4.25x'ten 5.63x'e yükseldi. Yeni alımlar için mevcut seviye cazip değil; bekle ve geri çekilmelerde ekle stratejisi geçerliliğini koruyor.
+Mevcut hissedarlar için **TUT** uygundur. Yeni giriş için 320-370 TL bandı beklenmeli.
 
 ---
 
@@ -212,3 +271,4 @@ Hisse fiyatı Kasım 2025 referansına göre (174 TL bölgesi) ciddi ölçüde d
 | 2025/06 (6 Aylık) | Temmuz 2025 | Çekirdek / TUT | EBIT +%39, özkaynaklar 170B TL, güçlü momentum |
 | 2025/09 (9 Aylık) | Kasım 2025 | Çekirdek / TUT & Ekle | Hasılat 90.9B TL (+%12), FAVÖK %24.9, bakiye sipariş 18B USD |
 | 2025/12 (Tam Yıl) | 24 Şubat 2026 | **Çekirdek / TUT & Ekle** | Hasılat 180.4B TL (+%15), EBIT %23.2, FAVÖK %26.2, net kâr +%50, bakiye sipariş rekor 20.4B USD, 1.5B USD Oğulbey yatırımı, nakit akışı +%74 |
+| 2026/03 (Q1) | 28 Nisan 2026 | **Çekirdek / TUT — Yeni alım yok** | Hasılat +%15, net kâr +%99 (finansman+TMS29 baskısı azaldı), ihracat +%31. Fiyat 414.5 TL → EBIT F/K ~55x, yeni giriş için pahalı |

@@ -1,7 +1,101 @@
 # AGESA (AgeSA Hayat ve Emeklilik) Analizi
 
-**Son Güncelleme:** 23 Şubat 2026
-**Kaynak:** 2025/12 Konsolide Finansal Rapor + 2025 Faaliyet Raporu (23.02.2026)
+**Son Güncelleme:** 30 Nisan 2026
+
+---
+
+## Q1 2026 Finansal Rapor Analizi (30 Nisan 2026)
+
+*Rapor dili: İngilizce (konsolide). TMS 29 uygulanmıyor (sigortacılık sektörü). Tüm rakamlar TL.*
+
+### Q1 2026 Gelir Tablosu Özeti (Q1 2026 vs Q1 2025)
+
+| Kalem | Q1 2026 (TL) | Q1 2025 (TL) | Değişim |
+|---|---|---|---|
+| **Brüt Prim (Hayat Dışı)** | 3,095M | 2,199M | **+%40.8** ✅ |
+| **Brüt Prim (Hayat)** | 7,051M | 4,724M | **+%49.3** ✅✅ |
+| **BES Geliri (Fon Yön.+Yönetim+Giriş)** | 2,346M | 1,429M | **+%64.2** ✅✅✅ |
+| **Hayat Dışı Teknik Kâr** | 15M | 81M | **-%81.3** ⚠️ |
+| **Hayat Teknik Kâr** | 1,043M | 621M | **+%67.9** ✅✅ |
+| **BES Teknik Kâr/(Zarar)** | **(8M)** | **(118M)** | **Zarar -%92.8 azaldı** ✅✅✅ |
+| **Toplam Teknik Kâr** | **1,050M** | **585M** | **+%79.5** ✅✅✅ |
+| **Yatırım Gelirleri (net)** | 1,522M | 1,105M | **+%37.8** ✅ |
+| **Vergi Öncesi Kâr** | **2,513M** | **1,656M** | **+%51.7** ✅✅ |
+| **Net Dönem Kârı** | **1,758M** | **1,183M** | **+%48.6** ✅✅✅ |
+| **EPS** | **9.77 TL/hisse** | 6.57 TL/hisse | +%48.8 |
+
+*Hisse sayısı: 180,000,000 adet*
+
+**Kritik Tespitler:**
+- Net kâr %48.6 artışla güçlü ve kaliteli büyüme (tek seferlik kalem içermiyor, TMS 29 yok).
+- **BES neredeyse başabaş:** Teknik zarar (8M) vs (118M) — tezin en güçlü teyidi. Bir sonraki çeyrekte BES karlılığa geçebilir.
+- **Hayat teknik kârı +%67.9:** Prim büyümesi (+%49.3), matematik rezerv artışının görece yavaşlamasıyla (3,190M vs 3,502M) birleşince güçlü teknik kâr çıktı.
+- **Hayat dışı teknik kâr dramatik düştü (15M vs 81M):** Hasar oranı %78.1'den %82.6'ya bozuldu. 2026 boyunca izlenecek en kritik risk budur.
+
+### Segment Detayı — BES (Ana Motor)
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| Fon Yönetim Ücreti | 1,340M | 801M | **+%67.2** |
+| Yönetim Ücreti | 861M | 540M | **+%59.4** |
+| Giriş Ücreti | 144M | 87M | **+%65.0** |
+| **Toplam BES Geliri** | **2,346M** | **1,429M** | **+%64.2** |
+| BES İşletme Giderleri | (2,001M) | (1,344M) | +%48.9 |
+| **BES Teknik Kâr/(Zarar)** | **(8M)** | **(118M)** | **İyileşme: +110M TL** |
+
+**BES AUM:** 441.2 milyar TL (Q1 2026 sonu) vs 401.3 milyar TL (FY2025 sonu) → **Tek çeyrekte +%9.9** ✅✅✅. AUM büyüdükçe fon yönetim ücreti otomatik büyür — yapısal, tekrarlayan gelir akışı.
+
+### Q1 2026 Bilanço
+
+| Kalem | 31 Mart 2026 | 31 Aralık 2025 |
+|---|---|---|
+| Toplam Varlıklar | 512,714M TL | 466,853M TL |
+| **Özsermaye** | **10,363M TL** | **10,090M TL** |
+| **BVPS** | **57.57 TL** | 56.06 TL |
+| Finansal Borç | Yok (yalnızca TFRS 16 kira) | Yok |
+
+*Q1'de 1,250M TL temettü ödemesine karşın net kar (1,758M) özsermayeyi büyüttü.*
+
+### Q1 2026 Nakit Akışı
+
+| Kalem | Q1 2026 | Q1 2025 |
+|---|---|---|
+| İşletme Nakit Akışı | **3,654M** | 3,369M (+%8.5) |
+| Temettü Ödendi | (1,144M) | (921M) |
+| Net Nakit Artışı | **+3,096M** | +1,661M (+%86.4) |
+
+### Temettü Büyümesi
+
+| Dönem | Temettü | Hisse Başına | Büyüme |
+|---|---|---|---|
+| FY2024 (Q1 2025'te ödendi) | 1,000M TL | 5.56 TL | — |
+| **FY2025 (Q1 2026'da ödendi)** | **1,250M TL** | **6.94 TL** | **+%24.8** |
+
+### Q1 2026 Değerleme (@ 229.0 TL — 30 Nisan 2026)
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| **Piyasa Değeri** | **41,220M TL** | — |
+| **F/K (FY2025)** | **7.41x** | %93 büyüyen şirket için iskontolu |
+| **F/K (Q1 ann.)** | **~5.9x** | ✅✅ Cazip |
+| **PD/DD** | **3.98x** | ROE %71+ için makul |
+| **EPS (ann.)** | ~39 TL | — |
+| **Temettü Verimi** | %3.03 | Büyüme odaklı — verim artacak |
+| **52H** | 130.50 – 256.0 TL | — |
+
+### Q1 2026 Hükmü
+
+### **HÜKÜM: 🟢 TUT / GERİ ÇEKİLMEDE EKLE**
+
+Tahmin (20 Nisan) vs Gerçekleşen: "Düşük senaryo" ile örtüştü (1.76B vs 1.758B). Operasyonel momentum güçlü; hayat dışı hasar oranı bozulması tek olumsuz nokta.
+
+- **Alım seviyeleri:** 🟡 Mevcut (229 TL) makul | 🟢 215-220 TL → Ekle | 🟢🟢 205-210 TL → Ağırlıklı alım | 🛑 195 TL altı → Tezi sorgula
+- **Hedef fiyat (12 ay):** ~7B TL FY2026 net kâr × F/K 8x = 312 TL (+%36); BES kârlılığa geçerse 350 TL.
+- **İzlenecek:** Q2 2026'da hayat dışı hasar oranı iyileşiyor mu? BES teknik zarar/kâr geçişi ne zaman?
+
+---
+
+**Kaynak:** 2025/12 Konsolide Finansal Rapor + 2025 Faaliyet Raporu (23.02.2026) + Q1 2026 Gerçekleşen (29.04.2026)
 
 ---
 
@@ -23,7 +117,39 @@
 
 ---
 
-## 2. Finansal Analiz (2025 Tam Yıl)
+## 2. Q1 2026 Kazanç Tahmini (Rapor Henüz Yayınlanmadı)
+
+> **Not:** AGESA'nın Q1 2026 finansal raporu 20 Nisan 2026 itibarıyla KAP'ta henüz yayınlanmamıştır. Aşağıdaki tahmin, FY2025 mevsimsellik analizi ve TURSG Q1 2026 sektör sinyalleri kullanılarak modellenmiştir.
+
+### 2.1 Tahmin Metodolojisi
+
+- **Mevsimsellik:** FY2025 net kârının ~%23.5'i Q1'de gerçekleşti (TURSG analojisi: Q1 2025/FY2025 = %23.2). AGESA Q1 2025 baz ≈ **1.31 Milyar TL**
+- **Büyüme sürücüleri:** Prim üretimi +%35-45 (hayat + BES katkı), BES fonu 390B→~420B TL (+%8 büyüme), teknik kâr +%35, mali gelir +%15 (faiz indirimleri baskısı başladı), Medisa nötr/hafif negatif (startup maliyetleri)
+- **Efektif vergi:** TURSG'de Q1 2026'da vergi oranı keskin düşmüştü (%19.8→%7.6); AGESA için benzer etki beklenebilir ama daha temkinli varsayıldı (~%15)
+
+### 2.2 Senaryo Tablosu
+
+| Senaryo | Net Kâr Q1 2026 | Büyüme (YoY) | Yıllık EPS | F/K (@ 223 TL) |
+|---|---|---|---|---|
+| Düşük | ~1.76 Milyar TL | +%34 | ~39.1 TL | ~5.7x |
+| **Temel** | **~1.89 Milyar TL** | **+%45** | **~42.1 TL** | **~5.3x** |
+| Yüksek | ~2.02 Milyar TL | +%54 | ~45.0 TL | ~5.0x |
+
+### 2.3 FY2026 Tam Yıl Tahmini
+
+| Kalem | FY2025 Gerçek | FY2026 Tahmin | Büyüme |
+|---|---|---|---|
+| **Net Kâr** | 5.555 Milyar TL | **~7.6 Milyar TL** | **+%37** |
+| **EPS** | 30.86 TL | **~42.2 TL** | +%37 |
+| **F/K (@ 223 TL)** | 7.58x (tarihsel) | **~5.3x (forward)** | — |
+
+**Sonuç:** Hisse fiyatı Şubat 2026'daki 234 TL'den 223 TL'ye gerilemiş (%5 ucuzlamış) ancak beklenen kâr %37 artacak. Forward F/K ~5.3x — TURSG'in forward F/K'sına (~5.7x) kıyasla çok daha yüksek büyüme ile eşdeğer ya da daha ucuz fiyatlamaya işaret ediyor. **Hisse daha da ucuzlamış durumda.**
+
+> ⚠️ Bu tahmindir. Gerçek rapor yayınlandığında (Mayıs 2026 başı bekleniyor) güncelleme yapılacaktır.
+
+---
+
+## 3. Finansal Analiz (2025 Tam Yıl)
 
 ### 2.1 Ana Finansal Göstergeler
 

@@ -161,6 +161,43 @@ Değerleme (EV/FAVÖK 17.15x) mevcut FAVÖK düzeyi için makul görünse de **h
 
 ---
 
+---
+
+## Sağlık Sektörü Gelişmeleri (Güncelleme: 16.03.2026)
+
+### Şirket Sağlığa Yeni Girmiyor — Mevcut Ürünü Büyütüyor
+
+MIATK'nin "hastane işine girmesi" haberi aslında **yeni bir pivot değil**, mevcut HBYS (Hastane Bilgi Yönetim Sistemi) ürününün AI ile geliştirilmesi ve ihracata açılmasıdır.
+
+**1. MİA HealthAI Projesi** *(KAP: 16 Nisan 2025)*
+- Gazi Üniversitesi Teknopark tarafından onaylandı (15 Mart 2025)
+- **Bütçe: 9.720.000 TL** — 18 aylık R&D projesi
+- Kapsam: Mevcut HBYS'e yapay zeka entegrasyonu — envanter yönetimi, tedarik zinciri, faturalama, finansal analiz modülleri
+- Değerlendirme: Küçük bir teknopark R&D projesi; doğrudan kısa vadeli gelir etkisi minimal
+
+**2. Saytek Medikal İşbirliği** *(KAP: 18 Şubat 2025)*
+- HBYS çözümlerinin **Türki Cumhuriyetler'de** tanıtımı için PR/halkla ilişkiler anlaşması
+- Somut gelir taahhüdü yok; Saytek medya ve sektörel etkinlikleri yönetecek
+- 150M+ nüfuslu potansiyel pazar ilgi çekici ama somut sipariş henüz açıklanmadı
+
+**3. Aydın ADÜ Hastanesi Sözleşmesi** *(KAP: 14 Şubat 2024)*
+- HBYS bakım ve güncelleme hizmet sözleşmesi: **4.716.000 TL** (KDV dahil), 1 yıllık
+- Şirketin zaten kamu hastanelerine hizmet verdiğini teyit eden bir örnek — yeni değil
+
+### Yatırım Açısından Değerlendirme
+
+| Konu | Değerlendirme |
+|---|---|
+| Yeni bir sektöre giriş mi? | ❌ Hayır — HBYS mevcut portföyde |
+| Kısa vadeli gelir etkisi | ❌ Minimal (9.72M TL bütçeli R&D) |
+| Orta vadeli potansiyel | 🟡 Türki Cumhuriyetler ihracat + AI HBYS |
+| Yatırım tezini değiştiriyor mu? | ❌ Hayır — asıl sorun hasılat erimesi ve brüt marj baskısı |
+
+> **Sonuç:** Bu gelişmeler "MIATK sağlık devine dönüşüyor" tezini desteklemiyor. Şirket, mevcut HBYS ürününü yapay zeka ile geliştirip Orta Asya'ya ihraç etmeye çalışıyor. Olumlu bir yön olmakla birlikte somut gelir katkısı 2026 içinde görünmüyor. **Mevcut 🟡 İZLE kararı değişmiyor.**
+
+---
+
 ## Geçmiş Analiz Notu
 
 *İlk analiz: 03.03.2026 — FY2025 yıllık konsolide raporu baz alınmıştır.*
+*Güncelleme: 16.03.2026 — Sağlık sektörü gelişmeleri eklendi.*

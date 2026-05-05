@@ -1,147 +1,196 @@
-# EREGL – Faaliyet Raporu Analizi ve Strateji Değerlendirmesi
+# EREGL (Ereğli Demir ve Çelik Fabrikaları T.A.Ş.) Analizi
 
-**Son Güncelleme:** 17.02.2026
-**Son Analiz Edilen Rapor:** 2025 Yıl Sonu (12 Aylık / 4Ç 2025)
-**GENEL_STRATEJI.md Hükmü:** POZİSYON KAPATILDI
+**Son Güncelleme:** 28 Nisan 2026 | **Kaynak:** Q1 2026 Finansal Rapor (28.04.2026)
+**Fiyat (28.04.2026):** 32.98 TL
 
 ---
 
-## 2025 Yıl Sonu Faaliyet Raporu Analizi – Çöküş Teyit Edildi
+## HÜKÜM: 🟡 İZLE — ERKEN TOPARLANMA SİNYALLERİ / HENÜZ ALMA DEĞİL
 
-31 Aralık 2025 itibarıyla açıklanan 12 aylık finansal sonuçlar, yıl boyunca gözlemlenen olumsuz trendin tam yıla yayıldığını ve **pozisyon kapatma kararının doğruluğunu kesin olarak teyit etmektedir.** Net kârdaki %96,2'lik çöküş, şirketin döngüsel dip noktasının derinliğini çarpıcı biçimde ortaya koymaktadır.
+---
 
-### 1. Gelir Tablosu Analizi
+## 1. Yatırım Tezi
 
-| Kalem | 2025 (Milyar TL) | 2024 (Milyar TL) | YoY Değişim | Marj (2025) | Marj (2024) |
-|---|---|---|---|---|---|
-| **Hasılat** | 208,9 | 204,1 | +%2,4 | - | - |
-| **Hasılat (USD)** | 5,30 Milyar $ | 6,23 Milyar $ | **-%14,9** | - | - |
-| **Brüt Kâr** | 18,6 | 20,0 | **-%7,2** | %8,9 | %9,8 |
-| **Esas Faaliyet Kârı (EBIT)** | 10,0 | 21,1 | **-%52,7** | %4,8 | %10,3 |
-| **FAVÖK (EBITDA)** | ~21,2 | ~29,9 | **-%28,9** | ~%10,2 | ~%14,6 |
-| **Vergi Öncesi Kâr** | 3,7 | 13,5 | **-%72,8** | - | - |
-| **Net Kâr (Ana Ortaklık)** | **0,51** | **13,5** | **-%96,2** | %0,2 | %6,6 |
-| **Pay Başına Kazanç** | **0,0761 TL** | **2,0056 TL** | **-%96,2** | - | - |
+Ereğli Demir ve Çelik (Erdemir Grubu), Türkiye'nin entegre demir-çelik sektöründeki baskın oyuncusudur. Ereğli (Kdz.) ve İskenderun (İsdemir) tesisleriyle yassı ve uzun mamul üretiminde çeyrek asrı aşan deneyime sahiptir. Şirketin nihai ortağı OYAK'tır (Ordu Yardımlaşma Kurumu).
 
-**Kritik Tespitler:**
+Yatırım tezi temelde döngüsel: global çelik fiyatlarının toparlanması ve Türkiye'deki iç talep canlanmasıyla kârlılığın normalleşmesi. 2025 yılındaki %96 net kâr çöküşü, şirketi bu döngünün dibine yerleştirdi. Q1 2026 verileri ilk olumlu sinyalleri gösteriyor ancak toparlanma henüz kesinleşmedi.
 
-1.  **Reel Daralma:** TL bazında hasılat %2,4 artmış gibi görünse de, USD bazında **%14,9 gerileme** reel büyümenin olmadığını net biçimde göstermektedir. Yurt içi çelik satışlarında TL bazında bile %6,4 düşüş yaşanmıştır.
-2.  **Marj Erimesi:** Brüt kâr marjı %9,8'den %8,9'a, EBIT marjı %10,3'ten %4,8'e, FAVÖK marjı ~%14,6'dan ~%10,2'ye gerilemiştir.
-3.  **Net Kâr Çöküşünün Anatomisi:** -%96,2'lik çöküşün ana sebepleri:
-    *   EBIT'in %52,7 düşmesi (operasyonel zayıflık).
-    *   2024'teki **8,5 milyar TL** İsdemir deprem sigorta tazminat gelirinin (tek seferlik) 2025'te tekrarlamaması.
-    *   Finansman giderlerinin %13,9 artması (12,5 → 14,2 milyar TL).
-    *   2024'te 671 milyon TL vergi geliri (ertelenmiş) iken 2025'te **3,0 milyar TL vergi gideri** oluşması.
-4.  **Maliyet Baskısı:** Personel giderleri %27,4, enerji giderleri %20,7, genel üretim giderleri %35,1 artmıştır. **Çalışmayan kısım gideri** 761 milyon TL'den **1,7 milyar TL'ye** yükselmiştir (+%124), bu da üretim duruşlarının maliyetinin ikiye katlandığını göstermektedir.
+---
 
-### 2. Üretim ve Satış Verileri
+## 2. Finansal Analiz — Q1 2026
 
-| Kalem | 2025 | 2024 | YoY Değişim |
+> Not: Tüm tutarlar aksi belirtilmedikçe bin TL olarak ifade edilmiştir. Şirketin fonksiyonel para birimi ABD Doları'dır; USD verileri de gösterilmektedir.
+
+### 2.1 Gelir Tablosu — Q1 2026 vs Q1 2025
+
+| Kalem | Q1 2026 (bin TL) | Q1 2025 (bin TL) | Q1 2026 (bin USD) | Q1 2025 (bin USD) | TL Değişim | USD Değişim |
+|---|---|---|---|---|---|---|
+| **Hasılat** | **59.684.847** | **53.544.627** | **1.369.214** | **1.480.213** | **+%11.5** | **-%7.5** ⚠️ |
+| Satışların Maliyeti | (54.879.228) | (49.743.369) | (1.258.969) | (1.375.129) | +%10.3 | — |
+| **Brüt Kâr** | **4.805.619** | **3.801.258** | **110.245** | **105.084** | **+%26.4** ✅ | **+%4.9** |
+| Pazarlama Giderleri | (705.628) | (559.266) | — | — | +%26.2 | — |
+| Genel Yönetim Giderleri | (1.846.213) | (1.399.112) | — | — | +%32.0 ⚠️ | — |
+| Ar-Ge Giderleri | (109.919) | (83.753) | — | — | +%31.3 | — |
+| Esas Faaliyetlerden Diğer Gelirler | 657.013 | 519.124 | — | — | +%26.6 | — |
+| Esas Faaliyetlerden Diğer Giderler | (373.642) | (380.849) | — | — | -%1.9 | — |
+| **ESAS FAALİYET KARI (EBIT)** | **2.427.230** | **1.897.402** | **55.682** | **52.453** | **+%27.9** ✅ | **+%6.2** |
+| Yatırım Faaliyetlerinden Gelirler | 32.344 | 610.511 | — | — | -%94.7 ⚠️* | — |
+| Yatırım Faaliyetlerinden Giderler | (23.480) | (82.483) | — | — | -%71.5 ✅ | — |
+| Özkaynak Yöntemiyle Değerlenen Yatırımlar | 62.615 | 13.839 | — | — | +%352 ✅ | — |
+| **Finansman Öncesi Faaliyet Kârı** | **2.498.709** | **2.439.269** | **57.321** | **67.433** | **+%2.4** | **-%15.0** ⚠️ |
+| Finansman Gelirleri | 1.610.324 | 2.056.730 | — | — | -%21.7 | — |
+| Finansman Giderleri | (3.939.575) | (4.336.166) | — | — | -%9.1 ✅ | — |
+| Net Parasal Pozisyon Kazançları (TMS 29) | 726.982 | 261.880 | — | — | +%177.6 | — |
+| **VERGİ ÖNCESİ KÂR** | **896.440** | **421.713** | **20.565** | **11.658** | **+%112.5** ✅ | **+%76.4** |
+| Vergi (Gideri) Geliri | (490.654) | +26.191 | — | — | ⚠️ Gelirden gidere döndü | — |
+| **DÖNEM KARI** | **405.786** | **447.904** | **9.309** | **12.382** | **-%9.4** | **-%24.8** |
+| **Ana Ortaklık Payı** | **383.856** | **426.389** | **8.806** | **11.787** | **-%10.0** | — |
+| **Pay Başına Kazanç** | **0.0571 TL** | **0.0634 TL** | — | — | -%10.0 | — |
+
+**\*Q1 2025'te 610.5 milyon TL Yatırım Faaliyetleri Geliri**, ağırlıklı olarak gayrimenkul / varlık satışından kaynaklanıyordu (tek seferlik). Q1 2026'da bu kalem normalize oldu (32.3 milyon TL).
+
+#### 2.1.1 Satış Dağılımı (Kritik Tablo)
+
+| Kalem | Q1 2026 (bin TL) | Q1 2025 (bin TL) | Değişim |
 |---|---|---|---|
-| **Grup Ham Çelik Üretimi** | ~8,1 milyon ton | ~8,8 milyon ton | ~-%8 |
-| Ereğli Tesisleri Ham Çelik | 2,6 milyon ton | 3,3 milyon ton | **-%20,2** |
-| İskenderun Tesisleri Ham Çelik | 5,5 milyon ton | 5,3 milyon ton | +%3,8 |
-| **Yassı Mamul Üretimi** | 6.855 bin ton | 7.120 bin ton | -%3,7 |
-| Uzun Mamul Üretimi | 928 bin ton | 965 bin ton | -%3,8 |
-| **Kapasite Kullanım (Sıvı Çelik)** | **%86** | **%91** | -5 puan |
-| **Kapasite Kullanım (Ham Çelik)** | **%85** | **%89** | -4 puan |
-| Yassı Mamul Satışları | 6.899 bin ton | 7.094 bin ton | -%2,7 |
-| İhracat (Yassı + Uzun) | 1.555 bin ton | - | ~satışların %20'si |
+| **Yurt içi demir çelik satışları** | **48.394.620** | **36.761.452** | **+%31.6** ✅ |
+| **Yurt dışı demir çelik satışları** | **8.354.501** | **14.156.412** | **-%41.0** ⚠️⚠️ |
+| Diğer gelirler | 2.522.520 | 2.272.378 | +%11.0 |
+| Vadeli satış faiz gelirleri | 494.832 | 439.176 | — |
+| **TOPLAM** | **59.684.847** | **53.544.627** | **+%11.5** |
 
-**Not:** Ereğli tesislerindeki %20,2'lik sert üretim düşüşü, 2. Yüksek Fırın yenileme yatırımından kaynaklı duruşlarla ilişkilendirilmektedir. İskenderun'da yeni Yüksek Fırın devreye alınarak %3,8 artış sağlanmıştır.
+**Kritik: İhracat -%41 çöküşü.** Yurt içi satışlar +%31.6 artarken ihracat dramatik biçimde geriledi. AB'nin çelik koruma önlemleri ve global talep düşüklüğü ihracat kanalını ciddi şekilde daraltmaya devam ediyor. TL bazında görünen +%11.5 hasılat artışı, aslında ihracat kaybını iç satış büyümesiyle örtbas ediyor.
 
-### 3. Bilanço ve Nakit Akışı
+#### 2.1.2 Maliyet Detayı
 
-| Kalem | 31 Aralık 2025 | 31 Aralık 2024 | YoY Değişim |
+| Kalem | Q1 2026 (bin TL) | Q1 2025 (bin TL) | Değişim |
 |---|---|---|---|
-| **Nakit ve Nakit Benzerleri** | 115,5 milyar TL | 55,3 milyar TL | +%108,9 |
-| **Toplam Borçlanma** | 158,3 milyar TL | 121,3 milyar TL | +%30,5 |
-| **Net Borç** | ~41,5 milyar TL | ~65,1 milyar TL | **~-%36** |
-| **İşletme Nakit Akışı** | **65,1 milyar TL** | 31,3 milyar TL | **+%108,1** |
-| **CAPEX** | 15,3 milyar TL | 35,1 milyar TL | -%56,3 |
-| Toplam Varlıklar | 558,5 milyar TL | 425,2 milyar TL | +%31,3 |
-| Özkaynaklar (Ana Ortaklık) | 287,8 milyar TL | 236,9 milyar TL | +%21,5 |
+| İlk madde ve malzeme giderleri | (37.146.656) | (36.777.560) | +%1.0 |
+| **Personel giderleri** | **(6.006.227)** | **(3.924.720)** | **+%53.0** ⚠️⚠️ |
+| Enerji giderleri | (3.562.095) | (3.194.564) | +%11.5 |
+| Amortisman ve itfa | (3.339.836) | (2.097.577) | +%59.2 ⚠️ |
+| Genel üretim giderleri | (2.742.823) | (2.198.693) | +%24.7 |
+| **Çalışmayan kısım giderleri** | **(60.595)** | **(511.061)** | **-%88.2** ✅✅ |
+| Nakliye giderleri | (694.598) | (483.493) | +%43.6 |
 
-**Nakit Akışı Değerlendirmesi:** Net kâr çökmesine rağmen işletme nakit akışı %108 artmıştır. Ancak bu artışın temel kaynağı **işletme sermayesi değişimleridir** (ticari borçlardaki +32,3 milyar TL artış = tedarikçi ödeme vadelerinin uzaması). Bu durum, operasyonel güçten ziyade bilanço yönetiminin bir sonucudur. Ayrıca 2,26 milyar TL İsdemir deprem sigorta tazminatı nakden tahsil edilmiştir. CAPEX'in %56 düşmesi, büyük yatırım döngüsünün pik noktasını geçtiğini göstermektedir.
+**İki önemli gözlem:**
+- **Çalışmayan kısım giderleri -%88.2** → 511 milyon TL'den 60.6 milyon TL'ye indi. Tesisler artık çok daha verimli çalışıyor; 2025'teki yüksek fırın yenileme duruşları bitti.
+- **Personel giderleri +%53** → Toplu sözleşme artışları ve enflasyon maliyet tarafını baskılıyor.
+- **Amortisman +%59** → Yeni İsdemir Yüksek Fırın devreye alındı; sermaye yoğunluğu arttı.
 
-### 4. Temettü Değerlendirmesi
+### 2.2 Bilanço (31 Mart 2026)
 
-| Kalem | Detay |
+| Kalem | 31.03.2026 (Milyar TL) | 31.12.2025 (Milyar TL) | Değişim |
+|---|---|---|---|
+| **Toplam Aktifler** | **576.7** | **558.5** | +%3.3 |
+| **Nakit ve Nakit Benzerleri** | **123.9** | **115.5** | +%7.3 ✅ |
+| Stoklar | 88.4 | 89.4 | -%1.1 |
+| Maddi Duran Varlıklar | 291.7 | 277.3 | +%5.2 |
+| **KV Borçlanmalar** | **19.2** | **24.0** | **-%20.0** ✅ |
+| **KV Borçlanmaların UV Kısmı** | **18.8** | **16.1** | +%16.8 |
+| **UV Borçlanmalar** | **117.6** | **118.3** | -%0.6 |
+| **Toplam Finansal Borç** | **~155.6** | **~158.3** | **-%1.7** ✅ |
+| **Net Borç** | **~31.7** | **~41.5** | **~-%24** ✅ |
+| **Ana Ortaklık Özsermayesi** | **295.5** | **287.8** | +%2.7 |
+
+Net borç 41.5 milyar TL'den 31.7 milyar TL'ye indi. Finansal yapı güçlenmeye devam ediyor.
+
+### 2.3 Nakit Akışı (Q1 2026)
+
+| Kalem | Q1 2026 (Milyar TL) | Q1 2025 (Milyar TL) | Değişim |
+|---|---|---|---|
+| **İşletme Faaliyetlerinden Nakit Akışı** | **18.06** | **19.08** | -%5.3 |
+| **CAPEX** | **2.85** | **11.23** | **-%74.6** ✅✅ |
+| **Serbest Nakit Akışı (FCF)** | **~15.2** | **~7.9** | **+%92.4** ✅✅ |
+| Finansman Faaliyetleri | (10.43) | (2.39) | — |
+
+**CAPEX -%74.6:** Büyük yatırım döngüsü (İsdemir yeni Yüksek Fırın, Ereğli 2. Yüksek Fırın yenilemesi) büyük ölçüde tamamlandı. Serbest nakit akışı Q1 tek başına ~15.2 milyar TL'ye yükseldi. Bu, şirketin asıl nakit üretme kapasitesini yansıtıyor.
+
+### 2.4 Temettü
+
+| Kalem | Değer |
 |---|---|
-| 2024 Kârından Dağıtılan Temettü | 1.750.000 bin TL (Brüt 0,25 TL/pay) |
-| Karşılaştırma: 2023 Kârından | 0,50 TL/pay |
-| **2025 Net Kârı** | **511.801 bin TL** |
+| **FY2025+Geçmiş Yıl Temettüsü (Brüt)** | **3.850.000 bin TL = 3.85 milyar TL** |
+| **Hisse Başına Brüt Temettü** | **0.55 TL** (2025: 0.25 TL) |
+| Genel Kurul Tarihi | 26 Mart 2026 |
+| Ödeme Başlangıç Tarihi | 3 Haziran 2026 |
+| **Temettü Verimi** | **%1.67 brüt** (32.98 TL) |
+| İsdemir'e (KGO paylara) ödenen | 669.035 bin TL |
 
-2025 net kârının (512 milyon TL), 2024 yılında dağıtılan temettünün (1,75 milyar TL) **üçte birinden bile az** olması, 2025 yılı için temettü dağıtım kapasitesini **ciddi şekilde daraltmaktadır.** Temettü ya çok düşük olacak ya da geçmiş yıllar kârlarından karşılanacaktır. Bu, temettü yatırımcıları için en kritik uyarı sinyalidir.
-
-### 5. Personel
-
-| Kalem | 2025 | 2024 | Değişim |
-|---|---|---|---|
-| Toplam Personel | 12.824 | 12.366 | +%3,7 |
-
-Ereğli tesislerinde +693, İskenderun tesislerinde -219 kişi değişim. Üst düzey yöneticilere ödenen ücret ve primler **%60,8 artarak** 236,5 milyon TL'ye yükselmiştir (2024: 147,1 milyon TL). Net kâr %96 düşerken yönetici ücretlerinin %61 artması dikkat çekicidir.
-
-### 6. Sektörel Görünüm
-
-*   **Dünya Ham Çelik Üretimi (2025):** Yıllık bazda **%2,0 düşüş** ile 1,85 milyar ton.
-*   **Çin:** Aralık 2025'te yıllık bazda **%10,3 düşüş**. Global arz fazlası baskısı devam etmektedir.
-*   **AB-27:** %2,6 düşüş (126,2 milyon ton).
-*   **Türkiye:** 38,1 milyon ton (%3,3 artış). Grup'un Türkiye üretimindeki payı: **%21**.
-*   **AB Koruma Önlemleri:** Gümrüksüz çelik ithalat hacimlerini %47 düşürme ve kota dışı vergi oranlarını **%50'ye yükseltme** planı. Avrupa'ya ihracat ciddi baskı altında.
-
-### 7. Devam Eden Yatırımlar ve Projeler
-
-**Ereğli Tesisleri:**
-*   2\. Yüksek Fırın Yenileme Yatırımı (soba modernizasyonu)
-*   2\. Sıcak Haddehane Yatırım Projesi (mühendislik ve ekipman imalat aşamasında)
-*   5 Nolu Kok Bataryası (mühendislik aşamasında)
-
-**İskenderun Tesisleri:**
-*   1\. Yeni Yüksek Fırın **devreye alındı** (önemli milestone)
-*   Liman Kapasite Artırımı ve deprem hasarlı tesislerin yenilenmesi devam ediyor.
+**Kritik Not:** FY2025 net kârı yalnızca 511.8 milyon TL iken yönetim 3.85 milyar TL temettü dağıttı — kârın 7.5 katı. Bu tutar **geçmiş yıl kârlarından** karşılanıyor. Şu anlama geliyor: Yönetim, şirketin uzun vadeli nakit üretme gücüne güveniyor ve bilanço gücünü hissedarlara aktarmak istiyor. Önceki yıl temettüsünden %120 artış da yönetimin toparlanmaya inancını gösteriyor.
 
 ---
 
-## Yatırım Tezi (Pozisyon Kapatıldı)
+## 3. Değerleme (@ 32.98 TL — 28 Nisan 2026)
 
-Demir-çelik sektörü doğası gereği döngüseldir. 2025 yıl sonu raporu, döngünün **dip noktasının derinleştiğini** kesin olarak teyit etmektedir. Net kârdaki %96,2'lik çöküş, şirketin en çekici özelliği olan **temettü verimini** fiilen ortadan kaldırmıştır. Pay başına kazancın 2,0056 TL'den 0,0761 TL'ye gerilemesi, bu hisseyi bir "temettü hissesi" olarak tutmanın artık anlamını yitirdiğini göstermektedir.
+| Metrik | Değer | Yorum |
+|---|---|---|
+| **Hisse Sayısı (yaklaşık)** | ~6.72 milyar adet | EPS tabanlı hesap |
+| **Piyasa Değeri** | **~221.6 milyar TL** | — |
+| **F/K (FY2025)** | **~433x** | Anlamsız (kâr çok düşük) |
+| **F/K (annualized Q1 2026)** | **~144x** | Hâlâ anlamsız |
+| **PD/DD** | **~0.75x** | Defter değerinin altında ✅ |
+| **Brüt Temettü Verimi** | **%1.67** | Düşük |
+| **52H Aralığı** | 21.98 TL – 34.48 TL | Dipten +%50 yukarıda |
+| **1Y Getiri** | **+%43.9** | 22.92 TL → 32.98 TL |
 
-Bu veriler ışığında, `GENEL_STRATEJI.md`'deki **"POZİSYON KAPATILDI"** kararı tam anlamıyla doğrulanmıştır.
+**Değerleme Notu:** F/K bazlı değerleme, şirket dipte kâr etmediği için anlamsız. En anlamlı metrik PD/DD = 0.75x (defter değerinin altında). Tarihsel olarak EREGL, döngünün zirvesinde 2-3x PD/DD'den işlem görmüştür. Toparlanma gerçekleşirse bu seviyeler potansiyel bir eşik.
 
-## Riskler
+---
 
-*   **Global Emtia Döngüsü:** Kârlılık, yerel faktörlerden çok global çelik fiyatlarına ve talebine bağımlıdır.
-*   **Döngüsel Baskı:** Dünya ham çelik üretimi %2 düşmüş, Çin'de %10,3 gerileme yaşanmıştır. Sektördeki zayıf seyrin devam etme potansiyeli yüksektir.
-*   **AB Koruma Önlemleri:** Kota dışı %50 vergi oranı planı, Avrupa'ya ihracatı doğrudan tehdit etmektedir.
-*   **Temettü Riski:** 512 milyon TL net kâr ile anlamlı bir temettü dağıtımı neredeyse imkansızdır.
-*   **Maliyet Baskısı:** Personel (+%27,4), enerji (+%20,7) ve üretim duruşu maliyetleri (+%124) artmaya devam etmektedir.
-*   **Yönetim Uyumu Sorunu:** Net kâr %96 düşerken yönetici ücretlerinin %61 artması, hissedar-yönetim çıkar uyumunu sorgulatmaktadır.
+## 4. Q1 2026 Kritik Değerlendirmesi
 
-## Potansiyel Katalistler
+### 4.1 Pozitif Gelişmeler
 
-*   **Ukrayna Savaşının Sona Ermesi:** Küresel çelik talebinde toparlanma tetikleyebilir.
-*   **İsdemir Yeni Yüksek Fırın:** Devreye alındı, kapasite artışı sağlayabilir.
-*   **2. Sıcak Haddehane Yatırımı:** Tamamlandığında ürün gamını ve kapasiteyi genişletecek.
-*   **CAPEX Döngüsünün Sonlanması:** 2025'te CAPEX %56 düştü; yatırım harcamaları azaldıkça serbest nakit akışı iyileşebilir.
-*   **Net Borçtaki İyileşme:** Net borç ~%36 azalmıştır; finansal yapı güçlenme eğiliminde.
+**EBIT +%27.9 (TL), +%6.2 (USD):** Döngüsel dipten ilk gerçek operasyonel iyileşme sinyali. USD bazında da pozitif (+6.2%), bu önemli.
 
-## Faiz İndirim Döngüsünün Etkisi Üzerine Değerlendirme
+**Çalışmayan kısım giderleri -%88:** Fabrikalar artık çalışıyor. 2025'teki Ereğli 2. Yüksek Fırın yenilemesinin yol açtığı üretim duruşları büyük ölçüde sona erdi.
 
-Faiz indirimi teorik olarak finansman maliyetlerini düşürüp yurt içi talebi canlandırsa da, bu etki Ereğli'nin ana sorunlarını çözmek için yetersizdir:
+**CAPEX -%74.6, FCF +%92:** Büyük yatırım dönemi tamamlandı. Şirket artık nakit üretiyor.
 
-*   **Ana Sorun Global, Çözüm Yerel:** Türkiye'deki bir faiz indirimi, global çelik fiyatlarını veya Çin talebini etkilemez.
-*   **Sınırlı Fayda:** Faiz indirimi, şirketin temel hastalığı olan küresel talep düşüklüğü ve kâr marjlarındaki çöküşü tedavi etmek yerine, sadece bir "ağrı kesici" etkisi yaratabilir.
+**Net Borç iyileşmesi:** 41.5 milyar TL → 31.7 milyar TL (-%24 tek çeyrekte). Güçlü FCF bunu destekliyor.
 
-## Hüküm ve Strateji
+**Temettü cesaret verici:** Net kârın 7.5 katı temettü dağıtmak isteyen yönetim, güçlü bir sinyal vermiş.
 
-**POZİSYON KAPATILDI.** 2025 yıl sonu raporu, bu kararı kesin olarak doğrulamıştır:
+**Brüt kâr marjı iyileşmesi:** TL bazında %7.1 → %8.1 (Q1 2026). USD bazında marj: %8.1 vs %7.1. Ham çelik maliyeti kontrolünde iyileşme.
 
-*   Net kârda **%96,2 çöküş** (511 milyon TL).
-*   Pay başına kazancın 2,01 TL'den **0,08 TL'ye** düşmesi.
-*   Temettü dağıtım kapasitesinin fiilen sıfırlanması.
-*   EBIT marjının %10,3'ten %4,8'e inmesi.
-*   Kapasite kullanımının %89-91'den %85-86'ya gerilemesi.
-*   AB koruma önlemleriyle ihracat pazarının daralma riski.
+### 4.2 Endişe Veren Unsurlar
 
-Sermaye, tezleri daha güçlü ve mevcut konjonktüre daha uygun varlıklara başarıyla yönlendirilmiştir. `GENEL_STRATEJI.md`'deki "fırsat maliyeti" tezi, bu rakamlarla kesin olarak haklı çıkmıştır.
+**İhracat -%41:** Yurt dışı satışların 14.2 milyar TL'den 8.4 milyar TL'ye çökmesi ciddi. AB koruma önlemleri ve global çelik fiyat baskısı sürmekte. USD bazında hasılat -%7.5 ile düşmeye devam ediyor.
+
+**Net kâr hâlâ zayıf:** 383.9 milyon TL → Yıllık bazda ~1.5 milyar TL. Bu seviyede F/K 144x. Gerçek anlamda karlılığa dönüş henüz olmadı.
+
+**Vergi yükü değişti:** Q1 2025'te 26.2 milyon TL vergi GELİRİ varken Q1 2026'da 490.7 milyon TL vergi GİDERİ oluştu. Bu 517 milyon TL'lik fark, net kârı aşağı baskıladı. Net kâr düşmesine rağmen vergi öncesi kâr +%112.5 arttı — bu ayrımı yapmak önemli.
+
+**Personel ve amortisman baskısı:** +%53 ve +%59 artışlarla bu iki kalem maliyet tarafındaki ana sorun. Amortisman, tamamlanan büyük yatırımlar nedeniyle yüksek kalacak.
+
+**Fiyat dipten +%50 yükseldi:** 21.98 TL → 32.98 TL. Toparlanma beklentisinin bir kısmı fiyata girmiş olabilir.
+
+---
+
+## 5. Karar ve Strateji
+
+**HÜKÜM: 🟡 İZLE — ERKEN TOPARLANMA SİNYALLERİ / HENÜZ ALMA DEĞİL (@ 32.98 TL — 28.04.2026)**
+
+**Önceki "POZİSYON KAPATILDI" kararından neden henüz AL değil?**
+
+Q1 2026 sonuçları, toparlanmanın ilk kıvılcımlarını taşıyor: EBIT +%27.9, fabrikalar çalışıyor, CAPEX döngüsü tamamlandı, FCF güçlü, net borç azalıyor. Bunlar gerçek ve anlamlı iyileşmeler.
+
+Ancak toparlanmanın sürdürülebilirliğini sorgulatacak unsurlar da var. İhracatın -%41 gerilemesi, USD bazında hasılatın -%7.5 düşmesi ve net kârın hâlâ sembolik düzeylerde kalması, döngüsel dönüşün henüz tamamlanmadığını gösteriyor. Fiyat dipten +%50 yükselmiş; bir kısım iyimserliği zaten fiyatlıyor.
+
+**Ne zaman yeniden değerlendirilir?**
+
+- Q2 2026 sonuçlarında EBIT büyümesi +%20+ devam ederse ve/veya ihracat toparlanmaya başlarsa: 🟢 AL'a yükseltme değerlendirilebilir.
+- USD bazında hasılat toparlanma yaşarsa (mevcut -%7.5'ten pozitife dönerse): Güçlü sinyal.
+- Global çelik fiyatlarında toparlanma işaretleri gelirse: Erken konumlanma fırsatı.
+- Fiyat 27-28 TL bandına gerilemesi: PD/DD ~0.65x → tarihsel olarak çok cazip giriş bölgesi.
+- Mevcut seviyelerde portföyde yer açılırsa: PD/DD 0.75x makul; kısmi giriş değerlendirilebilir ancak pozisyon ağırlığı düşük tutulmalı.
+
+---
+
+## 6. Tarihsel Analiz Geçmişi
+
+| Dönem | Güncelleme | Hüküm | Özet |
+|---|---|---|---|
+| 2025/12 (Tam Yıl) | 17 Şubat 2026 | POZİSYON KAPATILDI | Net kâr -%96.2 (511 milyon TL), EPS 0.076 TL, temettü kapasitesi sıfır |
+| 2026/03 (Q1) | 28 Nisan 2026 | **İZLE / Erken Toparlanma Sinyali** | EBIT +%27.9, ihracat -%41, CAPEX döngüsü bitti, FCF güçlü, PD/DD 0.75x, temettü yönetim güveni veriyor |

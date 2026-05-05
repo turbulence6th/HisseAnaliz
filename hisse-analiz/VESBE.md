@@ -1,6 +1,122 @@
 # VESBE – Vestel Beyaz Eşya Sanayi ve Ticaret A.Ş.
+
+---
+
+## Q1 2026 Finansal Rapor Analizi (30 Nisan 2026)
+
+*Solo finansal tablolar. TMS 29 uygulamalı — tüm rakamlar 31 Mart 2026 satın alma gücüyle bin TL. Karşılaştırma dönemi de aynı bazda.*
+
+### Q1 2026 Gelir Tablosu
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim (reel) |
+|---|---|---|---|
+| **Hasılat** | **9,943M TL** | **20,796M TL** | **-%52.2** 🔴🔴🔴 |
+| Satışların Maliyeti | (10,182M) | (19,163M) | -%46.9 |
+| **Brüt Kâr/(Zarar)** | **(239M)** | **+1,633M** | **BRÜT ZARARA GEÇİŞ** 🔴🔴🔴 |
+| **Brüt Kâr Marjı** | **-%2.4** | **+%7.9** | **-10.3 puan** |
+| OpEx (YYG+Paz+ArGe) | (1,197M) | (1,777M) | -%32.6 |
+| Diğer Gelirler | +1,160M | +1,416M | -%18.1 |
+| Diğer Giderler | (1,447M) | (2,164M) | -%33.2 |
+| **Esas Faaliyet Zararı** | **(1,725M)** | **(893M)** | **Zarar +%93.1** 🔴 |
+| **EBITDA** | **~(747M)** | **~+168M** | **Negatife döndü** 🔴🔴 |
+| Finansman Gelirleri | +1,258M | +1,294M | -%2.8 |
+| Finansman Giderleri | (2,144M) | (2,893M) | -%25.9 |
+| Parasal Kazanç (TMS 29) | +1,870M | +1,500M | — (non-cash) |
+| Ertelenmiş Vergi Gideri | (621M) | (336M) | — |
+| **Net Dönem Zararı** | **(1,362M)** | **(1,327M)** | Zarar biraz derinleşti 🔴 |
+| **EPS** | **(0.85) TL** | (0.83) TL | — |
+
+*Hisse sayısı: 1,600,000,000 adet*
+
+**EBITDA notu:** Esas Faaliyet Zararı (1,725M) + D&A (978M) = EBITDA ~(747M) — EBITDA da negatif!
+
+### Satış Coğrafyası (Q1 2026 vs Q1 2025, reel bin TL)
+
+| Bölge | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| **Avrupa** | **4,734M** | **9,373M** | **-%49.5** 🔴 |
+| Türkiye | 3,130M | 6,225M | -%49.7 🔴 |
+| Diğer | 2,098M | 5,272M | -%60.2 🔴 |
+| **Toplam** | **9,943M** | **20,796M** | **-%52.2** |
+
+İhracat payı: %68.7 (büyük çoğunluğu EUR — %84'ü EUR bazında). Bu şirket özünde **Avrupa'ya EUR ile beyaz eşya satan** bir fabrikadır.
+
+**Nominal kıyaslama:** TMS 29 katsayısı Q1 2025 için 1.308. Nominal Q1 2025 hasılat ≈ 15.9 milyar TL → Q1 2026 nominal hasılat 9.9 milyar TL → **Nominal bazda -%37.5 düşüş.** EUR/TL artışı (+%16) satışları nominal TL'de yumuşatmış, ancak EUR satış hacimleri **yaklaşık -%46 daralmış.**
+
+### Q1 2026 Bilanço
+
+| Kalem | 31 Mart 2026 | 31 Aralık 2025 |
+|---|---|---|
+| **Nakit ve Nakit Benzerleri** | **237M TL** | **291M TL** | 
+| **Toplam Varlıklar** | 94,114M TL | 99,056M TL |
+| **Ana Ortaklık Özkaynakları** | **39,031M TL** | **40,357M TL** |
+| **BVPS** | **~24.39 TL** | ~25.22 TL |
+
+### Net Finansal Borç Hareketi (Q1 2026)
+
+| Kalem | Tutar (bin TL) |
+|---|---|
+| 1 Ocak 2026 başlangıç net finansal borç | 22,179,610 |
+| Yeni borçlanmalar | +14,485,868 |
+| Geri ödemeler | (10,253,947) |
+| Diğer (YP, faiz tahakkuku vb.) | +310,940 |
+| TMS 29 parasal kazanç etkisi | (2,339,669) |
+| **31 Mart 2026 net finansal borç** | **24,382,802** |
+| **Q1'de net artış** | **+2,203,192** (+%9.9) 🔴 |
+
+**Net finansal borç tek çeyrekte 2.2 milyar TL arttı.** Kısa vadeli finansal borç kırılımı: banka kredileri 13.67B + UV KV kısım 2.08B + tahvil 325M + tahvil KV kısım 1.06B + kira 227M = **17.35 milyar TL** (toplam finansal borç: 24.61 milyar TL).
+
+**Faiz gideri:** 1,450M TL Q1 → yıllıklandırılmış ~5.8 milyar TL faiz vs. NEGATİF EBITDA.
+
+### Q1 2026 Nakit Akışı
+
+| Kalem | Q1 2026 | Q1 2025 |
+|---|---|---|
+| İşletme Nakit Akışı | +1,816M | +679M |
+| — İlişkili taraftan alacak tahsilatı | +5,926M | +2,794M |
+| — Ticari borç azalışı | (2,467M) | (198M) |
+| Yatırım Nakit Akışı | (3,467M) | (3,936M) |
+| — İlişkili taraflara verilen avans/borç | **(2,715M)** | (2,549M) |
+| Finansman Nakit Akışı | +1,623M | +2,596M |
+
+**Kritik uyarı:** İşletme nakit akışı (+1.8B) büyük ölçüde **Vestel Ticaret'ten gelen alacak tahsilatına** (+5.9B) dayanıyor. Aynı dönemde şirket **2.7 milyar TL nakit ilişkili taraflara borç/avans verdi** (yatırım faaliyetleri içinde). Şirket kendisi zarar ederken grup şirketlerine finansman sağlamaya devam ediyor.
+
+### Q1 2026 Değerleme (@ 7.12 TL — 30 Nisan 2026)
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| **Piyasa Değeri** | **11,392M TL** | — |
+| **Net Finansal Borç** | **24,383M TL** | Borç > PD'nin 2.1 katı! |
+| **Firma Değeri (EV)** | **~35,775M TL** | — |
+| **PD/DD** | **0.29x** | Ucuz görünür; anlamsız zira EBITDA negatif |
+| **Net Borç/EBITDA** | **N/A** | EBITDA negatif |
+| **F/K** | **N/A** | Net zarar |
+| **BVPS** | **~24.39 TL** | — |
+| **52H Aralık** | 6.87 – 14.50 TL | 52H dibine %3.6 mesafe |
+
+### Q1 2026 Hükmü
+
+### **HÜKÜM: 🔴 UZAK DUR — TEZ DAHA DA KÖTÜLEŞTI**
+
+GENEL_STRATEJİ'deki "Avrupa pazarı daralması" riski tam anlamıyla gerçekleşiyor. EUR satış hacimleri yaklaşık -%46 çöktü. Brüt kâr marjı poziften negatife döndü (-%2.4). EBITDA negatife girdi. Net finansal borç arttı. Şirket faizini bile karşılayamıyor.
+
+**FY2025 analizi "2 kârlı çeyrek gözlemle" diyordu — Q1 2026 bunu daha da geriye itti.**
+
+Spekülatif değer tuzağı riski: PD/DD 0.29x görünürde ucuz, ancak:
+1. Defter değeri hızla eriyor (çeyreklik ~1.3B TL zarar)
+2. Net borç piyasa değerinin 2.1 katı
+3. EBITDA negatif → borç döngüsünden çıkış görünmüyor
+4. Avrupa beyaz eşya talebinde toparlanma için net sinyal yok
+
+---
+
+**Kaynak:** 2025/12 FY2025 Analizi + Q1 2026 Gerçekleşen (30.04.2026)
+
+---
+
+## Önceki Analiz: FY2025 (28 Şubat 2026)
+
 **Analiz Tarihi:** 28 Şubat 2026 | **Dönem:** FY2025 (Solo, TMS 29 uygulamalı)
-**Denetçi:** Bağımsız denetimden geçmiş | **Raporlama:** 27.02.2026
 
 ---
 

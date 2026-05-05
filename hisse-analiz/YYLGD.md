@@ -1,5 +1,115 @@
 # YYLGD (Yayla Agro Gıda) - Hisse Analizi
 
+**Son Güncelleme:** 29 Nisan 2026 | **Kaynak:** Q1 2026 Finansal Rapor (29.04.2026)
+**Fiyat (29.04.2026):** 11.21 TL
+
+---
+
+## HÜKÜM: 🟡 İZLE — BEKLEME MODUNDA (TESLİMİYET DEĞİL, MARJ BASKISI DÖNÜŞÜME KADAR BEKLE)
+
+---
+
+## Q1 2026 Güncel Analiz
+
+**Bu analiz önceki (17.02.2026) FY2025 analizinin üzerine Q1 2026 güncellemesidir. FY2025 detayları bölüm 5'te korunmaktadır.**
+
+### Q1 2026 — Gelir Tablosu Özeti
+
+| Kalem | Q1 2026 (TL) | Q1 2025 (TL) | Değişim |
+|---|---|---|---|
+| **HASILAT** | **7.185.229.473** | **5.115.090.916** | **+%40.5** ✅ |
+| Satışların Maliyeti | (6.291.613.121) | (4.234.665.917) | +%48.6 ⚠️ |
+| **BRÜT KAR** | **893.616.352** | **880.424.999** | **+%1.5** ⚠️⚠️ |
+| **Brüt Kâr Marjı** | **%12.4** | **%17.2** | **-4.8 puan** ⚠️⚠️ |
+| Faaliyet Giderleri (toplam) | (433.653.349) | (302.431.757) | +%43.4 |
+| Esas Faaliyet Diğer Gelirler | 204.032.122 | 185.991.955 | +%9.7 |
+| Esas Faaliyet Diğer Giderler | (86.504.587) | (9.205.708) | +%839 ⚠️ |
+| **ESAS FAALİYET KARI** | **577.090.538** | **754.779.489** | **-%23.5** ⚠️ |
+| Net Finansman Geliri/(Gideri) | (598.729.683) | (206.758.264) | -%189 ⚠️⚠️ |
+| Net Parasal Pozisyon Kazancı | 1.034.165.032 | 270.575.346 | +%282 ✅ |
+| **VERGİ ÖNCESİ KÂR** | **1.013.096.559** | **1.190.495.253** | **-%14.9** |
+| Ertelenmiş Vergi Geliri/(Gideri) | (116.238.780) | 91.261.821 | negatife döndü |
+| **DÖNEM NET KARI** | **896.857.779** | **1.281.757.074** | **-%30.1** ⚠️ |
+| **EPS (TL/hisse)** | **0.84** | **1.20** | **-%30** |
+
+### Q1 2026 Kritik Bulgular
+
+**1. Brüt Marj Çöküşü Devam Ediyor**
+FY2024: %13.0 → FY2025: %12.9 → Q1 2025: %17.2 → Q1 2026: **%12.4**. Hammadde maliyeti hasılatı ezmeye devam ediyor. Hammadde (+%48.2), personel (+%111 — yeni Niğde fabrikası personeli) ve elektrik/enerji (+%189 — Niğde enerji maliyeti) üçlüsü brüt kârı boğuyor.
+
+**2. Deleveraging Tezi Sekteye Uğradı** ⚠️
+FY2025'te 2.67 Milyar TL net borç ödendi (olumlu). Ancak Q1 2026'da **1.95 Milyar TL yeni net borç** alındı. Toplam banka kredisi 11.45B TL → 13.38B TL'ye çıktı. Niğde fabrika ek yatırım ve hammadde stok finansmanı nedeniyle borç artıyor.
+
+**3. Faiz Yükü Patlıyor**
+Ödenen faiz: Q1 2025'te 160.9M TL → Q1 2026'da **625.4M TL (4 katı!)**. Borçlanma faiz giderleri: 160.9M → **346.9M TL**. TCMB faiz normalizasyonu bankaları için iyi ama borçlu şirketler için ağır yük.
+
+**4. Net Kâr Kalitesi Zayıf**
+897M TL net kârın 1.034M TL'si **Net Parasal Pozisyon Kazancı** (TMS 29 enflasyon muhasebesi, non-cash). Core operasyonel kâr (vergi öncesi, parasal kazanç hariç): sadece -21M TL. Net kâr görünüşü yanıltıcı olarak iyi.
+
+**5. Hasılat ve FCF Güçlü Kalmaya Devam Ediyor**
+İşletme NCF: 2.23B TL (+%8.5). FCF: ~1.38B TL. Bu operasyonel temelin sağlıklı kaldığını gösteriyor ama finansman maliyetleri bu nakdi yutuyor.
+
+### Hasılat Dağılımı ve Maliyet
+
+| | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| Yurt İçi Satışlar | 4.803.215.588 | 3.367.259.662 | +%42.6 ✅ |
+| Yurt Dışı Satışlar | 2.531.699.180 | 1.861.705.568 | +%36.0 ✅ |
+| **Hammadde Maliyeti** | **5.756.771.607** | **3.884.920.409** | **+%48.2** ⚠️ |
+| Personel (Satış Maliyeti) | 272.398.708 | 129.119.874 | +%111 ⚠️ |
+| Elektrik/Su/Gaz | 45.571.325 | 15.772.067 | **+%189** ⚠️ |
+
+### Bilanço Anlık Görünüm (31.03.2026)
+
+| Kalem | 31.03.2026 | 31.12.2025 |
+|---|---|---|
+| Nakit + KV Finansal Yatırım | 4.838.020.464 | 2.823.866.188 |
+| Stoklar | 7.635.999.873 | 7.098.234.899 |
+| Toplam Varlıklar | 38.930.243.177 | 34.808.395.651 |
+| **Banka Kredileri (toplam)** | **13.383.859.487** | **11.452.546.516** |
+| Finansal Kiralama | 1.350.812.113 | 1.408.281.315 |
+| **Net Borç** | **~9.9 Milyar TL** | **~10.0 Milyar TL** |
+| Özsermaye | 15.777.601.159 | 14.855.275.794 |
+
+### Değerleme (@ 11.21 TL)
+
+| Metrik | Değer |
+|---|---|
+| Piyasa Değeri | ~12.19 Milyar TL |
+| **F/K (FY2025)** | **~12.3x** |
+| **PD/DD** | **~0.77x** ✅ Defterin altında |
+| **Defter Değeri/Hisse** | **~14.51 TL** |
+| Net Borç/FAVÖK (annualized Q1) | **~3.8x** ⚠️ |
+| 52H Aralığı | 8.68 – 14.61 TL |
+
+### Q1 2026 Hüküm Değerlendirmesi
+
+Önceki analizde (17.02.2026) "POZİSYON AL / ÇEKİRDEK VARLIK" hükmü verilmişti ancak "portföy önceliklendirilmesi" nedeniyle pozisyon açılmamıştı. Q1 2026 verileri bu kararın isabetli olduğunu gösteriyor:
+
+**Niğde Fabrikası tezi doğru ama zamanlaması henüz gelmedi:**
+- Fabrika personeli ve enerji maliyetleri devreye girdi ama hasılata katkı marjı artırmıyor
+- Çalışmayan kısım giderleri başladı (12.7M TL)
+- Kapasite dolumu 2026 H2 veya 2027'ye kadar sürebilir
+
+**Portföye ekleme için beklenenler:**
+1. Brüt kâr marjının **%14-15+** seviyesine toparlanması (2 ardışık çeyrek)
+2. Hammadde maliyetlerinin stabilize olması
+3. Net borçlanmanın azalmaya başlaması (yeni yatırım döngüsü kapandıktan sonra)
+4. Yeni Niğde ürünlerinin (freeze dry, protein, hazır yemek) marj katkısının görünmesi
+
+**Giriş Seviyeleri (marj dönüşümü eşliğinde):**
+
+| Seviye | Fiyat | Durum |
+|---|---|---|
+| Mevcut bekleme | 11.21 TL | İzle — Pozisyon açma |
+| Değerlendirme | 9.00-10.00 TL | Marj recovery sinyali var ise değerlendir |
+| Güçlü Alım | < 8.70 TL (52H dip) | Marj recovery başladıysa güçlü giriş |
+| Realizasyon | > 13.50 TL | Mevcut pozisyon yoksa beklemeye devam |
+
+---
+
+## Önceki ANALİZ: FY2025 (17.02.2026)</p>
+
 *   **HÜKÜM:** POZİSYON AL / ÇEKİRDEK VARLIK
 *   **ANALİZ TARİHİ:** 17.02.2026 (Güncelleme) | İlk Analiz: 30.10.2025
 

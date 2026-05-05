@@ -1,11 +1,75 @@
 # AKGRT (Ak Sigorta) Analizi
 
-**Son Güncelleme:** 23 Şubat 2026
-**Kaynak:** 2025/12 Finansal Rapor (05.02.2026) + 2025 Faaliyet Raporu (23.02.2026)
+**Son Güncelleme:** 21 Nisan 2026
+**Kaynak:** Q1 2026 Finansal Rapor (21.04.2026) + FY2025 Tam Yıl + Faaliyet Raporu
 
 ---
 
-## HÜKÜM: İZLE — Zorunlu Trafik branşı yapısal zarar kaynağı olmaya devam ediyor
+## HÜKÜM: İZLE — Net kar -%23.8, teknik bölüm -%46.6; prim büyümesi güçlü ama gider baskısı arttı
+
+---
+
+## 2b. Q1 2026 Analizi (01.01–31.03.2026)
+
+### Gelir Tablosu — Hayat Dışı Teknik Bölüm (Milyon TL)
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| **Brüt Yazılan Prim** | **11.693** | 8.797 | **+%33,0 ✅** |
+| Reasüröre Devredilen | (6.642) | (6.001) | — |
+| Reasürans Oranı | **%56,8** | %68,2 | Düşüyor ✅ |
+| **Net Yazılan Prim** | **4.891** | 2.723 | **+%79,6 ✅** |
+| Aktarılan Yatırım Geliri | 1.298 | 1.018 | +%27,5 |
+| **Toplam Teknik Gelir** | **5.077** | 3.658 | **+%38,8** |
+| Brüt Ödenen Tazminat | (4.262) | (5.591) | **-%23,8 ✅** |
+| Reasürans Payı (tazminat) | +2.547 | +3.952 | — |
+| Net Ödenen Tazminat | (1.715) | (1.639) | +%4,6 |
+| **Faaliyet Giderleri** | **(1.423)** | (890) | **+%60,0 ⚠️** |
+| **Toplam Teknik Gider** | **(4.787)** | (3.115) | **+%53,7** |
+| **Teknik Bölüm Dengesi (Hayat Dışı)** | **290** | 543 | **-%46,6 ⚠️** |
+
+### Teknik Olmayan Bölüm (Milyon TL)
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| Genel Teknik Bölüm Dengesi | 290 | 543 | -%46,6 |
+| Yatırım Gelirleri | 3.158 | 1.556 | **+%103 ✅** |
+| Yatırım Giderleri | (3.273) | (1.639) | +%100 |
+| — _Hayat Dışı Tekniğe Aktarılan_ | (1.298) | (1.018) | +%27,5 |
+| — _Kambiyo Zararları_ | **(1.796)** | (525) | **+%242 ⚠️** |
+| Diğer Faaliyetler (net) | +53 | (73) | iyileşme |
+| **Vergi Öncesi Kar** | **228** | 386 | **-%40,9** |
+| Vergi (ertelenmiş gelir etkisiyle) | +40 | (34) | — |
+| **Net Dönem Karı** | **268** | 352 | **-%23,8 ⚠️** |
+
+### Q1 2026 Temel Tespitler
+
+**Olumlu:**
+- Brüt yazılan prim +%33 güçlü büyüme
+- Reasürans oranı %68→%57'ye düşüyor → net prim +%80 (riski daha çok içeride tutuyorlar)
+- Brüt ödenen tazminat -%24 (hasar kontrolü iyileşiyor)
+
+**Sorunlu:**
+- **Faaliyet giderleri +%60** — prim büyümesinin (33%) neredeyse 2 katı hızda artmış. Komisyon ve işletme maliyeti baskısı ciddi.
+- **Kambiyo zararları 3.4x artmış** (1.796M TL vs 525M TL) — TL hareketi veya dövizli yükümlülükler kaynaklı.
+- Teknik Bölüm Dengesi -%46.6 → sigortacılık operasyonu zayıfladı.
+- Branş bazlı tablo bu rapordan ayrıştırılamadı; **Zorunlu Trafik zararının devam edip etmediği bilinemiyor.**
+
+### Değerleme (@ 7,52 TL — 21.04.2026)
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| Pay Sayısı | 1.612.000.000 adet | 1 TL nominal |
+| Piyasa Değeri | ~12,1 Milyar TL | 7,52 × 1,612B |
+| **F/K (FY2025 gerçek)** | **4,87x** | Tarihi bazda çok ucuz |
+| F/K (Q1 yıllıklandırma) | ~11,3x | Zayıf çeyrek baz |
+| PD/DD | ~1,58x | (12,1B / 7,65B özkaynak) |
+| EPS (Q1 2026) | 0,17 TL | (268M / 1,612B hisse) |
+| ROE (FY2025 gerçek) | ~%39 | Yüksek |
+| MA50 | 7,68 TL | Hafif altında |
+| MA200 | 7,12 TL | Üzerinde |
+
+**Yorum:** FY2025'e göre F/K 4.87x görünürde ucuz. Ancak Q1 2026'da net kar -%23.8 geriledi ve faaliyet giderleri hızla artıyor. Forward görünüm baskı altında. Kambiyo zararları ve Zorunlu Trafik sorunlarının birlikte devam ettiği bir ortamda mevcut fiyat bölgesi dip değil, belirsizlik bölgesi.
 
 ---
 
@@ -158,4 +222,5 @@
 | Dönem | Güncelleme | Hüküm | Özet |
 |---|---|---|---|
 | 2025/09 (9 Aylık) | Ekim 2025 | İZLE | Trafik branşı -1.42B TL teknik zarar; ANSGR ile kıyaslamada zayıf |
-| 2025/12 (Tam Yıl) | 23 Şubat 2026 | **İZLE** | Trafik zararı -2.37B'ye kötüleşti; net kâr +%34, teknik kâr +%55 iyileşti; temettü sıfır; bileşik oran %120; imtiyazlı pay yok, halka açıklık %28 |
+| 2025/12 (Tam Yıl) | 23 Şubat 2026 | İZLE | Trafik zararı -2.37B'ye kötüleşti; net kâr +%34, teknik kâr +%55 iyileşti; temettü sıfır; bileşik oran %120 |
+| 2026/Q1 | 21 Nisan 2026 | **İZLE** | Net kar -%23.8 (268M), teknik bölüm -%46.6; prim +%33, net prim +%80; faaliyet giderleri +%60, kambiyo zararları 3.4x |

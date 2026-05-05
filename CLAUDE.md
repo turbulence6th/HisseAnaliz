@@ -167,37 +167,33 @@ python kap_rapor_indir.py fon-liste "Hisse Senedi"
 
 Betik, ilgili fonları ve getiri bilgilerini standart çıktıya yazdıracaktır.
 
-### `extract_pdf_text.py` Nasıl Kullanılır:
+### `belge_to_md.py` Nasıl Kullanılır:
 
-Bir PDF dosyasının içeriğini metin olarak çıkarmak için kullanılır. Özellikle KAP'tan indirilen finansal raporların analizinde, metin verisini işlemek için gereklidir. `pdfminer` ve `pypdf` kütüphanelerini kullanarak okuma yapar.
-
-```bash
-python extract_pdf_text.py <PDF_DOSYA_YOLU>
-```
-
-**Örnek:**
+**PDF dahil tüm belgeleri okumak ve Markdown'a dönüştürmek için birincil araçtır.** Microsoft MarkItDown kütüphanesini kullanır. PDF, DOCX, XLSX, PPTX, HTML, CSV, JSON, resim ve web URL'lerini destekler. KAP'tan indirilen bozuk başlıklı (Java header) PDF'leri de otomatik işler — `fix_pdf.py`'ye gerek yoktur.
 
 ```bash
-python extract_pdf_text.py finansal-raporlar/202512/AGESA_Finansal_Rapor_13-02-2026.pdf
+# Tek dosya → stdout
+python belge_to_md.py <DOSYA_VEYA_URL>
+
+# Dosyaya kaydet
+python belge_to_md.py <DOSYA> -o <ÇIKTI.md>
+
+# Orijinalle aynı dizine kaydet (rapor.pdf → rapor.md)
+python belge_to_md.py <DOSYA> --ayni-yer
+
+# Toplu dönüştürme
+python belge_to_md.py finansal-raporlar/202512/*.pdf --klasor cikti/
 ```
 
-Betik, çıkarılan metni standart çıktıya sayfa sayfa yazdıracaktır.
-
-### `fix_pdf.py` Nasıl Kullanılır:
-
-Bozuk veya hatalı başlığa sahip (örneğin Java serileştirme başlığı içeren) bir PDF dosyasını onarmak için kullanılır. Dosya içindeki `%PDF-` imzasını bularak öncesindeki hatalı veriyi temizler ve düzeltilmiş dosyayı kaydeder.
+**Örnekler:**
 
 ```bash
-python fix_pdf.py <GİRDİ_PDF_YOLU> <ÇIKTI_PDF_YOLU>
+python belge_to_md.py finansal-raporlar/202512/TCELL_Finansal_Rapor_05-03-2026.pdf
+python belge_to_md.py Turkcell-Entegre-Faaliyet-Raporu-2025.pdf -o rapor.md
+python belge_to_md.py https://example.com/sayfa -o sayfa.md
 ```
 
-**Örnek:**
-
-```bash
-python fix_pdf.py hatali_rapor.pdf duzeltilmis_rapor.pdf
-```
-
-Betik, işlem sonucunu standart çıktıya bildirir.
+> **Not:** `extract_pdf_text.py`, `pdf_text_extract.py` ve `fix_pdf.py` kaldırıldı. Tüm PDF okuma işlemleri `belge_to_md.py` ile yapılmalıdır.
 
 ### `kmh_efektif_faiz_hesapla.py` Nasıl Kullanılır:
 
@@ -225,6 +221,7 @@ python kap_rapor_takip.py
 
 Betik, takip listesindeki hisseler için yeni bir rapor varsa indirir ve `hisse-analiz/` dizinindeki ilgili dosyaları günceller (veya güncelleme için hazırlık yapar).
 
-# Gemini'ye Eklenen Hafıza Kuralları
+# Temel Kurallar
 
 *   Finansal rapor analizi istendiğinde, raporu `GENEL_STRATEJI.md` belgesine göre değerlendir ve ardından ilgili hissenin `hisse-analiz` klasöründeki `.md` dosyasını güncelle.
+*   **PDF okuma:** Her zaman `belge_to_md.py` kullan. Eski `extract_pdf_text.py` / `fix_pdf.py` scriptleri kaldırıldı.

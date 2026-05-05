@@ -1,10 +1,10 @@
 # TABGD (TAB Gıda Sanayi ve Ticaret A.Ş.) - Hisse Analizi
 
-**Son Güncelleme:** 27 Şubat 2026
-**Analiz Dönemi:** FY2025 (12 Aylık, Konsolide)
-**Güncel Fiyat:** 260,25 TL
-**52H Yüksek / Düşük:** 284,25 TL / 147,40 TL
-**Karar: 🟡 İZLE / KÜÇÜK POZİSYON**
+**Son Güncelleme:** 21 Nisan 2026
+**Analiz Dönemi:** Q1 2026 (01.01–31.03.2026, Konsolide) + FY2025
+**Güncel Fiyat:** 259,25 TL
+**52H Yüksek / Düşük:** 284,25 TL / 160,40 TL
+**Karar: 🟠 DİKKATLİ İZLE — Pozisyon Küçült veya Giriş Bekleme**
 
 ---
 
@@ -24,7 +24,64 @@ Tüm bu markalar Restaurant Brands International (RBI) ve diğer küresel franch
 
 ---
 
-## 2. `GENEL_STRATEJI.md` Kriterlerine Göre Değerlendirme
+## 2. Q1 2026 Analizi — Alarm Veren Çeyrek
+
+### 2.1 Gelir Tablosu (Milyon TL, TMS 29 — 31.03.2026 satın alma gücünde)
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| **Hasılat** | **13.150** | 11.404 | **+%15,3** |
+| Satışların Maliyeti | (11.619) | (9.874) | +%17,7 ⚠️ |
+| **Brüt Kar** | **1.531** | 1.530 | **+%0,1** |
+| **Brüt Kar Marjı** | **%11,64** | %13,42 | **-178 baz puan ⚠️** |
+| Genel Yönetim Giderleri | (537) | (514) | +%4,5 |
+| Pazarlama Giderleri | (486) | (572) | **-%15,1 ✅** |
+| **EBIT (Esas Faaliyet Karı)** | **327** | 402 | **-%18,7 ⚠️** |
+| Yatırım Faaliyetleri (net) | +615 | +466 | +%32 |
+| Finansal Gelirler | 320 | 281 | +%13,9 |
+| Finansal Giderler | (496) | (355) | +%39,7 ⚠️ |
+| Parasal Kayıp | (170) | (215) | iyileşme |
+| **Vergi Öncesi Kar** | **596** | 578 | **+%3,1** |
+| Dönem Vergi Gideri | (188) | (63) | **+%200 ⚠️** |
+| Ertelenmiş Vergi Gideri | (184) | (110) | +%67 |
+| **Net Dönem Karı** | **224** | 406 | **-%44,7 🔴** |
+| **EPS** | **0,86 TL** | 1,55 TL | **-%44,5 🔴** |
+
+### 2.2 Q1 2026 Temel Sorunlar
+
+**Sorun 1 — Marj Erozyonu Hız Kesmedi:**
+Brüt kar marjı %13,42'den %11,64'e geriledi. Hasılat +%15,3 büyürken satışların maliyeti +%17,7 büyüdü. Hammadde ve kira revizyonu baskısı devam ediyor. Yılsonunda bu seyir devam ederse FY2025'teki %16,2 brüt marj da tehlikede.
+
+**Sorun 2 — Anormal Vergi Yükü (Ana Neden):**
+Vergi öncesi kar sadece +%3,1 artmış. Net karın -%44,7 düşmesinin temel sebebi vergi. Efektif vergi oranı: **%62,3** (Q1 2025: %29,8). Bu kısmen ertelenmiş vergi dinamiklerinden kaynaklanıyor olabilir — ancak "dönem vergi gideri" de Q1 2025'e göre 3x artmış. Tek seferlik mi, kalıcı mı, Q2 2026 verisine kadar netleşmeyecek.
+
+**Sorun 3 — EBIT -%18,7:**
+Operasyonel kârlılık gerilemeye devam ediyor. Pazarlama giderleri -%15 azaltılarak kısmen telafi edilmiş — ancak bu uzun vadede marka yatırımlarını azaltma riski taşır.
+
+### 2.3 Olumlu Taraflar
+
+- **Restoran büyümesi devam ediyor:** Q4 2025: 2.030 → Q1 2026: 2.066 (+36 net yeni restoran)
+- **Franchise restoran artışı:** 893 → 906 (franchise model asset-light büyüme sağlıyor)
+- **Bilanço sağlam:** Özkaynaklar 24.773 M TL, finansal borç hâlâ sıfır
+- **Yatırım faaliyetleri geliri:** +615 M TL (güçlü)
+- **Popeyes sona erme değişmedi:** Hâlâ 31.12.2026 — net haber yok (franchiseın %gelir içindeki payı küçük ama belirsizlik sürüyor)
+
+### 2.4 Değerleme Güncelleme (@ 259,25 TL — 21.04.2026)
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| Piyasa Değeri | ~67,7 Milyar TL | 261,3M hisse × 259,25 TL |
+| F/K (FY2025 gerçek) | **25,8x** | Hâlâ yüksek |
+| F/K (Q1 yıllıklandırma) | **~75x** | Vergi etkisiyle anlamsız; dikkat et |
+| F/K (vergi normalize ~%30) | **~36x** | Normalleştirilmiş forward tahmin |
+| EV/EBITDA (FY2025 bazlı) | ~7,5x | Küresel QSR altında, bu kısmi destek |
+| Brüt Kar Marjı (Q1) | %11,64 | FY2024 %17,5'ten hızla iniyor |
+
+**Sonuç:** Q1 2026'da net kar -%44,7 geriledi ama bunu tamamen vergi kaynaklı görmek yanıltıcı olur — operasyonel marj da bozuluyor. Şirket hasılat büyüttükçe kar küçülüyor; bu birleşim karlılık hikayesini zayıflattı.
+
+---
+
+## 3. `GENEL_STRATEJI.md` Kriterlerine Göre Değerlendirme
 
 | Kriter | Durum | Yorum |
 |---|---|---|
@@ -174,13 +231,28 @@ Tüm bu markalar Restaurant Brands International (RBI) ve diğer küresel franch
 
 ---
 
-## 10. Sonuç
+## 10. Sonuç ve Güncel Karar
 
-TABGD, Türkiye'nin en büyük QSR operatörü olarak güçlü büyüme hikayesi, borçsuz bilanço ve güvenilir nakit akışıyla öne çıkmaktadır. Ancak halka açıklık %20 sınırında, F/K pahalı ve yaklaşan Popeyes franchise sona ermesi kısa vadeli belirsizlik yaratmaktadır. Mevcut fiyat (260 TL) 52H zirvenin (%284) biraz altında olup düzeltme ihtimali mevcut.
+**KARAR: 🟠 DİKKATLİ İZLE — Pozisyon Küçült veya Giriş Bekleme**
 
-İmtiyazlı oy hakkı yoktur ✅ — bu, en kritik kriterin karşılandığı anlamına gelir. Popeyes franchise yenilenirse ve EBIT marjı stabilize olursa bu hisse "çekirdek portföy" adayına dönüşebilir.
+Q1 2026 raporu önceki "İzle / Küçük Pozisyon" görüşünü aşağı revize ettiriyor. İki aydır beklenen sorun (marj erozyonu) daha da kötüleşti. Net kâr -%44,7 düştü — kısmen vergi kaynaklı olsa da operasyonel baskı gerçek.
 
-**KARAR: 🟡 İZLE / KÜÇÜK POZİSYON**
-- Mevcut seviyede (260 TL) pozisyon başlatmak isteyen için %5-7 portföy ağırlığı ile sınırlandırılmış giriş önerilebilir.
-- Popeyes franchise haberini (yenileme veya çıkış) bekleyip sonrasına göre pozisyon artırma tercih edilebilir.
-- EBIT marjının toparlanma sinyallerini (1Ç2026 sonuçları) izle.
+**Pozisyonu olanlar için:** 260 TL seviyesi hâlâ 52H zirvesine (%284) yakın. Marj bozulması Q2 2026'da da devam ederse hisse 220-230 TL bandını test edebilir. Mevcut pozisyon varsa küçültmek veya stop aralığını daraltmak mantıklı.
+
+**Yeni giriş düşünenler için:** Q2 2026 raporu ve Popeyes franchise haberini beklemek daha iyi bir risk/getiri sunuyor. Acele yok.
+
+**Toparlanma senaryosu için gerekli koşullar:**
+1. Efektif vergi oranının Q2 2026'da normalize olması (%30 altı)
+2. Brüt marjın %13+ bandına dönmeye başlaması
+3. Popeyes franchise yenileme haberi (yıl sonu öncesi)
+
+**İzleme tarihleri:**
+- Q2 2026 raporu: Temmuz/Ağustos 2026
+- Popeyes franchise kararı: En geç 31.12.2026
+
+## 11. Tarihsel Analiz Geçmişi
+
+| Dönem | Güncelleme | Hüküm | Özet |
+|---|---|---|---|
+| FY2025 (12 Aylık) | Şubat 2026 | 🟡 İZLE / KÜÇÜK POZİSYON | Net kar +%5, EBIT marjı eriyor, borçsuz bilanço |
+| Q1 2026 | 21 Nisan 2026 | **🟠 DİKKATLİ İZLE** | Net kar -%44,7, brüt marj %11,64'e geriledi, vergi yükü patladı |

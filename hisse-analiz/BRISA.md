@@ -1,155 +1,284 @@
-# BRISA (Brisa Bridgestone Sabancı Lastik) - Hisse Analizi
+# BRISA — Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş.
 
-**Son Güncelleme:** 27 Şubat 2026
-**Analiz Dönemi:** FY2025 (12 Aylık, Konsolide)
-**Güncel Fiyat:** 90,65 TL
-**52H Yüksek / Düşük:** 104,00 TL / 66,25 TL
-**Karar: 🔴 ALMA**
+**Son Güncelleme:** 5 Mayıs 2026 (Q1 2026 Raporu Baz Alınmıştır)
+**Karar:** 🟡 İZLE — FAİZ İNDİRİMLERİ HIZLANINCA DEĞERLENDİR
+**Piyasa Fiyatı:** 86.4 TL (1 TL nominal bazlı; ~26.4B TL piyasa değeri)
+**52H Aralığı:** 66.25 – 104.0 TL | **1Y Getiri:** +%6.2
 
 ---
 
 ## 1. Şirket Profili
 
-Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş., Türkiye'nin önde gelen lastik üreticisidir. 1988'den bu yana Bridgestone Corporation ile lisans sözleşmesi çerçevesinde üretim yapan şirket, İzmit ve Aksaray fabrikalarında faaliyet göstermekte; Lassa ve Bridgestone markalı lastikler üretmektedir. Bağlı ortaklığı Arvento Mobil Sistemler A.Ş. (%88,89) filo yönetim ve araç takip hizmetleri sunmaktadır.
+Brisa, Türkiye'nin en büyük lastik üreticisi ve lastik perakende hizmetleri platformudur. 1974'te kurulan şirket, 1988'de Bridgestone Corporation ile lisans anlaşması imzalamasıyla küresel teknolojiye erişim kazanmıştır. Sabancı ve Bridgestone'un müşterek kontrolündeki şirket, klasik lastik üretiminin çok ötesine geçerek "mobilite hizmetleri" platformuna dönüşme stratejisi izlemektedir.
 
-- **Ödenmiş Sermaye:** 305.116.875 TL — 30,5 milyar adet, 1 KURUŞ (0,01 TL) nominal
-- **Halka Açıklık:** %12,74 ❌ (çok düşük)
-- **İmtiyazlı Pay:** ⚠️ A–G grubu paylar yönetim kurulu seçiminde hakim ortaklara özel haklar veriyor; oy imtiyazı yok
-- **Hakim Ortaklar:** Sabancı Holding %43,63 + Bridgestone Corp. %43,63 = %87,26
-- **Bağımsız Denetçi:** Deloitte (DRT Bağımsız Denetim) — Temiz görüş
-- **Uygulanan Standart:** TMS 29 — Tüm rakamlar 31 Aralık 2025 satın alma gücünde
+### Ortaklık Yapısı
+| Ortak | Pay |
+|-------|-----|
+| Hacı Ömer Sabancı Holding A.Ş. | %43.63 |
+| Bridgestone Corporation | %43.63 |
+| Halka Açık | **%12.74 ✅** |
 
----
+**İmtiyazlı Pay:** Hacı Ömer Sabancı Vakfı 100 adet intifa senediyle kârda küçük imtiyaza sahip; bununla birlikte **oy eşitliği mevcut** (A-G grubu pay ayrımı yalnızca YK aday önerisi içindir, oy hakkı eşit). Strateji kriterleri açısından kabul edilebilir ✅
 
-## 2. `GENEL_STRATEJI.md` Kriterlerine Göre Değerlendirme
+### Ürün ve Marka Portföyü
+- **Kendi markalar:** Bridgestone, Lassa, Dayton (lastik); Bandag & Veloxia (kaplama)
+- **İthalat markaları:** Firestone (tarım), Kinesis (forklift dolgu)
+- **Bağlı ortaklık:** Arvento Mobil Sistemler (%89) — IoT, araç takip, filo yönetimi; 1.6M+ toplam cihaz, 850K+ aktif
 
-| Kriter | Durum | Yorum |
-|---|---|---|
-| İmtiyazlı Pay | ⚠️ Kısmen | Oy imtiyazı yok; ancak A–G gruplarının YK seçiminde özel hakları var |
-| Halka Açıklık | ❌ %12,74 | Yüksek konsantrasyon, düşük likidite |
-| Operasyonel Kârlılık | ✅ EBIT pozitif | EBIT 3.112 M TL, FAVÖK 6.321 M TL |
-| Net Kâr Kalitesi | ❌ Zarar | Finansman giderleri EBIT'i aşıyor → Net zarar (1.088) M TL |
-| Borçluluk | ✅ Düşük | Net Borç/FAVÖK: 0,91x — sağlıklı |
-| Serbest Nakit Akışı | ✅ Güçlü | SNA: 5.610 M TL (geçen yıl: 857 M TL) |
-| Fiyat Koyma Gücü | ⚠️ Baskı altında | Brüt marj %23,6'dan %22,4'e geriledi |
+### Fabrikalar
+| Fabrika | Yıllık Kapasite |
+|---------|----------------|
+| İzmit | 11M adet lastik |
+| Aksaray | 3.8M adet lastik |
 
-**Özet Değerlendirme:** BRISA, sağlam bir operasyonel varlık yapısına ve güçlü nakit akışına sahipken, yüksek finansman giderleri net kârlılığı sıfırın altına çekmiştir. Bununla birlikte, **halka açıklık %12,74 kritik eşiğin çok altındadır** ve bu tek başına "ALMA" kararı için yeterli gerekçedir. Net zarar ve temettü yokluğu bu görüşü pekiştirmektedir.
+Aksaray fabrikasına bugüne kadar yapılan toplam yatırım: **407.6M USD** (teşvik belgeli kısım dahil)
 
----
-
-## 3. FY2025 Gelir Tablosu Analizi (Milyon TL, TMS 29)
-
-| Kalem | FY2025 | FY2024 | Değişim |
-|---|---|---|---|
-| Hasılat | 41.348 | 45.219 | **-%8,6** |
-| Satışların Maliyeti | (32.081) | (34.568) | -%7,2 |
-| Brüt Kâr | 9.266 | 10.651 | **-%13,0** |
-| Brüt Kâr Marjı | %22,41 | %23,55 | -114 baz puan |
-| Esas Faaliyet Kârı (EBIT) | 3.112 | 4.400 | **-%29,3** |
-| EBIT Marjı | %7,53 | %9,73 | -220 baz puan |
-| Amortisman (D&A) | 3.209 | 3.130 | +%2,5 |
-| **FAVÖK (EBITDA)** | **6.321** | **7.530** | **-%16,0** |
-| FAVÖK Marjı | %15,29 | %16,65 | -136 baz puan |
-| Finansman Geliri | 1.532 | 3.269 | -%53,1 |
-| Finansman Gideri | (6.920) | (7.690) | -%10,0 |
-| **Net Finansman Yükü** | **(5.388)** | **(4.421)** | **+%21,9** |
-| Net Parasal Pozisyon Kazancı | 1.909 | 2.347 | -%18,7 |
-| Vergi Öncesi Kâr/(Zarar) | (307) | 2.795 | — |
-| Net Kâr/(Zarar) — Ana Ortaklık | **(1.088)** | **1.988** | **— (zarara döndü)** |
-| EPS | **(3,51) TL** | 6,07 TL | — |
-
-### Temel Gözlemler
-
-**Hasılat Düşüşü:** Türkiye lastik pazarındaki yavaşlama ve ihracat baskıları hasılatı -%8,6 geriletti. Fiyat koyma gücü de sınırlı kaldı.
-
-**EBIT Pozitif, Net Zarar:** FAVÖK 6.321 M TL ve EBIT 3.112 M TL ile operasyonel performans sağlıklı görünse de, 6.920 M TL'lik yıllık finansman gideri (tahvil, banka kredisi, kur farkı) net kârı sıfırın altına çekmiştir. TMS 29 parasal kazancı (1.909 M TL) bu etkiyi kısmen dengelemiş ancak yeterli olmamıştır.
-
-**Finansman Gelirinin Yarı Yarıya Azalması:** 2024'te 3.269 M TL olan finansman geliri 2025'te 1.532 M TL'ye geriledi. Bu, yüksek faiz ortamında bile nakit varlıklardan etkin getiri elde edilemediğine ve/veya nakit pozisyonunun zayıfladığına işaret ediyor.
+### Perakende Ağı (31.03.2026)
+- 140 Otopratik + 20 Propratik servis noktası
+- 57 e-şarj istasyonu (EV dönüşüm yatırımı)
+- 62 UTTS (Ulusal Taşıt Tanıma Sistemi) yetkili montaj noktası
 
 ---
 
-## 4. Bilanço Analizi (Milyon TL, 31 Aralık 2025)
+## 2. Yatırım Tezi
 
-| Kalem | 31.12.2025 | 31.12.2024 | Değişim |
-|---|---|---|---|
-| Nakit ve Nakit Benzerleri | 8.221 | 9.136 | -%10,0 |
-| Kısa Vadeli Finansal Yatırımlar | 1.746 | 2.565 | -%32,0 |
-| Stoklar | 6.217 | 6.782 | -%8,3 |
-| Toplam Dönen Varlıklar | 25.180 | 29.501 | -%14,6 |
-| MDV (Fabrikalar) | 24.202 | 24.406 | -%0,8 |
-| Toplam Varlıklar | 52.026 | 56.477 | -%7,9 |
-| **Finansal Borçlar (Toplam)** | **15.718** | **17.594** | **-%10,7** |
-| **Net Finansal Borç** | **4.524** | **4.417** | **+%2,4** |
-| Toplam Özkaynaklar | 23.634 | 25.718 | -%8,1 |
-| Ana Ortaklık Özkaynakları | 23.577 | 25.582 | -%7,8 |
-| **Piyasa Değeri** | **27.659** | — | — |
+**Temel Hikâye:** Brisa, Türkiye yenileme lastik pazarının yapısal büyümesinden yararlanan bir tüketici döngüsel şirketidir. Aksaray fabrika yatırımı tamamlanmak üzere; Arvento üzerinden IoT/filo telematiği büyüme vektörü mevcut; premium HRD segment payı güçlü. Bununla birlikte **yüksek TL borçlanma maliyetleri (%29-43), EBIT'i tamamen absorbe etmekte** ve hissedarlar için gerçek getiri üretimini kısıtlamaktadır. Faiz indirimlerinin hızlanması durumunda net kâr marjı katlanarak açılacaktır.
 
-### Kritik Bilanço Gözlemleri
-
-**Borç Azalıyor:** Finansal borçlar 17.594 M TL'den 15.718 M TL'ye geriledi — borç yönetimi güçlü ✅
-
-**Net Borç/FAVÖK: 0,91x** — Sektörde son derece sağlıklı bir seviye.
-
-**Güçlü Serbest Nakit Akışı:** İşletme faaliyetleri 6.754 M TL nakit üretirken, yatırım harcamaları sadece 1.144 M TL oldu (geçen yıl: 3.162 M TL). Serbest nakit akışı 5.610 M TL'ye yükseldi. Bu nakit güç, ilerleyen dönemlerde hızlı borç azaltımı ve temettüye kaynak yaratabilir.
+**Beklenen Katalizörler:**
+1. TCMB faiz indirimlerinin hızlanması → finansman giderleri düşer → net kâr marjı genişler
+2. Rekabet Kurumu soruşturmasının küçük cezayla kapanması
+3. Toplu İş Sözleşmesi'nin normal tamamlanması (grev riski ortadan kalkması)
+4. İhracat toparlanması (Avrupa talebinin normalleşmesi)
 
 ---
 
-## 5. Değerleme Çarpanları
+## 3. Q1 2026 Finansal Analiz (TMS 29 — 31.03.2026 Satın Alma Gücü)
 
-| Çarpan | BRISA | Yorum |
-|---|---|---|
-| F/K (Net Kâr) | N/A (zarar) | Net zarar nedeniyle anlamsız |
-| F/K (EBIT bazlı) | 8,89x | Makul |
-| EV/FAVÖK | **5,29x** | Görece ucuz |
-| EV/EBIT | 10,74x | Orta |
-| PD/DD | 1,17x | Defter değeri yakını |
-| EV/Hasılat | 0,81x | Makul |
-| EPS | **(3,51) TL** | — |
-| Defter Değeri/Hisse | 77,27 TL | Fiyat: 90,65 TL |
-| Net Borç/FAVÖK | **0,91x** | Sağlıklı |
+> Katsayı: Q1 2025 kalemi × 1.30865 ile karşılaştırılabilir hale getirilmiştir.
 
-**Değerleme Özeti:** EV/FAVÖK 5,29x ile şirket görece ucuz işlem görmektedir. Ancak net zarar ve halka açıklık sorunu bu değerleme avantajını pratikte kullanılamaz kılmaktadır.
+### 3.1 Gelir Tablosu (Bin TL)
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim |
+|-------|---------|---------|---------|
+| Net Satışlar | 11,977,641 | 10,678,399 | **+%12.2** |
+| — Yurt İçi Net | ~8,532,000 | ~6,987,000 | **+%22.0 ✅** |
+| — Yurt Dışı Net | ~3,446,000 | ~3,691,000 | **-%6.6 ⚠️** |
+| Satışların Maliyeti | (9,282,027) | (8,551,134) | +%8.5 |
+| **Brüt Kâr** | **2,695,614** | **2,127,265** | **+%26.7 ✅** |
+| Brüt Kâr Marjı | **%22.51** | %19.92 | **+259 bps ✅** |
+| **EBIT (Esas Faal. Kârı)** | **1,268,956** | **584,938** | **+%117 ✅** |
+| EBIT Marjı | %10.6 | %5.5 | **+509 bps ✅** |
+| **FAVÖK** | **1,741,000** | **1,123,000** | **+%55 ✅** |
+| FAVÖK Marjı | **%14.53** | %10.52 | **+401 bps ✅** |
+| Finansman Gelirleri | 217,229 | 480,778 | -%55 |
+| Finansman Giderleri | (1,595,374) | (2,002,491) | **+%20.3 azalış ✅** |
+| Parasal Pozisyon Kaybı | (329,565) | (674,802) | iyileşti ✅ |
+| Vergi Gideri | (406,519) | (307,788) | arttı ⚠️ |
+| **Net Kâr** | **28,632** | **(674,870)** | **Kâra geçiş ✅** |
+| Net Kâr Marjı | %0.24 | -%6.32 | — |
+
+### 3.2 Kâr Kalitesi Analizi (Strateji 1.3)
+
+**SONUÇ: Net kâr meşru ama son derece zayıf — yapısal sorun yüksek borç maliyeti.**
+
+- EBIT 1.27B TL güçlü ve organik ✅
+- Esas faaliyetlerden diğer gelirler (1,190M TL): Büyük kısmı vadeli satış vade farkı geliri (1,140M TL) — Brisa'nın bayilere uzun vadeli kredili satış modelinden kaynaklanan yapısal gelir ✅
+- Esas faaliyetlerden diğer giderler (775M TL): Vadeli alış vade farkı gideri (511M TL) dahil — hammadde tedarikçilerine ertelenmiş ödeme maliyeti ✅
+- Net vade farkı katkısı: +629M TL net — gerçek iş modelinin parçası ✅
+- Net kârın zayıf olmasının tek sebebi: Finansman giderleri 1,595M TL — EBIT'i tamamen absorbe ediyor
+- Tek seferlik kalem: Q1 2026'da yok. **Düzeltilmiş net kâr = raporlanan 29M TL**
+
+### 3.3 Bilanço (Bin TL)
+
+| Kalem | 31.03.2026 | 31.12.2025 |
+|-------|-----------|-----------|
+| Nakit ve Nakit Benzerleri | 7,377,748 | 9,043,642 |
+| Kısa Vadeli Finansal Yatırımlar (Eurobond) | 1,824,634 | 1,921,111 |
+| Ticari Alacaklar (net) | 10,610,317 | 8,941,761 |
+| Stoklar | 6,157,477 | 6,841,180 |
+| **Maddi Duran Varlıklar (net)** | **26,356,032** | 26,632,297 |
+| **Toplam Varlık** | **56,306,631** | 57,256,378 |
+| Ticari Borçlar (kısa vadeli) | 9,005,258 | 9,946,393 |
+| **Toplam Finansal Borç** | **15,366,651** | 17,295,645 |
+| — Kısa Vadeli | 12,850,072 | 14,213,446 |
+| — Uzun Vadeli | 2,516,579 | 3,082,199 |
+| **Toplam Özkaynaklar** | **26,153,661** | 26,007,161 |
+
+MDV detayı: İzmit + Aksaray fabrika varlıkları ağırlıklı; 26.4B TL fiziksel varlık tabanı.
+
+### 3.4 Borçlanma Yapısı (Not 4)
+
+| Borç Türü | Ağırlıklı Faiz | Tutar (Bin TL) |
+|-----------|---------------|---------------|
+| Kısa vadeli TL banka kredileri | %28.96 | 4,206,116 |
+| Kısa vadeli TL sukuk | %37.25 | 1,454,048 |
+| Uzun vadeli TL kredi kısa vadeli kısmı | %40.65 | 3,333,085 |
+| Uzun vadeli TL tahvil kısa vadeli kısmı | %42.78 | 1,027,806 |
+| EUR krediler (çapraz kur swap korumalı) | %7.15 | 2,627,395 |
+| USD krediler (çapraz kur swap korumalı) | %2.55 | 63,292 |
+
+**Net Finansal Borç:** 4,882M TL (nakit 7,379M + yatırım 1,825M düşüldükten sonra)
+**Net Borç/FAVÖK:** **0.76x ✅** (son derece makul)
+
+EUR ve USD krediler çapraz kur/faiz swap ile korunmuş → döviz kuru riski minimize ✅
+
+Geri ödeme planı: 2026: 11.2B TL | 2027: 2.9B TL | 2028: 1.1B TL
+(2026 kısa vadeli borçlar döner kredi/faktoring ile struktural olarak çevrilmektedir)
+
+### 3.5 Nakit Akış Tablosu (Bin TL)
+
+| Kalem | Q1 2026 | Q1 2025 |
+|-------|---------|---------|
+| **İşletme Nakit Akışı** | **+1,478,858 ✅** | +967,925 |
+| Yatırım Nakit Akışı | (332,098) | (393,796) |
+| **Serbest Nakit Akışı** | **+1,146,760 ✅** | +574,129 |
+| Finansman Nakit Akışı | (1,987,308) | +1,004,028 |
+| Dönem Nakit Değişimi | (1,665,894) | +671,084 |
+
+Güçlü işletme nakit akışı ✅; nakit azalışı aktif borç ödeme programından kaynaklanıyor (kasıtlı).
 
 ---
 
-## 6. Risk Faktörleri
+## 4. Operasyonel Performans
 
-1. **Net Zarar Kalıcılık Riski:** Yüksek faiz ortamı devam ettiği sürece, finansman giderleri operasyonel kârı silmeye devam edecektir. Merkez Bankası'nın faiz indirim hızı 2026 için kritik katalizör.
+### 4.1 Satış Tonajı (Q1 2026 vs Q1 2025)
 
-2. **Halka Açıklık Riski:** %12,74 halka açıklık, hem likidite hem de kurumsal yönetim açısından ciddi bir dezavantajdır. Hakim ortaklar (Sabancı + Bridgestone = %87,26) şirketi azınlık yatırımcısının çıkarlarına her zaman uymayacak şekilde yönetebilir.
+| Segment | Q1 2026 | Q1 2025 | Değişim |
+|---------|---------|---------|---------|
+| Yurt İçi Yenileme | 30,119 ton | 20,296 ton | **+%48 ✅** |
+| Yurt İçi OE (Orijinal Ekipman) | 4,823 ton | 7,305 ton | **-%34 ⚠️** |
+| **Yurt İçi Toplam** | **34,941 ton** | **27,601 ton** | **+%27 ✅** |
+| Lassa İhracat | 12,191 ton | 13,221 ton | -%8 ⚠️ |
+| Bridgestone İhracat | 5,030 ton | 4,332 ton | **+%16 ✅** |
+| **Yurt Dışı Toplam** | **17,220 ton** | **17,553 ton** | -%2 |
+| **GENEL TOPLAM** | **52,162 ton** | **45,154 ton** | **+%16 ✅** |
+| Brüt İhracat (USD) | 85M USD | 85M USD | %0 |
 
-3. **Yönetimde İmtiyazlı Haklar:** A–G hisse grupları yönetim kuruluna üye belirleme konusunda hakim ortaklara özel haklar tanıyor; azınlık temsili kısıtlı.
+**Yorumlar:**
+- Yenileme +%48: Araç yaşı artması + ekonomik daralma döneminde sürücüler yeni araç almak yerine lastiği yeniliyor ✅
+- OE -%34: Türkiye otomobil pazarı -%4 daraldı + araç üretimi düştü (dönemsel, yapısal değil)
+- İhracat durgun: TL görece değerlenmesi + Avrupa büyüme yavaşlaması
+- **Premium HRD segment payı: %24** — pazar lideri konumunda ✅
 
-4. **Hasılat Baskısı:** Türkiye lastik pazarındaki yavaşlama ve ihracat kanallarındaki rekabet baskısı hasılatı olumsuz etkilemeye devam edebilir.
+### 4.2 Üretim ve Kapasite
 
-5. **Döviz Riski:** Üretim girdileri (kauçuk, karbon siyahı, çelik tel) dolar/euro bazında; satışlar TL bazında. TL değer kaybı maliyet baskısı yaratıyor.
+| Fabrika | Kapasite Kullanım Oranı | Değişim |
+|---------|------------------------|---------|
+| İzmit | %81.0 | +%2 |
+| Aksaray | **%97.0** | -%3 (hâlâ dolu!) |
+| Toplam Üretim | 45,502 ton | +%1 |
 
-6. **Temettü Yok (2026):** FY2025 net zarar nedeniyle 2026'da temettü dağıtımı beklenmemektedir.
+Aksaray pratikte tam kapasitede ✅; İzmit'te %19 potansiyel büyüme kapasitesi mevcut.
+
+### 4.3 Pazar Bağlamı
+
+- 2026 Türkiye yenileme lastik pazarı büyüme beklentisi: **%4** (Global Data tahmini)
+- Brisa Yenileme kanalında pazar payı kazanıyor ✅
+- Lassa, Avrupa'da 11 ülkede pazar payı artışı (Almanya, Hollanda, Portekiz dahil)
+- Türkiye binek + HCV yenileme pazarı büyümesi: +%8 ve +%11
 
 ---
 
-## 7. Güçlü Yanlar (Neden Takip Listesinde Kalabilir)
+## 5. Değerleme
 
-1. **Güçlü Marka:** Bridgestone lisansı + Lassa markası, Türkiye lastik pazarında köklü konumlanma.
-2. **Fabrika Yatırımı:** Aksaray'a 402,4 milyon USD toplam yatırım — kapasite ve maliyet avantajı.
-3. **Düşük Net Borç:** Net Borç/FAVÖK 0,91x — faiz ortamı normalleşirse hızla kâra dönebilir.
-4. **Güçlü Serbest Nakit:** 5.610 M TL SNA, şirketin nakit üretim kapasitesinin sağlam olduğunu gösteriyor.
-5. **Arvento Potansiyeli:** Filo yönetim ve lastik servis ağı entegrasyonu, B2B segmentte uzun vadeli marj desteği.
+| Metrik | Değer | Yorum |
+|--------|-------|-------|
+| Piyasa Değeri (PD) | ~26.4B TL | |
+| Net Finansal Borç | ~4.9B TL | |
+| Firma Değeri (FD) | ~31.3B TL | |
+| Annualized FAVÖK (~Q1×4) | ~7.0B TL | |
+| **FD/FAVÖK** | **~4.5x** | Ucuz/Makul |
+| P/BV | ~1.0x | Deftere eşit |
+| P/E (görünen, annualize) | ~231x | Yanıltıcı — borç maliyeti |
+| **ROE** | **~%0.4/yıl** | Çok düşük ⚠️ |
+| Net Borç/FAVÖK | **0.76x** | Güçlü ✅ |
+| Serbest Nakit Akışı (ann.) | ~4.6B TL | Borç ödemede kullanılıyor |
+
+**P/E neden bu kadar yüksek?** EBIT (~5B TL/yıl) finansman yüküne (~6-7B TL/yıl) yeniliyor. Hissedar için net kâr neredeyse sıfır. Faiz düşüşüyle bu ilişki hızla tersine döner.
+
+**Temettü:** 2025 dönem zararı nedeniyle dağıtılmadı. Politika: dağıtılabilir kârın %30'u.
 
 ---
 
-## 8. Karar Gerekçesi ve Yeniden Değerlendirme Kriterleri
+## 6. Güçlü Yanlar
 
-BRISA, düşük halka açıklık (%12,74) ve FY2025 net zararı nedeniyle **ALMA** kararı almaktadır.
+1. **Oligopolistik Pazar:** Türkiye lastik pazarında dominant iki oyuncudan biri; fiyat koyma gücü var ✅
+2. **Bridgestone Ortaklığı:** Küresel teknoloji lideriyle teknoloji transferi + marka gücü + know-how ✅
+3. **Bilanço Sağlığı:** Net Borç/FAVÖK 0.76x — düşük kaldıraç, çoğu sektör arkadaşından iyi ✅
+4. **Operasyonel Momentum:** FAVÖK +%55, brüt kâr marjı genişliyor, satış hacmi artıyor ✅
+5. **Fiyat Koyma Gücü:** Brüt marj %22.5 (+259 bps) — enflasyonu marjlara yansıtıyor ✅
+6. **Güçlü Nakit Üretimi:** FCF 1.1B TL/çeyrek — makinenin yağı var ✅
+7. **Aksaray Tam Kapasite:** 407.6M USD yatırım meyvelerini veriyor; fabrika dolu ✅
+8. **Arvento:** IoT/filo/EV şarj platformu — dijital mobilite geleceğinde seçenek değeri ✅
+9. **Döviz Riski Korumalı:** EUR/USD krediler swap ile hedge edilmiş ✅
+10. **Premium Segment Liderliği:** HRD %24 pazar payı — kârlılık artışına katkı ✅
 
-**Kırmızı Bayraklar:**
-- Halka açıklık %12,74 → Likidite düşük, yatırımcı koruması zayıf ❌
-- FY2025 net zarar (1.088 M TL) → Yüksek faiz finansman gideri kârı sildi ❌
-- 2026 temettüsü yok ❌
+---
 
-**Pozitif Değerlendirme Kriterleri (yeniden değerlendirme için):**
-- Merkez Bankası politika faizinin belirgin şekilde düşmesi ve finansman giderlerinin 4.000 M TL altına gerilemesi
-- Şirketin net kâra dönmesi ve EPS'nin pozitife geçmesi
-- Halka açıklık oranında artış (SPO veya mevcut ortakların hisse satışı)
+## 7. Riskler
 
-**KARAR: 🔴 ALMA**
+### 7.1 Yüksek TL Borçlanma Maliyeti [KRİTİK]
+- TL borçlar için efektif faiz %29-43 — yüksek enflasyon ortamının yapısal yansıması
+- Yıllık finansman gideri tahmini: 5.5-6B TL → annualized EBIT (~5B TL) ile başabaş
+- TCMB faiz indirimleri olmadan gerçek net kâr üretimi yok
+- Bu risk zamanla çözülecek — ama ne zaman?
+
+### 7.2 Rekabet Kurumu Soruşturması [ÖNEMLİ]
+- Otomotiv lastik sektöründe 4054 sayılı Kanun kapsamında soruşturma aktif
+- 2025 sonunda Brisa ihtiyatlılık gereği **392M TL karşılık** ayırdı
+- Rekabet cezaları satışların %10'una kadar çıkabilir (yıllık satış ~48B TL → maks. ~4.8B TL)
+- Sonuç belirsizliği near-term baskı unsuru
+
+### 7.3 Toplu İş Sözleşmesi Krizi [YAKIN VADE]
+- 24. Dönem TİS görüşmeleri başladı; resmi arabulucu atandı (15 Nisan 2026)
+- Çalışanların %74'ü (2,534/3,417 kişi) TİS kapsamında
+- Aksaray fabrikası %97-100 KKO'da çalışıyor → grev üretimi doğrudan durdurur
+- Anlaşmazlık uzarsa ciddi operasyonel risk
+
+### 7.4 İhracat Baskısı
+- Lassa ihracatı -%8, brüt USD ihracat flat (%0)
+- TL'nin görece değerlenmesi + Avrupa büyüme yavaşlaması çift taraflı baskı
+- AB Euro 7 düzenlemeleri lastik aşınma emisyonlarını kapsama alıyor → teknik uyum maliyeti
+
+### 7.5 OE Segmenti Zayıflığı
+- Türkiye OE -%34 — otomotiv üretimi daralması etkisi (dönemsel değil, piyasa yapısal)
+- Öte yandan OE marjları yenileme marjlarının altında → OE düşüşü kârlılığa net olumlu etkisi var (paradoks)
+
+### 7.6 Ertelenmiş Vergi Baskısı
+- Enflasyon muhasebesinin yasal defterlerde uygulanmamasına ilişkin vergi mevzuatı değişikliği nedeniyle Q1 2026'da ertelenmiş vergi gideri arttı
+- Bu durum near-term nakit vergi yükünü artırabilir
+
+---
+
+## 8. Alım Seviyeleri
+
+**MEVCUT KARAR: 🟡 İZLE — KATALİZÖR BEKLENIYOR**
+
+BRISA portföyde **SAHOL üzerinden dolaylı olarak mevcut** (Sabancı Holding %43.63 ortak). Direkt BRISA alımı için aşağıdaki katalizörlerin teyidi bekleniyor:
+
+| Seviye | Fiyat Aralığı | Koşul | Aksiyon |
+|--------|--------------|-------|---------|
+| Mevcut | ~86.4 TL | Katalizör yok | **Bekle** |
+| İzleme | 78-85 TL | TİS/soruşturma gelişmelerini izle | İzle |
+| Küçük Başlangıç | 68-77 TL | TCMB faiz indirimi görünür olursa | Küçük lot |
+| Ağırlıklı Alım | 58-67 TL | Faiz indirimi + soruşturma netleşmesi | Ağırlıklı |
+| Tezi Sorgula | <55 TL | Yapısal bozulma var mı? | Gözden geçir |
+
+---
+
+## 9. Tarihsel Bağlam
+
+- **Q1 2025:** Net Zarar -674.9M TL; yüksek faiz yükü + parasal kayıp etkisi
+- **FY2025:** Dönem zararı → temettü dağıtılamadı (25 Mart 2026 OGK kararı)
+- **Mart 2022:** Arvento Mobil Sistemler satın alındı — IoT/filo yönetimi büyüme vektörü
+- **2015-2026:** Aksaray fabrikasına toplam 407.6M USD yatırım (büyük ölçüde tamamlandı)
+- **1986:** BIST'te halka açıldı (Türkiye borsasının ilk dönem şirketlerinden)
+- **Rekabet soruşturması:** 2024'te başlatıldı, devam ediyor
+
+---
+
+## 10. Sonuç
+
+Brisa operasyonel açıdan güçlü bir toparlanma içindedir: FAVÖK +%55, satış hacmi +%16, brüt kâr marjı 259 bps genişledi, serbest nakit akışı 1.1B TL. Bilanço sağlıklı (Net Borç/FAVÖK 0.76x). Bununla birlikte %29-43 aralığındaki TL borçlanma faizleri bu operasyonel performansın hissedar getirisine dönüşmesini tamamen engelliyor. Net Kâr 29M TL — sadece %0.24 marjla.
+
+Gerçek bir yatırım fırsatı için TCMB faiz indirimlerinin somutlaşması şart. SAHOL üzerinden dolaylı maruziyet mevcut; direkt pozisyon için faiz ortamının değişimi bekleniyor.

@@ -53,7 +53,7 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 
 ### 2.1. Q1 2026 Analiz İterasyonu (1 Mayıs 2026)
 
-*   **DURUM:** Q1 2026 (31.03.2026 biten üç aylık dönem) bilanço sezonu. Bu iterasyonda EREGL, YKBNK, THYAO, YYLGD, KORDS, AGESA, VESBE, KAREL ve ENJSA analizleri tamamlandı.
+*   **DURUM:** Q1 2026 (31.03.2026 biten üç aylık dönem) bilanço sezonu. Bu iterasyonda EREGL, YKBNK, THYAO, YYLGD, KORDS, AGESA, VESBE, KAREL, ENJSA ve BRISA analizleri tamamlandı.
 *   **ANA BULGULAR:**
     *   **THYAO (🟡 revize):** "Kâra geçiş" haberi yanıltıcı. Esas faaliyet zararda (-2,451M TL); net kâr (9,856M TL) büyük ölçüde finansal yatırım faiz gelirinden (15,226M TL) ve ertelenmiş vergi gelirinden (5,538M TL) oluşuyor. FAVÖK +%47.7 (olumlu) ama operasyonel turnaround Q2 2026 ile test edilecek. Karar 🟢 → 🟡 revize edildi.
     *   **AGESA (🟢 teyit):** Q1 2026 net kâr +%48.6 → 1,758M TL, EPS 9.77 TL. BES AUM rekor 441.2B TL (+%9.9 çeyrekte). Hayat dışı hasar oranı %82.6 (izlenmeli) ama genel tez güçlendi. Temettü 6.94 TL ödendi (+%24.8 büyüme).
@@ -63,7 +63,8 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **YENİ ANALİZLER (4-5 Mayıs 2026):**
     *   **KAREL (🔴 Kesinlikle Uzak Dur):** İmtiyazlı hisse (A/B grubu 2x oy + YK atama imtiyazı) → strateji gereği mutlak red. Ek: Borç/Özsermaye %310.9, süregelen net zarar, EMS -%35.6 marj, ~%54 seyreltme riski. Saklı değer var (Ford Trucks IVI, DS200T ihracatı) ama imtiyaz sorunu çözülmeden yaklaşılmaz.
     *   **ENJSA (🟡 İzle — Geri Çekilmede Al):** Düzenlenmiş elektrik dağıtım monopolü. DVT +%26 tek çeyrekte, WACC iyileştirildi, finansman maliyeti %10 geriledi. 2026 baz P/E 11-13x, temettü verimi %4.5-5.3. İmtiyazlı pay yok ✅. Mevcut fiyat (124 TL) 52H zirvesine çok yakın → geri çekilme bekleniyor.
-*   **GENEL STRATEJİ:** Çekirdek varlıklarda (TCELL, SISE, TUPRS, AGESA, SAHOL) pozisyonu koru. THYAO'da yeni alım yok — Q2 2026 esas faaliyet kârlılığı teyidi bekleniyor. KORDS'ta kademeli pozisyon açılabilir (turnaround devam ediyorsa). VESBE ve KAREL'e kesinlikle dokunma. ENJSA'yı geri çekilmelerde (108-115 TL) izle.
+    *   **BRISA (🟡 İzle — Faiz İndirimleri Hızlanınca Değerlendir):** Türkiye lastik pazarı lideri. FAVÖK +%55, satış hacmi +%16, brüt kâr marjı %22.5 (+259 bps), Net Borç/FAVÖK 0.76x — operasyonel performans güçlü. Ancak TL borçlanma faizi %29-43 EBIT'i absorbe ediyor → net kâr yalnızca 29M TL. Yapısal sorun yüksek faiz yükü; TCMB indirimleri hızlanırsa net kâr katlanır. Önemli riskler: Rekabet Kurumu soruşturması (392M TL karşılık ayrıldı), TİS krizinde resmi arabulucu. SAHOL üzerinden dolaylı maruziyet mevcut → direkt pozisyon için katalizör bekleniyor.
+*   **GENEL STRATEJİ:** Çekirdek varlıklarda (TCELL, SISE, TUPRS, AGESA, SAHOL) pozisyonu koru. THYAO'da yeni alım yok — Q2 2026 esas faaliyet kârlılığı teyidi bekleniyor. KORDS'ta kademeli pozisyon açılabilir (turnaround devam ediyorsa). VESBE ve KAREL'e kesinlikle dokunma. ENJSA'yı geri çekilmelerde (108-115 TL) izle. BRISA'yı faiz indirimi + soruşturma netleşmesiyle değerlendir (68-77 TL başlangıç seviyesi).
 
 ---
 
@@ -165,6 +166,14 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **52H:** 40.40 – 131.30 TL | Detay: `hisse-analiz/ECILC.md`
 
 ### B) İzleme / Yeniden Değerlendirme Listesi
+
+#### BRISA (Brisa Bridgestone Sabancı Lastik) — Q1 2026 İncelendi
+*   **HÜKÜM:** 🟡 İZLE — FAİZ İNDİRİMLERİ HIZLANINCA DEĞERLENDİR (@ 86.4 TL — 05.05.2026)
+*   **Özet:** Türkiye lastik pazarı lideri. FAVÖK +%55 YoY (1.74B TL), brüt kâr marjı %22.5 (+259 bps), satış hacmi +%16 — operasyonel momentum güçlü. Bununla birlikte TL borçlanma faizi %29-43, yıllık finansman gideri EBIT'i absorbe ediyor → net kâr yalnızca 29M TL (%0.24 marj). Net Borç/FAVÖK 0.76x ile bilanço sağlıklı. FD/FAVÖK ~4.5x — ucuz ama faiz koşulları düzelmeden hissedar getirisi üretilemiyor.
+*   **Neden Şimdi Almıyoruz:** (1) Rekabet Kurumu soruşturması devam ediyor (392M TL karşılık ayrıldı, ceza riski yüksek); (2) Toplu İş Sözleşmesi arabulucu sürecinde — Aksaray %97-100 KKO'da; grev riski ciddi; (3) SAHOL portföyde → dolaylı maruziyet zaten mevcut.
+*   **Katalizörler:** TCMB faiz indirimlerinin hızlanması + soruşturma netleşmesi + TİS anlaşması
+*   **Alım Seviyeleri:** 🟡 78-85 TL → İzle | 🟢 68-77 TL → Küçük başlangıç (faiz indirimi görünür olursa) | 🟢🟢 58-67 TL → Ağırlıklı alım | 🛑 <55 TL → Tezi sorgula
+*   **Detay:** `hisse-analiz/BRISA.md`
 
 #### ENJSA (Enerjisa Enerji) — Q1 2026 İncelendi
 *   **HÜKÜM:** 🟡 İZLE — GERİ ÇEKİLMEDE KADEMELİ AL (@ 124.0 TL — 05.05.2026)

@@ -1,244 +1,256 @@
 # MGROS — Migros Ticaret A.Ş.
 
-**Sektör:** Perakende (Süpermarket / Hipermarket)
-**Son Güncelleme:** 06.03.2026
-**Kaynak Rapor:** FY2025 (31.12.2025) Konsolide Finansal Tablolar — KAP yayın tarihi 05.03.2026
-**Birim:** Bin TL (TMS 29 — 31.12.2025 alım gücüyle yeniden düzenlenmiş)
-**Denetçi:** PwC
+**Son Güncelleme:** 6 Mayıs 2026 (Q1 2026 Finansal Raporu Analizi)
+**Sektör:** Gıda Perakendeciliği
+**Ana Ortaklık:** AG Anadolu Grubu Holding A.Ş. (MH Perakendecilik üzerinden dolaylı %49.18)
+**Karar:** 🟡 İZLE — Faiz indirim döngüsüne girildiğinde değerlendir
 
 ---
 
-## KARAR: 🟡 İZLE / Ucuz Görünüyor Ama TMS 29 Riski Var
+## 1. Yatırım Tezi (Özet)
+
+Migros, Türkiye'nin en büyük süpermarket zinciridir (3.785 perakende mağaza, 2.09M m² satış alanı). Savunmacı karakterde bir iç piyasa şirketi olup Avrupa maruziyeti yoktur. Q1 2026 itibarıyla reel hasılat büyümesi devam ediyor, güçlü nakit pozisyonu (28.9B TL) ve minimum finansal borç (795M TL) dikkat çekicidir.
+
+Ancak gelir tablosunun kârlılık görüntüsü yanıltıcıdır. Esas faaliyet zarardadır; net kâr neredeyse tamamen TMS 29 net parasal kazancından kaynaklanmaktadır. Gerçek baskı kaynağı, tedarikçilere yapılan vadeli alımların DİBS bağlantılı faiz gideridir (Q1 2026: 5.3B TL, yıllıklandırılmış ~21B TL). TCMB faiz indirimleri bu giderin hızlı çözücüsü olmakla birlikte, Mayıs 2026 itibarıyla enflasyon yüksek geldi → TCMB faiz indirimlerine ara veriyor. Ana katalizör ertelendi.
+
+Buna karşın, işletme nakdi güçlü (+6.7B TL/çeyrek), FCF sürdürülebilir ve savunmacı sektör yapısı zor makro ortamda bile dayanç sağlıyor. 52 haftalık zirvesine yakın seviyede (681 TL vs 698.5 TL zirve) giriş yapmak istenmiyor; geri çekilme bekleniyor.
 
 ---
 
-## Ortaklık Yapısı
+## 2. Şirket Yapısı
 
-| Hissedar | Pay (%) |
+| Parametre | Değer |
 |---|---|
-| AG Anadolu Grubu Holding A.Ş. (dolaylı) | %50.00 |
-| **Halka Açık** | **~%50.00** |
+| Hisse adedi | 18.105 milyar adet (1 kuruş nominal) |
+| Çıkarılmış nominal sermaye | 181.054M TL |
+| Geri alınan paylar | ~%1.64 (kendi hisseleri) |
+| Halka açıklık | ~%49.18 (Diğer) |
+| İmtiyazlı pay | Yok (tek sınıf hisse) ✅ |
+| Mağaza sayısı (31.03.2026) | 3.785 perakende + 27 toptan = 3.812 |
+| Satış alanı | 2.090.129 m² |
+| Çalışan sayısı | 62.453 |
 
-Anadolu Grubu kontrolündeki Türkiye'nin lider süpermarket zinciri. Şerefiye (26.3 Milyar TL) ağırlıklı olarak tarihsel satın almalardan kaynaklanıyor.
+**Ortaklık yapısı:**
+- MH Perakendecilik ve Ticaret A.Ş. (Anadolu Grubu): **%49.18**
+- Migros Ticaret A.Ş. (geri alınan): %1.64
+- Halka açık: **%49.18**
+
+Halka açıklık %49.18 → stratejide "duruma göre değerlendir" bandında (30-70 arası). Anadolu Grubu efektif kontrol sağlıyor; imtiyazlı hisse yok.
 
 ---
 
-## Piyasa Verileri (06.03.2026)
+## 3. Q1 2026 Finansal Özet
 
-| Gösterge | Değer |
-|---|---|
-| Hisse Fiyatı | 597.50 TL |
-| 52H Aralığı | 415.50 – 698.50 TL |
-| Zirveden Mesafe | -%14.5 |
-| Piyasa Değeri | ~99.5 Milyar TL |
-| Hisse Sayısı | ~166.6 Milyon adet |
+*(TMS 29 — 31 Mart 2026 satın alma gücüyle; karşılaştırma Q1 2025 × 1.30865 katsayısıyla reel bazda)*
 
----
+### 3.1 Gelir Tablosu
 
-## FY2025 Özet Finansallar (Bin TL, TMS 29)
-
-### Gelir Tablosu
-
-| Kalem | FY2025 | FY2024 | Değişim |
+| Kalem | Q1 2026 (M TL) | Q1 2025 (M TL) | Reel Değişim |
 |---|---|---|---|
-| **Hasılat** | **412,756,429** | **384,534,078** | **+7.3%** |
-| Satışların Maliyeti | (312,409,547) | (285,416,003) | +9.5% |
-| **Brüt Kâr** | **100,346,882** | **88,814,979** | **+13.0%** |
-| Brüt Kâr Marjı | %24.3 | %23.1 | +1.2 pp |
-| Genel Yönetim Giderleri | (7,577,297) | (6,834,490) | +10.9% |
-| Pazarlama Giderleri | (81,519,659) | (74,213,046) | +9.8% |
-| Esas Faaliyet Diğer Gelirler | 3,241,016 | 3,285,308 | — |
-| **Esas Faaliyet Diğer Giderler** | **(22,743,546)** | **(23,304,061)** | — |
-| **ESAS FAALİYET ZARARI (EBIT)** | **(8,252,604)** | **(12,251,310)** | — |
-| Yatırım Geliri (net) | 88,690 | 1,180,407 | — |
-| Finansman Gelirleri | 8,440,595 | 10,010,640 | — |
-| Finansman Giderleri | (12,068,915) | (12,261,174) | — |
-| **Net Parasal Kazanç (TMS 29)** | **21,102,605** | **20,697,551** | — |
-| **Vergi Öncesi Kâr** | **9,310,371** | **7,376,114** | **+26.2%** |
-| Vergi | (2,516,838) | (3,154,012) | — |
-| **Net Kâr (Ana Ortaklık)** | **6,467,130** | **4,184,430** | **+54.6%** |
-| **EPS (TL/hisse)** | **38.81** | **25.10** | **+54.6%** |
+| **Hasılat** | **109.237** | **102.646** | **+%6.4** |
+| Satışların maliyeti | -83.502 | -77.759 | — |
+| **Brüt kâr** | **25.735** | **24.887** | **+%3.4** |
+| *Brüt kâr marjı* | *%23.6* | *%24.2* | *-60 bps* |
+| Genel yönetim giderleri | -2.244 | -2.025 | — |
+| Pazarlama giderleri | -23.254 | -22.164 | — |
+| Esas faaliyetlerden diğer gelirler | +723 | +888 | — |
+| Esas faaliyetlerden diğer giderler | -5.628 | -5.556 | — |
+| **Esas faaliyet ZARARI** | **-4.669** | **-3.969** | **-%17.7 kötüleşme** |
+| Net parasal pozisyon kazancı (TMS 29) | +9.068 | +7.715 | — |
+| Finansman gelirleri | +1.171 | +2.151 | — |
+| Finansman giderleri | -2.747 | -3.201 | — |
+| Vergi öncesi kâr | 2.816 | 2.687 | — |
+| Vergi gideri | -1.206 | -1.337 | — |
+| **Net dönem kârı** | **1.610** | **1.350** | **+%19.3** |
+| *Ana ortaklık payı* | *1.598* | *1.284* | — |
+| EPS (TL/lot) | 8.83 | 7.09 | — |
 
-**⚠️ KRİTİK UYARI:** Net kâr tamamen TMS 29 parasal kazancına (21.1 Milyar TL) bağımlı. Parasal kazanç arındırıldığında şirket ZARAR ediyor.
-TMS 29 normalize net kâr ≈ 6,467 - 21,103 × (1-0.27) ≈ **-8,938 Milyon TL (ZARAR)**
+### 3.2 FAVÖK
 
----
+| Kalem | Q1 2026 | Q1 2025 | Reel Değ. |
+|---|---|---|---|
+| **FAVÖK (TFRS 16 dahil)** | **5.299M TL** | **4.733M TL** | **+%11.9** |
+| **FAVÖK (TFRS 16 hariç)** | **2.548M TL** | **2.629M TL** | **-%3.1** |
+| FAVÖK marjı (TFRS 16 dahil) | %4.85 | %4.61 | +24 bps |
 
-### FAVÖK — İki Perspektif
+**Not:** TFRS 16 dahil FAVÖK'te büyüme var; ancak "gerçek" FAVÖK (TFRS 16 hariç) hafif gerilemekte. Kira bileşeni FAVÖK görüntüsünü şişirmektedir.
 
-#### Standart FAVÖK (EBIT + D&A)
+### 3.3 Nakit Akışı
 
-| Kalem | FY2025 | FY2024 |
+| Kalem | Q1 2026 (M TL) | Q1 2025 (M TL) |
 |---|---|---|
-| EBIT | (8,252,604) | (12,251,310) |
-| + Amortisman ve İtfa (TFRS 16 kira dahil) | 16,070,079 | 14,533,085 |
-| **FAVÖK (Standart)** | **7,817,475** | **2,281,775** |
-| FAVÖK Marjı | **%1.9** | %0.6 |
+| **İşletme faaliyetlerinden nakit** | **+6.723** | **+281** |
+| Yatırım faaliyetleri (capex) | -2.934 | -2.639 |
+| Finansman faaliyetleri | -2.747 | -2.070 |
+| Ödenen faiz (işletme + finansman) | -5.407 | — |
+| Alınan faiz | +546 | — |
+| **Nakit değişimi (düzeltme öncesi)** | **+1.042** | **-4.428** |
+| TMS 29 parasal kayıp etkisi | -2.712 | -2.592 |
+| Dönem sonu nakit | **28.910M TL** | — |
 
-#### Düzeltilmiş FAVÖK (Vadeli Alım Faiz Gideri Hariç)
+İşletme nakdi çok güçlü (+6.7B TL); 2025 Q1'e göre dramatik iyileşme. Vadeli alım ticari borç azalması bunun temel kaynağı.
 
-Esas Faaliyetlerden Diğer Giderler içindeki **"Vadeli alım faiz gideri: 22,096,450 Bin TL"** tutarı, aslında tedarikçilerden vadeli alım yapmanın implicit finansman maliyetidir (ort. DİBS oranı: %42.7 — Dipnot 18). Ticari borç finansmanı olarak değerlendirilmesi gerektiğinden sektör analistleri bu kalemi sıklıkla FAVÖK dışında tutar.
+### 3.4 Bilanço Özeti
 
-| Kalem | FY2025 |
-|---|---|
-| EBIT (Düzeltilmiş) | +13,843,846 |
-| + Amortisman | 16,070,079 |
-| **Adj. FAVÖK** | **29,913,925** |
-| Adj. FAVÖK Marjı | **%7.25** |
-
----
-
-### Bilanço Özeti (Bin TL)
-
-| Kalem | 31.12.2025 | 31.12.2024 |
+| Kalem | 31.03.2026 | 31.12.2025 |
 |---|---|---|
-| Nakit ve Nakit Benzerleri | 27,783,954 | — |
-| KV Finansal Yatırımlar | 126,509 | — |
-| Stoklar | 41,241,056 | — |
-| Toplam Dönen Varlıklar | 76,260,429 | — |
-| Maddi Duran Varlıklar | 48,302,284 | — |
-| **Kullanım Hakkı Varlıkları (TFRS 16)** | **49,814,245** | — |
-| Şerefiye | 26,267,408 | — |
-| Maddi Olmayan Duran Varlıklar | 8,206,155 | — |
-| Toplam Duran Varlıklar | 133,322,850 | — |
-| **Toplam Varlıklar** | **209,583,279** | — |
+| **Nakit ve nakit benzerleri** | **28.910M TL** | **30.573M TL** |
+| Stoklar | 42.671M TL | 45.382M TL |
+| Ticari alacaklar | 2.392M TL | 2.760M TL |
+| **Toplam dönen varlıklar** | 79.482M TL | 83.917M TL |
+| Maddi duran varlıklar | 53.487M TL | 53.152M TL |
+| Kullanım hakkı varlıkları (TFRS 16) | 57.544M TL | 54.816M TL |
+| Şerefiye | 28.905M TL | 28.905M TL |
+| **Toplam varlıklar** | **229.678M TL** | **230.625M TL** |
+| **Ticari borçlar** | **79.369M TL** | **87.837M TL** |
+| Kısa vadeli kiralama borçları | 4.811M TL | 6.632M TL |
+| **Finansal borçlar (banka kredisi)** | **795M TL** | **851M TL** |
+| Uzun vadeli kiralama borçları | 30.935M TL | 27.512M TL |
+| **Toplam kiralama borçları** | **35.746M TL** | **34.144M TL** |
+| **Toplam özsermaye** | **89.201M TL** | **87.936M TL** |
 
-| Kalem | 31.12.2025 |
-|---|---|
-| Ticari Borçlar (tedarikçi) | 79,822,747 |
-| UV Banka Kredisi KV kısmı | 95,561 |
-| UV Kira KV Kısmı (TFRS 16) | 6,027,284 |
-| Toplam KV Yükümlülükler | 96,259,374 |
-| UV Banka Kredileri | 677,444 |
-| UV Kira Borcu (TFRS 16) | 25,001,441 |
-| Toplam UV Yükümlülükler | 33,411,199 |
-| **Ana Ortaklığa Ait Özkaynaklar** | **79,034,025** |
-| **Toplam Kaynaklar** | **209,583,279** |
+---
 
-### Borç Analizi
+## 4. Kâr Kalitesi Analizi (GENEL_STRATEJİ 1.3 İlkesi)
 
-| | Kira Hariç | Kira Dahil (TFRS 16) |
+> ⚠️ **NET KÂR YANILTICI — ESAS FAALİYET ZARARDA**
+
+**Net kâr 1.610M TL'nin kaynakları:**
+
+| Kaynak | Tutar (M TL) | Pay |
 |---|---|---|
-| Toplam Finansal Borç | 773,005 | 31,801,730 |
-| Nakit + KV Finansal | (27,910,463) | (27,910,463) |
-| **Net Nakit / (Borç)** | **+27,137,458 → NET NAKİT** | **3,891,267 → Net Borçlu** |
+| Esas faaliyet zararı | -4.669 | — |
+| Yatırım net | -7 | — |
+| Finansman net (gider > gelir) | -1.576 | — |
+| **Net parasal pozisyon kazancı (TMS 29)** | **+9.068** | **%563** |
+| Vergi gideri | -1.206 | — |
+| **Net kâr** | **1.610** | **%100** |
 
-**Kira hariç güçlü NET NAKİT konumu.** Ticari borçlar (79.8 Milyar TL) tedarikçi finansmanını temsil ediyor — bu vadeli alım kaynaklı parasal yükümlülük TMS 29'da büyük parasal kazanç üretiyor.
+Net kâr tamamen **TMS 29 enflasyon muhasebesi etkisinden** kaynaklanmaktadır. Şirketin büyük ticari borç kütlesi (79.4B TL) ve kira borçları (35.7B TL) enflasyonla erimekte, bu parasal kazanç olarak raporlanmaktadır. Gerçek operasyonel kârlılık yoktur.
+
+**Düzeltilmiş esas faaliyet kârı (TFRS 16 hariç):**
+- FAVÖK (TFRS 16 hariç): 2.548M TL
+- Amortisman (TFRS 16 hariç): -1.803M TL
+- **EBIT (TFRS 16 hariç):** ~745M TL
+- Mevduat faiz geliri: +1.171M TL
+- TFRS 16 kira faizi: -1.600M TL
+- **"Gerçek" vergi öncesi kâr:** ~316M TL/çeyrek
+
+Esas operasyonun kırılganlığı **vadeli alım faiz yükünden** kaynaklanmaktadır.
 
 ---
 
-### Nakit Akışı
+## 5. Yapısal Baskı: Vadeli Alım Faiz Gideri
 
-| Kalem | FY2025 | FY2024 |
+Migros, tedarikçilerden vadeli (kredi) alım yapmaktadır. Bu vadeli alımlar DİBS faiz oranından peşin değere indirgenip her dönem fark "vadeli alım faiz gideri" olarak kaydedilmektedir.
+
+| Dönem | Oran (ortalama) | Vadeli Alım Faiz Gideri |
 |---|---|---|
-| **İşletme CFO** | **28,655,001** | **22,956,430** |
-| CAPEX (maddi + maddi olmayan) | (13,813,419) | (12,048,000) |
-| **Serbest Nakit Akışı (FCF)** | **~14,841,582** | **~10,908,430** |
-| **FCF Yield** | **~%14.9** | — |
-| Kira Ödemeleri (TFRS 16) | (8,140,985) | — |
-| Ödenen Temettü | (2,059,095) | — |
+| Q1 2025 | %43.9 | 5.395M TL |
+| Q1 2026 | **%36.5** | **5.316M TL** |
 
-**Not:** Yüksek CFO (28.6 Milyar TL) kısmen ticari borçlar artışından (tedarikçi finansman genişlemesi) kaynaklanıyor. TMS 29 parasal kazanç nakit etkisi yoktur ve CFO'dan elimine edilir.
+Her 100 baz puan faiz düşüşü → çeyrek başına yaklaşık **145M TL** kâr artışı.
+TCMB faizleri %10-15 daha düşerse → **1.5-2.2B TL/çeyrek** kâr iyileşmesi.
+
+**Önemli:** Mevduat faizi (1.171M TL) de düşer. Net pozisyon:
+- Vadeli alım gideri azalması (olumlu): büyük
+- Mevduat geliri azalması (olumsuz): küçük
+- **Net: TCMB faiz indirimleri Migros için net pozitif**
 
 ---
 
-## Değerleme Çarpanları
+## 6. Değerleme
 
-### Standart (Raporlanan) FAVÖK Bazlı
+**Piyasa verileri:**
+- Son fiyat: **681 TL** (06.05.2026)
+- 52 haftalık yüksek: 698.5 TL
+- 52 haftalık düşük: 415.5 TL
+- Piyasa değeri: **~123.3 milyar TL** (181M lot × 681 TL)
 
-| Çarpan | Değer | Yorum |
+| Metrik | Değer | Yorum |
 |---|---|---|
-| Piyasa Değeri | 99.5 Milyar TL | |
-| Firma Değeri (EV, kira dahil) | 103.4 Milyar TL | |
-| **F/K (raporlanan)** | **15.39x** | ⚠️ TMS 29 şişirmeli |
-| **F/K (TMS 29 normalize)** | **Negatif** | 🔴 TMS 29 kaldırılınca zarar |
-| **EV/FAVÖK (standart)** | **13.23x** | 🔴 Pahalı |
-| **EV/Hasılat** | **0.25x** | 🟢 Çok ucuz |
-| **PD/DD** | **1.26x** | Makul |
-| **FCF Yield** | **~%14.9** | 🟢 Cazip |
-| Net Borç/FAVÖK (kira dahil) | 0.50x | 🟢 Düşük |
-| Temettü Verimi | ~%2.1 | (12.36 TL/hisse ödenen) |
+| P/E (annualize, TMS 29 dahil) | ~19x | Yanıltıcı — kâr TMS 29 etkisi |
+| FAVÖK (TFRS 16 dahil, Q1×4) | ~21.2B TL | — |
+| FD/FAVÖK (TFRS 16 dahil) | ~5.8x | Makul |
+| FAVÖK (TFRS 16 hariç, Q1×4) | ~10.2B TL | — |
+| Net nakit (borç hariç kira) | +28.1B TL | Güçlü |
+| EV (TFRS 16 hariç) | ~95.2B TL | — |
+| FD/FAVÖK (TFRS 16 hariç) | ~9.3x | Biraz pahalı |
+| FCF yield (işletme-capex, Q1×4) | ~12.3% | Cazip |
+| FCF yield (kira ödemeleri dahil) | ~4.2% | Sınırlı |
 
-### Düzeltilmiş FAVÖK Bazlı (Vadeli Alım Hariç)
+**Değerleme özeti:** Kira ödemeleri hariç tutulursa görece cazip; kira ödemeleri dahil edilirse sınırlı getiri. Türk perakende sektöründe FD/FAVÖK (TFRS 16 hariç) 7-9x normal aralık. Mevcut seviye (9.3x) hafif primli.
 
-| Çarpan | Değer | Yorum |
+---
+
+## 7. Riskler
+
+### 7.1 Ana Risk — Vadeli Alım Faiz Yükü [KRİTİK]
+TCMB faiz indirimlerine ara verecek. Yıllık ~21B TL vadeli alım faiz gideri devam ediyor. Esas faaliyet zararının devamı sürüyor.
+
+### 7.2 TMS 29 Net Kâr Yanılsaması
+Yatırımcıların "kâra geçiş" veya "kâr artışı" haberlerini pozitif yorumlaması riski. Gerçek kârlılık çok daha düşük.
+
+### 7.3 Kira Yükü (TFRS 16)
+35.7B TL kiralama borcu, yıllık ~11B TL kira ödemesi. Mağaza ağı büyümesiyle artmaya devam ediyor.
+
+### 7.4 Brüt Kâr Marjı Baskısı
+Q1 2026'da brüt kâr marjı %23.6 (Q1 2025: %24.2, -60 bps). Rekabet yoğunlaşması marjları baskılıyor.
+
+### 7.5 Mevduat Geliri Düşüşü
+Faiz indirimlerinde 28.9B TL nakitten elde edilen mevduat geliri de düşecek. Q1 2025: 2.043M TL → Q1 2026: 1.171M TL (-43%). Bu TCMB indirimleriyle devam edecek.
+
+### 7.6 Halka Açıklık %49
+30-70 band → normal. Anadolu Grubu'nun %49.18 ile efektif kontrolü. İmtiyazlı pay yok ✅.
+
+---
+
+## 8. Katalizörler
+
+### 8.1 TCMB Faiz İndirimleri [ANA KATALİZÖR — ERTELENDİ]
+Vadeli alım faiz gideri hızlı düşer. Her 100 baz puan ≈ 145M TL/çeyrek kâr artışı. Ancak Mayıs 2026 enflasyonu yüksek geldi → TCMB faiz indirimlerine ara verecek.
+
+### 8.2 Mağaza Ağı Büyümesi
+Q1 2026'da 20 yeni mağaza (+%0.5). Organik büyüme devam ediyor.
+
+### 8.3 Money FinTech Ekosistemi
+Moneypay, Nakitera (kurumsal ödeme), Money Kurumsal Çözümler — Şubat 2026'da kuruldu. Finansal teknoloji potansiyeli mağaza dışı gelir yaratıyor.
+
+### 8.4 Mimeda (Perakende Medyası)
+Migros'un müşteri verisi üzerinden medya geliri üretme potansiyeli (retail media). Global trend.
+
+### 8.5 Enerji Gideri Düşüşü
+Q1 2025: 906M TL → Q1 2026: 738M TL (-18.6%). Enerji optimizasyonu devam ediyor.
+
+### 8.6 Trugo (EV Şarj)
+Mağaza parking'lerinde EV şarj altyapısı. Q1 2026'da 125.8M TL kira geliri (Q1 2025: 0). Gelişmekte olan bir iş kolu.
+
+---
+
+## 9. Strateji ve Alım Seviyeleri
+
+### Mevcut Karar: 🟡 İZLE
+
+**Gerekçe:** Migros, defensif sektörde güçlü konumuyla cazip, ancak mevcut seviye 52H zirvesine yakın (681/698.5 = %97) ve ana katalizör (TCMB faiz indirimleri) ertelendi. Brisa'dan farklı olarak Migros'ta FCF pozitif ve sektör savunmacı. Uzak durulması gerekmiyor, ama acele alım da gerekmez.
+
+| Senaryo | Fiyat Aralığı | Aksiyon |
 |---|---|---|
-| **EV/Adj. FAVÖK** | **3.46x** | 🟢 Ucuz (tarihsel ~8-12x) |
-| **EV/EBIT (düzelt.)** | **7.47x** | 🟢 Makul |
-| **Adj. FAVÖK Marjı** | **%7.25** | Sektör ortalaması |
-| Net Borç/Adj. FAVÖK | 0.13x | 🟢 Neredeyse borçsuz |
+| Geri çekilme oluşursa | 580-620 TL | Küçük lot başlangıç pozisyonu |
+| TCMB faiz indirimlerine dönerse | Herhangi fiyat | Pozisyon artır |
+| 560 TL altı + faiz kesmesi teyidi | <560 TL | Ağırlıklı alım |
+| 52H zirvesi yakını (>660 TL) + faiz pauzesi | — | Bekle, alma |
 
-**EPS:** 38.81 TL | **Defter Değeri/Hisse:** 474.39 TL | **FCF/Hisse:** ~89 TL
-
----
-
-## Temel Yatırım Tezi
-
-### Bull Case: Vadeli Alım Ayarlandığında Ucuz
-
-Vadeli alım faiz gideri (22.1 Milyar TL/yıl) özünde tedarikçi finansmanının maliyetidir — Migros'un fiilen kaldıraçlı olarak işlettiği bir "gizli" finansman. Bu muhasebe etkisi arındırıldığında:
-
-EV/Adj.FAVÖK **3.46x** → Türkiye perakende tarihsel ortalamasının (8-12x) yarısından az. FCF yield **%14.9** → Her yıl piyasa değerinin ~%15'i kadar nakit üretiyor.
-
-### Bear Case: TMS 29 Bağımlı Kârlılık
-
-Net kâr tamamen **21.1 Milyar TL TMS 29 parasal kazancı** sayesinde pozitif. Bu kazanç, enflasyonun şirketin net parasal yükümlülüklerini (özellikle tedarikçi borçları 79.8 Milyar TL) reel olarak aşındırmasından kaynaklanıyor. Enflasyon düşerse ya da TMS 29 uygulaması sona ererse bu kazanç da buharlaşır.
+### Alternatif Değerlendirme
+SAHOL üzerinden Migros'a dolaylı maruziyet düşünülebilir (Anadolu Grubu bağlantısıyla değil; SAHOL portföydeki çekirdek varlık).
 
 ---
 
-## Riskler ve Zayıf Noktalar
+## 10. Sonuç
 
-### 1. TMS 29 Bağımlı Net Kâr
-Raporlanan kâr tamamen enflasyon muhasebesinden geliyor. Normalize bakışta şirket zarar ediyor. Bu durum F/K gibi çarpanları yanıltıcı kılıyor.
+Migros, Türkiye'nin en güçlü iç piyasa odaklı perakende hikayesidir. Avrupa'ya sıfır ihracat maruziyeti, güçlü nakit pozisyonu ve savunmacı sektör yapısıyla portföyde yer bulabilecek bir şirkettir.
 
-### 2. Reel Büyüme Yok
-Nominal hasılat +7.3% büyürken Türkiye TÜFE 2025'te ~%40-45 bandında seyretti. Migros reel olarak ciddi şekilde küçüldü. Müşteri kaybı veya pazar payı erimesi riski.
+Kısa vadeli sorun: Esas faaliyet zararda; kâr tamamen TMS 29 etkisi. Vadeli alım faiz yükü (~21B TL/yıl) TCMB indirimleri olmadan hafiflemeyecek.
 
-### 3. Yüksek Pazarlama Giderleri
-81.5 Milyar TL pazarlama gideri hasılatın **%19.7'si** — rekabetçi perakende ortamında (BİM, A101, ŞOK) fiyat savaşlarından kaynaklanan baskı.
+**Karar mantığı:** BRISA'ya benzer bir faiz sensitif yapı var, ama Migros daha savunmacı ve FCF pozitif. Bu nedenle BRISA gibi 🔴 değil, 🟡 İzle. TCMB faiz indirimlerine dönüşü veya anlamlı geri çekilme bekleniyor.
 
-### 4. Şerefiye (26.3 Milyar TL) Değer Düşüklüğü Riski
-Tarihsel satın almalardan kalan şerefiye, talep daralması veya değer düşüklüğü testi başarısızlığı durumunda büyük bir tek seferlik gider oluşturabilir.
-
-### 5. Kira Yükü (TFRS 16)
-31 Milyar TL kira borcu (KV+UV), yıllık 8.1 Milyar TL kira ödemesi. Tüm bu borç USD/EUR bağlantılı döviz riski taşıyor.
-
-### 6. Vadeli Alım Finansman Maliyeti
-%42.7 faiz oranıyla 22.1 Milyar TL/yıl vadeli alım faiz gideri şirketi yüksek faiz ortamına duyarlı kılıyor. Faiz düşerse bu gider azalır → EBIT ve net kâr sıçrar.
-
----
-
-## Pozitif Katalizörler
-
-- **Faiz İndirimleri:** TCMB faiz düşürürse vadeli alım faiz gideri doğrudan azalır → EBIT pozitife döner → güçlü EPS artışı
-- **Enflasyon Normalizasyonu:** Fiyat büyümesinin tedarikçi maliyetlerini geçtiği senaryoda brüt marj genişler
-- **Ölçek Ekonomisi:** Yeni mağaza açılışları, Macro Center, 5M Migros segmentasyonu
-- **Dijital & Online Büyüme:** Migros One abonelik servisi; Dijital kanal FAVÖK pozitif büyümekte
-- **Hızlı Teslimat:** Getir/Trendyol gibi platformlarla rekabette konumlanma
-- **Anadolu Grubu Desteği:** Holding güvencesi; stratejik filo genişletme ve finansman erişimi
-
----
-
-## Kademeli Alım Seviyeleri
-
-| Seviye | Fiyat | Gerekçe |
-|---|---|---|
-| Mevcut | 597.50 TL | EV/Adj.FAVÖK 3.46x; FCF Yield %14.9 |
-| Ekle | 560-580 TL | Düzeltme fırsatı |
-| Güçlü Alım | 515-540 TL | 52H ortası; EV/Adj.FAVÖK ~3.0x |
-| Zararı Durdur | 410 TL altı | 52H dip kırılması |
-
-**Hedef Fiyat:** EV/Adj.FAVÖK 6.0x normalizasyonu (faiz indirim senaryosu) → EV = 179.5 Milyar TL → PD = 175.6 Milyar TL → **~1,054 TL** (faiz indirim senaryosunda %76 yükselme)
-
-**Kısa Vade Hedef:** 650-700 TL (52H zirve testi)
-
----
-
-## Önemli Notlar
-
-- **Dipnot 18 (Vadeli Alım Faiz):** Vadeli alım faiz gideri 22,096,450 Bin TL — hasılatın %5.35'i. Ort. DİBS faiz oranı %42.7 kullanılıyor. Bu muhasebe kalemi EBIT ve net kârı doğrudan baskılıyor.
-- **Dipnot 29 (TMS 29 Parasal Kazanç):** 21,102,605 Bin TL — büyük net parasal yükümlülük pozisyonu (tedarikçi borçları ağırlıklı) nedeniyle yüksek parasal kazanç. Net kârın bu kalemden arındırılması zorunlu.
-- **Hisse Sayısı:** ~166.6 Milyon adet (EPS: 38.81 TL × 166.6M = 6,467M Bin TL ✓)
-- **Kilit Denetim (PwC):** Hasılat muhasebeleştirilmesi (412.8 Milyar TL)
-- **Stoklar:** 41.2 Milyar TL — ciro hızı takip edilmeli; yüksek enflasyonda stok değer artışı avantaj sağlıyor
-- **Temettü:** 2,059,095 Bin TL ödendi (~12.36 TL/hisse → %2.1 verim)
+> **52H zirvesine yakın fiyatlarda (>660 TL) yeni pozisyon açılmaz. Geri çekilme (580-620 TL) veya faiz indirimlerinin yeniden başlaması bekleniyor.**

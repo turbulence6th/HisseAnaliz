@@ -1,12 +1,182 @@
 # VAKKO — Vakko Tekstil ve Hazır Giyim Sanayi İşletmeleri A.Ş.
 
 **Sektör:** Lüks Perakende (Hazır Giyim / Moda)
-**Son Güncelleme:** 06.03.2026
-**Kaynak Rapor:** FY2025 (31.12.2025) Konsolide Finansal Tablolar — KAP yayın tarihi 06.03.2026
-**Birim:** Tam TL (TMS 29 — 31.12.2025 alım gücüyle yeniden düzenlenmiş)
-**Denetçi:** Deloitte (DRT)
+**Son Güncelleme:** 08.05.2026
+**Denetçi:** DRT (Deloitte)
+**Hisse Sayısı:** 160 Milyon adet (nominal 1 TL/hisse)
 
 ---
+
+## 1Ç2026 ANALİZİ — Güncelleme: 08.05.2026
+
+**Hisse Fiyatı:** 83.25 TL | **52H:** 48.56 – 101.90 TL | **52H Zirvesinden:** -%18.3
+
+### Teknik Görünüm
+
+| Gösterge | Değer | Konum |
+|---|---|---|
+| Güncel Fiyat | 83.25 TL | — |
+| MA20 | 85.11 TL | Fiyat altında ⚠️ |
+| MA50 | 80.64 TL | Fiyat üzerinde ✅ |
+| MA200 | 66.42 TL | Fiyat üzerinde ✅ |
+| 52H Yüksek | 101.90 TL | -%18.3 |
+| 52H Düşük | 48.56 TL | +%71.4 |
+| Hacim (bugün) | 707K adet | Ort. 20G'nin 0.74x (zayıf) |
+
+MA20 hafif kırık, MA50 ve MA200 güçlü destek. Kısa vadede baskı var ama orta-uzun vade pozitif.
+
+---
+
+### 1Ç2026 Ana Gelişmeler
+
+**1. Brüt Marj Toparlandı → FY2024 Seviyesine Döndü ✅✅**
+1Ç2026 brüt marj %51.9 (1Ç2025: %50.6, FY2025: %46.1). FY2025'teki dramatik marj erozyonu büyük ölçüde giderildi; bu, önceki "KAÇIN" kararını sorgulatan en kritik sinyal.
+
+**2. Esas Faaliyet Kârlılığı Zarardan Döndü ✅✅**
+1Ç2025'te -86M TL esas faaliyet zararı varken 1Ç2026'da +53M TL kâr açıklandı. Operasyonel tablo belirgin iyileşti.
+
+**3. Ertelenmiş Vergi Şoku Net Kârı Sildi ⚠️**
+Vergi öncesi kâr +103M TL iken 194M TL vergi gideri (123M TL ertelenmiş + 71M TL cari) net dönemi -91M TL zarara çevirdi. Nakit temelli kâr +32M TL pozitif — zarar yanıltıcı.
+
+**4. 1 Milyar TL Temettü Ödendi (2025 yılı için) ✅**
+2025 kârından, %625 brüt oranında (6.25 TL/hisse) 1B TL temettü 16 Nisan 2026'da ödendi. Temettü verimi: **%7.5** — güçlü nakit iadesi sinyali. (Not: Yasal [VUK] kâr 2.53B TL, TMS bazından çok yüksek — temettü bu kaynaktan finanse edildi.)
+
+**5. 6 Mağaza Kapandı ⚠️**
+Çeyrek içinde mağaza sayısı 156 → 150'ye düştü. Rasyonalizasyon devam ediyor.
+
+**6. Yeni Banka Kredisi 601M TL (kısa vadeli) ⚠️**
+Önceki dönemde neredeyse borçsuz olan şirket, 1Ç2026'da 601M TL kısa vadeli kredi çekti (%43.63 yıllık faiz). Temettü finansmanını destekledi.
+
+---
+
+### 1Ç2026 Gelir Tablosu (TMS 29 — 31.03.2026 alım gücü, Tam TL)
+
+| Kalem | 1Ç2026 | 1Ç2025 | Değişim |
+|---|---|---|---|
+| **Hasılat** | **4.724 M TL** | 4.566 M TL | **+%3.4** |
+| Satışların Maliyeti | (2.272 M TL) | (2.256 M TL) | +%0.7 ✅ |
+| **Brüt Kâr** | **2.452 M TL** | 2.310 M TL | **+%6.2** |
+| **Brüt Marj** | **%51.9** | %50.6 | **+1.3 puan ✅** |
+| Pazarlama Giderleri | (2.148 M TL) | (2.146 M TL) | +%0.1 (stabil) |
+| Genel Yönetim Giderleri | (321 M TL) | (363 M TL) | **-%11.5 ✅** |
+| Esas Faal. Diğer Gel/Gid (net) | +70 M TL | +113 M TL | Azaldı |
+| **Esas Faaliyet Kârı** | **+53 M TL** | **(86 M TL)** | **Zarardan Kâra ✅✅** |
+| Yatırım Faaliyetleri (net) | +42 M TL | +34 M TL | — |
+| Finansman Gelirleri | +90 M TL | +239 M TL | -%62 ⚠️* |
+| Finansman Giderleri | (281 M TL) | (314 M TL) | **-%10.5 ✅** |
+| Net Parasal Pozisyon Kazancı | +199 M TL | +194 M TL | Stabil |
+| **Vergi Öncesi Kâr** | **+103 M TL** | +68 M TL | **+%51** |
+| Cari Vergi | (71 M TL) | (45 M TL) | — |
+| Ertelenmiş Vergi Gideri | **(123 M TL)** | (1 M TL) | **Şok ⚠️** |
+| **Net Dönem Zararı** | **(91 M TL)** | +22 M TL | Yanıltıcı** |
+| EPS | -0.57 TL | +0.13 TL | — |
+
+> *Finansman geliri düşüşü: Geçen yıl 62M TL TFRS 16 kira geliri + 149M TL faiz geliri vardı. 1Q2026'da finansal yatırımlar erimesiyle faiz 88M TL'ye geriledi. Karşılaştırma yanıltıcı.
+> **Yanıltıcı: Ertelenmiş vergi 123M TL nakit çıkış değil — stok/duran varlık geçici farkları. Nakit temelli kâr ≈ +32M TL.
+
+---
+
+### Bilanço (31.03.2026, Tam TL)
+
+| Kalem | 31.03.2026 | 31.12.2025 | Not |
+|---|---|---|---|
+| **Nakit ve Nakit Benzerleri** | **873 M TL** | 1.033 M TL | Temettü öncesi |
+| KV Finansal Yatırımlar | 620 M TL | 1.072 M TL | Eridi (%38.75 vadeli) |
+| Ticari Alacaklar | 501 M TL | 724 M TL | Azaldı ✅ |
+| **Stoklar** | **7.344 M TL** | 6.499 M TL | **+%13 ⚠️** |
+| Toplam Dönen Varlıklar | 9.900 M TL | 10.359 M TL | — |
+| Maddi Duran Varlıklar | 4.152 M TL | 4.209 M TL | Amortisman |
+| **Kullanım Hakkı Varlıkları (TFRS 16)** | **2.812 M TL** | 2.711 M TL | Yeni kira eklendi |
+| **Toplam Varlıklar** | **17.017 M TL** | 17.428 M TL | — |
+| **KV Banka Kredisi** | **601 M TL** | — | **Yeni! ⚠️** |
+| KV Kiralama Borcu (TFRS 16) | 828 M TL | 788 M TL | — |
+| Ticari Borçlar | 1.631 M TL | 2.201 M TL | -%26 ✅ |
+| UV Kiralama Borcu (TFRS 16) | 1.345 M TL | 1.314 M TL | — |
+| Ertelenmiş Vergi Yükümlülüğü | 618 M TL | 497 M TL | +121M TL artış |
+| **Ana Ortaklığa Ait Özkaynaklar** | **10.650 M TL** | 10.747 M TL | Temettü sonrası |
+
+**Net Likit Pozisyon:**
+
+| | 31.03.2026 | 31.12.2025 |
+|---|---|---|
+| Nakit + KV Finansal Yatırımlar | 1.493 M TL | 2.106 M TL |
+| KV Banka Kredisi | (601 M TL) | — |
+| **Net Likit (kira hariç)** | **892 M TL** | **2.106 M TL** |
+
+Temettü (1B TL) + CAPEX nakit erimesini açıklıyor; yeni kredi açığı kısmen kapattı.
+
+---
+
+### Nakit Akışı (1Ç2026, Tam TL)
+
+| Kalem | 1Ç2026 | 1Ç2025 |
+|---|---|---|
+| **İşletme CFO** | **(320 M TL)** | (71 M TL) |
+| — Stok artışı | (193 M TL) | (164 M TL) |
+| — Ticari borç azalışı | (571 M TL) | (314 M TL) |
+| **Yatırım CFO** | **+387 M TL** | (154 M TL) |
+| — Finansal yatırım tahsilatı | +496 M TL | (92 M TL) |
+| — CAPEX | (110 M TL) | (62 M TL) |
+| **Finansman CFO** | **(32 M TL)** | (622 M TL) |
+| — Yeni banka kredisi | +600 M TL | — |
+| — Kira ödemeleri | (292 M TL) | (273 M TL) |
+| — Faiz geliri tahsil | +90 M TL | +175 M TL |
+| **Net Nakit Değişimi** | **+34 M TL** | (847 M TL) |
+
+> Temettü (1B TL) 16 Nisan'da ödendi — 2Ç başında görünecek. Ticari borç erimesi (-571M TL) sezonsal olabilir (yıl sonu borçlar kapanışı).
+
+---
+
+### Değerleme @ 83.25 TL (160 Milyon Hisse)
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| **Piyasa Değeri** | **13.32 Milyar TL** | — |
+| **Defter Değeri/Hisse** | **66.56 TL** | |
+| **PD/DD** | **1.25x** | 🟡 Makul |
+| **Temettü (2025 için)** | **6.25 TL/hisse** | 1B TL toplam |
+| **Temettü Verimi** | **%7.5** | 🟢 Cazip |
+| Brüt Marj (1Ç2026) | %51.9 | 🟢 Toparlandı |
+| Esas Faaliyet Kârı | +53 M TL | 🟢 Zarardan döndü |
+| Net Likit (kira hariç) | 892 M TL | 🟡 Azaldı |
+| F/K (net zarar dönemi) | N/A | Yanıltıcı |
+| F/K (vergi öncesi yıllıklaştırılmış) | ~32x | Toparlanma beklentili |
+
+---
+
+### Hüküm: 🟡 NÖTR — Toparlanma İzleniyor
+
+**FY2025'in dramatik kârlılık bozulması büyük ölçüde düzeldi. Ancak kârlılığın sürdürülebilirliği ve mağaza erimesinin durması henüz netleşmedi. Hızlı hareket etmektense 2Ç2026 sonuçlarını beklemek daha güvenli.**
+
+**Artılar (yeni — 1Ç2026 itibarıyla):**
+- Brüt marj %51.9 → FY2024 seviyesine döndü; FY2025 erozyonu giderildi ✅✅
+- Esas faaliyet kârlılığı zarardan +53M TL kâra döndü ✅
+- %7.5 temettü verimi — güçlü nakit iadesi politikası, yüksek VUK kârı ✅
+- GY giderleri -%11.5 → maliyet disiplini sürdü ✅
+- Net zarar yanıltıcı — nakit temelli kâr pozitif ✅
+
+**Endişeler:**
+- Stoklar +%13 → 7.34B TL; sezon sonu iskonto baskısı riski ⚠️
+- 601M TL yeni kısa vadeli banka kredisi — borçlanma trendinin başlangıcı mı? ⚠️
+- 6 mağaza daha kapandı; ağ küçülüyor ⚠️
+- Net likit 2.1B TL → 0.9B TL'ye eridi; temettü politikası sürdürülebilir mi? ⚠️
+- Ertelenmiş vergi yükümlülüğü büyüyor → gelecek dönem nakit vergi baskısı
+
+**Alım için teyit gerekli:**
+1. 2Ç2026'da brüt marj ≥ %50 korunuyor mu?
+2. Mağaza sayısı stabilize mi oluyor?
+3. Banka kredisi uzun vadeli borçlanmanın başlangıcı mı?
+
+**Seviyeler:**
+- 78-80 TL → MA50 yakını, geri çekilmede ilk alım bölgesi
+- 74-76 TL → 2Ç teyitli toparlanmada cazip
+- 90+ TL → Momentum güçlüyse kâr alma bölgesi
+
+---
+
+## ÖNCEKİ ANALİZ: FY2025
+
+**Son Güncelleme:** 06.03.2026 | **Kaynak Rapor:** FY2025 (31.12.2025)
 
 ## KARAR: 🔴 KAÇIN / Kârlılık Bozulması Dramatik
 

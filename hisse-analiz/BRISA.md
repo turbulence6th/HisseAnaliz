@@ -1,9 +1,11 @@
 # BRISA — Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş.
 
-**Son Güncelleme:** 5 Mayıs 2026 (Q1 2026 Raporu Baz Alınmıştır)
-**Karar:** 🟡 İZLE — FAİZ İNDİRİMLERİ HIZLANINCA DEĞERLENDİR
+**Son Güncelleme:** 5 Mayıs 2026 (Q1 2026 Raporu + Makro Güncelleme)
+**Karar:** 🔴 UZAK DUR — ANA KATALİZÖR ERTELENDİ
 **Piyasa Fiyatı:** 86.4 TL (1 TL nominal bazlı; ~26.4B TL piyasa değeri)
 **52H Aralığı:** 66.25 – 104.0 TL | **1Y Getiri:** +%6.2
+
+> ⚠️ **Makro Güncelleme (5 Mayıs 2026):** Enflasyon yüksek geldi → TCMB faiz indirimlerine ara verecek. BRISA'nın net kâr üretmesinin önündeki tek engel yüksek TL borç maliyetiydi; bu engelin yakın vadede aşılması artık beklenmemektedir. Karar 🟡 → 🔴 revize edildi.
 
 ---
 
@@ -217,11 +219,11 @@ Aksaray pratikte tam kapasitede ✅; İzmit'te %19 potansiyel büyüme kapasites
 
 ## 7. Riskler
 
-### 7.1 Yüksek TL Borçlanma Maliyeti [KRİTİK]
+### 7.1 Yüksek TL Borçlanma Maliyeti [KRİTİK — YAKIN VADEDE ÇÖZÜLMÜYOR]
 - TL borçlar için efektif faiz %29-43 — yüksek enflasyon ortamının yapısal yansıması
 - Yıllık finansman gideri tahmini: 5.5-6B TL → annualized EBIT (~5B TL) ile başabaş
 - TCMB faiz indirimleri olmadan gerçek net kâr üretimi yok
-- Bu risk zamanla çözülecek — ama ne zaman?
+- **⚠️ 5 Mayıs 2026 Güncellemesi:** Enflasyon yüksek geldi → TCMB faiz indirimlerine ara verecek. Bu risk artık yakın vadede çözülmüyor — belirsiz bir tarihe ertelendi.
 
 ### 7.2 Rekabet Kurumu Soruşturması [ÖNEMLİ]
 - Otomotiv lastik sektöründe 4054 sayılı Kanun kapsamında soruşturma aktif
@@ -252,17 +254,19 @@ Aksaray pratikte tam kapasitede ✅; İzmit'te %19 potansiyel büyüme kapasites
 
 ## 8. Alım Seviyeleri
 
-**MEVCUT KARAR: 🟡 İZLE — KATALİZÖR BEKLENIYOR**
+**MEVCUT KARAR: 🔴 UZAK DUR — ANA KATALİZÖR BELİRSİZ VADEYE ERTELENDİ**
 
-BRISA portföyde **SAHOL üzerinden dolaylı olarak mevcut** (Sabancı Holding %43.63 ortak). Direkt BRISA alımı için aşağıdaki katalizörlerin teyidi bekleniyor:
+> Enflasyon yüksek geldi → TCMB faiz indirimlerine ara verecek. BRISA'nın tek ciddi sorunu olan yüksek TL borçlanma maliyeti yakın vadede düzelmiyor. Mevcut fiyatta (86.4 TL) alım gerekçesi yok.
+
+BRISA portföyde **SAHOL üzerinden dolaylı olarak mevcut** — bu yeterli.
 
 | Seviye | Fiyat Aralığı | Koşul | Aksiyon |
 |--------|--------------|-------|---------|
-| Mevcut | ~86.4 TL | Katalizör yok | **Bekle** |
-| İzleme | 78-85 TL | TİS/soruşturma gelişmelerini izle | İzle |
-| Küçük Başlangıç | 68-77 TL | TCMB faiz indirimi görünür olursa | Küçük lot |
-| Ağırlıklı Alım | 58-67 TL | Faiz indirimi + soruşturma netleşmesi | Ağırlıklı |
-| Tezi Sorgula | <55 TL | Yapısal bozulma var mı? | Gözden geçir |
+| Mevcut | ~86.4 TL | Katalizör yok | **Dokunma** |
+| Uzak Dur | 70-86 TL | Faiz durumu belirsiz | Uzak Dur |
+| Yeniden Değerlendir | — | TCMB indirim döngüsü netleşirse | Değerlendir |
+| Küçük Başlangıç | 58-67 TL | Faiz indirimi + soruşturma netleşmesi | Küçük lot |
+| Ağırlıklı Alım | <55 TL | Faiz indirimi teyitli + TİS çözüldü | Ağırlıklı |
 
 ---
 
@@ -281,4 +285,4 @@ BRISA portföyde **SAHOL üzerinden dolaylı olarak mevcut** (Sabancı Holding %
 
 Brisa operasyonel açıdan güçlü bir toparlanma içindedir: FAVÖK +%55, satış hacmi +%16, brüt kâr marjı 259 bps genişledi, serbest nakit akışı 1.1B TL. Bilanço sağlıklı (Net Borç/FAVÖK 0.76x). Bununla birlikte %29-43 aralığındaki TL borçlanma faizleri bu operasyonel performansın hissedar getirisine dönüşmesini tamamen engelliyor. Net Kâr 29M TL — sadece %0.24 marjla.
 
-Gerçek bir yatırım fırsatı için TCMB faiz indirimlerinin somutlaşması şart. SAHOL üzerinden dolaylı maruziyet mevcut; direkt pozisyon için faiz ortamının değişimi bekleniyor.
+**5 Mayıs 2026 Güncelleme:** Enflasyon yüksek geldi → TCMB faiz indirimlerine ara verecek. Ana katalizör belirsiz bir tarihe ertelendi. Karar 🟡 → 🔴 revize edildi. SAHOL üzerinden dolaylı maruziyet yeterli; direkt pozisyon için faiz indirim döngüsünün yeniden netleşmesi bekleniyor.

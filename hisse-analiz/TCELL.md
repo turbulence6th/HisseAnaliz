@@ -1,15 +1,17 @@
 # TCELL — Turkcell İletişim Hizmetleri A.Ş.
 
 **Sektör:** Telekomunikasyon (GSM, Fiber, B2B/Dijital Hizmetler)
-**Son Güncelleme:** 12.03.2026
+**Son Güncelleme:** 11.05.2026
 **Kaynak Raporlar:**
 - FY2025 Konsolide Finansal Tablolar — KAP yayın tarihi 05.03.2026
 - 2025 Entegre Faaliyet Raporu (GRI + IIRC uyumlu) — 12.03.2026 incelendi
-**Birim:** Bin TL (TMS 29 — 31.12.2025 alım gücüyle yeniden düzenlenmiş)
+- **Q1 2026 Özet Konsolide Finansal Tablolar — KAP yayın tarihi 11.05.2026**
+- **Q1 2026 Ara Dönem Faaliyet Raporu — 11.05.2026 incelendi**
+**Birim:** Bin TL (TMS 29 — dönem sonu alım gücüyle yeniden düzenlenmiş)
 
 ---
 
-## KARAR: 🟢 AL / Defansif Temel Pozisyon
+## KARAR: 🟢 AL / Defansif Temel Pozisyon — 5G Büyüme Hikâyesi Başladı
 
 ---
 
@@ -26,15 +28,15 @@
 
 ---
 
-## Piyasa Verileri (06.03.2026)
+## Piyasa Verileri (11.05.2026)
 
 | Gösterge | Değer |
 |---|---|
-| Hisse Fiyatı | 110.50 TL |
-| 52H Aralığı | 84.55 – 129.60 TL |
-| Zirveden Mesafe | -%14.7 |
-| 6 Aylık Performans | +24.5% |
-| Piyasa Değeri | ~240.8 Milyar TL |
+| Hisse Fiyatı | 121.90 TL |
+| 52H Aralığı | 87.05 – 129.60 TL |
+| Zirveden Mesafe | -%5.9 |
+| Son Güncelleme'den Performans | +10.3% (110.50 TL → 121.90 TL) |
+| Piyasa Değeri | ~268.2 Milyar TL |
 | Hisse Sayısı (ağırlıklı ort.) | ~2,179 Milyon adet |
 | Nominal Sermaye | 2,200 Milyon adet (1 TL nominal) |
 
@@ -123,33 +125,131 @@
 
 ---
 
-## Operasyonel Veriler (FY2025 — Entegre Faaliyet Raporu)
+---
 
-| Gösterge | Değer | Değişim |
+## Q1 2026 Finansallar (Bin TL, TMS 29 — 31.03.2026 alım gücü)
+
+### Gelir Tablosu (Q1 2026 vs Q1 2025)
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| Telekom Hasılat | 64,950,588 | 59,424,611 | +9.3% |
+| Finans Sektörü Hasılat | 3,426,372 | 3,341,918 | +2.5% |
+| **TOPLAM HASILAT** | **68,376,960** | **62,766,529** | **+8.9%** |
+| Brüt Kâr | 18,320,662 | 17,827,603 | +2.8% |
+| Esas Faaliyet Kârı (EBIT) | 12,795,050 | 21,694,794 | -41.0%* |
+| Finansman Giderleri (net) | (8,894,792) | (16,197,286) | -45.1% ✅ |
+| Parasal Kazanç | 5,464,660 | 1,254,784 | +335.5% |
+| Vergi Öncesi Kâr | 11,886,596 | 8,560,947 | +38.8% |
+| **Net Kâr** | **4,634,415** | **4,033,417** | **+14.9%** |
+| **EPS (Tam TL/hisse)** | **2.13** | **1.85** | **+15.1%** |
+
+*Q1 2025'teki yüksek EBIT tek seferlik gelir etkisi içermekte; Q1 2026 EBIT daha temiz bir baz. Esas faaliyetlerden diğer gelirler Q1 2025'te 11.6B TL vs Q1 2026'da 2.8B TL.
+
+**Önemli:** Finansman giderleri yıllık bazda -45.1% düştü (Q1 2025: 16.8B → Q1 2026: 8.9B TL). TCMB faiz indirimlerinin etkisi net kâra yansımaya başladı.
+
+### Yönetim FAVÖK (Düzeltilmiş, Non-GAAP)
+
+| Kalem | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| **Konsolide FAVÖK** | **~28,300,000** | **~27,420,000** | **+3.2%** |
+| FAVÖK Marjı | %41.4 | %43.7 | -2.3 pp |
+
+*FAVÖK marjındaki daralma ağırlıklı olarak 5G altyapı rollout maliyetleri ve yüksek donanım gider artışından (DBS büyümesi) kaynaklanmaktadır.
+
+### Bilanço (31.03.2026 vs 31.12.2025, Bin TL)
+
+| Kalem | 31.03.2026 | 31.12.2025 | Değişim |
+|---|---|---|---|
+| Nakit ve Nakit Benzerleri | 95,773,428 | 101,047,996 | -5.2% |
+| KV Finansal Yatırımlar | 24,036,148 | 15,580,551 | +54.3% |
+| Toplam Dönen Varlıklar | 184,359,318 | 172,354,426 | +7.0% |
+| Maddi Duran Varlıklar | 175,291,059 | 173,147,904 | +1.2% |
+| Kullanım Hakkı Varlıkları | 26,248,312 | 25,266,091 | +3.9% |
+| **Maddi Olmayan Duran Varlıklar** | **171,721,913** | **115,520,062** | **+48.6%** ⚠️ |
+| — Lisanslar | 78,558,211 | 24,841,257 | **+216.2%** (5G lisansı!) |
+| **Toplam Varlıklar** | **618,151,409** | **550,831,186** | **+12.2%** |
+| KV Borçlanmalar | 12,690,041 | 14,811,475 | -14.3% |
+| UV Borç KV Kısmı | 25,593,720 | 24,710,849 | +3.6% |
+| Toplam KV Yükümlülükler | 108,950,840 | 101,226,400 | +7.6% |
+| UV Borçlanmalar | 168,063,094 | 135,055,441 | +24.4% |
+| Toplam UV Yükümlülükler | 218,291,343 | 164,234,240 | +32.9% |
+| **Toplam Yükümlülükler** | **327,242,183** | **265,460,640** | **+23.3%** |
+| **Ana Ortaklığa Ait Özkaynaklar** | **290,909,226** | **285,370,546** | **+1.9%** |
+
+### Net Borç (Q1 2026 vs FY2025)
+
+| Kalem | 31.03.2026 | 31.12.2025 |
 |---|---|---|
-| Toplam Abone | 43.9M | |
-| Türkiye Mobil Abone | 39.1M | |
-| Faturalı Abone | 31.5M | |
-| Superonline Fiber Hane Erişimi | 6.3M hane | |
-| Mobil ARPU Büyümesi | +%10.6 | |
-| Bireysel Fiber ARPU Büyümesi | +%15.4 | |
-| Veri Merkezi Kapasitesi | ~40 MW aktif | |
+| KV Borçlanmalar | 12,690,041 | 14,811,475 |
+| UV Borç KV Kısmı | 25,593,720 | 24,710,849 |
+| UV Borçlanmalar | 168,063,094 | 135,055,441 |
+| **Toplam Finansal Borç** | **206,346,855** | **174,577,765** |
+| Nakit + KV Finansal Yatırım | (119,809,576) | (116,628,547) |
+| **Net Finansal Borç** | **~86,537,000** | **~57,949,000** |
+| **Net Borç / LTM FAVÖK** | **~0.76x** | **~0.56x** |
 
-### Segment Büyüme Öne Çıkanlar
+⚠️ **5G Lisans Etkisi:** Net borç 58B → 87B TL sıçradı. Ana sebep: 5G lisans bedeli (~54B TL maddi olmayan varlık aktivasyonu) ve 1B USD Murabaha sendikasyonu. Bu borçlanma tek seferlik yatırım niteliğindedir; 2042'ye kadar geçerli lisans için.
 
-| Segment | Büyüme | Not |
+### Nakit Akışı (Q1 2026 vs Q1 2025)
+
+| Kalem | Q1 2026 | Q1 2025 |
 |---|---|---|
-| Paycell (Fintech) | +%41.0 | Güçlü dijital ödeme büyümesi |
-| VD & Bulut (B2B) | +%45.0 | Kurumsal bulut hızlanıyor |
-| Techfin Segmenti | +%21.1 | Turkcell Finansman + Paycell |
-| Belarus (BeST) | Faaliyette | 1.6M abone, 3.4B TL gelir |
+| İşletme CFO | 12,816,195 | 21,090,389 |
+| MDV CAPEX | (9,780,632) | (9,857,944) |
+| **Maddi Olmayan CAPEX** | **(27,604,672)** | **(7,226,914)** |
+| — 5G Lisans Ödemesi | ~(20,000,000+) | — |
+| Net Yatırım CFO | (46,536,783) | (14,038,149) |
+| Finansman CFO (Murabaha) | +35,905,087 | +44,115,997 |
+
+*Q1 2026 serbest nakit akışı 5G lisans ödemesinden negatif görünmektedir; bu tek seferlik yapısal yatırım. Normalize FCF (5G lisans hariç) Q1 2026'da ~+3B TL civarında tahmin edilmektedir.
 
 ---
 
-## Stratejik Gelişmeler (2025 — Entegre Faaliyet Raporu)
+## Operasyonel Veriler (Q1 2026 — Ara Dönem Faaliyet Raporu)
 
-### 5G İhalesi — Kritik Dönüm Noktası
-16 Ekim 2025'te gerçekleştirilen 5G ihalesinde **160 MHz bant genişliği** alındı (Turkcell en fazlayı alan operatör). Ticari kullanıma açılış: **1 Nisan 2026**. Bu gelişme, hem premium mobil ARPU artışı hem de kurumsal IoT/akıllı şehir segmentleri için uzun vadeli büyüme taşı.
+| Gösterge | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| Toplam Abone | 44.5M | 43.1M | +3.2% |
+| Mobil Faturalı Abone | 32.2M | 29.3M | +9.9% ✅ |
+| Faturalı Abone Oranı | %81 | ~%68 | Güçlü artış |
+| Mobil M2M Abone | 6.2M | 5.3M | +17.0% |
+| Mobil Ön Ödemeli | 7.6M | 9.0M | -15.6% |
+| Turkcell Fiber | 2,595K | 2,488K | +4.4% |
+| **Superbox** | **754K** | **160K** | **+371%** 🚀 |
+| IPTV | 1,423K | 1,456K | -2.3% |
+| Fiber Hane Erişimi | 6.5M hane | 6.3M hane | +3.2% |
+| Fiber Dönüşüm Oranı | %41.8 | — | — |
+| Kullanıcı Başına Data (GB/ay) | 22.5 | 17.9 | +25.7% |
+| Aylık Churn | %1.6 | %1.7 | Stabil |
+
+### ARPU (TL, TMS 29, Aylık)
+
+| ARPU | Q1 2026 | Q1 2025 | Değişim |
+|---|---|---|---|
+| Mobil ARPU (M2M hariç) | 423.8 TL | 425.4 TL | **-0.4%** ⚠️ |
+| Faturalı ARPU (M2M hariç) | 496.6 TL | 514.2 TL | -3.4% ⚠️ |
+| Ön Ödemeli ARPU | 173.7 TL | 191.9 TL | -9.5% ⚠️ |
+| Bireysel Fiber ARPU | 541.1 TL | 493.4 TL | **+9.7%** ✅ |
+
+⚠️ **ARPU Baskısı:** Mobil ARPU'da yıllık bazda hafif düşüş. 5G geçiş döneminde sınırlı fiyat güncellemesi ve ön ödemeli→faturalı mix etkisinden kaynaklanıyor. 5G premium paketlerin ikinci yarıdan itibaren ARPU'yu yukarı çekmesi bekleniyor.
+
+### Segment Büyüme — Q1 2026
+
+| Segment | Büyüme (YoY) | Not |
+|---|---|---|
+| **DBS (Dijital İş Servisleri)** | **+%64** 🚀 | Donanım projeleri + Bulut/DC +%21 |
+| **Paycell** | **+%15** | POS ve mobil ödeme güçlü |
+| Techfin (Toplam) | +%4 | Paycell ↑, Financell ↓ (taksit sınırı) |
+| Financell Net Faiz Marjı | %8.3 | Q1 2025'e kıyasla +3.6pp ✅ |
+| Superbox | +%371 | 5G sabit kablosuz erişim patlaması |
+
+---
+
+## Stratejik Gelişmeler (2025-2026)
+
+### 5G Lansmanı — Gerçekleşti ✅
+16 Ekim 2025'te gerçekleştirilen 5G ihalesinde **160 MHz bant genişliği** alındı (Türkiye'nin en fazlasına sahip operatörü). **1 Nisan 2026'da ticari kullanıma açıldı** — planlandığı gibi. "5'e katlama" kampanyası yoğun ilgi gördü. Superbox 5G (Wi-Fi 7, sabit kablosuz erişim) ve Superbox GO (taşınabilir 5G modem) lansmanları tamamlandı. 5G lisansı 31 Aralık 2042'ye kadar geçerli.
 
 ### Google Cloud Ortaklığı — Türkiye'nin İlk Hiper Ölçekli Bulut Bölgesi
 Turkcell ve Google Cloud, Türkiye'de **Google Cloud bölgesi** kurmak için anlaşma imzaladı. Planlanan devreye alım: **2028-2029**. Bu ortaklık Turkcell'i Türkiye'deki kurumsal bulut altyapısının merkezi konumuna taşıyacak ve yüksek marjlı veri merkezi gelirlerini hızlandıracak.
@@ -166,6 +266,24 @@ Turkcell Ocak 2025'te toplam **1 milyar USD** Eurobond ihraç etti:
 - 500M USD @ **%7.65** (yeşil/sürdürülebilirlik bağlantılı)
 
 Güçlü uluslararası talep — kredi notuna rağmen başarılı erişim.
+
+### 1B USD Murabaha Sendikasyon Kredisi (Q1 2026) — YENİ
+**Türkiye'nin bugüne kadarki en büyük kurumsal Murabaha sendikasyon kredisi.** 5G dönüşümü ve yeni nesil altyapı yatırımlarını finanse etmek amacıyla sağlandı. Küresel yatırımcıların Turkcell'in vizyonuna güvenini teyit etti.
+
+### UltraFiber (Wi-Fi 7, 10 Gbps) — YENİ
+2026 "Hız Yılı" ilan edildi. Wi-Fi 7 teknolojisiyle desteklenen Superonline UltraFiber paketleriyle **saniyede 10 Gbps'e varan ev interneti hızları** sunulan ilk ve tek operatör. 1000 Mbps ve üzeri fiber abonelerin payı ~%20'ye yükseldi.
+
+### TOGG İştirak — Pozitif Dönüm (Q1 2026) — YENİ
+TOGG'dan özkaynak payı: **+305.5M TL** (Q1 2025: -1,130.7M TL). TOGG zarar katkısı ilk kez pozitife döndü. Bu trend devam ederse FY2026 net kârına ~1-2B TL katkı beklenilebilir.
+
+### CDP İklim — Global A Notu (Q1 2026) — YENİ
+Çevresel performansta küresel "A" notu. Toplam güneş enerjisi kapasitesi **74.4 MW**'a ulaştı (Mersin'de 12.1 MW satın alma). TSRS uyumlu 2025 sürdürülebilirlik raporu yayımlandı.
+
+### MWC 2026 — YENİ
+GSMA, Turkcell'in sahte arama engelleme modelini **örnek uygulama** olarak seçti. 6G AR-GE için stratejik iş birlikleri imzalandı.
+
+### Temettü (2025 Yılı için) — YENİ
+OGK kararı: **4.00 TL/hisse brüt** (net 3.40 TL), **9 Aralık 2026** ödeme. Toplam: 8.8 Milyar TL. Güncel fiyata göre verim: ~%3.3.
 
 ### Kredi Notu ve Analist Beklentileri
 
@@ -186,25 +304,28 @@ Güçlü uluslararası talep — kredi notuna rağmen başarılı erişim.
 
 ---
 
-## Değerleme Çarpanları
+## Değerleme Çarpanları (11.05.2026 Güncel)
 
 | Çarpan | Değer | Yorum |
 |---|---|---|
-| Piyasa Değeri | 240.8 Milyar TL | |
-| Firma Değeri (EV) | 293.4 Milyar TL | |
-| **F/K (sürdürülen)** | **13.5x** | Makul |
-| **EV/FAVÖK** | **2.82x** | 🟢 Çok ucuz (tarihsel ~5-6x) |
-| **EV/Hasılat** | **1.22x** | Ucuz |
-| **PD/DD** | **0.93x** | Defter değerinin altına yakın |
-| Net Borç/FAVÖK | 0.51x | 🟢 Düşük kaldıraç |
-| **FCF Yield** | **~%16.8** | 🟢 Çok cazip |
-| Temettü Verimi | ~%3.7 (piyasa fiyatı bazlı) | Entegre rapor %7.5 gösteriyor* |
-| FAVÖK Marjı | %43.1 | Güçlü |
-| ROE | %6.8 | Düşük (yüksek özkaynak tabanı) |
+| Piyasa Değeri | ~268.2 Milyar TL | 2,200M hisse × 121.90 TL |
+| Net Borç (Q1 2026) | ~86.5 Milyar TL | 5G lisans etkisiyle artış |
+| Firma Değeri (EV) | ~354.7 Milyar TL | PD + Net Borç |
+| **F/K (FY2025 sürdürülen)** | **~15.2x** | FY2025 net kâr 17.6B TL baz |
+| **EV/FAVÖK (FY2025)** | **~3.41x** | 🟡 Artık orta değerleme (2.82x'den) |
+| **EV/FAVÖK (LTM tahmini)** | **~3.13x** | FAVÖK büyüme varsayımıyla |
+| **EV/Hasılat (FY2025)** | **~1.47x** | Makul |
+| **PD/DD (Q1 2026)** | **~0.92x** | Hâlâ defter altı |
+| Net Borç/FAVÖK | ~0.76x | 🟡 Makul (5G lisans etkisiyle artış) |
+| **FCF Yield (FY2025 FCF)** | **~%15.1** | 🟢 Cazip (5G öncesi) |
+| Temettü Verimi | ~%3.3 | 4.00 TL ÷ 121.90 TL |
+| FAVÖK Marjı (Q1 2026) | %41.4 | Sağlıklı seyir |
+| ROE | ~%6.4 | Yüksek özkaynak tabanı |
 
-**EPS:** 8.08 TL (sürdürülen: 8.17 TL) | **Defter Değeri/Hisse:** ~119 TL | **FCF/Hisse:** ~18.5 TL
+**FY2025 EPS:** 8.08 TL | **Q1 2026 EPS:** 2.13 TL (x4 yıllıklaştırma: ~8.52 TL)
+**Defter Değeri/Hisse (Q1 2026):** ~132 TL | **Hisse Fiyatı/Defter:** ~0.92x
 
-*\*Entegre Faaliyet Raporu'ndaki %7.5 temettü verimi farklı referans fiyat veya hesaplama metodolojisi kullanıyor olabilir. ~4.1 TL/hisse temettü ÷ 110.50 TL hisse fiyatı = %3.7 güncel verim.*
+**Değerleme Notu:** EV/FAVÖK 2.82x'den 3.41x'e çıktı. Bunun başlıca sebebi 5G lisansı finansmanından kaynaklanan net borç artışı. Bu borçlanma tek seferlik stratejik yatırım niteliğinde; 2042'ye kadar geçerli lisans değer yaratacak. FAVÖK büyümesi devam ettikçe ve faiz giderleri düştükçe EV/FAVÖK baskısı azalacak. Hâlâ tarihsel 5-6x ortalamasının belirgin altında.
 
 ---
 
@@ -230,17 +351,20 @@ Ukrayna operasyonu (Lifecell) satışı tamamlandı. Artık ana odak Türkiye'de
 
 ## Riskler ve Zayıf Noktalar
 
-### 1. Finansman Giderleri Yükü
-49.4 Milyar TL finansman gideri FAVÖK'ün **%47.5'ini** yiyor. Faiz ortamının yüksek kalması serbest nakit akışı üzerindeki baskıyı sürdürür. FY2024'e kıyasla finansman giderleri +50.2% arttı.
+### 1. Finansman Giderleri Yükü — Azalıyor ✅
+FY2025'te 49.4 Milyar TL finansman gideri FAVÖK'ün %47.5'ini yiyordu. Ancak **Q1 2026'da finansman giderleri -45.1% düştü** (Q1 2025: 16.8B → Q1 2026: 8.9B TL). TCMB faiz indirimlerinin etkisi net kâra yansımaya başladı. Bu trend devam ederse FY2026 net kârı FY2025'in belirgin üzerinde olacak.
 
 ### 2. Reel Büyüme Yok
 Nominal hasılat +10.7% büyürken Türkiye TÜFE 2025 ortalaması ~%40-45 bandında seyretti. Reel anlamda Turkcell küçülüyor. TMS 29 fiyatlama gücünü görünür kılıyor ama hasılat büyümesi enflasyonu geride bırakamıyor.
 
-### 3. Yüksek CAPEX Yoğunluğu
-Yıllık 71.8 Milyar TL CAPEX (FAVÖK'ün %69'u). Fiber rollout, dijital altyapı yatırımları ve potansiyel 5G lisans bedeli ek yük oluşturabilir. CAPEX'in düşmesi FCF açısından en önemli katalizördür.
+### 3. Yüksek CAPEX Yoğunluğu ve Artan Net Borç
+FY2025 yıllık 71.8B TL CAPEX. Q1 2026'da 5G lisansı ödemesi nedeniyle tek çeyrekte 46.5B TL yatırım CFO çıkışı yaşandı. Net borç 57.9B → 86.5B TL sıçradı. **5G lisansı tek seferlik; 2042'ye kadar geçerli.** Ancak 5G rollout sürerken 2026-2027'de CAPEX/FCF baskısı devam edebilir.
 
-### 4. TOGG Yatırımı — Süregelen Kayıp
-Turkcell TOGG'da %23 pay ile özkaynak yöntemiyle konsolide ediyor. FY2025: -3,499 Milyon TL, FY2024: -4,140 Milyon TL zarar katkısı. Elektrikli araç girişiminin kârlılığa ulaşması belirsiz; bu kayıplar birkaç yıl daha devam edebilir.
+### 3b. ARPU Baskısı — YENİ RİSK
+Q1 2026'da mobil ARPU (M2M hariç) yıllık bazda -%0.4, faturalı ARPU -%3.4 geriledi. Ön ödemeli ARPU -%9.5 düştü. 5G ile premium fiyatlamaya geçiş bu baskıyı aşağı çekecek mi izlenmeli. Fiber ARPU güçlü (+9.7%) olsa da mobil ARPU trendinin normalleşmesi gerekiyor.
+
+### 4. TOGG Yatırımı — Dönüş Sinyali Alındı ✅
+Turkcell TOGG'da %23 pay ile özkaynak yöntemiyle konsolide ediyor. FY2025: -3,499M TL, FY2024: -4,140M TL zarar katkısı. **Ancak Q1 2026'da +305.5M TL pozitif katkı** geldi (Q1 2025: -1,130.7M TL). TOGG kârlılık yolculuğuna girmiş görünüyor; bu risk azalmakta.
 
 ### 5. Regülasyon Baskısı
 BTK, aylık brüt satışların %15'inin %90'ını hazine payı, %10'unu evrensel hizmet fonu olarak alıyor. Bu düzenleyici yük sektör için kronik bir marj baskısı unsuru.
@@ -249,30 +373,37 @@ BTK, aylık brüt satışların %15'inin %90'ını hazine payı, %10'unu evrense
 
 ## Pozitif Katalizörler
 
-- **5G Ticari Lansmanı (1 Nisan 2026):** Türkiye'de en fazla spektruma sahip operatör (160 MHz) → premium fiyatlama, yeni B2B segmentleri, ARPU artışı
-- **Google Cloud Ortaklığı:** 2028-2029 devreye girecek Türkiye bulut bölgesi → yüksek marjlı veri merkezi gelirleri, Turkcell'i kritik altyapı oyuncusu yapıyor
-- **Faiz İndirimleri:** TCMB politika faizi düştükçe finansman giderleri azalır → net kâr sıçrar; 1 pp faiz indirimi ~1.5-2 Milyar TL net kâr etkisi
-- **Fiyatlama Gücü:** 39M+ Türkiye mobil abone tabanı (31.5M faturalı), zorunlu iletişim hizmeti → fiyat artış kapasitesi mevcut; faturalı ARPU +%10.6
-- **Paycell & Dijital Finans:** Paycell +%41, Turkcell Finansman büyümesi → fintech segmenti değer yaratıyor, ayrı halka arz potansiyeli
-- **B2B/Bulut Büyümesi:** VD & Bulut +%45, Cloud + siber güvenlik + IoT — geleneksel telekoma kıyasla yüksek marjlı büyüme
-- **CAPEX Verimliliği:** 5G altyapısı oturduğunda ve fiber rollout tamamlandığında FCF artacak
-- **Temettü Sürekliliği:** ~4.1 TL/hisse temettü — %3.7 verim; TVF temettüye ihtiyaç duyuyor (devlet gelir kaynağı)
-- **Analist Konsensüsü:** 22/23 analist AL tavsiyesi — piyasa görünümü son derece pozitif
+- **5G Gerçekleşti ✅ (1 Nisan 2026):** Türkiye'nin en geniş spektrumuna sahip operatör (160 MHz) → premium fiyatlama, Superbox 5G patlaması (754K abone), B2B IoT/akıllı şehir segmentleri. ARPU artışı Q2-Q3 2026'da görünmeye başlaması bekleniyor.
+- **Finansman Giderleri Düşüyor ✅:** Q1 2026'da finansman giderleri -45.1% yıllık bazda geriledi. TCMB faiz indirim süreci devam ederse FY2026 net kârı FY2025'i belirgin aşacak (~20-25B TL senaryosu).
+- **DBS Patlaması ✅:** Dijital İş Servisleri +64% yıllık büyüme. Veri merkezi ve bulut +21%. Yüksek marjlı B2B büyümesi FAVÖK kalitesini artırıyor.
+- **TOGG Pozitife Döndü ✅:** Q1 2026'da +305.5M TL (Q1 2025: -1.1B TL). Bu trendin devamı yıllık ~1-2B TL net kâr katkısı anlamına gelir.
+- **Google Cloud Ortaklığı:** 2028-2029 devreye girecek Türkiye bulut bölgesi → yüksek marjlı veri merkezi gelirleri, Turkcell'i kritik altyapı oyuncusu yapıyor.
+- **UltraFiber & Fiber ARPU Büyümesi:** Fiber ARPU +9.7% YoY güçlü büyüme; 1 Gbps+ abonelerin payı ~%20 → premium mix artıyor.
+- **Fiyatlama Gücü:** 32.2M faturalı abone (%81 oran), zorunlu iletişim → 5G premium paketlerle 2026 H2'de fiyat artışı bekleniyor.
+- **Paycell:** +%15 büyüme, net faiz marjı +3.6pp → Financell toparlanıyor. Taksit sınırlamalarının gevşemesiyle Financell geliri toparlanacak.
+- **CAPEX Normalizasyonu:** 5G lisansı ödendi; 2027'den itibaren CAPEX/FCF profili iyileşecek.
+- **Temettü Sürekliliği:** 4.00 TL/hisse (brüt), 9 Aralık 2026 ödeme. TVF temettüye ihtiyaç duyduğundan sürekliliği yüksek.
+- **Analist Konsensüsü:** Büyük çoğunluk AL tavsiyesi — piyasa görünümü pozitif.
 
 ---
 
-## Kademeli Alım Seviyeleri
+## Kademeli Alım Seviyeleri (Güncel: 121.90 TL)
 
 | Seviye | Fiyat | Gerekçe |
 |---|---|---|
-| Mevcut | 110.50 TL | EV/FAVÖK 2.82x; FCF Yield %16.8 |
-| Ekle | 105-110 TL | Mevcut seviye civarı |
-| Güçlü Alım | 95-100 TL | EV/FAVÖK ~2.4-2.5x; FCF Yield >%19 |
-| Zararı Durdur | 82 TL altı | 52H dip altı |
+| **Mevcut** | **121.90 TL** | EV/FAVÖK ~3.13-3.41x; hâlâ iskontolu |
+| Ekle | 115-120 TL | Hafif geri çekilmede fırsat |
+| Güçlü Alım | 100-108 TL | EV/FAVÖK ~2.7-3.0x; FCF Yield >%18 |
+| Zararı Durdur | 87 TL altı | 52H dip altı |
 
-**Hedef Fiyat:** EV/FAVÖK 4.0x normalizasyonu → EV = 416 Milyar TL; Net Borç düşüldüğünde PD = 363 Milyar TL → **~167 TL** (%51 yükselme potansiyeli)
+**Hedef Fiyat (12 Ay):**
+- **Senaryo 1 — Baz (EV/FAVÖK 4.0x, FY2026 FAVÖK ~115-120B TL):** EV = ~460B TL; Net Borç ~80B (düşüyor); PD = ~380B TL → **~173 TL** (+42%)
+- **Senaryo 2 — İyimser (EV/FAVÖK 4.5x):** ~200 TL (+64%)
+- **Senaryo 3 — Kötümser (EV/FAVÖK 3.0x, borç azalmıyor):** ~135 TL (+11%)
 
-**Yakın Vade Hedef:** 130-145 TL (EV/FAVÖK 3.5x ile tutarlı)
+**Yakın Vade Hedef:** 140-155 TL (EV/FAVÖK 3.8-4.0x, 5G ARPU etkisi görününce)
+
+**Temel Değerleme Değişkeni:** Net borç/FAVÖK'ün 0.5x altına inmesi (5G rollout hızlanırken zaman alabilir). Finansman giderlerindeki düşüş net kâra her çeyrek artan katkı sağlıyor.
 
 ---
 

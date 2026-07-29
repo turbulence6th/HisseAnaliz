@@ -107,9 +107,10 @@ Betik, alışverişin bugünkü peşin değerini standart çıktıya yazdıracak
 Bu komut satırı yardımcı programı, Kamuyu Aydınlatma Platformu (KAP) ve TEFAS üzerinden birkaç temel işlemi gerçekleştirmek için kullanılır:
 
 1.  **Finansal Rapor İndirme:** Belirtilen bir BIST şirketinin en güncel dönemsel finansal raporunu (PDF formatında) indirir.
-2.  **Fon Yönetim Ücreti Öğrenme:** Belirtilen bir yatırım fonunun yıllık yönetim ücreti oranını çeker.
-3.  **Portföy Dağılım Raporu İndirme:** Belirtilen bir veya daha fazla yatırım fonunun en güncel portföy dağılım raporunu (PDF veya XLSX formatında) indirir.
-4.  **Varlık Grubuna Göre Fon Listeleme:** Belirtilen bir varlık grubundaki (örn: Hisse Senedi, Eurobond) fonları TEFAS'tan çeker ve getirilerini listeler.
+2.  **Faaliyet Raporu İndirme:** Belirtilen bir BIST şirketinin en güncel konsolide ara dönem faaliyet raporunu (PDF formatında) indirir.
+3.  **Fon Yönetim Ücreti Öğrenme:** Belirtilen bir yatırım fonunun yıllık yönetim ücreti oranını çeker.
+4.  **Portföy Dağılım Raporu İndirme:** Belirtilen bir veya daha fazla yatırım fonunun en güncel portföy dağılım raporunu (PDF veya XLSX formatında) indirir.
+5.  **Varlık Grubuna Göre Fon Listeleme:** Belirtilen bir varlık grubundaki (örn: Hisse Senedi, Eurobond) fonları TEFAS'tan çeker ve getirilerini listeler.
 
 #### Finansal Rapor İndirme:
 
@@ -124,6 +125,20 @@ python kap_rapor_indir.py rapor SOKM
 ```
 
 Betik, raporu `finansal-raporlar/{YIL}{ÇEYREK}` dizinine `{HİSSE_KODU}_Finansal_Rapor_{TARİH}.pdf` adıyla kaydeder.
+
+#### Faaliyet Raporu İndirme:
+
+```bash
+python kap_rapor_indir.py faaliyet-raporu <HİSSE_KODU>
+```
+
+**Örnek:**
+
+```bash
+python kap_rapor_indir.py faaliyet-raporu ORGE
+```
+
+Betik, raporu `faaliyet-raporlari/{YIL}{ÇEYREK}` dizinine `{HİSSE_KODU}_Faaliyet_Raporu_{TARİH}.pdf` adıyla kaydeder. Hisse analizi yaparken finansal rapor ile birlikte faaliyet raporunu da indirip `belge_to_md.py` ile okumak, projelerin durumu, yönetim yorumları ve dönem sonrası gelişmeler hakkında kritik bilgi sağlar.
 
 #### Fon Yönetim Ücreti Öğrenme:
 

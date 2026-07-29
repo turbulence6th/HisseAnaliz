@@ -1,10 +1,23 @@
-# IDE specific files
+# --- OS / IDE ---
+.DS_Store
 .idea/
+.vscode/
 
-# Python cache files
+# --- Python ---
 __pycache__/
 *.pyc
+venv/
+.venv/
+
+# --- Gizli bilgiler ---
 twitter_bearer.txt
-hisse-analiz/*.pdf
 gmail-integration/credentials.json
 gmail-integration/token.json
+
+# --- Ham belgeler (repo'yu şişirir, .md analizleri commit'lenir) ---
+# PDF'ler kaynak veridir; analiz sonucu daima .md olarak saklanır.
+*.pdf
+haberler/
+
+# Klonlanmış 3. parti repo — pip ile kurulur (pip install markitdown)
+markitdown/

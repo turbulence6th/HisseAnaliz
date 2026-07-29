@@ -65,7 +65,9 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
     *   **ENJSA (🟡 İzle — Geri Çekilmede Al):** Düzenlenmiş elektrik dağıtım monopolü. DVT +%26 tek çeyrekte, WACC iyileştirildi, finansman maliyeti %10 geriledi. 2026 baz P/E 11-13x, temettü verimi %4.5-5.3. İmtiyazlı pay yok ✅. Mevcut fiyat (124 TL) 52H zirvesine çok yakın → geri çekilme bekleniyor.
     *   **BRISA (🔴 Uzak Dur — Ana Katalizör Ertelendi):** Türkiye lastik pazarı lideri. FAVÖK +%55, satış hacmi +%16, brüt kâr marjı %22.5 (+259 bps), Net Borç/FAVÖK 0.76x — operasyonel performans güçlü. Ancak TL borçlanma faizi %29-43 EBIT'i absorbe ediyor → net kâr yalnızca 29M TL. **⚠️ 5 Mayıs 2026:** Enflasyon yüksek geldi → TCMB faiz indirimlerine ara verecek. Ana katalizör belirsiz vadeye ertelendi → karar 🟡 → 🔴 revize. SAHOL üzerinden dolaylı maruziyet yeterli.
     *   **MGROS (🟡 İzle — Faiz İndirimi Döneminde Değerlendir):** Türkiye'nin en büyük süpermarket zinciri (3.785 mağaza). Reel hasılat +%6.4, işletme nakdi +6.7B TL/çeyrek, nakit 28.9B TL, neredeyse borçsuz (795M TL banka kredisi). **Kâr kalitesi uyarısı:** Net kâr 1.6B TL tamamen TMS 29 parasal kazancından; esas faaliyet zararda (-4.7B TL). Yıllık ~21B TL vadeli alım faiz gideri (DİBS bağlantılı, %36.5) şirketi baskılıyor. TCMB faiz indirimlerine ara verecek → ana katalizör ertelendi. Ancak BRISA'dan farklı: savunmacı sektör, FCF pozitif, nakit zengini. **52H zirvesine yakın (681 TL vs 698.5 TL) — giriş fırsatı değil. Geri çekilme (580-620 TL) veya faiz indirimi dönemi bekleniyor.**
-*   **GENEL STRATEJİ:** Çekirdek varlıklarda (TCELL, SISE, TUPRS, AGESA, SAHOL) pozisyonu koru. THYAO'da yeni alım yok — Q2 2026 esas faaliyet kârlılığı teyidi bekleniyor. KORDS'ta kademeli pozisyon açılabilir (turnaround devam ediyorsa). VESBE ve KAREL'e kesinlikle dokunma. ENJSA'yı geri çekilmelerde (108-115 TL) izle. **BRISA'ya dokunma** — enflasyon yüksek geldi, TCMB faiz indirimlerine ara verecek, ana katalizör belirsiz vadeye ertelendi. **MGROS'ta** 52H zirvesine yakın seviyede (>660 TL) yeni pozisyon açılmaz; geri çekilme (580-620 TL) veya TCMB faiz indirimlerine dönüş bekleniyor.
+*   **YENİ ANALİZ (20 Temmuz 2026):**
+    *   **PNSUT (🔴 Kesinlikle Uzak Dur):** İmtiyazlı hisse — A/B grubu sermayenin %0.0066'sı ile 9 kişilik YK'nın 8 üyesini belirliyor; başkan zorunlu A grubundan → strateji gereği mutlak red (KAREL'den daha uç). Ek olarak şirket kendi kredi kapasitesiyle borçlanıp **Yaşar Holding'e aynı koşullarda devrediyor** (1.12 milyar TL). Kâr kalitesi: net kâr 49.5M TL'nin %100'ü TMS 29 + ertelenmiş vergiden; TMS 29 hariç -439.2M TL zarar, çekirdek faaliyet sonucu -23.8M TL negatif. Reel hasılat -%26.3, net borç piyasa değerinin 1.64 katı, hedge edilmemiş 2.03 milyar TL kısa döviz pozisyonu. PD/DD 0.31x bir **değerleme tuzağıdır** (FD/çekirdek FAVÖK 17.1x).
+*   **GENEL STRATEJİ:** Çekirdek varlıklarda (TCELL, SISE, TUPRS, AGESA, SAHOL) pozisyonu koru. THYAO'da yeni alım yok — Q2 2026 esas faaliyet kârlılığı teyidi bekleniyor. KORDS'ta kademeli pozisyon açılabilir (turnaround devam ediyorsa). VESBE, KAREL ve PNSUT'a kesinlikle dokunma. ENJSA'yı geri çekilmelerde (108-115 TL) izle. **BRISA'ya dokunma** — enflasyon yüksek geldi, TCMB faiz indirimlerine ara verecek, ana katalizör belirsiz vadeye ertelendi. **MGROS'ta** 52H zirvesine yakın seviyede (>660 TL) yeni pozisyon açılmaz; geri çekilme (580-620 TL) veya TCMB faiz indirimlerine dönüş bekleniyor.
 
 ---
 
@@ -105,9 +107,10 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **52H:** 84.55 – 129.60 TL | Detay: `hisse-analiz/TCELL.md`
 
 #### SISE (Şişecam)
-*   **HÜKÜM:** 🟢 KADEMELİ AL / GÜÇLENDİR (@ 40.48 TL — 06.03.2026)
-*   **GEREKÇE (FY2025 Tam Yıl):** "Marj devrimi" tezi güçlü biçimde teyit edildi. Reel ciro -%7.6'ya rağmen: Brüt Kâr +%12.7, FAVÖK +%32, Ana Ortaklık Net Kâr +%50. EBIT, geçen yılın -2.6B TL zararından +4.7B TL kâra döndü. EPS 3.535 TL. @ 40.48 TL: F/K 11.5x, PD/DD 0.47x (defterin yarısının da altında!), EV/FAVÖK ~10.0x. ABD Pacific Soda tam konsolidasyon + Macaristan/Bulgaristan yeni kapasiteler 2026'da ciroya katkı başladı. **Risk:** 700M USD Eurobond itfası 14 Mart 2026 yaklaşıyor — nakit (38.1B TL) + refinansman ile yönetilebilir; piyasa bu riski aşırı fiyatlıyor olabilir → alım fırsatı.
-*   **52H:** 31.94 – 50.90 TL | Detay: `hisse-analiz/SISE.md`
+*   **HÜKÜM:** 🟢 TUT / 52H ZİRVESİNDE KÂR ALMA DÜŞÜNÜLEBİLİR (@ 51.80 TL — 08.05.2026)
+*   **GEREKÇE (Q1 2026 — Güncellendi):** "Marj devrimi" tezi Q1 2026'da da sürdü: Mimari camlar EBIT +%100, Endüstriyel camlar zarardan kâra döndü. 700M USD Eurobond Şubat 2026'da başarıyla erken itfa edildi ✅. Nakit 42.4B TL, güçlü bilanço. Fiyat (51.80 TL) 52H zirvesine (%1.5 mesafede) yakın, tüm MA'lar altında. Teknik güçlü; ancak 52H zirvesinde yeni alım yerine geri çekilme bekleniyor. *(FY2025 notu: F/K 11.5x, PD/DD 0.47x, EV/FAVÖK ~10.0x @ 40.48 TL — tez beklentilerin üzerinde teyit edildi.)*
+*   **ALIM SEVİYELERİ:** 🟡 Mevcut (51-52 TL) yeni alım yapma | 🟢 46-48 TL → MA50 geri çekilmesi, güçlendir | 🟢🟢 43-44 TL → Agresif ekle | 🛑 39 TL altı → Tezi sorgula
+*   **52H:** 31.94 – 52.55 TL | Detay: `hisse-analiz/SISE.md`
 
 #### ASELS (Aselsan)
 *   **HÜKÜM:** 🟡 TUT / FIRSATLARDA EKLE (@ 338.75 TL — 06.03.2026)
@@ -206,13 +209,56 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **Olumlu Saklı Değer (pozisyon almayı gerektirmez):** Ford Trucks Android IVI sistemi, DS200T askeri santral ihracatı, Suudi Arabistan WDS 2026 görüşmeleri, 5G ile Güçlü Türkiye projesi. Savunma ve 5G katalilizörleri ileride değer yaratabilir; ancak imtiyaz ve borç sorunu çözülmeden yaklaşılmaz.
 *   **Detay:** `hisse-analiz/KAREL.md`
 
+#### PNSUT (Pınar Süt) — Q1 2026 İncelendi (20.07.2026)
+*   **HÜKÜM:** 🔴 KESİNLİKLE UZAK DUR (@ 11.70 TL — 18.07.2026)
+*   **Birincil Red 1 — İmtiyazlı hisse senedi:** A grubu (1.209.600 pay) + B grubu (882.000 pay) toplam sermayenin **%0.0066**'sını temsil ederken 9 kişilik Yönetim Kurulu'nun **8 üyesini** aday gösteriyor. YK Başkanı ve murahhas üyeler **zorunlu olarak A grubundan** seçilir. %38.43 halka açık C grubu yalnızca 1 üye gösterebiliyor. Strateji ilkesi gereği mutlak red — KAREL'den daha uç bir yapı.
+*   **Birincil Red 2 — Ana ortağa finansman aktarımı:** Şirket kendi kredi kapasitesiyle borçlanıp **aynı koşullarda Yaşar Holding'e devrediyor** (604.3M TL anapara+faiz, efektif faiz %44.67) + 510.9M TL ticari olmayan alacak = **1.12 milyar TL**. Ayrıca 09.01.2026'da Yaşar Holding'den YBP payı alımı için 148.2M TL nakit ödendi. Azınlık aleyhine sermaye tahsisi somut ve belgeli.
+*   **Kâr Kalitesi (Madde 1.3 ihlali):** Net kâr 49.5M TL'nin **%100'ü nakit dışı** — TMS 29 parasal kazancı (+477.6M) ve ertelenmiş vergi geliri (+11.1M). **TMS 29 hariç vergi öncesi -439.2M TL zarar.** Diğer gelir/gider hariç **çekirdek faaliyet sonucu negatif (-23.8M TL)**; raporlanan esas faaliyet kârı (29.3M) yalnızca reeskont faiz kalemleriyle pozitif.
+*   **Ek Riskler:**
+    *   **Reel hasılat -%26.3** (3.459M vs 4.694M TL); brüt marj %13.1 → **%11.0**; yurtdışı satış -%47.7.
+    *   **Net borç 6.02 milyar TL = piyasa değerinin 1.64 katı.** Net Borç/çekirdek FAVÖK **10.6x**. Finansal borcun **%81'i kısa vadeli** → roll-over riski.
+    *   **Ödenen nakit faiz (428.0M TL), işletme nakit akışının 2.13 katı.** İşletme nakdinin (+200.8M) tamamı stok çözülmesinden (+220.8M) geliyor — tekrarlanabilir değil.
+    *   **Hedge edilmemiş 2.03 milyar TL net kısa döviz pozisyonu** (34.4M USD + 9.7M EUR); hiçbir korunma aracı yok. TL'de %10 kayıp ≈ 203M TL zarar = çeyreklik net kârın 4 katı.
+    *   **FY2025 net zarar 1.04 milyar TL.** Özkaynak çeyrekte 287.9M TL eridi (kâra rağmen).
+    *   **İlişkili taraf yoğunlaşması:** Ticari alacakların **%99.4'ü**, ürün satışlarının **%93.3'ü** grup içi (YBP/YDT). Bağımsız dağıtım kanalı ve fiyatlama serbestisi fiilen yok.
+    *   **Reklam gideri -%87.7** (107.4M → 13.3M TL) — marka sermayesi tüketiliyor. Cari oran 0.9 (<1).
+*   **Değerleme Tuzağı:** PD/DD **0.31x** cazip görünüyor ancak özkaynağın büyük kısmı nakit üretmeyen yeniden değerlenmiş arazi/bina (5.14 milyar TL arsa). **FD/çekirdek FAVÖK 17.1x** — firma değeri bazında ucuz değil; şirket değerinin çoğu alacaklılara ait.
+*   **Olumlu Saklı Değer (pozisyon almayı gerektirmez):** Güçlü marka (moat), savunmacı sektör, Avrupa maruziyeti düşük (ihracat %6.5), FCF pozitife döndü (+112.0M TL), %81 kısa vadeli borç yapısı faiz indiriminde en hızlı fayda görecek profil. Ancak imtiyaz yapısı çözülmeden yaklaşılmaz.
+*   **Detay:** `hisse-analiz/PNSUT.md`
+
 ### D) Uydu / Spekülatif Varlıklar
 
 #### FORTE (Forte Teknoloji)
 *   **HÜKÜM:** ALINDI (625 Lot) / SPEKÜLATİF
 *   **GEREKÇE:** Şirketin temel verileri (negatif nakit akışı, operasyonel zarar, imtiyazlı paylar) strateji kriterlerini karşılamasa da; **GİB (Gelir İdaresi Başkanlığı) ihalesinin kazanılması beklentisi** nedeniyle kısa vadeli/spekülatif bir pozisyon açılmıştır. Hedef, ihalenin katalizör etkisiyle oluşabilecek x2 getiri potansiyelidir. İhale süreci yakından takip edilecektir.
 
-## 4. Araçlar ve Yardımcı Notlar
+## 4. Alım Seviyeleri — Hızlı Başvuru (09.05.2026)
+
+> Yalnızca portföydeki hisseler. Seviyeler güncel MA20/MA50/MA200 verilerine göre hesaplandı.
+
+### 🟢 Aktif Alım / Güçlendirme
+
+| Hisse | Fiyat | MA20 | MA50 | MA200 | 1. Kademe (ekle) | 2. Kademe (ağırlıklı) | 3. Kademe (agresif) | 52H Aralık |
+|---|---|---|---|---|---|---|---|---|
+| **TCELL** | 120.00 | 115.85 | 112.08 | 103.41 | 112-116 TL (MA50-MA20) | 103-108 TL (MA200) | <100 TL | 87-130 TL |
+| **SISE** | 51.80 | 47.77 | 45.41 | 40.77 | 46-48 TL (MA20) | 43-46 TL (MA50) | 39-41 TL (MA200) | 32-53 TL |
+| **YKBNK** | 39.30 | 37.76 | 36.74 | 35.37 | 36-38 TL (MA20-MA50) | 34-36 TL (MA200) | <33 TL | 25-45 TL |
+| **TUPRS** | 258.50 | 264.21 | 254.08 | 208.09 | 250-258 TL (MA50) | 238-250 TL | <230 TL | 123-280 TL |
+| **AGESA** | 248.00 | 237.35 | 228.03 | 208.13 | 232-240 TL (MA20) | 222-230 TL (MA50) | <215 TL | 133-256 TL |
+
+### 🟡 TUT + Geri Çekilmede Ekle
+
+| Hisse | Fiyat | MA20 | MA50 | MA200 | 1. Kademe (ekle) | 2. Kademe (ağırlıklı) | Not | 52H Aralık |
+|---|---|---|---|---|---|---|---|---|
+| **SAHOL** | 100.00 | 99.10 | 95.69 | 91.46 | 95-99 TL (MA20-MA50) | 90-95 TL (MA200) | 115 TL kâr al | 74-115 TL |
+| **ASELS** | 428.50 | 413.09 | 364.92 | 256.56 | 400-415 TL (MA20) | 355-370 TL (MA50) | Zirvede yeni alım yok | 127-450 TL |
+| **THYAO** | 311.00 | 317.34 | 303.46 | 301.61 | 295-307 TL (MA50-MA200) | 275-290 TL | ⚠️ Q2 teyidi şart | 249-353 TL |
+| **ORGE** | 86.50 | 81.13 | 74.20 | 72.06 | 78-83 TL (MA20) | 72-76 TL (MA50-MA200) | Güçlü trend | 64-110 TL |
+| **ECILC** | 91.05 | 91.76 | 104.38 | 91.08 | 85-92 TL (MA200 desteği) | 78-85 TL | MA50 direnç 104 TL | 40-133 TL |
+
+---
+
+## 5. Araçlar ve Yardımcı Notlar
 
 ### Anlık Hisse Verisi Çekme
 

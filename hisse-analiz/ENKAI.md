@@ -1,14 +1,158 @@
 # ENKAI (Enka İnşaat ve Sanayi A.Ş.) Yatırım Tezi
 
-**Son Güncelleme:** 6 Mart 2026 (FY2025 Tam Yıl Verileri)
-**Önceki Analiz:** 7 Kasım 2025 (9 Aylık Veriler)
+**Son Güncelleme:** 08.05.2026 (1Ç2026 Güncellendi)
+**Önceki Analiz:** 06.03.2026 (FY2025)
 
 ---
 
-## 1. HÜKÜM: 🟡 TUT (Çekirdek Varlık — Yeni Alım İçin Bekle)
+## 1. HÜKÜM: 🟡 TUT / YENİ ALIMDA BEKLE (Zirveye Yakın, Rusya Riski)
 
-**Önceki Karar (07.11.2025):** ÇEKİRDEK VARLIK / AL
-**Karar Değişikliği Gerekçesi:** FY2025 sonuçları operasyonel açıdan sağlıklı. Ancak hisse fiyatı Kasım 2025'teki alım hedef aralıklarını (61–76 TL) çok üzerinde tamamladı (şu an 92.25 TL). Portföyde tutma kararı devam eder; yeni/ek alım için düzeltme seviyeleri güncellendi.
+**Karar Değişikliği:** FY2025'te "TUT / Yeni Alımda Bekle" → Aynı. Fiyat 111.4 TL ile 52H zirvesinin -%2.5 altında. Operasyonel momentum güçlü (EBIT +19.9%), ama hisse değerlenmesi tamamlandı. Net nakit 236 milyar TL ile bilanço çok sağlam. Rusya varlığı (AVM + inşaat) jeopolitik risk faktörü olarak izlenmeye devam ediyor.
+
+---
+
+## 1Ç2026 GÜNCEL ANALİZ (08.05.2026)
+
+### Hisse Fiyatı ve Teknik Görünüm
+
+| Gösterge | Değer |
+|---|---|
+| **Güncel Fiyat** | **111,40 TL** |
+| 52H Yüksek / Düşük | 114,30 / 58,50 TL |
+| Zirveden Mesafe | **-%2,5** |
+| MA20 | 105,32 TL |
+| MA50 | 98,85 TL (destek) |
+| MA200 | 83,40 TL (güçlü destek) |
+| **Piyasa Değeri** | **~670.820 mn TL (~671 milyar TL)** |
+| Float (fiili dolaşım) | **%8,26** (çok düşük!) |
+
+### 1Ç2026 Gelir Tablosu (Bin TL, TMS 29 — 31.03.2026 bazlı)
+
+| Kalem | 1Ç2026 | 1Ç2025 | Değişim |
+|---|---|---|---|
+| **Hasılat** | **35.829.828** | **29.867.033** | **+19,9% ✅** |
+| Satışların Maliyeti | (26.730.623) | (21.842.137) | +22,4% |
+| **Brüt Kâr** | **9.099.205** | **8.024.896** | **+13,4% ✅** |
+| Brüt Marj | %25,4 | %26,9 | -1,5 puan |
+| Genel Yönetim Giderleri | (2.121.850) | (2.245.693) | -5,5% ✅ |
+| Pazarlama Giderleri | (536.152) | (398.314) | +34,6% |
+| **EBIT (Esas Faaliyet Kârı)** | **6.480.923** | **5.404.151** | **+19,9% ✅** |
+| EBIT Marjı | %18,1 | %18,1 | Sabit |
+| Yatırım Faaliyetleri Gelirleri | 6.699.362 | 2.155.082 | +211% |
+| Yatırım Faaliyetleri Giderleri | (9.668.871) | (2.344.064) | ⚠️ |
+| Net Yatırım Faaliyetleri | **(2.969.509)** | **(188.982)** | Büyük kayıp |
+| TMS 29 Parasal Kayıp | (783.047) | (406.131) | -92,8% |
+| Ertelenmiş Vergi Geliri | +1.947.941 | (96.353) | Önemli telafi |
+| **Net Kâr (Ana Ortaklık)** | **3.414.434** | **3.864.156** | **-11,6%** |
+| **Net Kâr (Toplam)** | **4.518.370** | **4.260.220** | **+6,1%** |
+| EPS (TL/hisse) | 0,58 TL | 0,66 TL | -11,9% |
+
+> **Net kâr neden düştü?** Operasyonel performans güçlü (EBIT +19,9%). Ana sorun: **Finansal yatırım portföyünün GÜD değer kaybı = -8.446.997 bin TL** (hisse senetleri, tahviller, fonlar). Bu muhasebsel bir değerleme etkisi — nakit çıkışı değil. Ertelenmiş vergi geliri +1.948 milyar ile kısmen telafi edildi. Gerçek operasyonel kâr artmaya devam ediyor.
+
+### 1Ç2026 FAVÖK
+
+| | Tutar (mn TL) |
+|---|---|
+| EBIT | 6.481 |
+| + Amortisman & İtfa | 1.615 |
+| **FAVÖK** | **8.096** |
+| FAVÖK Marjı | %22,6 |
+
+### 1Ç2026 Bilanço Özeti (mn TL)
+
+| Kalem | 31.03.2026 |
+|---|---|
+| **Nakit ve Nakit Benzerleri** | **47.132** |
+| KV Finansal Yatırımlar | 143.655 |
+| UV Finansal Yatırımlar | 52.203 |
+| **Toplam Finansal Varlıklar** | **242.990** |
+| Yatırım Amaçlı Gayrimenkuller | 104.878 |
+| Maddi Duran Varlıklar | 94.385 |
+| **Toplam Varlıklar** | **507.036** |
+| KV Borçlanmalar (banka + kira) | 319 |
+| UV Borçlanmalar (kira ağırlıklı) | 6.645 |
+| **Toplam Finansal Borç** | **6.964** |
+| **Ana Ortaklık Özkaynakları** | **386.634** |
+
+**Net Nakit Pozisyonu:**
+
+| | mn TL |
+|---|---|
+| Nakit + KV Finansal Yatırımlar + UV Finansal Yatırımlar | +242.990 |
+| Toplam Finansal Borç | -6.964 |
+| **Net Nakit** | **+236.026** |
+
+> ENKA borsada işlem gören en büyük net nakit pozisyonlarından birine sahip. 236 milyar TL net nakit, piyasa değerinin **%35'ine** eşit! Büyük kısmı (143 milyar TL) menkul kıymet portföyü.
+
+### 1Ç2026 Değerleme
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| Piyasa Değeri | 670.820 mn TL | 6.022 mn hisse × 111,4 TL |
+| Defter Değeri (ana ortaklık) | 386.634 mn TL | — |
+| **PD/DD** | **1,73x** | Makul |
+| Net Nakit | 236.026 mn TL | PD'nin %35'i |
+| EV (PD - Net Nakit) | ~434.794 mn TL | — |
+| FAVÖK (1Ç2026 × 4, yıllık) | ~32.384 mn TL | 1Ç inşaatta zayıf |
+| **EV/FAVÖK** | **~13,4x** | Orta-Pahalı |
+| **F/K** | **~49x** | Yüksek (GÜD etkili) |
+
+> F/K yüksek görünüyor çünkü net kâr GÜD kayıpları tarafından baskılandı. EBIT bazlı bakılırsa görünüm farklı. Normalize F/K tahmini ~25-30x.
+
+### 1Ç2026 Nakit Akışı (mn TL)
+
+| Kalem | Tutar |
+|---|---|
+| İşletme CFO | +2.116 (sağlıklı) |
+| Capex (maddi varlık + YAG) | -3.496 (artan yatırım) |
+| Ödenen Temettü | -7.574 (büyük ödeme) |
+
+### Segment Analizi (1Ç2026 mn TL)
+
+| Segment | Hasılat | Değişim | EBIT | EBIT Marjı |
+|---|---|---|---|---|
+| **İnşaat** | 24.468 | +29,1% | 4.138 | %16,9 |
+| **Gayrimenkul Kiralama** | 4.945 | **+59,3%** | 2.624 | **%53,1** 🔑 |
+| **Ticaret** | 2.477 | +0,2% | 616 | %24,9 |
+| **Enerji** | 3.940 | -26,2% | **(897)** | Zarar ⚠️ |
+
+> **Gayrimenkul kiralama (Rusya AVM'leri)** ENKA'nın en kârlı segmenti. %53 EBIT marjıyla grup kârlılığının motoru. Enerji segmenti zarar yazıyor — gaz santrallerinde marj baskısı.
+
+### Coğrafi Dağılım (1Ç2026 Hasılat, mn TL)
+
+| Bölge | Hasılat | Değişim |
+|---|---|---|
+| Türkiye | 14.796 | +12,6% |
+| Rusya & Kazakistan | 9.047 | -3,5% |
+| Avrupa | 6.438 | +32,9% |
+| Diğer | 5.549 | +121,5% |
+
+### 2025 Yılı Temettüsü (Toplam)
+
+| Kalem | Tutar |
+|---|---|
+| Temettü Avansı (Ocak 2026) | 5.000.000 bin TL |
+| Final Temettü (Nisan 2026) | 12.600.000 bin TL |
+| İntifa Senedi Temettüsü | 230.874 bin TL |
+| **Toplam Dağıtım** | **~17.831 mn TL** |
+| Hisse Başına | ~2,96 TL/hisse |
+| **Temettü Verimi** | **~2,66%** |
+
+### Ortaklık Yapısı
+
+| Ortak | Pay (%) |
+|---|---|
+| Tara Holding A.Ş. | %49,80 |
+| Vildan Gülçelik | %7,99 |
+| Sevda Gülçelik | %6,43 |
+| Enka Spor Eğitim ve Sosyal Yardım Vakfı | %5,87 |
+| **Halka Açık (fiili dolaşım)** | **~%8,26** |
+
+> **Kritik not:** ENKA'nın fiili dolaşım oranı sadece **%8,26**. Bu son derece düşük float, küçük işlem hacminde bile fiyatı oynatabilir. Likidite riski var.
+
+---
+
+## ÖNCEKİ ANALİZ: FY2025 (06.03.2026)
 
 ---
 

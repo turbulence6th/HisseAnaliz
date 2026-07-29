@@ -2,6 +2,165 @@
 
 ---
 
+## 1Ç2026 ANALİZİ (08.05.2026 — Son Güncelleme)
+
+**Hisse Fiyatı:** 91.05 TL | **52H:** 40.40 – 132.60 TL | **52H Yüksekten:** -%31.3
+
+### Teknik Görünüm
+
+| Gösterge | Değer | Konum |
+|---|---|---|
+| Güncel Fiyat | 91.05 TL | — |
+| MA20 | 91.76 TL | Fiyat altında |
+| MA50 | 104.38 TL | Fiyat altında ⚠️ |
+| MA200 | 91.08 TL | Neredeyse tam üzerinde |
+| 52H Yüksek | 132.60 TL | -%31.3 |
+| 52H Düşük | 40.40 TL | +%125 |
+
+Hisse MA50'nin ciddi altında (104.38 TL), MA200 ise tam üzerinde işlem görüyor. 52H zirvesinden %31 geri çekilmiş olup kısa vadede yön belirsiz; MA200 kırılırsa hızlı satış basıncı gelebilir.
+
+---
+
+### 1Ç2026 Gelir Tablosu (TMS 29 — 31.03.2026 alım gücü, Bin TL)
+
+| Kalem | 1Ç2026 | 1Ç2025 | Değişim |
+|---|---|---|---|
+| Hasılat | 2.747 M TL | 2.784 M TL | -%1.3 |
+| Satışların Maliyeti | (1.707 M TL) | (1.828 M TL) | -%6.6 ✅ |
+| **Brüt Kâr** | **1.040 M TL** | **955 M TL** | **+%8.9** |
+| **Brüt Marj** | **%37.9** | **%34.3** | **+3.6 puan ✅** |
+| Genel Yönetim Giderleri | (705 M TL) | (734 M TL) | -%4 |
+| Pazarlama Giderleri | (594 M TL) | (594 M TL) | Değişmedi |
+| Ar-Ge Giderleri | (46 M TL) | (23 M TL) | +%101 ⚠️ |
+| Esas Faaliyet K/Z | **(131 M TL)** | **(65 M TL)** | **Kötüleşti ❌** |
+| Özkaynak Yöntemi Zararları | **(390 M TL)** | **(63 M TL)** | **VİTRA KARO şoku ❌** |
+| Finansman Giderleri (net) | (220 M TL) | (541 M TL) | İyileşti |
+| Parasal Kayıp | (38 M TL) | +17 M TL | Kötüleşti |
+| **Vergi Öncesi Zarar** | **(779 M TL)** | **+2.526 M TL** | **Sert dönüş** |
+| **Net Dönem Zararı** | **(924 M TL)** | **+2.013 M TL** | **❌** |
+| EPS | -1.35 TL | +2.94 TL | — |
+
+> **Ana Mesaj:** Brüt marjda güçlü iyileşme (+3.6 puan) operasyonel açıdan olumlu. Ancak net zarar büyük ölçüde **Vitra Karo iştiraki kaynaklı** — bkz. aşağı. Önceki yılın karı ise büyük ölçüde tek seferlik yatırım gelirlerindendi (Monrol satışı vb.).
+
+---
+
+### 1Ç2026 Segment Analizi
+
+| Bölüm | Hasılat | Brüt Kâr | Faaliyet K/Z | Yorum |
+|---|---|---|---|---|
+| **Sağlık** | 2.493 M TL | 785 M TL | **(353 M TL)** | Yüksek opex ⚠️ |
+| **Gayrimenkul (Kanyon)** | 255 M TL | 255 M TL | **+228 M TL** | İstikrarlı ✅ |
+| Dağıtılmamış | — | — | (6 M TL) | — |
+| **Toplam** | 2.747 M TL | 1.040 M TL | (131 M TL) | — |
+
+**Sağlık Bölümü:** Brüt marjda güçlü iyileşme var (+%9.6 brüt kâr), ancak yüksek GYS ve pazarlama giderleri faaliyet zararını büyütüyor. CMO dönüşümü nedeniyle kısa vadeli opex baskısı devam edecek.
+
+**Kanyon (Gayrimenkul):** Çeyrek başına ~255 M TL kira geliri, ~228 M TL faaliyet kârı → yıllık ~910 M TL faaliyet kârı potansiyeli. Güvenilir, enflasyona endeksli nakit akışı.
+
+---
+
+### VİTRA KARO RİSKİ ⚠️
+
+| Gösterge | Değer |
+|---|---|
+| ECILC Ortaklık Oranı | %25.0 |
+| Vitra Karo Toplam Varlık | 31.280 M TL |
+| Vitra Karo Toplam Yükümlülük | 37.945 M TL |
+| **Net Özkaynak (negatif)** | **(6.665 M TL)** |
+| 1Ç2026 Net Zarar (ECILC payı) | 213.9 M TL |
+| 1Ç2026 Sermaye Desteği | 393.6 M TL (değer düşüklüğü alındı) |
+
+Vitra Karo, negatif özkaynak pozisyonunda bir zararlı iştirak. ECILC, bu çeyrek 393.6 M TL sermaye enjeksiyonu yapmış ancak aynı anda değer düşüklüğü karşılığı ayırarak etkiyi sıfırlamış — net nakit çıkışı var ama P&L etkisi nötr. 1Ç2026 özkaynak yöntemi zarar payı 390 M TL'ye çıkmış.
+
+---
+
+### Bilanço (31.03.2026, TMS 29, Bin TL)
+
+| Kalem | 31.03.2026 | 31.12.2025 | Not |
+|---|---|---|---|
+| **Nakit ve nakit benzerleri** | **3.702 M TL** | **4.980 M TL** | Bono ihracı kısmen dengeledi |
+| KV Finansal Yatırımlar | 346 M TL | 355 M TL | Yurt içi + dış fonlar |
+| Toplam Dönen Varlıklar | 9.387 M TL | 10.645 M TL | — |
+| **Eczacıbaşı Holding payı (FVDKG)** | **38.192 M TL** | **38.192 M TL** | Ana varlık, yıllık revize |
+| **Kanyon (Yatırım Amaçlı GYR)** | **23.769 M TL** | **23.769 M TL** | — |
+| Maddi Duran Varlık | 5.652 M TL | 5.616 M TL | — |
+| Maddi Olmayan (CMO yatırımı dahil) | 3.004 M TL | 2.616 M TL | +388 M TL artış |
+| **TOPLAM VARLIKLAR** | **81.824 M TL** | **82.533 M TL** | — |
+| KV Finansal Borç | 2.521 M TL | 2.320 M TL | 750 M TL bono dahil |
+| UV Finansal Borç | 1.372 M TL | 1.159 M TL | — |
+| **Toplam Finansal Borç** | **3.893 M TL** | **3.479 M TL** | Bono ihracı artırdı |
+| **Net Nakit/Borç** | **+155 M TL** | **+1.856 M TL** | Neredeyse nötr |
+| Ertelenmiş Vergi Yük. | 8.602 M TL | 8.688 M TL | Gerçek nakit değil |
+| **TOPLAM ÖZKAYNAKLAR (NAV)** | **66.246 M TL** | **67.170 M TL** | -924 M TL net zarar |
+
+> **Bono İhracı:** Ocak 2026'da nitelikli yatırımcılara 750 M TL, %39.39, 364 günlük finansman bonosu ihraç edildi. Bu borçlanmayı artırırken net nakit pozisyonunu aşındırdı.
+
+---
+
+### Değerleme (91.05 TL, 685 M hisse → PD: 62.4 Milyar TL)
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| **PD/NAV** | **0.94x** | NAV'a %6 iskonto ✅ |
+| PD/Düzeltilmiş NAV* | 1.08x | Ertelenmiş vergi hariç |
+| EV/Kanyon | 2.6x | Kanyon çok ucuz fiyatlı |
+| Kanyon Kira Katkısı/PD | %1.5 | Yıllık ~910 M TL kira geliri |
+| Net Borç/FAVÖK | ~6.7x | Sağlık FAVÖK düşük, oran yüksek |
+
+*Düzeltilmiş NAV: 66.246 - 8.602 (ertelenmiş vergi) = 57.644 M TL
+
+> **Tarihsel karşılaştırma:** FY2025 analizimizde PD/NAV 1.26x prim ile "pahalı" yorumu yapmıştık. Hisse 112 TL'den 91 TL'ye gerilerken NAV artmış (61→66 M TL), sonuçta PD/NAV 1.26x primden 0.94x iskontoyla işleme dönmüş. Bu, yeniden alım açısından tarihsel olarak daha cazip bölge.
+
+---
+
+### Nakit Akışı (1Ç2026, Bin TL)
+
+| Kalem | 1Ç2026 | 1Ç2025 |
+|---|---|---|
+| İşletme Faaliyetleri CFO | **(42 M TL)** | (79 M TL) | 
+| Yatırım Faaliyetleri CFO | **(964 M TL)** | +4.021 M TL |
+| — CMO Yatırımı (maddi ol. duran var.) | (466 M TL) | — |
+| — Vitra Karo Sermaye Desteği | (394 M TL) | — |
+| Finansman CFO | +556 M TL | +61 M TL |
+| — Bono ihracı | +750 M TL | — |
+| Enflasyon Etkisi | (828 M TL) | (775 M TL) |
+| **Net Nakit Değişimi** | **(1.278 M TL)** | +3.227 M TL |
+
+İşletme CFO negatif ama geçen yıla göre iyileşiyor. Yatırım çıkışları CMO ve Vitra Karo'ya bağlı; geçen yılki büyük giriş ise Monrol satışı gibi tek seferlik gelirlerden kaynaklanıyordu.
+
+---
+
+### Hüküm: 🟡 TUT / Mevcut Seviyede Yeniden Değerlendir
+
+**Mevcut seviye (91 TL, PD/NAV 0.94x) FY2025'e göre çok daha cazip; yeni alım düşünülebilir ama tetikleyiciler beklenmeli.**
+
+**Artılar:**
+- PD/NAV 0.94x → tarihsel prim azaldı, iskonto bölgesine yaklaştı
+- Eczacıbaşı Holding %37 payı (38.2 Milyar TL) — değerli, likit olmayan ama güçlü varlık
+- Kanyon kira geliri (yıllık ~910 M TL kira katkısı) — enflasyon hedge'i, istikrarlı
+- Brüt marjda +3.6 puan iyileşme; maliyet yönetimi düzelti sinyali
+- CMO dönüşümü (32 M € steril dolum hattı) — uzun vadeli değer katacak
+
+**Eksiler:**
+- Vitra Karo — negatif özkaynak, süregelen zarar, belirsizlik ❌
+- Net nakit neredeyse sıfırlandı (+155 M TL) — bono ihracı erozyonu
+- Sağlık faaliyet zararı (353 M TL) yüksek opex'ten kaynaklanıyor
+- Eczacıbaşı Holding payı yıllık güncelleniyor → gerçek değer tartışmalı
+- MA50 (104 TL) çok altında, momentum baskılı
+
+**Alım seviyeleri:**
+- 85-90 TL → PD/NAV ~0.90x → İlk pozisyon güçlendirme
+- 78-80 TL → PD/NAV ~0.83x → Agresif alım
+
+**Risk / Satış Tetikleyicisi:**
+- Vitra Karo'da ek büyük değer düşüklüğü
+- Eczacıbaşı Holding payında çok altında güncelleme (yıllık)
+- MA200 (91 TL) kırılması + haftalık kapanış → stop seviyesi
+
+---
+
+## ÖNCEKİ ANALİZ: FY2025
+
 ## FY2025 ANALİZİ (03.03.2026 — Son Güncelleme)
 
 **Hisse Fiyatı:** 112.20 TL | **52H:** 37.92 – 132.60 TL | **1Y Getiri:** ~+%160

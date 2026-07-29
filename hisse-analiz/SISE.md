@@ -1,5 +1,185 @@
 # SISE – Türkiye Şişe ve Cam Fabrikaları A.Ş. — Analiz ve Strateji
 
+---
+
+## 1Ç2026 ANALİZİ — Güncelleme: 08.05.2026
+
+**Hisse Fiyatı:** 51.80 TL | **52H:** 31.94 – 52.60 TL | **52H Zirvesine Mesafe:** -%1.5 🔥
+
+### Teknik Görünüm
+
+| Gösterge | Değer | Konum |
+|---|---|---|
+| Güncel Fiyat | 51.80 TL | — |
+| MA20 | 47.77 TL | Fiyat üzerinde ✅ |
+| MA50 | 45.41 TL | Fiyat üzerinde ✅ |
+| MA200 | 40.77 TL | Fiyat üzerinde ✅ |
+| 52H Yüksek | 52.60 TL | -%1.5 (yakın) |
+| 52H Düşük | 31.94 TL | +%62 |
+| Bugün Hacim | 126 M adet | Ort. 20G'nin ~1.9x üzerinde ⚡ |
+
+Teknik görünüm güçlü: tüm hareketli ortalamaların üzerinde, 52H zirvesini test ediyor ve bugün çift normalin üzerinde hacimle. Zirve kırılması halinde yeni alım fırsatı kapanabilir.
+
+---
+
+### 1Ç2026 Ana Gelişmeler
+
+**1. 700 M USD Eurobond İtfası Tamamlandı ✅**
+FY2025 analizinde "takip gerektirir" dediğimiz Mart 2026 vadeli 700 M USD eurobond erken itfa edildi (17 Şubat 2026, 382.7 M USD önceki geri alımlarla birlikte toplam).
+
+**2. 500 M USD Yeni Eurobond İhraç Edildi (Ocak 2026)**
+ISIN XS3272983563 / US829688AC49, 23 Ocak 2033 vadeli, faiz %8.375. Mevcut portföye eklendi.
+
+**3. Gayrimenkul Satışı (171.5 M USD)**
+Yatırım amaçlı gayrimenkullerin bir kısmı Çelikler Taahhüt İnşaat ve Sanayi A.Ş.'ye 171.5 M USD bedelle devredildi → 7.509 Milyar TL nakit girişi. Bu satış bilançodaki yatırım amaçlı gayrimenkul kalemini 25.483 → 14.661 Milyar TL'ye indirdi.
+
+---
+
+### 1Ç2026 Gelir Tablosu (TMS 29 — 31.03.2026 alım gücü, Bin TL)
+
+| Kalem | 1Ç2026 | 1Ç2025 | Değişim |
+|---|---|---|---|
+| **Hasılat** | **57.478 M TL** | 59.497 M TL | -%3.4 |
+| Satışların Maliyeti | (41.542 M TL) | (45.408 M TL) | -%8.5 ✅ |
+| **Brüt Kâr** | **15.936 M TL** | 14.088 M TL | **+%13.1** |
+| **Brüt Marj** | **%27.7** | %23.7 | **+4.0 puan ✅** |
+| Faaliyet Giderleri | (16.820 M TL) | (16.236 M TL) | +%3.6 |
+| Esas Faaliyetlerden Diğer Gel./Gid. (net) | +945 M TL | +1.349 M TL | — |
+| Özkaynak Yöntemi Payları | +204 M TL | +161 M TL | — |
+| **Esas Faaliyet Kârı** | **+62 M TL** | **(637 M TL)** | **Zarardan Kâra ✅** |
+| Yatırım Faaliyetleri (net) | (2.926 M TL) | +53 M TL | Gyr. satış zararı |
+| Finansman Gelirleri | +7.723 M TL | +5.787 M TL | +%33 ✅ |
+| Finansman Giderleri | (9.197 M TL) | (11.950 M TL) | -%23 ✅ |
+| **Net Parasal Pozisyon Kazancı** | **+9.648 M TL** | +8.682 M TL | +%11 |
+| **Vergi Öncesi Kâr** | **+5.309 M TL** | +1.968 M TL | **+%170** |
+| Vergi Gideri | (3.862 M TL) | (229 M TL) | Ertelenmiş vergi⚠️ |
+| **Net Dönem Kârı (Ana Ortaklık)** | **+1.884 M TL** | +1.641 M TL | **+%14.8** |
+| **EPS (Ana Ortaklık)** | **0.99 TL** | 0.75 TL | **+%32** |
+
+> **Vergi Baskısı:** Vergi gideri (3.862 M TL) içinde ertelenmiş vergi (3.354 M TL) önemli. Gerçek nakit vergi 508 M TL — düzeltilmiş kâr bakışında dikkate alınmalı.
+
+---
+
+### 1Ç2026 Segment FAVÖK (Bin TL)
+
+| Segment | 1Ç2026 FAVÖK | 1Ç2025 FAVÖK | Yorum |
+|---|---|---|---|
+| **Mimari Camlar** | **3.349 M TL** | 1.673 M TL | **+%100 ✅✅** |
+| **Endüstriyel Camlar** | **1.198 M TL** | (1.431 M TL) | **Zarardan kâra ✅✅** |
+| Cam Ambalaj | 1.552 M TL | 1.973 M TL | -%21 |
+| **Kimyasallar (Soda)** | **601 M TL** | 2.352 M TL | **-%74 ⚠️** |
+| Cam Ev Eşyası | (581 M TL) | 480 M TL | Kötüleşti |
+| Enerji | (157 M TL) | 18 M TL | — |
+| Diğer + Holding | (4.063 M TL) | 14 M TL | Gyr. satış zararı etkisi |
+| **Konsolide Toplam** | **2.049 M TL** | **5.116 M TL** | Düşük görünüm ⚠️ |
+
+> **Önemli Not:** Konsolide FAVÖK'teki büyük düşüş yanıltıcı. "Diğer" segmentindeki (4.063 M TL) negatif, büyük ölçüde yatırım faaliyetleri kaynaklı (gayrimenkul satış zararı + holding giderleri). Operasyonel segmentlerin FAVÖK'ü (Mimari + Endüstriyel + Ambalaj + Kimya + Ev Eşyası + Enerji) = 5.962 M TL → 2025'teki 5.065 M TL'ye göre +%17.
+
+**Soda (Kimyasallar) Zayıflığı:** ABD operasyonlarının tam konsolidasyonuyla birlikte gelen küresel soda külü fiyat baskısı (Çin kaynaklı arz fazlası) segmenti ciddi şekilde vurdu. Bu, FY2025 analizinde öngördüğümüz temel risklerden biriydi.
+
+---
+
+### Coğrafi Hasılat Dağılımı (1Ç2026)
+
+| Bölge | Hasılat | Pay |
+|---|---|---|
+| Türkiye | 32.473 M TL | %56.5 |
+| Avrupa | 12.208 M TL | %21.2 |
+| Rusya/Ukrayna/Gürcistan | 6.048 M TL | %10.5 |
+| Amerika (Soda) | 5.573 M TL | %9.7 |
+| Diğer | 1.177 M TL | %2.0 |
+
+---
+
+### Bilanço (31.03.2026, TMS 29, Bin TL)
+
+| Kalem | 31.03.2026 | 31.12.2025 | Not |
+|---|---|---|---|
+| Nakit ve Nakit Benzerleri | **42.441 M TL** | 38.145 M TL | +%11 ✅ |
+| Kısa Vadeli Fin. Yatırımlar | 4.675 M TL | 3.306 M TL | — |
+| Toplam Dönen Varlıklar | 158.546 M TL | 141.494 M TL | — |
+| Maddi Duran Varlıklar | 262.756 M TL | 268.545 M TL | — |
+| Yatırım Amaçlı Gayrimenkul | 14.661 M TL | 25.483 M TL | Satış sonrası |
+| **Toplam Varlıklar** | **538.355 M TL** | **506.933 M TL** | — |
+| Toplam Finansal Borç | **170.715 M TL** | 161.924 M TL | Eurobond ↑ |
+| **Net Borç** | **~123.6 M TL** | ~123.8 M TL | Stabil |
+| Ana Ortaklığa Ait Özkaynak | 257.153 M TL | 242.571 M TL | — |
+| Kontrol Gücü Olmayan | 28.882 M TL | 26.688 M TL | — |
+| **Toplam Özkaynaklar** | **286.035 M TL** | **269.259 M TL** | +%6.2 |
+
+**Döviz Borç Yapısı:**
+- USD borcu: 97.656 M TL (%57 toplam borç) — kur riski öncelikli
+- EUR borcu: 52.240 M TL (%31)
+- TL borcu: 19.247 M TL (%11)
+
+---
+
+### Nakit Akışı (1Ç2026, Bin TL)
+
+| Kalem | 1Ç2026 | 1Ç2025 |
+|---|---|---|
+| İşletme CFO | **+1.421 M TL** | +3.415 M TL |
+| Yatırım CFO | **+3.080 M TL** | (15.176 M TL) |
+| — Gayrimenkul satışı | +7.509 M TL | — |
+| — CAPEX (maddi+maddi olmayan) | (5.744 M TL) | (10.078 M TL) ✅ |
+| Finansman CFO | +353 M TL | (11.224 M TL) |
+| — Yeni borç (eurobond) | +40.462 M TL | — |
+| — Borç ödemeleri | (36.858 M TL) | — |
+| **Net Nakit Değişimi** | **+4.359 M TL** | (23.049 M TL) |
+
+CAPEX 2025 1Ç'e göre yarı yarıya düştü — büyük yatırım döngüsü yavaşlıyor, serbest nakit akışı normalleşiyor.
+
+---
+
+### Değerleme @ 51.80 TL
+
+| Metrik | Değer | Yorum |
+|---|---|---|
+| Toplam Hisse | ~3.063 M adet | 1 TL nominal |
+| **Piyasa Değeri** | **~158.7 Milyar TL** | — |
+| **Defter Değeri/Hisse (Ana)** | **83.96 TL** | 257.153/3.063 |
+| **PD/DD** | **0.62x** | Defterin %62'si |
+| Yıllıklaştırılmış EPS | ~3.96 TL (0.99×4) | Vergi baskısı var |
+| **F/K (yıllıklaştırılmış)** | **~13.1x** | — |
+| Net Borç | 123.6 M TL | — |
+| **EV** | **~282.3 Milyar TL** | — |
+| **EV/FAVÖK (LTM ~22.1B)** | **~12.8x** | Yüksek, yatırım döngüsü etkisi |
+| **Temettü** | 1.758 M TL | 1 Haziran 2026 ödeme |
+| Temettü Verimi | ~%1.1 | — |
+
+---
+
+### Hüküm: 🟢 TUT / 52H Zirvesinde Kâr Alma Düşünülebilir
+
+**Teknik güçlü, operasyonel iyileşme sürdürülebilir. 52H zirvesine %1.5 mesafede yeni alım yapmaktan kaçın; geri çekilme bekle.**
+
+**Artılar:**
+- Mimari Camlar FAVÖK'ü ikiye katlandı — Avrupa inşaat toparlanması yansıyor
+- Endüstriyel Camlar zarardan kâra geçti — otomotiv cam iyileşmesi başladı
+- 700 M USD eurobond itfası sorunsuz tamamlandı, temel risk ortadan kalktı ✅
+- Brüt marj %27.7 — FY2025'teki "marj devrimi" tezini teyit ediyor
+- CAPEX yarıya indi → serbest nakit akışı normalleşiyor
+- Nakit +42.4 Milyar TL — güçlü likidite
+
+**Eksiler:**
+- Soda (Kimyasallar) FAVÖK'ü -%74 — Çin kaynaklı baskı sürüyor ⚠️
+- Cam Ev Eşyası negatife döndü
+- 500 M USD yeni eurobond — borç yükü stabil (azalmadı)
+- Konsolide FAVÖK optik olarak zayıf görünüyor (gayrimenkul satış zararı etkisi)
+- Hisse 52H zirvesinde — momentum yatırımcısı için değil, değer yatırımcısı için cazip
+
+**Alım seviyeleri:**
+- 46-48 TL → MA50 desteği + geri çekilme → güçlendir
+- 43-44 TL → MA200 yakını, agresif alım bölgesi
+
+**Kâr Alma / İzleme:**
+- 52.60 TL (52H zirvesi) kırılırsa: momentum devam, 55-58 TL hedef aralığı
+- Soda fiyatları takip: Çin soda külü ihracat fiyatları
+
+---
+
+## ÖNCEKİ ANALİZ: FY2025
+
 ## FY2025 (12A) Analizi — Güncelleme: 27 Şubat 2026
 
 Bu analiz, Şişecam'ın 1 Ocak – 31 Aralık 2025 dönemine ait Konsolide Finansal Tablolar (yayın tarihi: 16 Şubat 2026) ışığında güncellenmiştir.

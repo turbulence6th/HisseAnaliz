@@ -1,14 +1,105 @@
 # KLKIM — Kalekim Kimyevi Maddeler San. ve Tic. A.Ş.
 
 **Sektör:** Yapı Kimyasalları (seramik yapıştırıcı, yalıtım, boya, derz, köpük vb.)
-**Son Güncelleme:** 09.03.2026
-**Kaynak Rapor:** FY2025 (31.12.2025) Konsolide Finansal Tablolar — KAP yayın 09.03.2026
-**Birim:** Tam TL (TMS 29 — 31.12.2025 alım gücüyle yeniden düzenlenmiş)
-**Denetçi:** PwC (Orhan Öztürk, SMMM) — Olumlu görüş
+**Son Güncelleme:** 08.05.2026 (1Ç2026 eklendi)
+**Birim:** Tam TL (TMS 29 — ilgili dönem alım gücüyle yeniden düzenlenmiş)
 
 ---
 
-## KARAR: 🟢 AL — Net Nakit Destekli, EV/FAVÖK 5.6x, Güçlü Operasyonel Momentum
+## KARAR: 🟡 BEKLE / İZLE — İnşaat Sektörü Baskısı + TMS 29 Parasal Kayıp
+
+> **Güncelleme (08.05.2026):** 1Ç2026 sonuçları: Net kâr -96,7% (6,4 mn TL). Ana nedenler: TMS 29 parasal kayıp artışı (266 mn TL), hasılat -7,9% (inşaat yavaşlaması) ve yönetim giderleri +33,5%. Brüt marj +0,7 puan iyileşti. Net nakit pozisyonu güçlü (~1.520 mn TL). Capex normalleşti (55 mn vs 393 mn TL). 2025 temettüsü 300 mn TL brüt, 08.05.2026 itibarıyla dağıtılıyor. **Sektörel toparlanma ve TMS 29 baskısının azalması beklenerek izleme pozisyonuna alındı.**
+
+---
+
+## 1Ç2026 GÜNCEL ANALİZ (08.05.2026)
+
+### Hisse Fiyatı ve Değerleme (08.05.2026)
+
+| Gösterge | Değer |
+|---|---|
+| **Güncel Fiyat** | **36,54 TL** |
+| MA20 | 36,01 TL |
+| MA50 | 37,37 TL (direnç) |
+| MA200 | 35,31 TL (destek) |
+| Piyasa Değeri | ~16.808 mn TL |
+| Defter Değeri (Ana Ortaklık) | 7.127 mn TL |
+| **PD/DD** | **2,36x** |
+| Net Nakit (TFRS 16 dahil) | +1.520 mn TL |
+| EV | ~15.288 mn TL |
+| FAVÖK (1Ç2026 × 4, yıllık) | ~1.271 mn TL |
+| **EV/FAVÖK (yıllık)** | **~12,0x** |
+| 2025 Temettü Verimi | %1,79 |
+
+### 1Ç2026 Gelir Tablosu (mn TL, TMS 29 — 31.03.2026 bazlı)
+
+| Kalem | 1Ç2026 | 1Ç2025 | Değişim |
+|---|---|---|---|
+| Hasılat | 2.130,0 | 2.312,6 | **-7,9%** |
+| **Brüt Kâr** | **818,0** | **871,4** | -6,1% |
+| **Brüt Marj** | **%38,4** | **%37,7** | **+0,7 puan ✅** |
+| Pazarlama Giderleri | (338,8) | (342,7) | -1,1% |
+| Genel Yönetim Giderleri | (258,1) | (193,3) | **+33,5% ⚠️** |
+| **EBIT** | **221,1** | **335,4** | -34,1% |
+| EBIT Marjı | %10,4 | %14,5 | -4,1 puan |
+| TMS 29 Parasal Kayıp | **(265,9)** | **(190,2)** | +39,8% ⚠️ |
+| **Net Kâr (Ana Ortaklık)** | **6,4** | **192,5** | **-96,7%** |
+
+> **Neden net kâr çöktü?** (1) TMS 29 parasal kayıp: 266 mn vs 190 mn TL = 76 mn TL ek yük. KLKIM büyük nakit pozisyonu taşıdığından net parasal alacaklıdır; yüksek enflasyon nakdin reel değerini eriterek muhasebede parasal kayıp yaratır. (2) Hasılat -7,9% (inşaat yavaşlaması). (3) Yönetim giderleri +33,5%. Brüt marj iyileşmesi operasyonel verimliliği gösteriyor — sorun sektörel ve makro kaynaklı.
+
+### 1Ç2026 FAVÖK
+| | Tutar (mn TL) |
+|---|---|
+| EBIT | 221,1 |
+| + Amortisman | 96,6 |
+| **FAVÖK** | **317,7** |
+| FAVÖK Marjı | %14,9 |
+
+### 1Ç2026 Bilanço Özeti
+
+| Kalem | 31.03.2026 |
+|---|---|
+| **Nakit** | **1.869,1 mn TL** |
+| KV Banka Borcu | 235,1 mn TL |
+| UV Banka Borcu | 0 |
+| TFRS 16 Kira (KV+UV) | 113,7 mn TL |
+| **Net Nakit (TFRS 16 dahil)** | **+1.520 mn TL** |
+| Ana Ortaklık Özkaynakları | 7.127,4 mn TL |
+| DD/Hisse | ~15,49 TL |
+| Özkaynak / Toplam Varlık | %73,3 |
+
+### 1Ç2026 Nakit Akışı
+
+| Kalem | Tutar (mn TL) |
+|---|---|
+| CFO | **(662,1)** — mevsimsel, WC birikmesi |
+| Capex | (55,1) → vs 1Ç2025: (392,9) ✅ |
+| Faiz Tahsilatı | +145,2 |
+| Dönem Sonu Nakit | 1.861,8 |
+
+> CFO negatifliği 1Ç mevsimsel deseninden kaynaklanıyor (alacak +364 mn, stok +284 mn, prim/vergi ödemeleri). Capex'in 392,9 mn'dan 55,1 mn'ye düşmesi yatırım döneminin tamamlandığını teyit ediyor — serbest nakit akışı 2025H2'den itibaren güçlü olmalı.
+
+### 1Ç2026 Operasyonel Görünüm
+
+| Ürün Segmenti | 1Ç2026 (ton) | Değişim | Kapasite Kullanımı |
+|---|---|---|---|
+| Kuru Harç | 117.350 | **-20,2%** | %40,9 |
+| Boya / Sıva | 4.352 | +24,7% | %34,8 |
+| Beton / Çimento Kimyasalları | 39.020 | +9,9% | %36,6 |
+
+İnşaat güven endeksi 1Ç2026'da ~4 puan geriledi; inşaat faaliyetleri endeksi son yılda 17 puan düştü. Kuru harç -20,2% bu baskıyı doğruluyor. Boya ve beton kimyasalları toparlanıyor — ürün çeşitlendirmesi kısmi tampon sağlıyor.
+
+### Dönem Sonrası Gelişmeler
+- **Kalekim Lyksor Trabzon:** ~600.000 USD yatırım, 50.000 ton kapasite — 2H2026'da üretime başlayacak. Karadeniz ve ihracat stratejisi açısından önemli.
+- **2025 Temettüsü:** 300 mn TL brüt (0,652174 TL/hisse brüt, 0,554348 TL net) — 08.05.2026 itibarıyla dağıtılıyor.
+
+---
+
+---
+
+## FY2025 ANALİZİ (09.03.2026) — Arşiv
+
+> **Not:** Aşağıdaki bölüm FY2025 tam yıl verileriyle yapılan analizdir. Güncel karar 1Ç2026 sonuçlarına göre yukarıda güncellenmiştir.
 
 ---
 

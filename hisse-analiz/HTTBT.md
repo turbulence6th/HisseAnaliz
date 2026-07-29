@@ -1,15 +1,189 @@
 # HTTBT – Hitit Bilgisayar Hizmetleri A.Ş.
 
-**Son Güncelleme:** 03.03.2026
-**Rapor Dönemi:** FY2025 (01.01.2025 – 31.12.2025) — Konsolide
-**Hisse Fiyatı (03.03.2026):** 41.50 TL
-**52H Aralık:** 35.82 – 53.95 TL (zirveden -%23 düşüş)
-**Halka Açıklık:** %27.60 ✅
-**Bağımsız Denetçi:** PwC
+**Son Güncelleme:** 08.05.2026 (1Ç2026 eklendi)
+**Halka Açıklık:** %27.60 | **Bağımsız Denetçi:** PwC
 
 ---
 
-## HÜKÜM: 🟡 İZLE / Temkinli Küçük Pozisyon
+## HÜKÜM: 🟡 İZLE / Temkinli Pozisyon
+
+> **Güncelleme (08.05.2026):** 1Ç2026 sonuçları: Hasılat +43.4%, Net kâr +26.1% güçlü büyüme. Ancak brüt marj -4.1pp ve EBIT marjı -3.9pp erozyon endişe verici. 180M TL banka borcu ödenerek bilançoya temizlendi. Pegasus hem %36.2 ortaklık hem %24.1 gelir konsantrasyonu → çıkar çatışması riski izlenmeli. F/K ~40x premium. MA200 altında teknik baskı var.
+
+---
+
+## 1Ç2026 GÜNCEL ANALİZ (08.05.2026)
+
+### Hisse Fiyatı ve Teknik Görünüm
+
+| Gösterge | Değer |
+|---|---|
+| **Güncel Fiyat** | **43,60 TL** |
+| 52H Yüksek / Düşük | 53,95 / 35,60 TL |
+| Zirveden Mesafe | **-%19,2** |
+| MA20 | 41,76 TL ✅ (fiyat üzerinde) |
+| MA50 | 39,89 TL ✅ (fiyat üzerinde) |
+| MA200 | 44,95 TL ⚠️ (fiyat altında) |
+| **Piyasa Değeri** | **~13.080 mn TL** |
+
+### 1Ç2026 Gelir Tablosu (TRY)
+
+| Kalem | 1Ç2026 | 1Ç2025 | Değişim |
+|---|---|---|---|
+| **Hasılat** | **494.824.553** | **345.092.211** | **+43,4% ✅** |
+| — Yurtiçi | 196.324.408 | 139.344.909 | +40,9% |
+| — Yurtdışı | 294.929.358 | 219.135.783 | +34,5% |
+| Satışların Maliyeti | (287.022.015) | (185.893.030) | +54,4% ⚠️ |
+| **Brüt Kâr** | **207.802.538** | **159.199.181** | **+30,5%** |
+| **Brüt Marj** | **%42,0** | **%46,1** | **-4,1 puan ⚠️** |
+| Pazarlama Giderleri | (40.945.600) | (29.557.027) | +38,5% |
+| G&A Giderleri | (95.908.005) | (68.150.239) | +40,7% |
+| Diğer Gelir/Gider (net) | +1.952.072 | +2.733.285 | — |
+| **EBIT** | **72.901.005** | **64.225.200** | **+13,5%** |
+| EBIT Marjı | **%14,7** | **%18,6** | **-3,9 puan ⚠️** |
+| Yatırım Gelirleri | 21.984.553 | 21.758.568 | +1,0% |
+| Finansman Giderleri | (14.040.644) | (36.121.268) | **-61,1% ✅** |
+| Finansman Gelirleri | 3.103.432 | 19.216.956 | — |
+| Vergi Öncesi Kâr | 83.948.346 | 69.079.456 | +21,5% |
+| **Net Kâr** | **82.928.795** | **65.731.405** | **+26,1% ✅** |
+| EPS | 0,2764 TL | 0,2191 TL | +26,1% |
+
+> **Marj erozyon nedeni:** Personel giderleri, seyahat ve danışmanlık maliyetleri hasılat artışından daha hızlı arttı. Maliyet tabanı USD bazlı büyüme ile şişiyor. İzlenmesi gerekiyor.
+
+> **Finansman gideri dramatik düşüş:** 180 milyon TL banka borcunun tamamı Mart 2026'da ödendi. Bu Q2 2026'dan itibaren faiz giderini tamamen ortadan kaldıracak — net kâr için önemli pozitif etki.
+
+### 1Ç2026 FAVÖK
+
+| | TRY |
+|---|---|
+| EBIT | 72.901.005 |
+| + Amortisman & İtfa | 107.314.714 |
+| **FAVÖK** | **180.215.719** |
+| **FAVÖK Marjı** | **%36,4** |
+
+### 1Ç2026 Bilanço Özeti
+
+| Kalem | 31.03.2026 | 31.12.2025 |
+|---|---|---|
+| Nakit | 254.378.820 | 508.570.190 |
+| Finansal Yatırımlar | 45.455.658 | 43.424.246 |
+| Ticari Alacaklar | 467.714.157 | 413.355.605 |
+| Ertelenmiş Gelirler (KV) | 77.526.734 | 82.602.611 |
+| **Maddi Olmayan Varlıklar (Intangible)** | **2.489.019.266** | **2.265.723.718** |
+| **Toplam Varlıklar** | **3.717.623.884** | **3.689.846.750** |
+| Banka Borçları | **0** | 179.930.303 |
+| Kira Yükümlülükleri (KV+UV) | 58.756.286 | 60.747.319 |
+| Ertelenmiş Gelirler (UV) | 135.709.555 | 140.821.476 |
+| **Toplam Özkaynaklar** | **3.159.865.956** | **2.967.940.535** |
+
+**Net Nakit Pozisyonu:**
+
+| | TRY |
+|---|---|
+| Nakit + Finansal Yatırımlar | +299.834.478 |
+| Banka Borcu | 0 |
+| Kira (TFRS 16) | (58.756.286) |
+| **Net Nakit (banka borcu dahil, TFRS 16 hariç)** | **+299.834.478** |
+| **Net Nakit (TFRS 16 dahil)** | **+241.078.192** |
+
+> **Ertelenmiş Gelir = 213 mn TL** (77.5 mn KV + 135.7 mn UV) → Müşterilerden önceden tahsil edilmiş, henüz muhasebeleştirilmemiş gelir. Güçlü gelir görünürlüğü ve finansman kalitesini gösteriyor.
+
+### 1Ç2026 Nakit Akışı
+
+| Kalem | TRY |
+|---|---|
+| İşletme CFO | +123.143.333 |
+| Maddi Olmayan Varlık Alımları | (228.217.527) |
+| PP&E Alımları | (584.462) |
+| CFI Toplam | **(205.194.282)** |
+| Banka Borcu Ödemesi | (180.000.000) |
+| CFF Toplam | (184.985.477) |
+| **Dönem Sonu Nakit** | **254.378.820** |
+
+> Serbest nakit akışı (CFO - Capex) = 123.1 mn - 228.8 mn = **-105.7 mn TL (negatif)**. Bunun tamamı yazılım geliştirme yatırımlarından kaynaklanıyor. Intangible varlık yatırımları (Çelebi yazılım platformu geliştirme) bu negatifliğin ana nedeni. Yatırım dönemi bittikten sonra FCF pozife dönmeli.
+
+### 1Ç2026 Değerleme
+
+| Metrik | Değer |
+|---|---|
+| Piyasa Değeri | 13.080 mn TL |
+| Defter Değeri | 3.160 mn TL |
+| **PD/DD** | **4,14x** |
+| Net Nakit | ~300 mn TL |
+| EV | ~12.780 mn TL |
+| FAVÖK (1Ç2026 × 4) | ~721 mn TL |
+| **EV/FAVÖK** | **~17,7x** |
+| Net Kâr (1Ç2026 × 4) | ~332 mn TL |
+| **F/K** | **~39,4x** |
+| EPS (yıllık) | ~1,10 TL |
+| **Fiyat/EPS** | **~39,6x** |
+
+### Ortaklık Yapısı
+
+| Ortak | Pay (%) | Not |
+|---|---|---|
+| **Pegasus Hava Taşımacılığı A.Ş.** | **%36,20** | ⚠️ Hem ortak hem ana müşteri! |
+| Fatma Nur Gökman | %22,81 | Kurucu |
+| Dilek Ovacık | %4,71 | |
+| Hakan Ünlü | %4,34 | |
+| Özkan Dülger | %4,34 | |
+| **Halka Açık** | **%27,60** | 82,8 mn hisse |
+
+### Gelir Konsantrasyonu — Pegasus Riski
+
+| | 1Ç2026 | 1Ç2025 |
+|---|---|---|
+| Pegasus'a Satışlar | 119.502.445 TL | 92.086.329 TL |
+| Toplam Hasılat | 494.824.553 TL | 345.092.211 TL |
+| **Konsantrasyon Oranı** | **%24,1** | **%26,7** |
+
+> **Kritik Risk:** Pegasus hem %36.2 oranında en büyük hissedar, hem de gelirin %24'ünü oluşturan en büyük müşteri. Bu çift taraflı ilişki ciddi bir çıkar çatışması riski barındırıyor. Pegasus'un taraf değiştirmesi (yazılım geçişi) hem geliri hem hisse fiyatını olumsuz etkileyebilir.
+
+### Gelir Türlerine Göre Dağılım (1Ç2026)
+
+- **Application use fee revenue:** ~294,9 mn TL (~59,6%) — düzenli, tekrarlayan gelir
+- **Application use & development:** ~94,3 mn TL (~19,0%) — proje bazlı
+- **Maintenance revenue:** ~41,7 mn TL (~8,4%) — tekrarlayan
+- **Infrastructure revenue:** ~36,1 mn TL (~7,3%) — hosting
+- **Implementation & integration:** ~18,0 mn TL (~3,6%) — kurulum
+- **Diğer (license + other):** ~9,9 mn TL (~2,0%)
+
+Gelirin %68'i tekrarlayan nitelikte (application use + maintenance) — güçlü gelir kalitesi.
+
+---
+
+## Yatırım Tezi Özeti
+
+**Güçlü Yönler:**
+- Küresel havacılık yazılım pazarında niş lider (PSS)
+- Gelirin %60'ı USD bazlı → TL değer kaybından korunuyor
+- Tekrarlayan gelir ağırlığı %68 — öngörülebilir
+- Borçsuz bilanço (180M TL banka borcu Mart 2026'da ödendi)
+- Net nakit ~300 mn TL
+- Havacılık sektörü büyümesi devam ediyor
+- Deferred income 213 mn TL → güçlü sipariş defteri
+
+**Riskler:**
+- **Brüt marj erozyon (-4.1pp):** Maliyetler büyümeden hızlı artıyor
+- **Pegasus çıkar çatışması:** %36 hissedar + %24 müşteri
+- **FCF negatif:** Yoğun intangible yatırımı nedeniyle serbest nakit akışı eksi
+- **F/K ~40x:** Yüksek değerleme, hata payı dar
+- **MA200 altında:** Teknik baskı devam ediyor (44.95 TL direnç)
+- **Küçük float:** %27.6 halka açıklık, likidite sınırlı
+
+**Katalizörler:**
+- Yeni havayolu sözleşmesi (her yeni müşteri önemli marjinal kâr)
+- Pegasus dışı gelir konsantrasyonunun azalması
+- Marj stabilizasyonu veya iyileşmesi
+- Q2'de banka borcu faizinin sıfırlanması → net kâr artışı
+- Global havayolu filosu büyümesi
+
+---
+
+## ÖNCEKİ ANALİZ: FY2025 (03.03.2026)
+
+**Hisse Fiyatı (03.03.2026):** 41.50 TL | **52H Aralık:** 35.82 – 53.95 TL (-%23)
+
+**HÜKÜM (önceki):** 🟡 İZLE / Temkinli Küçük Pozisyon
 
 **Neden tam AL değil (değerleme):**
 1. **F/K 32x, EV/FAVÖK 17x** — büyüme primli ama piyasa çok umut fiyatlamış; hata payı dar

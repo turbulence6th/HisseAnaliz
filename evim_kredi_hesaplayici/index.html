@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ev/Araç Alım Simülatörü: Banka vs Evim</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-elements">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+
+    <div class="container">
+        <header class="header">
+            <h1>Ev/Araç Alım Simülatörü</h1>
+            <p>Enflasyon ve zaman maliyetini hesaba katan, gerçekçi bir "Banka Kredisi" ve "Evim Sistemi" karşılaştırma aracı.</p>
+        </header>
+
+        <div class="app-grid">
+            <!-- INPUT PANEL -->
+            <div class="glass-panel input-panel">
+                <h2><span class="icon">⚙️</span> Parametreler</h2>
+                
+                <div class="input-group">
+                    <label for="evFiyati">Ev/Araç İçin Gereken Toplam Tutar (TL)</label>
+                    <input type="number" id="evFiyati" value="2000000" step="100000">
+                </div>
+
+                <div class="input-group highlight">
+                    <label for="enflasyon">Aylık Varlık Enflasyonu / Fırsat Maliyeti (%)</label>
+                    <div class="tooltip">Alacağınız varlığın (ev, araç) her ay yüzde kaç değerleneceğini (veya alternatif paranızın getirisini) girin.</div>
+                    <input type="number" id="enflasyon" value="3.0" step="0.1">
+                </div>
+
+                <div class="section-divider">Banka Kredisi Şartları</div>
+                <div class="input-group">
+                    <label for="bankaPesinat">Banka Peşinatı (TL)</label>
+                    <input type="number" id="bankaPesinat" value="0" step="50000">
+                </div>
+                <div class="input-row">
+                    <div class="input-group">
+                        <label for="krediFaiz">Aylık Faiz (%)</label>
+                        <input type="number" id="krediFaiz" value="3.50" step="0.01">
+                    </div>
+                    <div class="input-group">
+                        <label for="krediVade">Vade (Ay)</label>
+                        <input type="number" id="krediVade" value="120" step="12">
+                    </div>
+                </div>
+
+                <div class="section-divider">Evim Sistemi Şartları</div>
+                <div class="input-group">
+                    <label for="evimPesinat">Evim Peşinatı (TL)</label>
+                    <input type="number" id="evimPesinat" value="0" step="50000">
+                </div>
+                <div class="input-row">
+                    <div class="input-group">
+                        <label for="evimOrgOrani">Org. Ücreti (%)</label>
+                        <input type="number" id="evimOrgOrani" value="9.0" step="0.5">
+                    </div>
+                    <div class="input-group">
+                        <label for="evimVade">Vade (Ay)</label>
+                        <input type="number" id="evimVade" value="120" step="12">
+                    </div>
+                </div>
+                <div class="input-group">
+                    <label for="evimTeslimat">Teslimat Ayı (Kura/Sabit)</label>
+                    <input type="number" id="evimTeslimat" value="30" step="1">
+                </div>
+
+                <button id="hesaplaBtn" class="btn-primary">Gerçek Maliyeti Hesapla</button>
+
+                <div class="share-actions">
+                    <button id="copyUrlBtn" class="btn-outline">🔗 Parametreli Linki Kopyala</button>
+                    <button id="copyLlmPromptBtn" class="btn-outline">🤖 LLM'ye Öğret (Prompt Kopyala)</button>
+                </div>
+            </div>
+
+            <!-- RESULTS PANEL -->
+            <div class="results-panel">
+                
+                <div id="sonucAlert" class="glass-panel alert-box hidden">
+                    <h2 id="kazananBaslik">Sonuç Yükleniyor...</h2>
+                    <p id="kazananDetay">Lütfen bekleyin...</p>
+                </div>
+
+                <div class="cards-grid">
+                    <!-- BANKA CARD -->
+                    <div class="glass-panel result-card banka-card">
+                        <div class="card-header">
+                            <h3>🏦 Banka Kredisi</h3>
+                            <span class="badge">Hemen BUGÜN Al</span>
+                        </div>
+                        <div class="card-body">
+                            <div class="cost-item primary">
+                                <span>Toplam Gerçek Maliyet (Bugünkü Değer)</span>
+                                <strong id="resBankaPV">-</strong>
+                            </div>
+                            <div class="cost-breakdown">
+                                <div class="cost-row">
+                                    <span>Peşinat (Elden Çıkan):</span>
+                                    <span id="resBankaPesinat">-</span>
+                                </div>
+                                <div class="cost-row">
+                                    <span>Çekilen Kredi:</span>
+                                    <span id="resBankaKredi">-</span>
+                                </div>
+                                <div class="cost-row">
+                                    <span>Aylık Taksit:</span>
+                                    <span id="resBankaTaksit">-</span>
+                                </div>
+                                <div class="cost-row">
+                                    <span>Toplam Ödenen (Kredi):</span>
+                                    <span id="resBankaToplam">-</span>
+                                </div>
+                            </div>
+                            <div class="info-box">
+                                <p>Varlığı <strong>bugün</strong> aldığınız için fiyatı enflasyonla artsa da finansmanınız erimez. Maliyetiniz sadece ödediğiniz yüksek faizli taksitlerin bugünkü alım gücü karşılığıdır.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- EVİM CARD -->
+                    <div class="glass-panel result-card evim-card">
+                        <div class="card-header">
+                            <h3>🏠 Evim Sistemi</h3>
+                            <span class="badge warning" id="badgeEvimTeslimat">Evi 30. Ayda Al</span>
+                        </div>
+                        <div class="card-body">
+                            <div class="cost-item primary">
+                                <span>Toplam Gerçek Maliyet (Bugünkü Değer)</span>
+                                <strong id="resEvimPV">-</strong>
+                            </div>
+                            <div class="cost-breakdown">
+                                <div class="cost-row">
+                                    <span>Peşinat (Elden Çıkan):</span>
+                                    <span id="resEvimPesinat">-</span>
+                                </div>
+                                <div class="cost-row">
+                                    <span>Organizasyon Ücreti:</span>
+                                    <span id="resEvimOrg">-</span>
+                                </div>
+                                <div class="cost-row">
+                                    <span>Aylık Taksit:</span>
+                                    <span id="resEvimTaksit">-</span>
+                                </div>
+                                <div class="cost-row">
+                                    <span>Taksitlerin Bug. Değeri:</span>
+                                    <span id="resEvimTaksitPV">-</span>
+                                </div>
+                            </div>
+                            
+                            <div class="gizli-maliyet">
+                                <h4>⚠️ 1. Enflasyon Kaynaklı Alım Gücü Kaybı (Bugünkü Değer Maliyeti)</h4>
+                                <div class="cost-row warning">
+                                    <span>Varlığı alabilmek için eklenecek fark:</span>
+                                    <strong id="resEvimFark">-</strong>
+                                </div>
+                                <p class="small-text">Sistem teslimatta size <span id="resEvimSabitFinansman"></span> TL verecek. Ancak bugün o değere denk gelen varlık, enflasyon sebebiyle teslimat ayında <span id="resEvimEvGelecekFiyat"></span> TL'ye çıkacak. Yukarıdaki toplam maliyet, bu açığın bugünkü değerini içerir.</p>
+                            </div>
+
+                            <div class="nakit-krizi">
+                                <h4>🚨 2. TESLİMAT GÜNÜ NAKİT KRİZİ</h4>
+                                <p class="small-text">Evim sistemi matematiksel olarak ucuz çıksa bile, <strong><span id="resEvimTeslimatAyiMetin"></span>. ay</strong> geldiğinde varlığı satın almak için aşağıdaki nakde ihtiyacınız olacak:</p>
+                                <div class="cost-row">
+                                    <span>Teslimat gününde evin değeri:</span>
+                                    <span id="resNakitEvDegeri">-</span>
+                                </div>
+                                <div class="cost-row">
+                                    <span>Evim sisteminin vereceği para:</span>
+                                    <span id="resNakitSistemVerir">-</span>
+                                </div>
+                                <div class="cost-row warning" style="margin-top:8px; padding-top:8px; border-top: 1px solid rgba(251,191,36,0.3);">
+                                    <span><strong>Cebinizden çıkacak nakit açığı:</strong></span>
+                                    <strong id="resEvimNakitAcigi">-</strong>
+                                </div>
+                                <p class="small-text" style="margin-top:8px;">⚠️ Bu nakdi temin edemezseniz teslimatı tamamlayamazsınız!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- METODOLOJİ AÇIKLAMASI -->
+        <div class="glass-panel metodoloji-panel">
+            <details>
+                <summary>
+                    <span class="icon">🔬</span>
+                    <span>Algoritma Nasıl Çalışır? <em>(Meraklısı için metodoloji)</em></span>
+                </summary>
+
+                <div class="metodoloji-icerik">
+
+                    <div class="metod-blok">
+                        <h3>📐 Temel Fikir: Paranın Zaman Değeri (NPV)</h3>
+                        <p>Bugün ödenen 1.000 TL ile 12 ay sonra ödenen 1.000 TL eşit değil. Enflasyon varken gelecekte ödeyeceğin para, bugün gözünde daha az değer taşır. Bu araç, her iki sistemin ödemelerini <strong>aynı zaman dilimine (bugüne) indirgeyerek</strong> adil karşılaştırma yapar.</p>
+                        <div class="formula-box">
+                            <strong>Net Bugünkü Değer formülü:</strong><br>
+                            NPV = Σ [ Ödeme(ay) / (1 + aylık_enflasyon) <sup>ay</sup> ]
+                        </div>
+                        <p>Sen <em>"Aylık Varlık Enflasyonu / Fırsat Maliyeti"</em> olarak girdiğin oran bu iskonto oranıdır. Yüksek enflasyonda gelecekteki ödemeler bugün daha ucuz görünür; bu da taksitli sistemleri avantajlı kılar.</p>
+                    </div>
+
+                    <div class="metod-blok">
+                        <h3>🏦 Banka Kredisi — Nasıl Hesaplanıyor?</h3>
+                        <p><strong>Adım 1: Aylık taksit</strong> — Standart annuity (eşit taksit) formülüyle hesaplanır:</p>
+                        <div class="formula-box">
+                            Taksit = Kredi × [ r × (1+r)<sup>n</sup> ] / [ (1+r)<sup>n</sup> − 1 ]<br>
+                            <small>r = aylık faiz oranı &nbsp;|&nbsp; n = vade (ay)</small>
+                        </div>
+                        <p><strong>Adım 2: Taksitlerin NPV'si</strong> — Her taksit ödeme ayına göre enflasyon oranıyla bugüne indirgenir ve toplanır.</p>
+                        <p><strong>Adım 3: Toplam gerçek maliyet</strong> = Peşinat (bugün ödendi, zaten bugünkü değer) + Taksitlerin NPV'si</p>
+                        <p class="metod-not">💡 Bankada evi <em>bugün</em> aldığın için enflasyon seni ezmez — evin değeri artarken senin borcun sabit kalır. Ama yüksek faiz ödüyorsun; karşılaştırma bunu ölçer.</p>
+                    </div>
+
+                    <div class="metod-blok">
+                        <h3>🏠 Evim Sistemi — Nasıl Hesaplanıyor?</h3>
+                        <p>Evim/tasarruf finansman sistemlerinde faiz yoktur; ancak 3 ayrı maliyet kalemi vardır:</p>
+
+                        <p><strong>1️⃣ Organizasyon Ücreti</strong> — Sözleşme başında bir defaya mahsus ödenir. Bugünkü değere gerek yok, zaten bugünün parasıdır.</p>
+                        <div class="formula-box">
+                            Org Ücreti = Ev Fiyatı × Org Oranı
+                        </div>
+
+                        <p><strong>2️⃣ Aylık Taksitlerin NPV'si</strong> — Sistem faiz almaz, taksitler eşit bölünür. Ama sen her ay para ödersin ve bu ödemelerin de bugünkü değeri hesaplanır.</p>
+                        <div class="formula-box">
+                            Aylık Taksit = (Ev Fiyatı − Peşinat) / Vade<br>
+                            Taksit NPV'si = NPV formülüyle bugüne indirgenir
+                        </div>
+
+                        <p><strong>3️⃣ Enflasyon Kaynaklı Nakit Açığı (En Kritik Kalem!)</strong> — İşte asıl gizli maliyet bu:</p>
+                        <p>Sisteme girdiğinde sözleşme fiyatı <em>bugünkü ev fiyatı</em> olarak sabitlenir. Sistem sana teslimat gününde bu sabit tutarı verir. Ama ev, enflasyon yüzünden o güne kadar değerlenmiştir. Aradaki fark cebinden çıkar.</p>
+                        <div class="formula-box">
+                            Evin Teslimat Değeri = Ev Fiyatı × (1 + aylık_enflasyon)<sup>teslimat_ayı</sup><br>
+                            Nakit Açığı (nominal) = Teslimat Değeri − Ev Fiyatı<br>
+                            Nakit Açığı (bugünkü değer) = Nakit Açığı / (1 + aylık_enflasyon)<sup>teslimat_ayı</sup>
+                        </div>
+                        <p class="metod-not">⚠️ Bu açık, hem toplam maliyet karşılaştırmasına (NPV olarak) hem de <em>Teslimat Günü Nakit Krizi</em> uyarısına (nominal olarak) yansır. İkisi farklı bakış açısıdır: biri "gerçek maliyet ne kadar?", diğeri "o gün kasanda kaç para lazım?"</p>
+                    </div>
+
+                    <div class="metod-blok">
+                        <h3>⚖️ Karşılaştırma Mantığı</h3>
+                        <p>İki sistemin toplam NPV maliyetleri doğrudan karşılaştırılır. Düşük NPV = o sistem "bugünün gözüyle" daha ucuz demektir.</p>
+                        <div class="formula-box">
+                            Banka Toplam NPV = Peşinat + Taksit NPV'si<br>
+                            Evim Toplam NPV &nbsp;= Peşinat + Org Ücreti + Taksit NPV'si + Nakit Açığı NPV'si
+                        </div>
+                        <p class="metod-not">📌 Sonuç tamamen girdiğin enflasyon oranına bağlıdır. Enflasyon düşükse banka faizi daha acıtır; enflasyon yüksekse Evim'in nakit açığı daha da büyür. İki başabaş noktası arasındaki denge bu aracın temel amacıdır.</p>
+                    </div>
+
+                </div>
+            </details>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

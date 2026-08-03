@@ -51,6 +51,18 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 
 ## 2. Mevcut Piyasa Durumu ve Strateji
 
+### 2.0. Q2 2026 Analiz İterasyonu (3 Ağustos 2026) — 🔴 MAKRO REJİM DEĞİŞİKLİĞİ
+
+*   **DURUM:** Q2/H1 2026 (30.06.2026 biten dönem) bilanço sezonu başladı. Bu iterasyonda **YKBNK** analizi tamamlandı; AKBNK ve ANHYT raporları indirildi (analiz bekliyor).
+*   **🔴 ANA BULGU — BANKACILIK TEZİNİN DAYANAĞI ORTADAN KALKTI:** Q1 2026'da tüm banka analizlerinin merkezinde *"TCMB faiz indirim döngüsü net faiz marjını genişletiyor"* varsayımı vardı. **Q2'de bunun tam tersi oldu.** YKBNK CEO'sunun ara dönem faaliyet raporundaki ifadesiyle: *"Politika faizini %37 seviyesinde sabit tutan Merkez Bankası, piyasayı faiz koridorunun üst sınırı olan %40'tan fonlayarak likidite kanalıyla **300 baz puanlık son derece etkili bir fiili sıkılaştırmaya** gitmiştir."*
+    *   **Sonuç:** Mevduat maliyeti yüksek kaldı, kredi getirisi tavanlarla sınırlandı → makas kapandı → banka kârlılığı çeyreklik bazda çöktü.
+    *   **⚠️ Bu risk zaten kayıtlıydı:** BRISA notu (5 Mayıs 2026) *"TCMB faiz indirimlerine ara verecek, ana katalizör ertelendi"* demişti. **Aynı makro faktör bankalar için de bağlayıcıydı ama Q1 banka analizlerinde bu bağlantı kurulmamıştı. Bundan böyle makro tespitler tüm faiz-duyarlı pozisyonlara yatay olarak uygulanacak.**
+*   **YKBNK (🟢 → 🟡 REVİZE):** H1 manşeti aldatıcı — net kâr +%36.3 ama **bu tamamen Q1'in eseri. Q2 tek başına -%5.4 (yıllık) / -%47.2 (çeyreklik).** ROATE %31.4 → %23.3 (hedef: yüksek-orta %20'ler → **altında kaldı**). Kredi riski maliyeti 193 → **221 bp** (hedef 150-175 → ciddi aşım). TGA %3.8 → %4.1 → **%4.3** (3 çeyrektir bozuluyor, üstelik 3.2B TL portföy 398M TL'ye satılmasına rağmen). CET1 %12.21 → **%10.52**. PD/DD 1.15x → **1.00x = iskonto kapandı.** Karar: **🟡 TUT / EKLEME DURDUR.**
+*   **⚠️ MANŞET vs ÇEYREK İLKESİ (YENİ — bkz. 1.3 uzantısı):** H1/9A gibi **kümülatif** raporlarda manşet büyüme, güçlü bir önceki çeyrekten geliyor olabilir. **Bundan böyle tüm ara dönem analizlerinde çeyreklik (QoQ) ayrıştırma zorunludur:** kümülatif rakamdan bir önceki dönem çıkarılarak tek çeyrek performansı hesaplanacak. YKBNK örneğinde manşet +%36.3 iken tek çeyrek -%47.2 idi.
+*   **SEKTÖREL TEYİT:** Düşüş şirkete özgü değil — XBANK 1 ayda **-%15.2** (YKBNK -%16.3, AKBNK -%15.1, ISCTR -%14.5, GARAN -%9.0). **AKBNK 28 Temmuz'da beklentilerini resmen revize edip net kredi maliyeti hedefini ~200 bp'ye yükseltti** → sektörde aktif kalitesi bozulması kabul ediliyor. YKBNK'nın 150-175 bandını koruması **Q3'te revizyon riski** taşıyor.
+*   **PORTFÖY ETKİSİ (§1.1 Sektörel Yoğunlaşma):** Finans sektörü yoğunlaşması (YKBNK + AGESA) şu an **aktif risk**. YKBNK'da ekleme durduruldu; yeni finans pozisyonu açılmayacak. **TCMB PPK toplantıları bu tezin tek katalizörü — aylık izlenecek.**
+*   **İZLENECEK:** ① TCMB PPK (aylık) ② YKBNK Q3 raporu (~Kasım 2026) — Q2 dip miydi, trend mi? ③ AKBNK/ANHYT Q2 analizleri (bekliyor) ④ Aylık TÜFE ⑤ BDDK aylık sektör TGA/marj verileri
+
 ### 2.1. Q1 2026 Analiz İterasyonu (1 Mayıs 2026)
 
 *   **DURUM:** Q1 2026 (31.03.2026 biten üç aylık dönem) bilanço sezonu. Bu iterasyonda EREGL, YKBNK, THYAO, YYLGD, KORDS, AGESA, VESBE, KAREL, ENJSA, BRISA ve MGROS analizleri tamamlandı.
@@ -126,11 +138,15 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **ALIM SEVİYELERİ:** 🟡 Mevcut (314 TL) → TUT, yeni alım yok | 🟢 285-295 TL geri çekilmesi → Küçük ekle | 🟢🟢 260-270 TL → Ağırlıklı alım (Q2 teyidi şartıyla) | 🛑 235 TL altı → 52H kırılması
 *   Detay: `hisse-analiz/THYAO.md`
 
-#### YKBNK (Yapı Kredi Bankası)
-*   **HÜKÜM:** 🟢 EKLE / GÜÇLENDİR (@ 35.92 TL — 06.03.2026) ⚡ *Alım seviyesi devrede!*
-*   **GEREKÇE (FY2025 Tam Yıl):** Net Kâr +%62.3 → 47.09B TL; Net Faiz Geliri +%90.5 → 144.6B TL; ROE ~%21; SYR %18.09 (sektörün en güçlü tamponlarından biri). Hisse 43.92 TL'den 35.92 TL'ye -%18 geriledi — bu düşüş belirlenen alım bölgesine (35-38 TL) düştü. @ 35.92 TL: F/K ~6.5x, PD/DD ~1.18x — bu büyüme hızı için belirgin iskonto. Koç Grubu sahipliği, kurumsal yönetim kalitesi yüksek. Ana risk: TGA artışı (45B → ~76B TL brüt) ve temettü kararı bekleniyor. Detay: `hisse-analiz/YKBNK.md`
-*   **52H:** 21.92 – 44.50 TL
-*   **ALIM SEVİYELERİ:** ✅ 35-38 TL → **Ağırlıklı alım (mevcut seviye)** | 🟢🟢 <33 TL → Agresif ekle
+#### YKBNK (Yapı Kredi Bankası) — Q2 2026 İncelendi (03.08.2026)
+*   **HÜKÜM:** 🟡 **TUT / EKLEME DURDUR** (@ 34.00 TL — 03.08.2026) ⬇️ *(🟢 Ekle/Güçlendir'den revize)*
+*   **GEREKÇE (Q2/H1 2026):** H1 manşeti iyi (Net Kâr +%36.3 → 31.01B TL) ama **bu tamamen Q1'in eseri. Q2 tek başına net kâr -%5.4 (yıllık), -%47.2 (çeyreklik)**; net faaliyet kârı **-%7.2 yıllık**. ROATE %31.4 (Q1) → **%23.3** (H1) — yönetimin "yüksek-orta %20'ler" hedefinin **altında**; Q2'nin ima ettiği ~%15.8. Swap-düzeltilmiş çekirdek gelir çeyreklik **-%23.6**; net faiz marjı %3.18 → %2.92. **Net kredi riski maliyeti 193 → 221 bp** (hedef 150-175 bp → **ciddi aşım**). TGA %3.8 → %4.1 → **%4.3** (3 çeyrektir bozuluyor, üstelik 3.2B TL'lik portföyün 398M TL'ye satılmasına rağmen). **CET1 %12.21 → %10.52** (RAV +%24 vs aktif +%12.6). **Sebep şirkete özgü değil:** CEO'nun kendi ifadesiyle TCMB politika faizini **%37'de sabit tutup piyasayı koridor tavanı %40'tan fonlayarak 300 bp fiili sıkılaştırma** yaptı → Q1 tezinin dayanağı olan "faiz indirim döngüsü" ortadan kalktı. @ 34.00 TL **PD/DD 1.00x** — Q1'deki iskonto kapandı (gerçekçi haklı PD/DD 0.93-1.17x). Detay: `hisse-analiz/YKBNK.md`
+*   **TEZ NEDEN BOZULMADI (🔴 değil 🟡):** Fonlama erişimi olağanüstü — son 1 yılda ~5.8 milyar USD (AT1 500M USD talebin 2 katı, 1.1B USD sendikasyon/49 kurum, 700M USD DPR). LCR %125 / YP %456. TL vadesiz mevduat payı %29'a çıktı (indirim geldiğinde marj kaldıracı). Düşüş sektörel: XBANK 1 ayda -%15.2, YKBNK -%16.3 — üstelik 1 yıllık bazda (-%0.1) endeksten (-%5.3) iyi. Piyasa zayıf çeyreği fiyatladı: Haziran zirvesinden -%29.3 düşüş, rapora **+%9.7 tepki**.
+*   **RAKİP KIYAS (AKBNK, 30.06.2026):** TGA %4.3 vs **%3.8**, SYR %16.1 vs **%17.5**, ROA %1.8 vs **%2.0** → YKBNK ucuz (PD/DD 1.00x vs 1.06x) ama **haklı olarak ucuz.** ⚠️ AKBNK 28 Temmuz'da beklentilerini revize edip kredi maliyeti hedefini ~200 bp'ye çıkardı; YKBNK 150-175 bandını korudu → **Q3'te beklenti revizyonu riski.**
+*   **52H:** 27.14 – 44.50 TL | **Defter Değeri/Hisse:** 33.92 TL
+*   **ALIM SEVİYELERİ:** 🟡 34.00 TL (PD/DD 1.00x) → **TUT, yeni alım yok** | 🟢 30-31 TL (0.90x) → *sadece* TCMB indirim sinyaliyle küçük lot | 🟢🟢 **27-29 TL (0.80-0.85x)** → cazip, ekle *(52H dip 27.14 = tam 0.80x defter)* | 🔴 >42-44 TL → kademeli realizasyon | 🛑 <26 TL → tezi yeniden sorgula
+*   **🟢 YÜKSELTME TETİKLEYİCİLERİ (en az 2'si):** ① **TCMB fiilen faiz indirir** (politika <%37 *ve* fonlama koridor tavanından politika faizine döner) ⭐ ② Q3 kredi maliyeti ≤175 bp ③ TGA portföy satışsız stabilize olur ④ Çeyreklik ROATE ≥%28 ⑤ CET1 >%11
+*   **🔴 DÜŞÜRME TETİKLEYİCİLERİ:** ① TGA >%5 ② CET1 <%9.5 ③ Q3'te de ROATE <%20 ④ Yönetim beklentileri resmen aşağı revize eder ⑤ Bedelli sermaye artırımı gündeme gelir
 
 #### SAHOL (Sabancı Holding)
 *   **HÜKÜM:** 🟢 TUT / GERİ ÇEKİLMEDE EKLE (@ 104.30 TL — 20.04.2026)
@@ -242,7 +258,6 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 |---|---|---|---|---|---|---|---|---|
 | **TCELL** | 120.00 | 115.85 | 112.08 | 103.41 | 112-116 TL (MA50-MA20) | 103-108 TL (MA200) | <100 TL | 87-130 TL |
 | **SISE** | 51.80 | 47.77 | 45.41 | 40.77 | 46-48 TL (MA20) | 43-46 TL (MA50) | 39-41 TL (MA200) | 32-53 TL |
-| **YKBNK** | 39.30 | 37.76 | 36.74 | 35.37 | 36-38 TL (MA20-MA50) | 34-36 TL (MA200) | <33 TL | 25-45 TL |
 | **TUPRS** | 258.50 | 264.21 | 254.08 | 208.09 | 250-258 TL (MA50) | 238-250 TL | <230 TL | 123-280 TL |
 | **AGESA** | 248.00 | 237.35 | 228.03 | 208.13 | 232-240 TL (MA20) | 222-230 TL (MA50) | <215 TL | 133-256 TL |
 
@@ -250,6 +265,7 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 
 | Hisse | Fiyat | MA20 | MA50 | MA200 | 1. Kademe (ekle) | 2. Kademe (ağırlıklı) | Not | 52H Aralık |
 |---|---|---|---|---|---|---|---|---|
+| **YKBNK** | 34.00 | 34.16 | 36.24 | 36.40 | ⛔ **Ekleme yok** (PD/DD 1.00x) | 27-29 TL (0.80-0.85x defter) | ⚠️ Q2 zayıf; TCMB indirimi şart | 27-45 TL |
 | **SAHOL** | 100.00 | 99.10 | 95.69 | 91.46 | 95-99 TL (MA20-MA50) | 90-95 TL (MA200) | 115 TL kâr al | 74-115 TL |
 | **ASELS** | 428.50 | 413.09 | 364.92 | 256.56 | 400-415 TL (MA20) | 355-370 TL (MA50) | Zirvede yeni alım yok | 127-450 TL |
 | **THYAO** | 311.00 | 317.34 | 303.46 | 301.61 | 295-307 TL (MA50-MA200) | 275-290 TL | ⚠️ Q2 teyidi şart | 249-353 TL |

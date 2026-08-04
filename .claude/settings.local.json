@@ -37,7 +37,30 @@
       "Bash(.venv/bin/python -c \"from markitdown import MarkItDown; print\\('✓ markitdown import OK'\\)\")",
       "Bash(.venv/bin/python belge_to_md.py --help)",
       "Bash(grep -v '^$')",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(awk '{print $1}')",
+      "Bash(git commit *)",
+      "Bash(.venv/bin/python --version)",
+      "Bash(.venv/bin/python kap_rapor_indir.py rapor YKBNK)",
+      "Bash(.venv/bin/python kap_rapor_indir.py faaliyet-raporu YKBNK)",
+      "Bash(.venv/bin/python hisse_proxy.py YKBNK)",
+      "Bash(.venv/bin/python belge_to_md.py finansal-raporlar/202606/YKBNK_Finansal_Rapor_31-07-2026.pdf -o /private/tmp/claude-501/-Users-turbu-Projeler-HisseAnaliz/a709f679-f5ad-4267-b4fb-920dc72fb490/scratchpad/YKBNK_Q2_2026_raw.md)",
+      "Bash(git check-ignore *)",
+      "Bash(./.venv/bin/python kap_rapor_indir.py rapor TUPRS)",
+      "Bash(./.venv/bin/python kap_rapor_indir.py faaliyet-raporu TUPRS)",
+      "Bash(./.venv/bin/python hisse_proxy.py TUPRS)",
+      "Bash(./.venv/bin/python belge_to_md.py finansal-raporlar/202606/TUPRS_Finansal_Rapor_04-08-2026.pdf -o /private/tmp/claude-501/-Users-turbu-Projeler-HisseAnaliz/4cc27cde-42d5-4f4e-a2bd-2730b12be13e/scratchpad/TUPRS_finansal_Q2.md)",
+      "Bash(./.venv/bin/python belge_to_md.py faaliyet-raporlari/202606/TUPRS_Faaliyet_Raporu_04-08-2026.pdf -o /private/tmp/claude-501/-Users-turbu-Projeler-HisseAnaliz/4cc27cde-42d5-4f4e-a2bd-2730b12be13e/scratchpad/TUPRS_faaliyet_Q2.md)",
+      "Bash(grep -n \"^5\\\\.\\\\|Nakit ve nakit benzerleri$\\\\|Bloke\\\\|bloke mevduat\\\\|Teminata\\\\|Vadeli mevduat\\\\|Vadesiz mevduat\\\\|Gelir payı \\(bloke\\)\" TUPRS_finansal_Q2.md)",
+      "Bash(awk '/^22\\\\.  Esas faaliyetlerden diğer/,/^23\\\\./' TUPRS_finansal_Q2.md)",
+      "Bash(awk '/^6\\\\.  Borçlanmalar/,/^7\\\\./' TUPRS_finansal_Q2.md)",
+      "Bash(./.venv/bin/python /private/tmp/claude-501/-Users-turbu-Projeler-HisseAnaliz/4cc27cde-42d5-4f4e-a2bd-2730b12be13e/scratchpad/val.py)",
+      "Bash(.venv/bin/python kap_rapor_indir.py rapor ASELS)",
+      "Bash(.venv/bin/python kap_rapor_indir.py faaliyet-raporu ASELS)",
+      "Bash(.venv/bin/python hisse_proxy.py ASELS)",
+      "Bash(.venv/bin/python belge_to_md.py finansal-raporlar/202606/ASELS_Finansal_Rapor_04-08-2026.pdf -o /private/tmp/claude-501/-Users-turbu-Projeler-HisseAnaliz/a90be44e-7f95-4ffe-9356-8b89219408fb/scratchpad/ASELS_fin_Q2_2026.md)",
+      "Bash(.venv/bin/python belge_to_md.py faaliyet-raporlari/202606/ASELS_Faaliyet_Raporu_04-08-2026.pdf -o /private/tmp/claude-501/-Users-turbu-Projeler-HisseAnaliz/a90be44e-7f95-4ffe-9356-8b89219408fb/scratchpad/ASELS_faal_Q2_2026.md)",
+      "Bash(.venv/bin/python *)"
     ]
   }
 }

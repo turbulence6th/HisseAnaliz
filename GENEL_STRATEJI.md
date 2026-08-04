@@ -51,9 +51,32 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 
 ## 2. Mevcut Piyasa Durumu ve Strateji
 
-### 2.0. Q2 2026 Analiz İterasyonu (3 Ağustos 2026) — 🔴 MAKRO REJİM DEĞİŞİKLİĞİ
+### 2.0. Q2 2026 Analiz İterasyonu (3-4 Ağustos 2026) — 🔴 BANKACILIKTA MAKRO REJİM DEĞİŞİKLİĞİ / 🟢 RAFİNAJDA MARJ PATLAMASI
 
-*   **DURUM:** Q2/H1 2026 (30.06.2026 biten dönem) bilanço sezonu başladı. Bu iterasyonda **YKBNK** analizi tamamlandı; AKBNK ve ANHYT raporları indirildi (analiz bekliyor).
+*   **DURUM:** Q2/H1 2026 (30.06.2026 biten dönem) bilanço sezonu başladı. Bu iterasyonda **YKBNK**, **TUPRS** ve **ASELS** analizleri tamamlandı; AKBNK ve ANHYT raporları indirildi (analiz bekliyor).
+
+*   **🟡 ASELS (yeni alım yok → İLK KADEME EKLEME AKTİF — 4 Ağustos 2026): Nisan'da kurulan plan aynen işledi.** Nisan analizinde 345-370 TL için *"kademeli ekle"* yazılmıştı; fiyat bugün **349.25 TL** ile tam o bantta ve tez bozulmadı, **güçlendi**.
+    *   **Çeyreklik ayrıştırma (zorunlu ilke) YKBNK'nın tersini gösterdi:** H1 hasılat +%24.7 ama **Q2 tek başına +%32.6 yıllık / +%41.1 çeyreklik** — manşet Q1'in eseri değil, ivme Q2'de. Çekirdek EBIT marjı Q1 %19.6 → Q2 **%22.6**.
+    *   **İhracat patladı:** H1 **+%90.6**, Q2 tek çeyrek **+%152.6**. İhracat/hasılat %11.2 → **%17.2** (Q2: %19.7). Yıllardır "potansiyel" diye yazılan kalem somut sonuç veriyor.
+    *   **✅ Kâr kalitesi köklü iyileşti (§1.3):** H1 2025'te şirket **vergi öncesi 3.15B TL zarar** yazmış, net kârın tamamı ertelenmiş vergiden gelmişti (**%137 vergi kaynaklı**). H1 2026'da vergi öncesi kâr **12.65B TL gerçek**; **Q2'de 1.86B TL vergi ÖDEYEREK 8.51B TL kâr** açıklandı. Parasal kayıp -%65.4 (endeks Q1 +%10.0 → Q2 +%7.0 = dezenflasyon).
+    *   **🔴 Yeni risk — borç/FCF:** Finansal borç **+%44.6 → 73.3B TL**, net borç **ikiye katlandı → 33.8B TL**, **H1 FCF -18.3B TL**. Borcun %88.3'ü kısa vadeli (vadeler Ağu.26–Tem.27). Finansman giderindeki -%36 manşet **tamamen kur farkından; gerçek faiz gideri +%97**. Bilinçli yatırım döngüsü (Oğulbey 1.5B USD, capex hedefi >50B TL) ama izlenmesi zorunlu.
+    *   **📌 Değerleme eskimesi ilkesinin ikinci doğrulaması:** Nisan'daki *"EBIT F/K ~55x, çok pahalı"* hükmü **Q1×4 mevsimsellik hatasıydı** — FY2025 net kârının **%76'sı H2'de** oluşuyor. LTM bazda gerçek çarpan **27.8x**. Fiyat -%15.7 gerilerken kazanç +%70.7 arttı → PD/DD 6.73x → **5.19x**. Yine de F/K 38.6x ile **portföyün en pahalı ismi**.
+    *   **Karar: 🟡 TUT — ilk kademe küçük lot.** 🟢 ana ekleme 320-340 TL, 🟢🟢 ağırlıklı 300-312 TL (MA200 = 311.62). **⚠️ Rapor 18:39'da seans sonrası çıktı — gap-up'ı kovalama.**
+
+*   **🔁 ÇAPRAZ DERS — MEVSİMSELLİK İLKESİ (YENİ):** ASELS'te Nisan'daki hatalı "pahalı" hükmü, TUPRS'taki "eski EPS" hatasının kardeşi çıktı. **Bundan böyle ara dönem çarpanları hesaplanırken tek çeyreği/yarıyılı yıllıklandırmak yasaktır; LTM (son 12 ay = önceki tam yıl − geçen yılın aynı dönemi + cari dönem) kullanılacaktır.** Özellikle H2 ağırlıklı ciro tanıyan şirketlerde (ASELS: FY kârının %76'sı H2'de) yıllıklandırma çarpanı 2 katına kadar şişiriyor. Ayrıca **TMS 29 kapsamındaki karşılaştırmalarda önceki dönem rakamları güncel satın alma gücüne endekslenerek** kullanılacak (ASELS için Ara.25 → Haz.26 katsayısı 1.1776).
+
+*   **🟢 TUPRS (🟡 → 🟢 REVİZE — 4 Ağustos 2026): Savaş marjı kazanç patlaması yarattı.** 2Ç2026 tek çeyrekte **45.9 Milyar TL net kâr** — tüm FY2025'ten (%34.8 Milyar TL, güncel satın alma gücü) **%32 fazla**. H1 net kâr 49.8 Milyar TL (+%319.9 reel), EBIT +%225, FAVÖK +%119.7, 2Ç brüt marj **%15.80** (2Ç2025: %9.73).
+    *   **Kritik katalizör:** Şirket **net rafineri marjı öngörüsünü Şubat'taki 6-7 $/varil'den 13-15 $/varil'e çıkardı** — resmî revizyon, Temmuz verisi elde varken yapıldı.
+    *   **Mekanizma:** İsrail–İran–ABD ekseni + Hürmüz Boğazı kesintileri + Rusya rafinerilerine saldırılar → ürün marjları patladı. Brent 2Ç'de 144.4 $'dan 71.5 $'a **düştü** — rafineri için ideal kombinasyon (ucuz hammadde + sıkı ürün piyasası).
+    *   **Değerleme çöktü (olumlu yönde):** Mayıs'ta 271 TL'de F/K **17.7x** idi → bugün 290.25 TL'de **7.69x** (TTM), **6.09x** (FY26E). EV/FAVÖK 5.42x → **3.12x**. PD/DD 1.475x → **1.226x**. Net nakit **130.7 Milyar TL = 67.84 TL/hisse = piyasa değerinin %23.4'ü**. **Fiyat %7 arttı, çarpan yarıya indi — çünkü kazanç üçe katlandı.**
+    *   **✅ Koç lock-up riski kapandı:** 40M TL nominal satış 31.03.2026'da tamamlandı (Koç Holding %6.35 → **%4.27**, halka açıklık **%48.85**). 90 günlük yasak ~29 Haziran'da sessizce sona erdi; yeni satış **yok**. Hisse 24 Haziran'da 216.80 TL dibini gördükten sonra 23 Temmuz'da 314.50 TL'ye çıktı (+%45).
+    *   **⚠️ Kâr kalitesi uyarısı (§1.3 uyarınca):** CFO 132.4 Milyar TL görünüyor ama **%64'ü ticari borç artışından** (+85.1 Milyar TL) geliyor ve **türevlerden net 47.3 Milyar TL nakit çıkışı finansman bölümünde sınıflandırılarak CFO'yu şişiriyor**. Düzeltilmiş işletme nakit akışı ~85 Milyar TL, FCF ~71.5 Milyar TL (FCF verimi %12.8) — yine de çok güçlü.
+    *   **🔴 Tezin sınırı — döngüsel tuzak:** Bu bir **savaş marjıdır**; Haziran'da ABD-İran MoU imzalandı. Marj 6-7 $/varil'e dönerse 2027 F/K'sı **18.6x**'e çıkar. Rafineride en düşük F/K döngü zirvesinde görülür. **3Ç mar­jının yalnızca ~%2'si hedge'li** (1.080 bin varil crack sabitlemesi).
+    *   **🚀 Asıl katalizör temettü:** FY2026 baz senaryo net kâr ~92 Milyar TL; %65 dağıtımla **~31 TL/hisse brüt = %10.7 verim** (2027 Mart). FY2025'te dağıtım oranı %112 idi.
+    *   **⚠️ Zamanlama:** Rapor **04.08.2026 saat 18:24'te, seans kapandıktan sonra** yayınlandı — bugünkü 290.25 TL kapanışı bunu **fiyatlamıyor**. İlk tepki seansı 05 Ağustos. **Gap-up'ı kovalama.**
+    *   **Karar: 🟢 GÜÇLÜ TUT / GERİ ÇEKİLMEDE EKLE.** 12 aylık hedef **330-370 TL**. İzlenecek tek sayı: 3Ç2026'da (≈Kasım) marj öngörüsünün 13-15 $/varil bandında korunması.
+
+*   **📌 YENİ İLKE — DEĞERLEME ESKİMESİ:** Mayıs'ta TUPRS'a verilen 🟡 kararı *"F/K 17.7x, pahalı"* gerekçesine dayanıyordu; ancak bu çarpan **beş ay eski FY2025 EPS'i** üzerinden hesaplanmıştı. Yeni çeyrek geldiğinde çarpan yarıya indi. **Bundan böyle "pahalı/ucuz" hükmü verilirken kullanılan EPS'in kaç ay eski olduğu açıkça yazılacak; ara dönem raporu yaklaşan hisselerde eski EPS üzerinden kalıcı karar verilmeyecek.**
 *   **🔴 ANA BULGU — BANKACILIK TEZİNİN DAYANAĞI ORTADAN KALKTI:** Q1 2026'da tüm banka analizlerinin merkezinde *"TCMB faiz indirim döngüsü net faiz marjını genişletiyor"* varsayımı vardı. **Q2'de bunun tam tersi oldu.** YKBNK CEO'sunun ara dönem faaliyet raporundaki ifadesiyle: *"Politika faizini %37 seviyesinde sabit tutan Merkez Bankası, piyasayı faiz koridorunun üst sınırı olan %40'tan fonlayarak likidite kanalıyla **300 baz puanlık son derece etkili bir fiili sıkılaştırmaya** gitmiştir."*
     *   **Sonuç:** Mevduat maliyeti yüksek kaldı, kredi getirisi tavanlarla sınırlandı → makas kapandı → banka kârlılığı çeyreklik bazda çöktü.
     *   **⚠️ Bu risk zaten kayıtlıydı:** BRISA notu (5 Mayıs 2026) *"TCMB faiz indirimlerine ara verecek, ana katalizör ertelendi"* demişti. **Aynı makro faktör bankalar için de bağlayıcıydı ama Q1 banka analizlerinde bu bağlantı kurulmamıştı. Bundan böyle makro tespitler tüm faiz-duyarlı pozisyonlara yatay olarak uygulanacak.**
@@ -61,7 +84,7 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **⚠️ MANŞET vs ÇEYREK İLKESİ (YENİ — bkz. 1.3 uzantısı):** H1/9A gibi **kümülatif** raporlarda manşet büyüme, güçlü bir önceki çeyrekten geliyor olabilir. **Bundan böyle tüm ara dönem analizlerinde çeyreklik (QoQ) ayrıştırma zorunludur:** kümülatif rakamdan bir önceki dönem çıkarılarak tek çeyrek performansı hesaplanacak. YKBNK örneğinde manşet +%36.3 iken tek çeyrek -%47.2 idi.
 *   **SEKTÖREL TEYİT:** Düşüş şirkete özgü değil — XBANK 1 ayda **-%15.2** (YKBNK -%16.3, AKBNK -%15.1, ISCTR -%14.5, GARAN -%9.0). **AKBNK 28 Temmuz'da beklentilerini resmen revize edip net kredi maliyeti hedefini ~200 bp'ye yükseltti** → sektörde aktif kalitesi bozulması kabul ediliyor. YKBNK'nın 150-175 bandını koruması **Q3'te revizyon riski** taşıyor.
 *   **PORTFÖY ETKİSİ (§1.1 Sektörel Yoğunlaşma):** Finans sektörü yoğunlaşması (YKBNK + AGESA) şu an **aktif risk**. YKBNK'da ekleme durduruldu; yeni finans pozisyonu açılmayacak. **TCMB PPK toplantıları bu tezin tek katalizörü — aylık izlenecek.**
-*   **İZLENECEK:** ① TCMB PPK (aylık) ② YKBNK Q3 raporu (~Kasım 2026) — Q2 dip miydi, trend mi? ③ AKBNK/ANHYT Q2 analizleri (bekliyor) ④ Aylık TÜFE ⑤ BDDK aylık sektör TGA/marj verileri
+*   **İZLENECEK:** ① TCMB PPK (aylık) ② YKBNK Q3 raporu (~Kasım 2026) — Q2 dip miydi, trend mi? ③ AKBNK/ANHYT Q2 analizleri (bekliyor) ④ Aylık TÜFE ⑤ BDDK aylık sektör TGA/marj verileri ⑥ **ASELS Q3 (~Kasım): FCF negatifliği daralıyor mu, net borç 33.8B TL'nin üzerine çıkıyor mu, ihracat payı %20+'ye gidiyor mu, bakiye sipariş 20.4B USD'yi aşıyor mu** ⑦ TUPRS 3Ç'de rafineri marj öngörüsü (13-15 $/varil) korunuyor mu
 
 ### 2.1. Q1 2026 Analiz İterasyonu (1 Mayıs 2026)
 
@@ -124,11 +147,18 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **ALIM SEVİYELERİ:** 🟡 Mevcut (51-52 TL) yeni alım yapma | 🟢 46-48 TL → MA50 geri çekilmesi, güçlendir | 🟢🟢 43-44 TL → Agresif ekle | 🛑 39 TL altı → Tezi sorgula
 *   **52H:** 31.94 – 52.55 TL | Detay: `hisse-analiz/SISE.md`
 
-#### ASELS (Aselsan)
-*   **HÜKÜM:** 🟡 TUT / FIRSATLARDA EKLE (@ 338.75 TL — 06.03.2026)
-*   **GEREKÇE (FY2025 Tam Yıl):** Hasılat +%14.7 → 180.4B TL; EBIT +%37.4 → 49.1B TL; FAVÖK marjı %26.2 (hedef aşıldı); Net Kâr +%50.2 → 29.9B TL; Bakiye Sipariş rekor **20.4 Milyar USD**; İşletme Nakit Akışı +%74.4. 1.5B USD Oğulbey yatırımı devam ediyor. F/K (EAK) ~31x — premium fiyatlama, savunma sektörü büyümesiyle destekleniyor. Mevcut seviyede yeni alım cazip değil; 52H zirvesine yakın. Detay: `hisse-analiz/ASELS.md`
-*   **52H:** 105.70 – 350.00 TL
-*   **ALIM SEVİYELERİ:** 🟡 305-315 TL → Küçük lot ekle | 🟢 275-295 TL → Ağırlıklı alım | 🟢🟢 <265 TL → Agresif ekle
+#### ASELS (Aselsan) — Q2 2026 İncelendi (04.08.2026)
+*   **HÜKÜM:** 🟡 **TUT — İLK KADEME EKLEME BÖLGESİ AKTİF** (@ 349.25 TL — 04.08.2026) ⬆️ *("TUT / yeni alım yok"tan revize)*
+*   **GEREKÇE (Q2/H1 2026):** **Manşet ile çeyrek aynı yönde** (§Manşet vs Çeyrek İlkesi): H1 hasılat +%24.7 → 88.5B TL, ama **Q2 tek başına +%32.6 yıllık / +%41.1 çeyreklik** — ivme Q1'den değil, Q2'den geliyor. **İhracat patladı: H1 +%90.6, Q2 tek çeyrek +%152.6**; ihracat/hasılat %11.2 → **%17.2** (Q2: %19.7). Çekirdek EBIT +%27.5 (marj %20.9 → %21.4). Düzeltilmiş FAVÖK marjı **%26.3** (hedef >%24 ✅), gelir artışı hedefi >%10 → **%24.7** ✅. ROE %13.7 → **%15.5**.
+*   **✅ KÂR KALİTESİ KÖKLÜ İYİLEŞTİ (§1.3):** H1 2025'te şirket **vergi öncesi 3.15B TL ZARAR** yazmış, net kârın tamamı 11.62B TL ertelenmiş vergi gelirinden gelmişti (**kâr %137 vergi kaynaklı**). H1 2026'da vergi öncesi kâr **12.65B TL gerçek**, vergi katkısı %12.5. **Q2'de 1.86B TL net vergi GİDERİ ödemesine rağmen 8.51B TL kâr açıklandı.** Parasal kayıp -%65.4 (dezenflasyon: Q1 endeks +%10.0 → Q2 +%7.0).
+*   **🔴 YENİ RİSK — BORÇ VE SERBEST NAKİT AKIŞI:** Finansal borç **50.7B → 73.3B TL (+%44.6)**, net borç **16.5B → 33.8B TL (ikiye katlandı)**. **H1 serbest nakit akışı -18.3B TL** (işletme 15.2B − yatırım 33.5B); 48.6B TL yeni borçlanmayla kapatıldı. Borcun **%88.3'ü kısa vadeli**, vadeler Ağu.2026–Tem.2027'de yoğun. Finansman giderindeki -%36'lık manşet iyileşme **tamamen kur farkından**; **gerçek faiz gideri +%97** (1.96B → 3.85B TL). Net işletme sermayesi/satış %27.0 → **%34.7**; stoklar +%22.8. *Bilinçli yatırım döngüsü (Oğulbey 1.5B USD, 2026 capex hedefi >50B TL, H1'de 33.7B TL) — ama artık izlenmesi zorunlu bir kalem.*
+*   **DEĞERLEME (349.25 TL, EPS yaşı 0 gün):** Fiyat -%15.7 gerilerken kazanç +%70.7 arttı → çarpanlar iki yönlü daraldı. **PD/DD 6.73x → 5.19x**, **F/K (Esas Faaliyet Kârı, LTM) 38.5x → 27.8x**, F/K (net, LTM) **38.6x**, EV/FAVÖK 26.9x. ⚠️ **Mevsimsellik düzeltmesi:** FY2025 net kârının **%76'sı H2'de** oluştu → Nisan'daki "Q1×4 = ~55x EBIT F/K" hesabı hatalıydı; doğru metrik LTM'dir. **Yine de portföyün en pahalı ismi** (kıyas: TUPRS 7.69x, THYAO ~3.7x).
+*   **BİLANÇO SONRASI:** Yeni imzalanan sözleşmeler **1.915 Milyon USD** (FY2025 sonrasındaki 521M USD'nin 3.7 katı) ✅. Ulak Haberleşme payı %51 → **%61**. Temettü +%82 artırıldı (brüt 1.95B TL, 24 Kasım 2026) ama verim yalnızca **%0.12**. ⚠️ Bakiye sipariş ara dönemde açıklanmıyor — en güncel veri 8 ay eski (20.4B USD).
+*   **NEDEN 🟢 DEĞİL 🟡:** (1) F/K 38.6x hâlâ portföyün en yükseği, (2) FCF negatif ve borç hızlı artıyor, (3) fiyat MA20/MA50/MA100 altında — trend dönmedi. Ama Nisan'da yazılan **345-370 TL "kademeli ekle"** bandına girildi ve tez bozulmadı, güçlendi → plana sadık kalınıyor.
+*   ⚠️ **Rapor 04.08.2026 saat 18:39'da, seans kapandıktan sonra yayınlandı** — 349.25 TL kapanışı bunu fiyatlamıyor. İlk tepki seansı 5 Ağustos. **Gap-up'ı kovalama.**
+*   **52H:** 170.00 – 434.00 TL (kapanış bazlı) | **MA200:** 311.62 TL | **Defter Değeri/Hisse:** 67.27 TL
+*   **ALIM SEVİYELERİ:** 🔴 >400 TL → alım yok | 🟡 365-385 TL → bekle | 🟡 **349 TL (şu an) → ilk kademe küçük lot** | 🟢 **320-340 TL → ana ekleme bölgesi** | 🟢🟢 300-312 TL (MA200) → ağırlıklı alım | 🛑 <285 TL → MA200 kırılması, borç/makro yeniden değerlendir
+*   Detay: `hisse-analiz/ASELS.md`
 
 #### THYAO (Türk Hava Yolları)
 *   **HÜKÜM:** 🟡 TUT — OPERASYONEL İYİLEŞME VAR, ANCAK NET KÂR KALİTESİ SINIRLI (@ 314.5 TL — 01.05.2026)
@@ -161,10 +191,12 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   Detay: `hisse-analiz/SAHOL.md`
 
 #### TUPRS
-*   **HÜKÜM:** 🟢 GÜÇLÜ TUT / AŞAMALI EKLE (@ 241.90 TL — 08.04.2026)
-*   **GEREKÇE (FY2025 + Koç Satış + Teknik):** Fundamentaller sağlam: EPS 15.32 TL, Net Nakit +57B TL, EV/FAVÖK 4.35x, 2. temettü taksiti ~6.75 TL brüt Eylül 2026'da geliyor. 1. temettü (~10.38 TL brüt) Mart sonunda ödendi. Koç Holding 90 gün lock-up altında (Haziran 2026'ya kadar yeni satış yok). **Bugün tek günde 260 TL → 241.90 TL (-%6.9) sert düşüş yaşandı — MA50 (238.82 TL) tam destek noktasında.** MA50 tutarsa toparlar; kırılırsa 228-235 TL bandı açılır. Temettü düzeltmesi sonrası gerçek maliyet bazı ~231.52 TL civarında.
-*   **ALIM SEVİYELERİ:** 🟡 238-242 TL (MA50 tutarsa) → Küçük başlangıç | 🟡 228-235 TL → Kademeli alım | 🟢 220-228 TL → Ağırlıklı ekle | 🟢🟢 <215 TL → Agresif ekle | 🛑 Sat yok — fundamentaller bozulmadı
-*   **52H:** 117.60 – 264.75 TL | Detay: `hisse-analiz/TUPRS.md`
+*   **HÜKÜM:** 🟢 GÜÇLÜ TUT / GERİ ÇEKİLMEDE EKLE (@ 290.25 TL — 04.08.2026)
+*   **GEREKÇE (2Ç/1Y2026 — kazanç patlaması):** 2Ç tek çeyrekte **45.9 Milyar TL net kâr** (tüm FY2025'ten %32 fazla). 1Y net kâr 49.8 Milyar TL (+%319.9 reel), EBIT +%225, FAVÖK 73.3 Milyar TL (+%119.7), 2Ç brüt marj %15.80. **Şirket net rafineri marjı öngörüsünü 6-7 → 13-15 $/varil'e çıkardı.** Kapasite kullanımı %95.1 (rekor), beyaz ürün verimi %83.0, jet üretimi +%14. **Değerleme:** F/K **7.69x** TTM / **6.09x** FY26E (Mayıs'ta 17.7x idi), EV/FAVÖK **3.12x**, PD/DD **1.226x**, net nakit **130.7 Milyar TL = 67.84 TL/hisse (PD'nin %23.4'ü)**, DD/hisse 236.73 TL. **Koç lock-up riski gerçekleşmeden kapandı** (halka açıklık %48.85, kontrol %51.15). **FY2026 temettü projeksiyonu ~31 TL/hisse brüt = %10.7 verim.** ⚠️ **Karşı taraf:** Bu bir savaş marjıdır (Hürmüz + Rusya rafinerileri); Haziran'da ateşkes imzalandı. Marj 6-7 $/v'e dönerse 2027 F/K'sı 18.6x. CFO'nun %64'ü ticari borç artışından, türev nakit çıkışı (-47.3 Milyar TL) finansmanda gizli. 3Ç marjının yalnızca ~%2'si hedge'li.
+*   **⚠️ ZAMANLAMA:** Rapor 04.08.2026 **18:24'te seans sonrası** çıktı — 290.25 TL kapanışı bunu fiyatlamıyor. İlk tepki seansı 05 Ağustos; **gap-up'ı kovalama, kapanışı bekle.**
+*   **ALIM SEVİYELERİ:** 🟡 285-295 TL → Küçük lot (%10-15) | 🟢 270-285 TL (MA20 285.47) → Ekle | 🟢🟢 250-265 TL (MA50 253.39) → Ağırlıklı ekle | 🟢🟢🟢 <240 TL → Agresif ekle | 🎯 340-370 TL → Kısmi realizasyon (%20-25) | 🛑 MA50 altına haftalık kapanış **+** marj öngörüsünde aşağı revizyon (ikisi birlikte) → çık
+*   **HEDEF:** 12 aylık **330-370 TL** (+%14 / +%27) — marj öngörüsü korunursa
+*   **52H:** 159.20 – 320.25 TL | Detay: `hisse-analiz/TUPRS.md`
 
 #### AGESA (AgeSA Hayat ve Emeklilik)
 *   **HÜKÜM:** 🟢 TUT / GERİ ÇEKİLMEDE EKLE (@ 229 TL — 01.05.2026)
@@ -248,7 +280,7 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 *   **HÜKÜM:** ALINDI (625 Lot) / SPEKÜLATİF
 *   **GEREKÇE:** Şirketin temel verileri (negatif nakit akışı, operasyonel zarar, imtiyazlı paylar) strateji kriterlerini karşılamasa da; **GİB (Gelir İdaresi Başkanlığı) ihalesinin kazanılması beklentisi** nedeniyle kısa vadeli/spekülatif bir pozisyon açılmıştır. Hedef, ihalenin katalizör etkisiyle oluşabilecek x2 getiri potansiyelidir. İhale süreci yakından takip edilecektir.
 
-## 4. Alım Seviyeleri — Hızlı Başvuru (09.05.2026)
+## 4. Alım Seviyeleri — Hızlı Başvuru (04.08.2026)
 
 > Yalnızca portföydeki hisseler. Seviyeler güncel MA20/MA50/MA200 verilerine göre hesaplandı.
 
@@ -258,7 +290,7 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 |---|---|---|---|---|---|---|---|---|
 | **TCELL** | 120.00 | 115.85 | 112.08 | 103.41 | 112-116 TL (MA50-MA20) | 103-108 TL (MA200) | <100 TL | 87-130 TL |
 | **SISE** | 51.80 | 47.77 | 45.41 | 40.77 | 46-48 TL (MA20) | 43-46 TL (MA50) | 39-41 TL (MA200) | 32-53 TL |
-| **TUPRS** | 258.50 | 264.21 | 254.08 | 208.09 | 250-258 TL (MA50) | 238-250 TL | <230 TL | 123-280 TL |
+| **TUPRS** | 290.25 | 285.47 | 253.39 | 231.08 | 270-285 TL (MA20) | 250-265 TL (MA50) | <240 TL | 159-320 TL |
 | **AGESA** | 248.00 | 237.35 | 228.03 | 208.13 | 232-240 TL (MA20) | 222-230 TL (MA50) | <215 TL | 133-256 TL |
 
 ### 🟡 TUT + Geri Çekilmede Ekle
@@ -267,7 +299,7 @@ Temel finansal analizlere ek olarak, bir şirketin uzun vadeli sürdürülebilir
 |---|---|---|---|---|---|---|---|---|
 | **YKBNK** | 34.00 | 34.16 | 36.24 | 36.40 | ⛔ **Ekleme yok** (PD/DD 1.00x) | 27-29 TL (0.80-0.85x defter) | ⚠️ Q2 zayıf; TCMB indirimi şart | 27-45 TL |
 | **SAHOL** | 100.00 | 99.10 | 95.69 | 91.46 | 95-99 TL (MA20-MA50) | 90-95 TL (MA200) | 115 TL kâr al | 74-115 TL |
-| **ASELS** | 428.50 | 413.09 | 364.92 | 256.56 | 400-415 TL (MA20) | 355-370 TL (MA50) | Zirvede yeni alım yok | 127-450 TL |
+| **ASELS** | 349.25 | 361.62 | 372.64 | 311.62 | ✅ **349 TL → ilk kademe küçük lot** | 320-340 TL (MA200'e yaklaşım) | ⚠️ FCF -18.3B TL, net borç x2 | 170-434 TL |
 | **THYAO** | 311.00 | 317.34 | 303.46 | 301.61 | 295-307 TL (MA50-MA200) | 275-290 TL | ⚠️ Q2 teyidi şart | 249-353 TL |
 | **ORGE** | 86.50 | 81.13 | 74.20 | 72.06 | 78-83 TL (MA20) | 72-76 TL (MA50-MA200) | Güçlü trend | 64-110 TL |
 | **ECILC** | 91.05 | 91.76 | 104.38 | 91.08 | 85-92 TL (MA200 desteği) | 78-85 TL | MA50 direnç 104 TL | 40-133 TL |
